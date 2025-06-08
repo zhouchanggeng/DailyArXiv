@@ -1,7 +1,7 @@
 '''
 Author: zhouchanggeng
 Date: 2025-06-08 09:32:13
-LastEditTime: 2025-06-08 09:37:08
+LastEditTime: 2025-06-08 22:19:05
 LastEditors: zhouchanggeng
 Description: 
 FilePath: \DailyArXiv\main.py
@@ -32,7 +32,7 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 # keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # TODO add more keywords
-keywords = ["Clip"]
+keywords = ["Clip", "Open-Vocabulary Object Detection"]
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue

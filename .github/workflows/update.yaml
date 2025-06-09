@@ -39,7 +39,7 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
+        name: Zhouchanggeng
         email: 864453277@qq.com
 
     - name: Create an issue to notify

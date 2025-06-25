@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2025
+title: Latest 15 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Clip
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP](http://arxiv.org/abs/2506.19608v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accept by ECML-PKDD 2025</p></details> |
+| **[FineCLIPER: Multi-modal Fine-grained CLIP for Dynamic Facial Expression Recognition with AdaptERs](http://arxiv.org/abs/2407.02157v3)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2024</p></details> |
 | **[CLIP-GS: CLIP-Informed Gaussian Splatting for View-Consistent 3D Indoor Semantic Understanding](http://arxiv.org/abs/2404.14249v2)** | 2025-06-23 | ACM TOMM 2025 |
 | **[Human Action CLIPs: Detecting AI-generated Human Motion](http://arxiv.org/abs/2412.00526v2)** | 2025-06-22 |  |
 | **[BPCLIP: A Bottom-up Image Quality Assessment from Distortion to Semantics Based on CLIP](http://arxiv.org/abs/2506.17969v1)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted to ICME 2025</p></details> |
@@ -20,69 +22,71 @@ labels: documentation
 | **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v1)** | 2025-06-13 |  |
 | **[ContextRefine-CLIP for EPIC-KITCHENS-100 Multi-Instance Retrieval Challenge 2025](http://arxiv.org/abs/2506.10550v1)** | 2025-06-12 |  |
 | **[AniMaker: Automated Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](http://arxiv.org/abs/2506.10540v1)** | 2025-06-12 |  |
-| **[Harmonizing and Merging Source Models for CLIP-based Domain Generalization](http://arxiv.org/abs/2506.09446v1)** | 2025-06-11 |  |
-| **[Experimental Evaluation of Static Image Sub-Region-Based Search Models Using CLIP](http://arxiv.org/abs/2506.06938v1)** | 2025-06-07 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 2 tables</p></details> |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs](http://arxiv.org/abs/2506.18896v1)** | 2025-06-23 | <details><summary>Codes...</summary><p>Codes and Models: https://github.com/Gen-Verse/ReasonFlux</p></details> |
-| **[Offline Goal-Conditioned Reinforcement Learning with Projective Quasimetric Planning](http://arxiv.org/abs/2506.18847v1)** | 2025-06-23 |  |
-| **[LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning](http://arxiv.org/abs/2506.18841v1)** | 2025-06-23 |  |
-| **[Maximizing Confidence Alone Improves Reasoning](http://arxiv.org/abs/2505.22660v3)** | 2025-06-23 | <details><summary>Websi...</summary><p>Website: https://rent-rl.github.io/</p></details> |
-| **[MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation](http://arxiv.org/abs/2506.18679v1)** | 2025-06-23 |  |
-| **[Harnessing the Power of Reinforcement Learning for Language-Model-Based Information Retriever via Query-Document Co-Augmentation](http://arxiv.org/abs/2506.18670v1)** | 2025-06-23 |  |
-| **[RL-Driven Semantic Compression Model Selection and Resource Allocation in Semantic Communication Systems](http://arxiv.org/abs/2506.18660v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted by PIMRC 2025</p></details> |
-| **[Dual-level Behavioral Consistency for Inter-group and Intra-group Coordination in Multi-Agent Systems](http://arxiv.org/abs/2506.18651v1)** | 2025-06-23 |  |
-| **[Kimi-VL Technical Report](http://arxiv.org/abs/2504.07491v3)** | 2025-06-23 | <details><summary>Updat...</summary><p>Updated Kimi-VL-A3B-Thinking-2506 information</p></details> |
-| **[Multi-Agent Reinforcement Learning for Inverse Design in Photonic Integrated Circuits](http://arxiv.org/abs/2506.18627v1)** | 2025-06-23 |  |
-| **[Policy gradient methods for ordinal policies](http://arxiv.org/abs/2506.18614v1)** | 2025-06-23 | <details><summary>in Fr...</summary><p>in French language, Journ{\'e}es de statistiques 2025, Soci{\'e}t{\'e} Fran\c{c}aise des Statistiques, Jun 2023, Marseille, France</p></details> |
-| **[VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning](http://arxiv.org/abs/2506.18564v1)** | 2025-06-23 | Technical Report |
-| **[Efficient Beam Selection for ISAC in Cell-Free Massive MIMO via Digital Twin-Assisted Deep Reinforcement Learning](http://arxiv.org/abs/2506.18560v1)** | 2025-06-23 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Wireless Communications</p></details> |
-| **[Security Assessment of DeepSeek and GPT Series Models against Jailbreak Attacks](http://arxiv.org/abs/2506.18543v1)** | 2025-06-23 |  |
-| **[Transformer World Model for Sample Efficient Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2506.18537v1)** | 2025-06-23 |  |
+| **[JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning](http://arxiv.org/abs/2506.19846v1)** | 2025-06-24 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, under review</p></details> |
+| **[Temporal-IRL: Modeling Port Congestion and Berth Scheduling with Inverse Reinforcement Learning](http://arxiv.org/abs/2506.19843v1)** | 2025-06-24 | TRB2025 |
+| **[Persona Features Control Emergent Misalignment](http://arxiv.org/abs/2506.19823v1)** | 2025-06-24 |  |
+| **[Model-Based Exploration in Monitored Markov Decision Processes](http://arxiv.org/abs/2502.16772v5)** | 2025-06-24 |  |
+| **[KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality](http://arxiv.org/abs/2506.19807v1)** | 2025-06-24 | Work in progress |
+| **[Learning Task Belief Similarity with Latent Dynamics for Meta-Reinforcement Learning](http://arxiv.org/abs/2506.19785v1)** | 2025-06-24 | <details><summary>ICLR2...</summary><p>ICLR2025 https://openreview.net/forum?id=5YbuOTUFQ4</p></details> |
+| **[SAGE: Strategy-Adaptive Generation Engine for Query Rewriting](http://arxiv.org/abs/2506.19783v1)** | 2025-06-24 |  |
+| **[Multi-Preference Lambda-weighted Listwise DPO for Dynamic Preference Alignment](http://arxiv.org/abs/2506.19780v1)** | 2025-06-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, appendix included. To appear in Proceedings of AAAI 2026. Code: https://github.com/yuhui15/Multi-Preference-Lambda-weighted-DPO</p></details> |
+| **[Energy-Efficient Motion Planner for Legged Robots](http://arxiv.org/abs/2503.06050v2)** | 2025-06-24 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). 8 pages, 8 figures</p></details> |
+| **[SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning](http://arxiv.org/abs/2506.19767v1)** | 2025-06-24 |  |
+| **[Local Look-Ahead Guidance via Verifier-in-the-Loop for Automated Theorem Proving](http://arxiv.org/abs/2503.09730v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at the Findings of ACL 2025, Accepted at ICLR 2025 Workshop on Reasoning and Planning for Large Language Models</p></details> |
+| **[Learning-aided Bigraph Matching Approach to Multi-Crew Restoration of Damaged Power Networks Coupled with Road Transportation Networks](http://arxiv.org/abs/2506.19703v1)** | 2025-06-24 | IDETC 2025 |
+| **[From memories to maps: Mechanisms of in context reinforcement learning in transformers](http://arxiv.org/abs/2506.19686v1)** | 2025-06-24 |  |
+| **[Tailored Conversations beyond LLMs: A RL-Based Dialogue Manager](http://arxiv.org/abs/2506.19652v1)** | 2025-06-24 |  |
+| **[Unsupervised Data Generation for Offline Reinforcement Learning: A Perspective from Model](http://arxiv.org/abs/2506.19643v1)** | 2025-06-24 |  |
 
 ## Image Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Convergence of Mean Shift Algorithms for Large Bandwidths and Simultaneous Accurate Clustering](http://arxiv.org/abs/2506.19837v1)** | 2025-06-24 |  |
+| **[SAM2-SGP: Enhancing SAM2 for Medical Image Segmentation via Support-Set Guided Prompting](http://arxiv.org/abs/2506.19658v1)** | 2025-06-24 |  |
+| **[HOIverse: A Synthetic Scene Graph Dataset With Human Object Interactions](http://arxiv.org/abs/2506.19639v1)** | 2025-06-24 |  |
+| **[Image Segmentation using Chan-Vese Active Contours](http://arxiv.org/abs/2506.19344v1)** | 2025-06-24 |  |
+| **[VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with AtrousLoRA](http://arxiv.org/abs/2502.18185v4)** | 2025-06-24 | Work in progress |
+| **[FusionSAM: Visual Multi-Modal Learning with Segment Anything](http://arxiv.org/abs/2408.13980v2)** | 2025-06-24 |  |
 | **[Improved Baselines with Synchronized Encoding for Universal Medical Image Segmentation](http://arxiv.org/abs/2408.09886v4)** | 2025-06-23 |  |
 | **[TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration](http://arxiv.org/abs/2506.16784v2)** | 2025-06-23 |  |
 | **[MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation](http://arxiv.org/abs/2506.18679v1)** | 2025-06-23 |  |
 | **[MedSeg-R: Medical Image Segmentation with Clinical Reasoning](http://arxiv.org/abs/2506.18669v1)** | 2025-06-23 |  |
 | **[Rethinking Decoder Design: Improving Biomarker Segmentation Using Depth-to-Space Restoration and Residual Linear Attention](http://arxiv.org/abs/2506.18335v1)** | 2025-06-23 | <details><summary>Proce...</summary><p>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR), 2025, pp. 30861-30871</p></details> |
+| **[DiffRIS: Enhancing Referring Remote Sensing Image Segmentation with Pre-trained Text-to-Image Diffusion Models](http://arxiv.org/abs/2506.18946v1)** | 2025-06-23 |  |
 | **[CmFNet: Cross-modal Fusion Network for Weakly-supervised Segmentation of Medical Images](http://arxiv.org/abs/2506.18042v1)** | 2025-06-22 | 10 pages, 6 figures |
 | **[Pre-Trained LLM is a Semantic-Aware and Generalizable Segmentation Booster](http://arxiv.org/abs/2506.18034v1)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025. Code: https://github.com/FengheTan9/LLM4Seg</p></details> |
 | **[LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images](http://arxiv.org/abs/2506.17983v1)** | 2025-06-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
-| **[Mobile Image Analysis Application for Mantoux Skin Test](http://arxiv.org/abs/2506.17954v1)** | 2025-06-22 |  |
-| **[Time-Contrastive Pretraining for In-Context Image and Video Segmentation](http://arxiv.org/abs/2506.17837v1)** | 2025-06-21 |  |
-| **[3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene](http://arxiv.org/abs/2506.17636v1)** | 2025-06-21 | IROS 2025 |
-| **[Semi-Supervised Multi-Modal Medical Image Segmentation for Complex Situations](http://arxiv.org/abs/2506.17136v1)** | 2025-06-20 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, accepted at MICCAI 2025</p></details> |
-| **[SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts](http://arxiv.org/abs/2506.15153v2)** | 2025-06-20 | <details><summary>MICCA...</summary><p>MICCAI 2025 Early Accept. Project Page: https://liu-yufei.github.io/synpo-project-page/</p></details> |
-| **[Enhancing Weakly Supervised 3D Medical Image Segmentation through Probabilistic-aware Learning](http://arxiv.org/abs/2403.02566v2)** | 2025-06-20 |  |
-| **[Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention](http://arxiv.org/abs/2506.15562v1)** | 2025-06-18 | 16 pages, 5 figures |
 
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects](http://arxiv.org/abs/2506.19769v1)** | 2025-06-24 |  |
+| **[Semantic Scene Graph for Ultrasound Image Explanation and Scanning Guidance](http://arxiv.org/abs/2506.19683v1)** | 2025-06-24 |  |
+| **[Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment](http://arxiv.org/abs/2506.19620v1)** | 2025-06-24 |  |
+| **[Unfolding the Past: A Comprehensive Deep Learning Approach to Analyzing Incunabula Pages](http://arxiv.org/abs/2506.18069v2)** | 2025-06-24 | <details><summary>10 pa...</summary><p>10 pages, 8 figures; submitted to TPDL 2025; change in v2: updated e-mail address</p></details> |
+| **[USIS16K: High-Quality Dataset for Underwater Salient Instance Segmentation](http://arxiv.org/abs/2506.19472v1)** | 2025-06-24 | 8 pages 10 figures |
+| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v2)** | 2025-06-24 |  |
+| **[Align and Distill: Unifying and Improving Domain Adaptive Object Detection](http://arxiv.org/abs/2403.12029v4)** | 2025-06-23 | <details><summary>TMLR ...</summary><p>TMLR camera ready (Featured Certification). 33 pages, 15 figures</p></details> |
 | **[LED: LLM Enhanced Open-Vocabulary Object Detection without Human Curated Data Generation](http://arxiv.org/abs/2503.13794v4)** | 2025-06-23 |  |
 | **[SpaNN: Detecting Multiple Adversarial Patches on CNNs by Spanning Saliency Thresholds](http://arxiv.org/abs/2506.18591v1)** | 2025-06-23 | <details><summary>2025 ...</summary><p>2025 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML2025)</p></details> |
 | **[Shaken, Not Stirred: A Novel Dataset for Visual Understanding of Glasses in Human-Robot Bartending Tasks](http://arxiv.org/abs/2503.04308v2)** | 2025-06-23 | <details><summary>Submi...</summary><p>Submitted and Accepted for Presentation at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
 | **[Improvement on LiDAR-Camera Calibration Using Square Targets](http://arxiv.org/abs/2506.18294v1)** | 2025-06-23 |  |
 | **[Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle](http://arxiv.org/abs/2506.18264v1)** | 2025-06-23 | AIAA Aviation 2025 |
 | **[Ground tracking for improved landmine detection in a GPR system](http://arxiv.org/abs/2506.18258v1)** | 2025-06-23 |  |
-| **[Referring Expression Instance Retrieval and A Strong End-to-End Baseline](http://arxiv.org/abs/2506.18246v1)** | 2025-06-23 |  |
 | **[Structured Pneumatic Fingerpads for Actively Tunable Grip Friction](http://arxiv.org/abs/2502.00926v2)** | 2025-06-22 | <details><summary>In Pr...</summary><p>In Proceedings of the IEEE/RAS International Conference on Soft Robotics (RoboSoft'25), Lausanne, Switzerland, Apr. 22-26, 2025</p></details> |
-| **[Unfolding the Past: A Comprehensive Deep Learning Approach to Analyzing Incunabula Pages](http://arxiv.org/abs/2506.18069v1)** | 2025-06-22 | <details><summary>10 pa...</summary><p>10 pages, 8 figures; submitted to TPDL 2025</p></details> |
 | **[HGO-YOLO: Advancing Anomaly Behavior Detection with Hierarchical Features and Lightweight Optimized Detection](http://arxiv.org/abs/2503.07371v2)** | 2025-06-22 | 12 pages |
-| **[Towards Reflected Object Detection: A Benchmark](http://arxiv.org/abs/2407.05575v2)** | 2025-06-22 |  |
-| **[DART: An Automated End-to-End Object Detection Pipeline with Data Diversification, Open-Vocabulary Bounding Box Annotation, Pseudo-Label Review, and Model Training](http://arxiv.org/abs/2407.09174v4)** | 2025-06-22 | <details><summary>Corre...</summary><p>Corrected minor typos; no changes to results or conclusions</p></details> |
-| **[Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection](http://arxiv.org/abs/2411.02747v2)** | 2025-06-22 |  |
-| **[YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception](http://arxiv.org/abs/2506.17733v1)** | 2025-06-21 |  |
-| **[CSDN: A Context-Gated Self-Adaptive Detection Network for Real-Time Object Detection](http://arxiv.org/abs/2506.17679v1)** | 2025-06-21 | 15pages, 11figures |
 
 ## Object Tracking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOSE: A Novel Orchestration Framework for Stateful Microservice Migration at the Edge](http://arxiv.org/abs/2506.09159v2)** | 2025-06-24 | <details><summary>14 pa...</summary><p>14 pages, 16 figures, 4 tables. in IEEE Transactions on Network and Service Management (2025)</p></details> |
+| **[VideoPCDNet: Video Parsing and Prediction with Phase Correlation Networks](http://arxiv.org/abs/2506.19621v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted for Publication at ICANN 2025</p></details> |
+| **[Trajectory Prediction in Dynamic Object Tracking: A Critical Study](http://arxiv.org/abs/2506.19341v1)** | 2025-06-24 |  |
+| **[Lightweight RGB-T Tracking with Mobile Vision Transformers](http://arxiv.org/abs/2506.19154v1)** | 2025-06-23 |  |
 | **[USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways](http://arxiv.org/abs/2506.18737v1)** | 2025-06-23 | Accepted by IROS |
 | **[RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking](http://arxiv.org/abs/2506.17119v1)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
 | **[360VOTS: Visual Object Tracking and Segmentation in Omnidirectional Videos](http://arxiv.org/abs/2404.13953v2)** | 2025-06-20 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2307.14630</p></details> |
@@ -94,27 +98,23 @@ labels: documentation
 | **[CORT: Class-Oriented Real-time Tracking for Embedded Systems](http://arxiv.org/abs/2407.17521v2)** | 2025-06-12 |  |
 | **[SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking](http://arxiv.org/abs/2505.04088v3)** | 2025-06-11 |  |
 | **[Optimizing Cooperative Multi-Object Tracking using Graph Signal Processing](http://arxiv.org/abs/2506.09469v1)** | 2025-06-11 | <details><summary>2025 ...</summary><p>2025 IEEE International Conference on Multimedia and Expo Workshops, 3DMM - 3D Multimedia Analytics, Search and Generation</p></details> |
-| **[Neuromorphic Optical Tracking and Imaging of Randomly Moving Targets through Strongly Scattering Media](http://arxiv.org/abs/2501.03874v2)** | 2025-06-11 | 26 pages, 6 figures |
-| **[MOSE: A Novel Orchestration Framework for Stateful Microservice Migration at the Edge](http://arxiv.org/abs/2506.09159v1)** | 2025-06-10 |  |
-| **[SAM2Auto: Auto Annotation Using FLASH](http://arxiv.org/abs/2506.07850v1)** | 2025-06-09 |  |
-| **[Distributed Expectation Propagation for Multi-Object Tracking over Sensor Networks](http://arxiv.org/abs/2505.18795v2)** | 2025-06-06 |  |
 
 ## Image Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Varif.ai to Vary and Verify User-Driven Diversity in Scalable Image Generation](http://arxiv.org/abs/2506.19644v1)** | 2025-06-24 | <details><summary>DIS20...</summary><p>DIS2025, code available at github.com/mario-michelessa/varifai</p></details> |
+| **[Realistic Image-to-Image Machine Unlearning via Decoupling and Knowledge Retention](http://arxiv.org/abs/2502.04260v2)** | 2025-06-24 |  |
+| **[Privacy Attacks on Image AutoRegressive Models](http://arxiv.org/abs/2502.02514v4)** | 2025-06-24 | Accepted at ICML2025 |
+| **[Stylized Structural Patterns for Improved Neural Network Pre-training](http://arxiv.org/abs/2506.19465v1)** | 2025-06-24 |  |
+| **[DivTrackee versus DynTracker: Promoting Diversity in Anti-Facial Recognition against Dynamic FR Strategy](http://arxiv.org/abs/2501.06533v2)** | 2025-06-24 |  |
+| **[SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation](http://arxiv.org/abs/2506.19360v1)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th USENIX Security Symposium (USENIX Security '25). 21 pages, plus a 6-page appendix</p></details> |
+| **[FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](http://arxiv.org/abs/2506.15742v2)** | 2025-06-24 |  |
+| **[Style Transfer: A Decade Survey](http://arxiv.org/abs/2506.19278v1)** | 2025-06-24 | 32 pages |
+| **[Not All Thats Rare Is Lost: Causal Paths to Rare Concept Synthesis](http://arxiv.org/abs/2505.20808v2)** | 2025-06-24 |  |
+| **[Compositional Scene Understanding through Inverse Generative Modeling](http://arxiv.org/abs/2505.21780v4)** | 2025-06-23 | <details><summary>ICML ...</summary><p>ICML 2025, Webpage: https://energy-based-model.github.io/compositional-inference</p></details> |
+| **[Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation](http://arxiv.org/abs/2506.18999v1)** | 2025-06-23 |  |
 | **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v1)** | 2025-06-23 |  |
 | **[TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting](http://arxiv.org/abs/2506.18862v1)** | 2025-06-23 | <details><summary>Submi...</summary><p>Submitted to the 33rd ACM International Conference on Multimedia. Our dataset can be found at https://huggingface.co/datasets/IceInPot/TAMMs</p></details> |
 | **[Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment](http://arxiv.org/abs/2501.17690v3)** | 2025-06-23 |  |
 | **[Image Captions are Natural Prompts for Text-to-Image Models](http://arxiv.org/abs/2307.08526v2)** | 2025-06-23 | <details><summary>31 pa...</summary><p>31 pages, 2 figure, 15 tables. Codes are available at https://github.com/LeavesLei/Caption_in_Prompt</p></details> |
-| **[VisualChef: Generating Visual Aids in Cooking via Mask Inpainting](http://arxiv.org/abs/2506.18569v1)** | 2025-06-23 |  |
-| **[Auto-Regressively Generating Multi-View Consistent Images](http://arxiv.org/abs/2506.18527v1)** | 2025-06-23 |  |
-| **[Disentangling representations of retinal images with generative models](http://arxiv.org/abs/2402.19186v3)** | 2025-06-23 | <details><summary>Final...</summary><p>Final journal paper version for Medical Image Analysis (MedIA)</p></details> |
-| **[ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation](http://arxiv.org/abs/2506.18493v1)** | 2025-06-23 |  |
-| **[Geometry-Aware Preference Learning for 3D Texture Generation](http://arxiv.org/abs/2506.18331v1)** | 2025-06-23 |  |
-| **[NSFW-Classifier Guided Prompt Sanitization for Safe Text-to-Image Generation](http://arxiv.org/abs/2506.18325v1)** | 2025-06-23 |  |
-| **[LAPIG: Language Guided Projector Image Generation with Surface Adaptation and Stylization](http://arxiv.org/abs/2503.12173v2)** | 2025-06-23 | 12 pages, 9 figures |
-| **[Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models](http://arxiv.org/abs/2506.18251v1)** | 2025-06-23 | <details><summary>This ...</summary><p>This work is accepted to ICML 2025. The project page: https://github.com/deep-optimization/Morse</p></details> |
-| **[Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation](http://arxiv.org/abs/2506.18226v1)** | 2025-06-23 |  |
-| **[Cost-Aware Routing for Efficient Text-To-Image Generation](http://arxiv.org/abs/2506.14753v2)** | 2025-06-23 |  |
-| **[ShareGPT-4o-Image: Aligning Multimodal Models with GPT-4o-Level Image Generation](http://arxiv.org/abs/2506.18095v1)** | 2025-06-22 |  |
 

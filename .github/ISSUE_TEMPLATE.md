@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2025
+title: Latest 15 Papers - August 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Clip
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WP-CLIP: Leveraging CLIP to Predict Wölfflin's Principles in Visual Art](http://arxiv.org/abs/2508.12668v1)** | 2025-08-18 | <details><summary>ICCV ...</summary><p>ICCV 2025 AI4VA workshop (oral), Code: https://github.com/abhijay9/wpclip</p></details> |
+| **[Style Ambiguity Loss Using CLIP](http://arxiv.org/abs/2410.02055v3)** | 2025-08-17 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2407.12009</p></details> |
+| **[Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors](http://arxiv.org/abs/2505.20680v2)** | 2025-08-17 | Preprint |
+| **[CLAIR: CLIP-Aided Weakly Supervised Zero-Shot Cross-Domain Image Retrieval](http://arxiv.org/abs/2508.12290v1)** | 2025-08-17 | BMVC 2025 |
 | **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v2)** | 2025-08-15 | Technical Report |
 | **[A CLIP-based Uncertainty Modal Modeling (UMM) Framework for Pedestrian Re-Identification in Autonomous Driving](http://arxiv.org/abs/2508.11218v1)** | 2025-08-15 |  |
 | **[Enabling Differentially Private Federated Learning for Speech Recognition: Benchmarks, Adaptive Optimizers and Gradient Clipping](http://arxiv.org/abs/2310.00098v3)** | 2025-08-14 | Under review |
@@ -18,71 +22,46 @@ labels: documentation
 | **[Evolution of Low-Level and Texture Human-CLIP Alignment](http://arxiv.org/abs/2508.09814v1)** | 2025-08-13 |  |
 | **[Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving Clipping Policy Optimization](http://arxiv.org/abs/2508.07629v2)** | 2025-08-12 |  |
 | **[Advancing AI-Powered Medical Image Synthesis: Insights from MedVQA-GI Challenge Using CLIP, Fine-Tuned Stable Diffusion, and Dream-Booth + LoRA](http://arxiv.org/abs/2502.20667v2)** | 2025-08-10 |  |
-| **[CLIPin: A Non-contrastive Plug-in to CLIP for Multimodal Semantic Alignment](http://arxiv.org/abs/2508.06434v1)** | 2025-08-08 |  |
-| **[Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents](http://arxiv.org/abs/2508.05954v1)** | 2025-08-08 | <details><summary>Proje...</summary><p>Project Page: https://bifrost-1.github.io</p></details> |
-| **[CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection](http://arxiv.org/abs/2506.11772v2)** | 2025-08-07 |  |
-| **[CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP](http://arxiv.org/abs/2408.15098v3)** | 2025-08-06 | accepted by ICPR2024 |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Optimal CO2 storage management considering safety constraints in multi-stakeholder multi-site CCS projects: a game theoretic perspective](http://arxiv.org/abs/2508.11618v1)** | 2025-08-15 | 38 pages, 16 figures |
-| **[SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling](http://arxiv.org/abs/2508.11553v1)** | 2025-08-15 |  |
-| **[Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs](http://arxiv.org/abs/2506.10054v2)** | 2025-08-15 |  |
-| **[Reinforcing Video Reasoning Segmentation to Think Before It Segments](http://arxiv.org/abs/2508.11538v1)** | 2025-08-15 | 12 pages |
-| **[Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](http://arxiv.org/abs/2503.01307v2)** | 2025-08-15 |  |
-| **[Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media](http://arxiv.org/abs/2508.11503v1)** | 2025-08-15 | <details><summary>The s...</summary><p>The source code is available at https://github.com/AndrejOrsula/space_robotics_bench</p></details> |
-| **[D2Q Synchronizer: Distributed SDN Synchronization for Time Sensitive Applications](http://arxiv.org/abs/2508.11475v1)** | 2025-08-15 |  |
-| **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736v2)** | 2025-08-15 |  |
-| **[GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](http://arxiv.org/abs/2507.01006v5)** | 2025-08-15 |  |
-| **[Embedding Safety into RL: A New Take on Trust Region Methods](http://arxiv.org/abs/2411.02957v4)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted at ICML 2025</p></details> |
-| **[Exploring Superior Function Calls via Reinforcement Learning](http://arxiv.org/abs/2508.05118v3)** | 2025-08-15 |  |
-| **[On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised Fine-Tuning and Reinforcement Learning via Dynamic Weighting](http://arxiv.org/abs/2508.11408v1)** | 2025-08-15 |  |
-| **[Sketch Decompositions for Classical Planning via Deep Reinforcement Learning](http://arxiv.org/abs/2412.08574v2)** | 2025-08-15 |  |
-| **[Fusing Rewards and Preferences in Reinforcement Learning](http://arxiv.org/abs/2508.11363v1)** | 2025-08-15 |  |
-| **[CRAFT-GUI: Curriculum-Reinforced Agent For GUI Tasks](http://arxiv.org/abs/2508.11360v1)** | 2025-08-15 |  |
+| **[Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors](http://arxiv.org/abs/2508.13151v1)** | 2025-08-18 |  |
+| **[MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models](http://arxiv.org/abs/2508.13148v1)** | 2025-08-18 |  |
+| **[Improving Detection of Watermarked Language Models](http://arxiv.org/abs/2508.13131v1)** | 2025-08-18 |  |
+| **[CaRL: Learning Scalable Planning Policies with Simple Rewards](http://arxiv.org/abs/2504.17838v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at the Conference on Robot Learning 2025</p></details> |
+| **[Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey](http://arxiv.org/abs/2508.13073v1)** | 2025-08-18 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation</p></details> |
+| **[Reinforced Context Order Recovery for Adaptive Reasoning and Planning](http://arxiv.org/abs/2508.13070v1)** | 2025-08-18 |  |
+| **[LLMs Are In-Context Bandit Reinforcement Learners](http://arxiv.org/abs/2410.05362v3)** | 2025-08-18 | <details><summary>Publi...</summary><p>Published at COLM 2025</p></details> |
+| **[G$^2$RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance](http://arxiv.org/abs/2508.13023v1)** | 2025-08-18 |  |
+| **[An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models](http://arxiv.org/abs/2404.15518v4)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by JAIR. The abstract above is more concise than the one in the paper to meet the requirements of the arXiv website</p></details> |
+| **[Breaking Reward Collapse: Adaptive Reinforcement for Open-ended Medical Reasoning with Enhanced Semantic Discrimination](http://arxiv.org/abs/2508.12957v1)** | 2025-08-18 |  |
 
 ## Image Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Does the Skeleton-Recall Loss Really Work?](http://arxiv.org/abs/2508.11374v1)** | 2025-08-15 |  |
-| **[PRS-Med: Position Reasoning Segmentation with Vision-Language Model in Medical Imaging](http://arxiv.org/abs/2505.11872v3)** | 2025-08-15 |  |
-| **[MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation](http://arxiv.org/abs/2508.11032v1)** | 2025-08-14 |  |
-| **[Deep Learning-Based Automated Segmentation of Uterine Myomas](http://arxiv.org/abs/2508.11010v1)** | 2025-08-14 |  |
-| **[Unlocking Robust Semantic Segmentation Performance via Label-only Elastic Deformations against Implicit Label Noise](http://arxiv.org/abs/2508.10383v1)** | 2025-08-14 |  |
-| **[S2-UniSeg: Fast Universal Agglomerative Pooling for Scalable Segment Anything without Supervision](http://arxiv.org/abs/2508.06995v2)** | 2025-08-13 |  |
-| **[Calibrated Self-supervised Vision Transformers Improve Intracranial Arterial Calcification Segmentation from Clinical CT Head Scans](http://arxiv.org/abs/2507.01744v2)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted at the 3rd Data Engineering in Medical Imaging workshop @ MICCAI 2025</p></details> |
-| **[Revisiting 3D Medical Scribble Supervision: Benchmarking Beyond Cardiac Segmentation](http://arxiv.org/abs/2403.12834v2)** | 2025-08-13 | <details><summary>accep...</summary><p>accepted at MICCAI2025</p></details> |
-| **[Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model](http://arxiv.org/abs/2508.09645v1)** | 2025-08-13 |  |
-| **[From Few to More: Scribble-based Medical Image Segmentation via Masked Context Modeling and Continuous Pseudo Labels](http://arxiv.org/abs/2408.12814v2)** | 2025-08-13 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 10 tables, JBHI</p></details> |
-| **[What Can We Learn from Inter-Annotator Variability in Skin Lesion Segmentation?](http://arxiv.org/abs/2508.09381v1)** | 2025-08-12 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) ISIC Skin Image Analysis Workshop (MICCAI ISIC) 2025; 12 pages, 4 tables, 3 figures</p></details> |
-| **[Uncertainty-aware Cross-training for Semi-supervised Medical Image Segmentation](http://arxiv.org/abs/2508.09014v1)** | 2025-08-12 | 14 pages, 10 figures |
-| **[Unified and Semantically Grounded Domain Adaptation for Medical Image Segmentation](http://arxiv.org/abs/2508.08660v1)** | 2025-08-12 |  |
-| **[Boosting Generic Semi-Supervised Medical Image Segmentation via Diverse Teaching and Label Propagation](http://arxiv.org/abs/2508.08549v1)** | 2025-08-12 |  |
-| **[Unintended Bias in 2D+ Image Segmentation and Its Effect on Attention Asymmetry](http://arxiv.org/abs/2505.14105v2)** | 2025-08-11 |  |
+| **[TopoMortar: A dataset to evaluate image segmentation methods focused on topology accuracy](http://arxiv.org/abs/2503.03365v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025 (Oral)</p></details> |
 
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks](http://arxiv.org/abs/2508.11584v1)** | 2025-08-15 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 2 tables</p></details> |
-| **[PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments](http://arxiv.org/abs/2506.06631v2)** | 2025-08-15 |  |
-| **[TACR-YOLO: A Real-time Detection Framework for Abnormal Human Behaviors Enhanced with Coordinate and Task-Aware Representations](http://arxiv.org/abs/2508.11478v1)** | 2025-08-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, accepted by IJCNN 2025</p></details> |
-| **[Index-Aligned Query Distillation for Transformer-based Incremental Object Detection](http://arxiv.org/abs/2508.11339v1)** | 2025-08-15 | 12 pages, 5 figures |
-| **[PTQAT: A Hybrid Parameter-Efficient Quantization Algorithm for 3D Perception Tasks](http://arxiv.org/abs/2508.10557v2)** | 2025-08-15 | <details><summary>8 pag...</summary><p>8 pages, Accepted by ICCVW 2025</p></details> |
-| **[VFM-Guided Semi-Supervised Detection Transformer for Source-Free Object Detection in Remote Sensing Images](http://arxiv.org/abs/2508.11167v1)** | 2025-08-15 | <details><summary>Manus...</summary><p>Manuscript submitted to IEEE TGRS</p></details> |
-| **[Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation](http://arxiv.org/abs/2409.10071v5)** | 2025-08-15 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Accept by IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025</p></details> |
-| **[Utilizing Vision-Language Models as Action Models for Intent Recognition and Assistance](http://arxiv.org/abs/2508.11093v1)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at Human-Centered Robot Autonomy for Human-Robot Teams (HuRoboT) at IEEE RO-MAN 2025, Eindhoven, the Netherlands</p></details> |
-| **[Object Fidelity Diffusion for Remote Sensing Image Generation](http://arxiv.org/abs/2508.10801v1)** | 2025-08-14 |  |
-| **[The SET Perceptual Factors Framework: Towards Assured Perception for Autonomous Systems](http://arxiv.org/abs/2508.10798v1)** | 2025-08-14 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, accepted to the Workshop on Public Trust in Autonomous Systems at the 2025 IEEE International Conference on Robotics & Automation</p></details> |
-| **[Beyond conventional vision: RGB-event fusion for robust object detection in dynamic traffic scenarios](http://arxiv.org/abs/2508.10704v1)** | 2025-08-14 |  |
-| **[Towards Powerful and Practical Patch Attacks for 2D Object Detection in Autonomous Driving](http://arxiv.org/abs/2508.10600v1)** | 2025-08-14 | 13 pages, 4 figures |
-| **[GCRPNet: Graph-Enhanced Contextual and Regional Perception Network For Salient Object Detection in Optical Remote Sensing Images](http://arxiv.org/abs/2508.10542v1)** | 2025-08-14 |  |
-| **[A Two-Stage Learning-to-Defer Approach for Multi-Task Learning](http://arxiv.org/abs/2410.15729v5)** | 2025-08-14 |  |
-| **[Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies](http://arxiv.org/abs/2508.10523v1)** | 2025-08-14 |  |
+| **[Real-Time Beach Litter Detection and Counting: A Comparative Analysis of RT-DETR Model Variants](http://arxiv.org/abs/2508.13101v1)** | 2025-08-18 |  |
+| **[CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction](http://arxiv.org/abs/2508.12917v1)** | 2025-08-18 | <details><summary>The P...</summary><p>The Paper is Accepted by TCSVT</p></details> |
+| **[Co-Paced Learning Strategy Based on Confidence for Flying Bird Object Detection Model Training](http://arxiv.org/abs/2501.12071v2)** | 2025-08-18 |  |
+| **[Neural Rendering for Sensor Adaptation in 3D Object Detection](http://arxiv.org/abs/2508.12695v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted at IEEE Intelligent Vehicles Symposium (IV) 2025</p></details> |
+| **[Refine-and-Contrast: Adaptive Instance-Aware BEV Representations for Multi-UAV Collaborative Object Detection](http://arxiv.org/abs/2508.12684v1)** | 2025-08-18 | 9 pages |
+| **[InsightX Agent: An LMM-based Agentic Framework with Integrated Tools for Reliable X-ray NDT Analysis](http://arxiv.org/abs/2507.14899v2)** | 2025-08-18 |  |
+| **[Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks](http://arxiv.org/abs/2508.11584v2)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
+| **[Advanced Gesture Recognition for Autism Spectrum Disorder Detection: Integrating YOLOv7, Video Augmentation, and VideoMAE for Naturalistic Video Analysis](http://arxiv.org/abs/2410.09339v3)** | 2025-08-17 | <details><summary>Chang...</summary><p>Change Note for Version 3 - Extended Study (ASD vs TD Classification) This version extends v2 from 3-class gesture recognition to binary ASD vs TD detection, using expanded SSBD variants, a new TD class, improved preprocessing, and updated metrics (95% acc, 0.93 prec, 0.94 rec, 0.94 F1). Methodology remains YOLOv7 + VideoMAE + augmentation</p></details> |
+| **[S5: Scalable Semi-Supervised Semantic Segmentation in Remote Sensing](http://arxiv.org/abs/2508.12409v1)** | 2025-08-17 |  |
+| **[AquaFeat: A Features-Based Image Enhancement Model for Underwater Object Detection](http://arxiv.org/abs/2508.12343v1)** | 2025-08-17 |  |
 
 ## Object Tracking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omni Survey for Multimodality Analysis in Visual Object Tracking](http://arxiv.org/abs/2508.13000v1)** | 2025-08-18 | <details><summary>The f...</summary><p>The first comprehensive survey for multi-modal visual object tracking; 6 multi-modal tasks; 338 references</p></details> |
+| **[Revisiting Functional Derivatives in Multi-object Tracking](http://arxiv.org/abs/2508.12982v1)** | 2025-08-18 | <details><summary>submi...</summary><p>submitted to IEEE Transactions on Signal Processing</p></details> |
+| **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v1)** | 2025-08-18 |  |
 | **[Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction](http://arxiv.org/abs/2508.11531v1)** | 2025-08-15 |  |
 | **[Delving into Dynamic Scene Cue-Consistency for Robust 3D Multi-Object Tracking](http://arxiv.org/abs/2508.11323v1)** | 2025-08-15 |  |
 | **[Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking](http://arxiv.org/abs/2508.10655v1)** | 2025-08-14 | ACMMM 2025 |
@@ -95,26 +74,18 @@ labels: documentation
 | **[DRWKV: Focusing on Object Edges for Low-Light Image Enhancement](http://arxiv.org/abs/2507.18594v2)** | 2025-08-13 |  |
 | **[MeMoSORT: Memory-Assisted Filtering and Motion-Adaptive Association Metric for Multi-Person Tracking](http://arxiv.org/abs/2508.09796v1)** | 2025-08-13 |  |
 | **[Offline Auto Labeling: BAAS](http://arxiv.org/abs/2508.09585v1)** | 2025-08-13 |  |
-| **[SAGOnline: Segment Any Gaussians Online](http://arxiv.org/abs/2508.08219v1)** | 2025-08-11 | 19 pages, 10 figures |
-| **[GRASPTrack: Geometry-Reasoned Association via Segmentation and Projection for Multi-Object Tracking](http://arxiv.org/abs/2508.08117v1)** | 2025-08-11 |  |
-| **[When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking](http://arxiv.org/abs/2507.06400v2)** | 2025-08-10 |  |
 
 ## Image Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Training-Free Anomaly Generation via Dual-Attention Enhancement in Diffusion Model](http://arxiv.org/abs/2508.11550v1)** | 2025-08-15 |  |
-| **[SPG: Style-Prompting Guidance for Style-Specific Content Creation](http://arxiv.org/abs/2508.11476v1)** | 2025-08-15 | <details><summary>Accep...</summary><p>Accepted to the Journal track of Pacific Graphics 2025</p></details> |
-| **[MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation](http://arxiv.org/abs/2508.11433v1)** | 2025-08-15 |  |
-| **[StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation](http://arxiv.org/abs/2508.11203v1)** | 2025-08-15 | <details><summary>Pacif...</summary><p>Pacific graphics 2025, CGF, 15 pages</p></details> |
-| **[MUNBa: Machine Unlearning via Nash Bargaining](http://arxiv.org/abs/2411.15537v3)** | 2025-08-15 |  |
-| **[Structured Generative Modeling with the Thermodynamic Kolmogorov-Arnold Model](http://arxiv.org/abs/2506.14167v3)** | 2025-08-15 |  |
-| **[Marmot: Object-Level Self-Correction via Multi-Agent Reasoning](http://arxiv.org/abs/2504.20054v3)** | 2025-08-15 |  |
-| **[LEARN: A Story-Driven Layout-to-Image Generation Framework for STEM Instruction](http://arxiv.org/abs/2508.11153v1)** | 2025-08-15 | <details><summary>The I...</summary><p>The International Conference on Neural Information Processing (ICONIP) 2025</p></details> |
-| **[FairT2I: Mitigating Social Bias in Text-to-Image Generation via Large Language Model-Assisted Detection and Attribute Rebalancing](http://arxiv.org/abs/2502.03826v2)** | 2025-08-15 |  |
-| **[Prototype-Guided Diffusion: Visual Conditioning without External Memory](http://arxiv.org/abs/2508.09922v2)** | 2025-08-14 |  |
-| **[HepatoGEN: Generating Hepatobiliary Phase MRI with Perceptual and Adversarial Models](http://arxiv.org/abs/2504.18405v2)** | 2025-08-14 | Author disagreement |
-| **[Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Images](http://arxiv.org/abs/2506.13307v2)** | 2025-08-14 |  |
-| **[Object Fidelity Diffusion for Remote Sensing Image Generation](http://arxiv.org/abs/2508.10801v1)** | 2025-08-14 |  |
-| **[Exploiting Discriminative Codebook Prior for Autoregressive Image Generation](http://arxiv.org/abs/2508.10719v1)** | 2025-08-14 | Submitted to TPAMI |
-| **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v1)** | 2025-08-14 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
+| **[ID-Card Synthetic Generation: Toward a Simulated Bona fide Dataset](http://arxiv.org/abs/2508.13078v1)** | 2025-08-18 |  |
+| **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v2)** | 2025-08-18 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
+| **[CCDM: Continuous Conditional Diffusion Models for Image Generation](http://arxiv.org/abs/2405.03546v4)** | 2025-08-18 |  |
+| **[Hyperspectral Image Generation with Unmixing Guided Diffusion Model](http://arxiv.org/abs/2506.02601v2)** | 2025-08-18 |  |
+| **[7Bench: a Comprehensive Benchmark for Layout-guided Text-to-image Models](http://arxiv.org/abs/2508.12919v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ICIAP 2025</p></details> |
+| **[PixelPonder: Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation](http://arxiv.org/abs/2503.06684v2)** | 2025-08-18 |  |
+| **[TextCrafter: Accurately Rendering Multiple Texts in Complex Visual Scenes](http://arxiv.org/abs/2503.23461v6)** | 2025-08-18 |  |
+| **[Next Visual Granularity Generation](http://arxiv.org/abs/2508.12811v1)** | 2025-08-18 |  |
+| **[Single-Reference Text-to-Image Manipulation with Dual Contrastive Denoising Score](http://arxiv.org/abs/2508.12718v1)** | 2025-08-18 |  |
+| **[Stable Diffusion-Based Approach for Human De-Occlusion](http://arxiv.org/abs/2508.12663v1)** | 2025-08-18 | MM 2025 |
 

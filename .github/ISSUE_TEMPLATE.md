@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -84,9 +84,37 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[QuaDreamer: Controllable Panoramic Video Generation for Quadruped Robots](http://arxiv.org/abs/2508.02512v2)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to CoRL 2025. The source code and model weights will be publicly available at \url{https://github.com/losehu/QuaDreamer</p></details> |
+| **[TGOSPA Metric Parameters Selection and Evaluation for Visual Multi-object Tracking](http://arxiv.org/abs/2412.08321v3)** | 2025-08-28 | <details><summary>Submi...</summary><p>Submitted to Springer International Journal of Computer Vision</p></details> |
+| **[Model-based Multi-object Visual Tracking: Identification and Standard Model Limitations](http://arxiv.org/abs/2508.13647v2)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted for publication in 2025 28th International Conference on Information Fusion (FUSION)</p></details> |
+| **[Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis](http://arxiv.org/abs/2407.15199v2)** | 2025-08-26 |  |
+| **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v2)** | 2025-08-26 |  |
+| **[FastTracker: Real-Time and Accurate Visual Tracking](http://arxiv.org/abs/2508.14370v3)** | 2025-08-26 |  |
+| **[TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos](http://arxiv.org/abs/2503.18282v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted in MMSports'25</p></details> |
+| **[BoostTrack++: using tracklet information to detect more objects in multiple object tracking](http://arxiv.org/abs/2408.13003v2)** | 2025-08-20 | <details><summary>To be...</summary><p>To be published in Filomat, Vol 39, No 16 (2025)</p></details> |
+| **[6-DoF Object Tracking with Event-based Optical Flow and Frames](http://arxiv.org/abs/2508.14776v1)** | 2025-08-20 |  |
+| **[SMTrack: End-to-End Trained Spiking Neural Networks for Multi-Object Tracking in RGB Videos](http://arxiv.org/abs/2508.14607v1)** | 2025-08-20 |  |
+| **[Improving Token-based Object Detection with Video](http://arxiv.org/abs/2506.22562v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in IEEE Access</p></details> |
+| **[LEGO: Learning and Graph-Optimized Modular Tracker for Online Multi-Object Tracking with Point Clouds](http://arxiv.org/abs/2308.09908v5)** | 2025-08-19 |  |
+| **[Bridging the Gap: Doubles Badminton Analysis with Singles-Trained Models](http://arxiv.org/abs/2508.13507v1)** | 2025-08-19 | 14 pages, 7 figures |
+| **[Omni Survey for Multimodality Analysis in Visual Object Tracking](http://arxiv.org/abs/2508.13000v1)** | 2025-08-18 | <details><summary>The f...</summary><p>The first comprehensive survey for multi-modal visual object tracking; 6 multi-modal tasks; 338 references</p></details> |
+| **[Revisiting Functional Derivatives in Multi-object Tracking](http://arxiv.org/abs/2508.12982v1)** | 2025-08-18 | <details><summary>submi...</summary><p>submitted to IEEE Transactions on Signal Processing</p></details> |
 
 ## Image Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[FLORA: Efficient Synthetic Data Generation for Object Detection in Low-Data Regimes via finetuning Flux LoRA](http://arxiv.org/abs/2508.21712v1)** | 2025-08-29 |  |
+| **[OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning](http://arxiv.org/abs/2508.21066v1)** | 2025-08-28 | <details><summary>proje...</summary><p>project url: https://one-reward.github.io</p></details> |
+| **[Reusing Computation in Text-to-Image Diffusion for Efficient Generation of Image Sets](http://arxiv.org/abs/2508.21032v1)** | 2025-08-28 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://ddecatur.github.io/hierarchical-diffusion/</p></details> |
+| **[Understanding and evaluating computer vision models through the lens of counterfactuals](http://arxiv.org/abs/2508.20881v1)** | 2025-08-28 |  |
+| **[Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning](http://arxiv.org/abs/2508.20751v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://codegoat24.github.io/UnifiedReward/Pref-GRPO</p></details> |
+| **[Physics Informed Generative Models for Magnetic Field Images](http://arxiv.org/abs/2508.20612v1)** | 2025-08-28 |  |
+| **[Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent](http://arxiv.org/abs/2508.20505v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[Realistic and Controllable 3D Gaussian-Guided Object Editing for Driving Video Generation](http://arxiv.org/abs/2508.20471v1)** | 2025-08-28 |  |
+| **[When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](http://arxiv.org/abs/2504.20376v2)** | 2025-08-28 | <details><summary>This ...</summary><p>This work proposes a multi-turn jailbreak attack against real-world chat-based T2I generation systems that intergrate memory mechanism. It also constructed a simulation system, with considering three industrial-grade memory mechanisms, 7 kinds of safety filters (both input and output)</p></details> |
+| **[T-Stars-Poster: A Framework for Product-Centric Advertising Image Design](http://arxiv.org/abs/2501.14316v3)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
+| **[Safe-Control: A Safety Patch for Mitigating Unsafe Content in Text-to-Image Generation Models](http://arxiv.org/abs/2508.21099v1)** | 2025-08-28 |  |
+| **[Interact-Custom: Customized Human Object Interaction Image Generation](http://arxiv.org/abs/2508.19575v2)** | 2025-08-28 |  |
+| **[SDiFL: Stable Diffusion-Driven Framework for Image Forgery Localization](http://arxiv.org/abs/2508.20182v1)** | 2025-08-27 |  |
+| **[GS: Generative Segmentation via Label Diffusion](http://arxiv.org/abs/2508.20020v1)** | 2025-08-27 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 5 tables</p></details> |
+| **[Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching](http://arxiv.org/abs/2403.18705v3)** | 2025-08-27 | <details><summary>This ...</summary><p>This paper supersedes arXiv:2310.13433, accepted at JMLR</p></details> |
 

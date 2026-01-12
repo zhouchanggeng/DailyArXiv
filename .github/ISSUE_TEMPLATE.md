@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,25 +26,27 @@ labels: documentation
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://arxiv.org/abs/2601.05249v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page: https://ntuneillee.github.io/research/rl-awb/</p></details> |
-| **[GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242v1)** | 2026-01-08 | NVIDIA-Tech Report |
-| **[EARL: Energy-Aware Optimization of Liquid State Machines for Pervasive AI](https://arxiv.org/abs/2601.05205v1)** | 2026-01-08 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 Tables, conference [Submitted in PerConAI-2026]</p></details> |
-| **[SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning](https://arxiv.org/abs/2601.05187v1)** | 2026-01-08 |  |
-| **[Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems](https://arxiv.org/abs/2601.05171v1)** | 2026-01-08 |  |
-| **[Safe Continual Reinforcement Learning Methods for Nonstationary Environments. Towards a Survey of the State of the Art](https://arxiv.org/abs/2601.05152v1)** | 2026-01-08 | 20 pages, 4 figures |
-| **[Cells on Autopilot: Adaptive Cell (Re)Selection via Reinforcement Learning](https://arxiv.org/abs/2601.04083v2)** | 2026-01-08 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, v2: Corrected performance numbers in the conclusion; no change to methodology</p></details> |
-| **[Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity](https://arxiv.org/abs/2505.23923v2)** | 2026-01-08 |  |
-| **[Reinforced Efficient Reasoning via Semantically Diverse Exploration](https://arxiv.org/abs/2601.05053v1)** | 2026-01-08 |  |
-| **[Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement Learning Work on Real Robots](https://arxiv.org/abs/2504.16680v3)** | 2026-01-08 |  |
-| **[Hán Dān Xué Bù (Mimicry) or Qīng Chū Yú Lán (Mastery)? A Cognitive Perspective on Reasoning Distillation in Large Language Models](https://arxiv.org/abs/2601.05019v1)** | 2026-01-08 | 7 pages, 7 figures |
-| **[Modern Neuromorphic AI: From Intra-Token to Inter-Token Processing](https://arxiv.org/abs/2601.00245v2)** | 2026-01-08 |  |
-| **[On the Hidden Objective Biases of Group-based Reinforcement Learning](https://arxiv.org/abs/2601.05002v1)** | 2026-01-08 |  |
-| **[AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?](https://arxiv.org/abs/2601.04996v1)** | 2026-01-08 | Under review |
-| **[ReinFlow: Fine-tuning Flow Matching Policy with Online Reinforcement Learning](https://arxiv.org/abs/2505.22094v7)** | 2026-01-08 | 38 pages |
+| **[Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards](https://arxiv.org/abs/2601.06021v1)** | 2026-01-09 |  |
+| **[ACDZero: MCTS Agent for Mastering Automated Cyber Defense](https://arxiv.org/abs/2601.02196v2)** | 2026-01-09 |  |
+| **[QueryGym: Step-by-Step Interaction with Relational Databases](https://arxiv.org/abs/2509.21674v2)** | 2026-01-09 |  |
+| **[Low-Latency Event-Based Velocimetry for Quadrotor Control in a Narrow Pipe](https://arxiv.org/abs/2507.15444v2)** | 2026-01-09 | 19 pages |
+| **[SCOPE: Sequential Causal Optimization of Process Interventions](https://arxiv.org/abs/2512.17629v3)** | 2026-01-09 |  |
+| **[TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents](https://arxiv.org/abs/2601.05899v1)** | 2026-01-09 | AAAI 2026 Oral |
+| **[StackPlanner: A Centralized Hierarchical Multi-Agent System with Task-Experience Memory Management](https://arxiv.org/abs/2601.05890v1)** | 2026-01-09 |  |
+| **[TDHook: A Lightweight Framework for Interpretability](https://arxiv.org/abs/2509.25475v2)** | 2026-01-09 |  |
+| **[IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck](https://arxiv.org/abs/2601.05870v1)** | 2026-01-09 |  |
+| **[Sequential Bayesian Optimal Experimental Design in Infinite Dimensions via Policy Gradient Reinforcement Learning](https://arxiv.org/abs/2601.05868v1)** | 2026-01-09 |  |
+| **[Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning](https://arxiv.org/abs/2601.05836v1)** | 2026-01-09 | <details><summary>Publi...</summary><p>Published in TANET 2025 (Paper No. T0404)</p></details> |
+| **[Shorter but not Worse: Frugal Reasoning via Easy Samples as Length Regularizers in Math RLVR](https://arxiv.org/abs/2511.01937v2)** | 2026-01-09 |  |
+| **[Visual Attention Reasoning via Hierarchical Search and Self-Verification](https://arxiv.org/abs/2510.18619v2)** | 2026-01-09 |  |
+| **[EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis](https://arxiv.org/abs/2601.05808v1)** | 2026-01-09 | Working in progress |
+| **[From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation](https://arxiv.org/abs/2601.05787v1)** | 2026-01-09 | Work In Progress |
 
 ## Image Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation](https://arxiv.org/abs/2601.05855v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code at: https://github.com/taozh2017/BCSI</p></details> |
+| **[LightFormer: A lightweight and efficient decoder for remote sensing image segmentation](https://arxiv.org/abs/2504.10834v3)** | 2026-01-09 | <details><summary>The m...</summary><p>The manuscript was submitted without obtaining the consent of the other co-authors. We therefore request the withdrawal of the manuscript</p></details> |
 | **[Explainable Binary Classification of Separable Shape Ensembles](https://arxiv.org/abs/2410.12994v2)** | 2026-01-08 | 32 pages, 16 figures |
 | **[TokenSeg: Efficient 3D Medical Image Segmentation via Hierarchical Visual Token Compression](https://arxiv.org/abs/2601.04519v1)** | 2026-01-08 |  |
 | **[Staged Voxel-Level Deep Reinforcement Learning for 3D Medical Image Segmentation with Noisy Annotations](https://arxiv.org/abs/2601.03875v1)** | 2026-01-07 |  |
@@ -58,12 +60,13 @@ labels: documentation
 | **[FALCON: Few-Shot Adversarial Learning for Cross-Domain Medical Image Segmentation](https://arxiv.org/abs/2601.01687v1)** | 2026-01-04 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, 7 tables</p></details> |
 | **[RaffeSDG: Random Frequency Filtering enabled Single-source Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2405.01228v3)** | 2026-01-04 |  |
 | **[S2M-Net: Spectral-Spatial Mixing for Medical Image Segmentation with Morphology-Aware Adaptive Loss](https://arxiv.org/abs/2601.01285v1)** | 2026-01-03 |  |
-| **[Scale-aware Adaptive Supervised Network with Limited Medical Annotations](https://arxiv.org/abs/2601.01005v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by Pattern Recognition, 8 figures, 11 tables</p></details> |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
 
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
+| **[Pyramidal Adaptive Cross-Gating for Multimodal Detection](https://arxiv.org/abs/2512.18291v2)** | 2026-01-09 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, submitted to Image and Vision Computing</p></details> |
+| **[STResNet & STYOLO : A New Family of Compact Classification and Object Detection Models for MCUs](https://arxiv.org/abs/2601.05364v1)** | 2026-01-08 | 9 pages, 1 figure |
 | **[UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition](https://arxiv.org/abs/2601.05105v1)** | 2026-01-08 |  |
 | **[Character Detection using YOLO for Writer Identification in multiple Medieval books](https://arxiv.org/abs/2601.04834v1)** | 2026-01-08 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table. Accepted at IEEE-CH 2025</p></details> |
 | **[Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems](https://arxiv.org/abs/2512.24385v2)** | 2026-01-08 | <details><summary>Surve...</summary><p>Survey; 40 pages, 7 figures, 9 tables; GitHub Repo at https://github.com/worldbench/awesome-spatial-intelligence</p></details> |
@@ -76,9 +79,6 @@ labels: documentation
 | **[Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection](https://arxiv.org/abs/2601.03617v1)** | 2026-01-07 | 7 pages, 4 figures |
 | **[Physics-Constrained Cross-Resolution Enhancement Network for Optics-Guided Thermal UAV Image Super-Resolution](https://arxiv.org/abs/2601.03526v1)** | 2026-01-07 |  |
 | **[Deflickering Vision-Based Occupancy Networks through Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438v4)** | 2026-01-06 |  |
-| **[D^3ETOR: Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations](https://arxiv.org/abs/2512.20260v2)** | 2026-01-06 |  |
-| **[Motion Blur Robust Wheat Pest Damage Detection with Dynamic Fuzzy Feature Fusion](https://arxiv.org/abs/2601.03046v1)** | 2026-01-06 |  |
-| **[Towards Efficient 3D Object Detection for Vehicle-Infrastructure Collaboration via Risk-Intent Selection](https://arxiv.org/abs/2601.03001v1)** | 2026-01-06 |  |
 
 ## Object Tracking
 | **Title** | **Date** | **Comment** |
@@ -102,6 +102,13 @@ labels: documentation
 ## Image Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PixelArena: A benchmark for Pixel-Precision Visual Intelligence](https://arxiv.org/abs/2512.16303v2)** | 2026-01-09 | <details><summary>8 pag...</summary><p>8 pages, 11 figures, project page: https://pixelarena.reify.ing/project</p></details> |
+| **[3D-WAG: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes](https://arxiv.org/abs/2411.19037v3)** | 2026-01-09 |  |
+| **[GenCtrl -- A Formal Controllability Toolkit for Generative Models](https://arxiv.org/abs/2601.05637v1)** | 2026-01-09 |  |
+| **[Video Generation Models Are Good Latent Reward Models](https://arxiv.org/abs/2511.21541v3)** | 2026-01-09 |  |
+| **[AttriCtrl: Fine-Grained Control of Aesthetic Attribute Intensity in Diffusion Models](https://arxiv.org/abs/2508.02151v2)** | 2026-01-09 |  |
+| **[MoGen: A Unified Collaborative Framework for Controllable Multi-Object Image Generation](https://arxiv.org/abs/2601.05546v1)** | 2026-01-09 |  |
+| **[Coding the Visual World: From Image to Simulation Using Vision Language Models](https://arxiv.org/abs/2601.05344v1)** | 2026-01-08 |  |
 | **[Leveraging Clinical Text and Class Conditioning for 3D Prostate MRI Generation](https://arxiv.org/abs/2506.10230v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Biomedical Engineering, 2025. This is the accepted author version. The final published version is available at https://doi.org/10.1109/TBME.2025.3648426</p></details> |
 | **[Multi-Scale Local Speculative Decoding for Image Generation](https://arxiv.org/abs/2601.05149v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project page is available at https://qualcomm-ai-research.github.io/mulo-sd-webpage</p></details> |
 | **[Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing](https://arxiv.org/abs/2601.05124v1)** | 2026-01-08 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, project page: https://github.com/hrz2000/realign</p></details> |
@@ -110,11 +117,4 @@ labels: documentation
 | **[UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision](https://arxiv.org/abs/2601.03193v2)** | 2026-01-08 |  |
 | **[Agentic Retoucher for Text-To-Image Generation](https://arxiv.org/abs/2601.02046v2)** | 2026-01-08 |  |
 | **[SRU-Pix2Pix: A Fusion-Driven Generator Network for Medical Image Translation with Few-Shot Learning](https://arxiv.org/abs/2601.04785v1)** | 2026-01-08 |  |
-| **[Forge-and-Quench: Enhancing Image Generation for Higher Fidelity in Unified Multimodal Models](https://arxiv.org/abs/2601.04706v1)** | 2026-01-08 |  |
-| **[HyperAlign: Hyperbolic Entailment Cones for Adaptive Text-to-Image Alignment Assessment](https://arxiv.org/abs/2601.04614v1)** | 2026-01-08 |  |
-| **[FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing](https://arxiv.org/abs/2512.21015v2)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia (TMM)</p></details> |
-| **[UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving](https://arxiv.org/abs/2601.04453v1)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project Page: https://unidrive-wm.github.io/UniDrive-WM</p></details> |
-| **[StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation](https://arxiv.org/abs/2511.22009v2)** | 2026-01-07 | <details><summary>Impro...</summary><p>Improved the quality. Project Page at https://world-snapshot.github.io/StreamFlow/</p></details> |
-| **[Unified Text-Image Generation with Weakness-Targeted Post-Training](https://arxiv.org/abs/2601.04339v1)** | 2026-01-07 |  |
-| **[Bridging the Discrete-Continuous Gap: Unified Multimodal Generation via Coupled Manifold Discrete Absorbing Diffusion](https://arxiv.org/abs/2601.04056v1)** | 2026-01-07 | 10 pages, 5 figures |
 

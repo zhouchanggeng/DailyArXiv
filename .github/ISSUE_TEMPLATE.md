@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Clip
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking the Limits of Open-Weight CLIP: An Optimization Framework for Self-supervised Fine-tuning of CLIP](https://arxiv.org/abs/2601.09859v1)** | 2026-01-14 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[LiteEmbed: Adapting CLIP to Rare Classes](https://arxiv.org/abs/2601.09661v1)** | 2026-01-14 | 14 pages, 12 figures |
 | **[Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification](https://arxiv.org/abs/2310.17218v3)** | 2026-01-14 |  |
 | **[Image-to-Brain Signal Generation for Visual Prosthesis with CLIP Guided Multimodal Diffusion Models](https://arxiv.org/abs/2509.00787v4)** | 2026-01-14 |  |
@@ -21,30 +22,33 @@ labels: documentation
 | **[Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving Clipping Policy Optimization](https://arxiv.org/abs/2508.07629v3)** | 2026-01-04 |  |
 | **[ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.24224v1)** | 2025-12-30 | 10 pages, 4 figures |
 | **[Clipped Gradient Methods for Nonsmooth Convex Optimization under Heavy-Tailed Noise: A Refined Analysis](https://arxiv.org/abs/2512.23178v1)** | 2025-12-29 | <details><summary>Part ...</summary><p>Part of this work is in submission</p></details> |
-| **[CLIP-Joint-Detect: End-to-End Joint Training of Object Detectors with Contrastive Vision-Language Supervision](https://arxiv.org/abs/2512.22969v1)** | 2025-12-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Preprint under review</p></details> |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STEP3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668v1)** | 2026-01-14 | 50 pages |
-| **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667v1)** | 2026-01-14 | Work in Progress |
-| **[Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization](https://arxiv.org/abs/2508.20294v2)** | 2026-01-14 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, accepted to NeurIPS 2025</p></details> |
-| **[Environment as Policy: Learning to Race in Unseen Tracks](https://arxiv.org/abs/2410.22308v3)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at IEEE International Conference on Robotics and Automation (ICRA), 2025</p></details> |
-| **[DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing](https://arxiv.org/abs/2601.09609v1)** | 2026-01-14 |  |
-| **[HapticLLaMA: A Multimodal Sensory Language Model for Haptic Captioning](https://arxiv.org/abs/2508.06475v2)** | 2026-01-14 |  |
-| **[FigEx2: Visual-Conditioned Panel Detection and Captioning for Scientific Compound Figures](https://arxiv.org/abs/2601.08026v2)** | 2026-01-14 |  |
-| **[Dialogue Telemetry: Turn-Level Instrumentation for Autonomous Information Gathering](https://arxiv.org/abs/2601.09570v1)** | 2026-01-14 | <details><summary>16 pa...</summary><p>16 pages, 9 Figures, Version submitted to IEEE for publication</p></details> |
-| **[Content Accuracy and Quality Aware Resource Allocation Based on LP-Guided DRL for ISAC-Driven AIGC Networks](https://arxiv.org/abs/2508.12079v2)** | 2026-01-14 | Accepted by IEEE TMC |
-| **[What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/abs/2505.19789v4)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828v5)** | 2026-01-14 |  |
-| **[A Curriculum Learning Approach to Reinforcement Learning: Leveraging RAG for Multimodal Question Answering](https://arxiv.org/abs/2508.10337v2)** | 2026-01-14 |  |
-| **[SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning](https://arxiv.org/abs/2601.04809v2)** | 2026-01-14 | 19 pages,5 figures |
-| **[Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings](https://arxiv.org/abs/2511.10501v3)** | 2026-01-14 | 27 pages |
-| **[Draw it like Euclid: Teaching transformer models to generate CAD profiles using ruler and compass construction steps](https://arxiv.org/abs/2601.09428v1)** | 2026-01-14 |  |
+| **[MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1)** | 2026-01-15 |  |
+| **[Dual-Uncertainty Guided Policy Learning for Multimodal Reasoning](https://arxiv.org/abs/2510.01444v2)** | 2026-01-15 |  |
+| **[Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs](https://arxiv.org/abs/2601.08763v2)** | 2026-01-15 | Work in Progress |
+| **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667v2)** | 2026-01-15 | Work in Progress |
+| **[Institutional AI: A Governance Framework for Distributional AGI Safety](https://arxiv.org/abs/2601.10599v1)** | 2026-01-15 |  |
+| **[STEP3-VL-10B Technical Report](https://arxiv.org/abs/2601.09668v2)** | 2026-01-15 | 50 pages |
+| **[Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589v1)** | 2026-01-15 |  |
+| **[Combinatorial Optimization Augmented Machine Learning](https://arxiv.org/abs/2601.10583v1)** | 2026-01-15 |  |
+| **[PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models](https://arxiv.org/abs/2601.10532v1)** | 2026-01-15 |  |
+| **[Projected Microbatch Accumulation yields reference-free proximal policy updates for reinforcement learning](https://arxiv.org/abs/2601.10498v1)** | 2026-01-15 |  |
+| **[Urban Socio-Semantic Segmentation with Vision-Language Reasoning](https://arxiv.org/abs/2601.10477v1)** | 2026-01-15 |  |
+| **[Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://arxiv.org/abs/2601.02918v2)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://ethanliang99.github.io/ZOOMIQA-Projectpage</p></details> |
+| **[Reinforcement Learning with Multi-Step Lookahead Information Via Adaptive Batching](https://arxiv.org/abs/2601.10418v1)** | 2026-01-15 |  |
+| **[CS-GBA: A Critical Sample-based Gradient-guided Backdoor Attack for Offline Reinforcement Learning](https://arxiv.org/abs/2601.10407v1)** | 2026-01-15 |  |
+| **[Bootstrap Off-policy with World Model](https://arxiv.org/abs/2511.00423v3)** | 2026-01-15 | NeurIPS 2025 |
 
 ## Image Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Jordan-Segmentable Masks: A Topology-Aware definition for characterizing Binary Image Segmentation](https://arxiv.org/abs/2601.10577v1)** | 2026-01-15 | 27 pages, 18 figures |
+| **[RS2-SAM2: Customized SAM2 for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2503.07266v4)** | 2026-01-15 | AAAI 2026 |
+| **[Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation](https://arxiv.org/abs/2507.06363v3)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation](https://arxiv.org/abs/2601.10124v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[QuFeX: Quantum feature extraction module for hybrid quantum-classical deep neural networks](https://arxiv.org/abs/2501.13165v2)** | 2026-01-14 | <details><summary>V2: 1...</summary><p>V2: 17 pages, 15 figures, 2 Tables; published version</p></details> |
 | **[BARL: Bilateral Alignment in Representation and Label Spaces for Semi-Supervised Volumetric Medical Image Segmentation](https://arxiv.org/abs/2510.16863v2)** | 2026-01-14 | 14 pages, 5 figures |
 | **[From Performance to Practice: Knowledge-Distilled Segmentator for On-Premises Clinical Workflows](https://arxiv.org/abs/2601.09191v1)** | 2026-01-14 |  |
@@ -56,14 +60,18 @@ labels: documentation
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v1)** | 2026-01-12 |  |
 | **[Encoding Structural Constraints into Segment Anything Models via Probabilistic Graphical Models](https://arxiv.org/abs/2509.21750v2)** | 2026-01-10 |  |
 | **[Bidirectional Channel-selective Semantic Interaction for Semi-Supervised Medical Segmentation](https://arxiv.org/abs/2601.05855v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code at: https://github.com/taozh2017/BCSI</p></details> |
-| **[LightFormer: A lightweight and efficient decoder for remote sensing image segmentation](https://arxiv.org/abs/2504.10834v3)** | 2026-01-09 | <details><summary>The m...</summary><p>The manuscript was submitted without obtaining the consent of the other co-authors. We therefore request the withdrawal of the manuscript</p></details> |
-| **[Explainable Binary Classification of Separable Shape Ensembles](https://arxiv.org/abs/2410.12994v2)** | 2026-01-08 | 32 pages, 16 figures |
-| **[TokenSeg: Efficient 3D Medical Image Segmentation via Hierarchical Visual Token Compression](https://arxiv.org/abs/2601.04519v1)** | 2026-01-08 |  |
-| **[Staged Voxel-Level Deep Reinforcement Learning for 3D Medical Image Segmentation with Noisy Annotations](https://arxiv.org/abs/2601.03875v1)** | 2026-01-07 |  |
 
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance](https://arxiv.org/abs/2512.22974v3)** | 2026-01-15 | 25 pages |
+| **[Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL](https://arxiv.org/abs/2601.10117v1)** | 2026-01-15 |  |
+| **[Enhancing Visual In-Context Learning by Multi-Faceted Fusion](https://arxiv.org/abs/2601.10107v1)** | 2026-01-15 |  |
+| **[DFIR-DETR: Frequency Domain Enhancement and Dynamic Feature Aggregation for Cross-Scene Small Object Detection](https://arxiv.org/abs/2512.07078v2)** | 2026-01-15 | <details><summary>16 pa...</summary><p>16 pages. Correct typos</p></details> |
+| **[Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection](https://arxiv.org/abs/2512.22972v2)** | 2026-01-15 | 10 pages, 10 figures |
+| **[Human-inspired Global-to-Parallel Multi-scale Encoding for Lightweight Vision Models](https://arxiv.org/abs/2601.08190v2)** | 2026-01-15 | 23 pages, 5 figures |
+| **[YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection](https://arxiv.org/abs/2509.25164v3)** | 2026-01-14 |  |
+| **[LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2601.09812v1)** | 2026-01-14 | <details><summary>35 pa...</summary><p>35 pages, 14 figures. Published at Pattern Recognition</p></details> |
 | **[AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking](https://arxiv.org/abs/2601.09652v1)** | 2026-01-14 |  |
 | **[Can AI Dream of Unseen Galaxies? Conditional Diffusion Model for Galaxy Morphology Augmentation](https://arxiv.org/abs/2506.16233v2)** | 2026-01-14 | <details><summary>29 pa...</summary><p>29 pages, 17 figures, accepted version for ApJS. Comments welcome. See another independent work for further reference, Category-based Galaxy Image Generation via Diffusion Models (Fan, Tang et al.)</p></details> |
 | **[Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity](https://arxiv.org/abs/2601.09497v1)** | 2026-01-14 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 6 tables</p></details> |
@@ -71,18 +79,11 @@ labels: documentation
 | **[Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots](https://arxiv.org/abs/2509.19610v2)** | 2026-01-13 | <details><summary>20 pa...</summary><p>20 pages, 13 figures, under review</p></details> |
 | **[DentalX: Context-Aware Dental Disease Detection with Radiographs](https://arxiv.org/abs/2601.08797v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted at ISBI 2026</p></details> |
 | **[WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation](https://arxiv.org/abs/2601.08602v1)** | 2026-01-13 |  |
-| **[Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2](https://arxiv.org/abs/2601.08408v1)** | 2026-01-13 | <details><summary>The T...</summary><p>The Tenth International Conference on Data Mining and Big Data (DMBD'2025)</p></details> |
-| **[MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2411.15016v2)** | 2026-01-13 | <details><summary>T-TIT...</summary><p>T-TITS accepted, code avaliable</p></details> |
-| **[Human-inspired Global-to-Parallel Multi-scale Encoding for Lightweight Vision Models](https://arxiv.org/abs/2601.08190v1)** | 2026-01-13 | 23 pages, 5 figures |
-| **[Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling](https://arxiv.org/abs/2601.08174v1)** | 2026-01-13 |  |
-| **[Representation Learning with Semantic-aware Instance and Sparse Token Alignments](https://arxiv.org/abs/2601.08165v1)** | 2026-01-13 | <details><summary>Under...</summary><p>Under review, 8 pages</p></details> |
-| **[From Prompts to Deployment: Auto-Curated Domain-Specific Dataset Generation via Diffusion Models](https://arxiv.org/abs/2601.08095v1)** | 2026-01-13 | <details><summary>To ap...</summary><p>To appear in the Workshop on Synthetic & Adversarial ForEnsics (SAFE), WACV 2026 (oral presentation)</p></details> |
-| **[REXO: Indoor Multi-View Radar Object Detection via 3D Bounding Box Diffusion](https://arxiv.org/abs/2511.17806v2)** | 2026-01-12 | <details><summary>26 pa...</summary><p>26 pages; Accepted to AAAI 2026; Code available at https://github.com/merlresearch/radar-bbox-diffusion</p></details> |
-| **[GenDet: Painting Colored Bounding Boxes on Images via Diffusion Model for Object Detection](https://arxiv.org/abs/2601.07273v1)** | 2026-01-12 |  |
 
 ## Object Tracking
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding](https://arxiv.org/abs/2601.10611v1)** | 2026-01-15 |  |
 | **[SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking](https://arxiv.org/abs/2512.20975v2)** | 2026-01-14 | 33 pages, 27figures |
 | **[DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos](https://arxiv.org/abs/2601.09240v1)** | 2026-01-14 |  |
 | **[Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking](https://arxiv.org/abs/2601.09078v1)** | 2026-01-14 | 8 pages, 6 figures |
@@ -97,24 +98,23 @@ labels: documentation
 | **[Rethinking Memory Design in SAM-Based Visual Object Tracking](https://arxiv.org/abs/2512.22624v1)** | 2025-12-27 | <details><summary>\text...</summary><p>\textbf{This is a preprint. Some results are being finalized and may be updated in a future revision.}</p></details> |
 | **[KV-Tracker: Real-Time Pose Tracking with Transformers](https://arxiv.org/abs/2512.22581v1)** | 2025-12-27 | <details><summary>Proje...</summary><p>Project Page: https://marwan99.github.io/kv_tracker</p></details> |
 | **[Learning Association via Track-Detection Matching for Multi-Object Tracking](https://arxiv.org/abs/2512.22105v1)** | 2025-12-26 | <details><summary>14 pa...</summary><p>14 pages (+4 for references), 8 tables, 4 figures</p></details> |
-| **[TrackTeller: Temporal Multimodal 3D Grounding for Behavior-Dependent Object References](https://arxiv.org/abs/2512.21641v1)** | 2025-12-25 |  |
 
 ## Image Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5](https://arxiv.org/abs/2601.10527v1)** | 2026-01-15 | 42 pages, 24 figures |
+| **[Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders](https://arxiv.org/abs/2601.10332v1)** | 2026-01-15 |  |
+| **[RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance](https://arxiv.org/abs/2512.22974v3)** | 2026-01-15 | 25 pages |
+| **[Fine-Tuning Diffusion Models via Intermediate Distribution Shaping](https://arxiv.org/abs/2510.02692v2)** | 2026-01-15 |  |
+| **[Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text](https://arxiv.org/abs/2601.10096v1)** | 2026-01-15 | <details><summary>EACL ...</summary><p>EACL 2026 Findings accepted. Initial Draft of Camera-ready</p></details> |
+| **[CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation](https://arxiv.org/abs/2601.10061v1)** | 2026-01-15 | 16 pages, 8 figures |
+| **[How Many Human Judgments Are Enough? Feasibility Limits of Human Preference Evaluation](https://arxiv.org/abs/2601.09084v2)** | 2026-01-15 |  |
+| **[AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation](https://arxiv.org/abs/2406.12805v3)** | 2026-01-15 | Accepted by IJCV |
+| **[Resistive Memory based Efficient Machine Unlearning and Continual Learning](https://arxiv.org/abs/2601.10037v1)** | 2026-01-15 |  |
+| **[Calibrating Generative Models to Distributional Constraints](https://arxiv.org/abs/2510.10020v2)** | 2026-01-14 | <details><summary>Our c...</summary><p>Our codebase accompanying the paper is available at: https://github.com/smithhenryd/cgm</p></details> |
 | **[Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning](https://arxiv.org/abs/2601.09536v1)** | 2026-01-14 |  |
 | **[GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](https://arxiv.org/abs/2511.11134v2)** | 2026-01-14 | 35 pages, 22 figures |
 | **[PhyRPR: Training-Free Physics-Constrained Video Generation](https://arxiv.org/abs/2601.09255v1)** | 2026-01-14 |  |
 | **[Knowledge-Embedded and Hypernetwork-Guided Few-Shot Substation Meter Defect Image Generation Method](https://arxiv.org/abs/2601.09238v1)** | 2026-01-14 |  |
 | **[SpikeVAEDiff: Neural Spike-based Natural Visual Scene Reconstruction via VD-VAE and Versatile Diffusion](https://arxiv.org/abs/2601.09213v1)** | 2026-01-14 | Preprint |
-| **[Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation](https://arxiv.org/abs/2601.09212v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Architecture inside the mirage: evaluating generative image models on architectural style, elements, and typologies](https://arxiv.org/abs/2601.09169v1)** | 2026-01-14 | 24 pages, 7 figures |
-| **[MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head](https://arxiv.org/abs/2601.07832v2)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/DAGroup-PKU/MHLA/ Project website: https://dagroup-pku.github.io/MHLA/</p></details> |
-| **[DyDiT++: Diffusion Transformers with Timestep and Spatial Dynamics for Efficient Visual Generation](https://arxiv.org/abs/2504.06803v4)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper was accepted to the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) on January 9, 2026. arXiv admin note: substantial text overlap with arXiv:2410.03456</p></details> |
-| **[How Many Human Judgments Are Enough? Feasibility Limits of Human Preference Evaluation](https://arxiv.org/abs/2601.09084v1)** | 2026-01-14 |  |
-| **[DGAE: Diffusion-Guided Autoencoder for Efficient Latent Representation Learning](https://arxiv.org/abs/2506.09644v2)** | 2026-01-13 |  |
-| **[Aggregating Diverse Cue Experts for AI-Generated Image Detection](https://arxiv.org/abs/2601.08790v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models](https://arxiv.org/abs/2601.08623v1)** | 2026-01-13 | <details><summary>Code ...</summary><p>Code at https://github.com/ryliu68/SafeRedir</p></details> |
-| **[IGAN: A New Inception-based Model for Stable and High-Fidelity Image Synthesis Using Generative Adversarial Networks](https://arxiv.org/abs/2601.08332v1)** | 2026-01-13 | 11 pages, 6 figures |
-| **[UM-Text: A Unified Multimodal Model for Image Understanding](https://arxiv.org/abs/2601.08321v1)** | 2026-01-13 |  |
 

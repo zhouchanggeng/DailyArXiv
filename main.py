@@ -32,8 +32,8 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 # keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # TODO add more keywords
-keywords = ["Clip", "Reinforcement Learning", "Image Segmentation", "Object Detection",
-            "Object Tracking", "Image Generation"]
+keywords = ["DINO", "Face Recognition", "Face Alignment", "Object Detection",
+            "SAM"]
 
 max_result = 30 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue

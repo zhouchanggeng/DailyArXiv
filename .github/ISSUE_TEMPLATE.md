@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 25, 2026
+title: Latest 15 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO-Tok: Adapting DINO for Visual Tokenizers](https://arxiv.org/abs/2511.20565v2)** | 2026-03-24 |  |
 | **[Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection](https://arxiv.org/abs/2603.01498v2)** | 2026-03-21 |  |
 | **[Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models](https://arxiv.org/abs/2603.16978v1)** | 2026-03-17 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, submitted to IEEE</p></details> |
 | **[Effective Feature Learning for 3D Medical Registration via Domain-Specialized DINO Pretraining](https://arxiv.org/abs/2603.14086v1)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted for International Symposium on Biomedical Imaging 2026 (ISBI 2026)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DINO-BOLDNet: A DINOv3-Guided Multi-Slice Attention Network for T1-to-BOLD Generation](https://arxiv.org/abs/2512.08337v1)** | 2025-12-09 |  |
 | **[DINO-RotateMatch: A Rotation-Aware Deep Framework for Robust Image Matching in Large-Scale 3D Reconstruction](https://arxiv.org/abs/2512.03715v1)** | 2025-12-03 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 table</p></details> |
 | **[DINO-Foresight: Looking into the Future with DINO](https://arxiv.org/abs/2412.11673v2)** | 2025-11-28 | NeurIPS 2025 |
-| **[DINO-Tok: Adapting DINO for Visual Tokenizers](https://arxiv.org/abs/2511.20565v1)** | 2025-11-25 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project Page: https://ggare-cmu.github.io/DetPO/</p></details> |
+| **[CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](https://arxiv.org/abs/2603.23276v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[GeoDiT: A Diffusion-based Vision-Language Model for Geospatial Understanding](https://arxiv.org/abs/2512.02505v2)** | 2026-03-24 |  |
+| **[YOLOv10 with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection and trustworthy multimodal AI in computer vision perception](https://arxiv.org/abs/2603.23037v1)** | 2026-03-24 | <details><summary>14 pa...</summary><p>14 pages, 23 Figures, 6 Tables</p></details> |
+| **[Concept-based explanations of Segmentation and Detection models in Natural Disaster Management](https://arxiv.org/abs/2603.23020v1)** | 2026-03-24 | 8 pages, 4 figures |
+| **[FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning](https://arxiv.org/abs/2603.22969v1)** | 2026-03-24 | CVPR 2026 Findings |
+| **[TorR: Towards Brain-Inspired Task-Oriented Reasoning via Cache-Oriented Algorithm-Architecture Co-design](https://arxiv.org/abs/2603.22855v1)** | 2026-03-24 | Accepted to DAC 2026 |
+| **[UAV-DETR: DETR for Anti-Drone Target Detection](https://arxiv.org/abs/2603.22841v1)** | 2026-03-24 |  |
+| **[From Pixels to Semantics: A Multi-Stage AI Framework for Structural Damage Detection in Satellite Imagery](https://arxiv.org/abs/2603.22768v1)** | 2026-03-24 |  |
 | **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
 | **[STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection](https://arxiv.org/abs/2603.21999v1)** | 2026-03-23 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, accepted by IEEE TMM</p></details> |
 | **[What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging](https://arxiv.org/abs/2510.13232v2)** | 2026-03-23 | 56 pages |
 | **[Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection](https://arxiv.org/abs/2603.21944v1)** | 2026-03-23 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, Project page: https://ubin108.github.io/Group3D/</p></details> |
 | **[Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent](https://arxiv.org/abs/2603.21787v1)** | 2026-03-23 |  |
 | **[No Dense Tensors Needed: Fully Sparse Object Detection on Event-Camera Voxel Grids](https://arxiv.org/abs/2603.21638v1)** | 2026-03-23 | <details><summary>29 Pa...</summary><p>29 Pages, 9 Figures, 5 Tables</p></details> |
-| **[Let Synthetic Data Shine: Domain Reassembly and Soft-Fusion for Single Domain Generalization](https://arxiv.org/abs/2503.13617v2)** | 2026-03-23 | <details><summary>26 pa...</summary><p>26 pages, 10 figures (Accepted by IJCV)</p></details> |
-| **[PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection](https://arxiv.org/abs/2603.06917v2)** | 2026-03-22 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Accepted at CVPR2026</p></details> |
-| **[HPE-CogVLM: Advancing Vision Language Models with a Head Pose Grounding Task](https://arxiv.org/abs/2406.01914v3)** | 2026-03-22 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026. This version includes major updates in methodology and experiments. The final version is available at IEEE Xplore</p></details> |
-| **[Learn from Foundation Model: Fruit Detection Model without Manual Annotation](https://arxiv.org/abs/2411.16196v2)** | 2026-03-22 | <details><summary>35 pa...</summary><p>35 pages, 11figures, conference or other essential info</p></details> |
-| **[NoOVD: Novel Category Discovery and Embedding for Open-Vocabulary Object Detection](https://arxiv.org/abs/2603.21069v1)** | 2026-03-22 | CVPR 2026 Accept |
-| **[Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving](https://arxiv.org/abs/2603.21061v1)** | 2026-03-22 | 9 pages, 5 figures |
-| **[Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation](https://arxiv.org/abs/2603.20191v1)** | 2026-03-20 |  |
-| **[MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models](https://arxiv.org/abs/2603.20074v1)** | 2026-03-20 |  |
-| **[VirPro: Visual-referred Probabilistic Prompt Learning for Weakly-Supervised Monocular 3D Detection](https://arxiv.org/abs/2603.17470v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 Findings</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

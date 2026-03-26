@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Language-Guided Structure-Aware Network for Camouflaged Object Detection](https://arxiv.org/abs/2603.24355v1)** | 2026-03-25 |  |
+| **[VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection](https://arxiv.org/abs/2603.24294v1)** | 2026-03-25 |  |
+| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v2)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter/</p></details> |
+| **[Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection](https://arxiv.org/abs/2603.24166v1)** | 2026-03-25 | CVPR2026 |
+| **[Mind the Hitch: Dynamic Calibration and Articulated Perception for Autonomous Trucks](https://arxiv.org/abs/2603.23711v1)** | 2026-03-24 | accepted to CVPR2026 |
 | **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project Page: https://ggare-cmu.github.io/DetPO/</p></details> |
 | **[CCF: Complementary Collaborative Fusion for Domain Generalized Multi-Modal 3D Object Detection](https://arxiv.org/abs/2603.23276v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[GeoDiT: A Diffusion-based Vision-Language Model for Geospatial Understanding](https://arxiv.org/abs/2512.02505v2)** | 2026-03-24 |  |
@@ -74,15 +79,11 @@ labels: documentation
 | **[UAV-DETR: DETR for Anti-Drone Target Detection](https://arxiv.org/abs/2603.22841v1)** | 2026-03-24 |  |
 | **[From Pixels to Semantics: A Multi-Stage AI Framework for Structural Damage Detection in Satellite Imagery](https://arxiv.org/abs/2603.22768v1)** | 2026-03-24 |  |
 | **[DisPatch: Disarming Adversarial Patches in Object Detection with Diffusion Models](https://arxiv.org/abs/2509.04597v2)** | 2026-03-23 |  |
-| **[STENet: Superpixel Token Enhancing Network for RGB-D Salient Object Detection](https://arxiv.org/abs/2603.21999v1)** | 2026-03-23 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, accepted by IEEE TMM</p></details> |
-| **[What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging](https://arxiv.org/abs/2510.13232v2)** | 2026-03-23 | 56 pages |
-| **[Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection](https://arxiv.org/abs/2603.21944v1)** | 2026-03-23 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, Project page: https://ubin108.github.io/Group3D/</p></details> |
-| **[Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent](https://arxiv.org/abs/2603.21787v1)** | 2026-03-23 |  |
-| **[No Dense Tensors Needed: Fully Sparse Object Detection on Event-Camera Voxel Grids](https://arxiv.org/abs/2603.21638v1)** | 2026-03-23 | <details><summary>29 Pa...</summary><p>29 Pages, 9 Figures, 5 Tables</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Re-Prompting SAM 3 via Object Retrieval: 3rd of the 5th PVUW MOSE Track](https://arxiv.org/abs/2603.23788v1)** | 2026-03-24 |  |
 | **[Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](https://arxiv.org/abs/2603.21287v1)** | 2026-03-22 | Accepted by CVPR26 |
 | **[SGDFuse: SAM-Guided Diffusion Model for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v6)** | 2026-03-21 | <details><summary>Publi...</summary><p>Published in Information Fusion</p></details> |
 | **[Prompt-Free Lightweight SAM Adaptation for Histopathology Nuclei Segmentation with Strong Cross-Dataset Generalization](https://arxiv.org/abs/2603.20326v1)** | 2026-03-20 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation](https://arxiv.org/abs/2603.06885v1)** | 2026-03-06 | 9 figure, 3 tables |
 | **[When Denoising Hinders: Revisiting Zero-Shot ASR with SAM-Audio and Whisper](https://arxiv.org/abs/2603.04710v1)** | 2026-03-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. IEEE Conference Paper</p></details> |
 | **[SAM: A Mamba-2 State-Space Audio-Language Model](https://arxiv.org/abs/2509.15680v2)** | 2026-03-05 | <details><summary>6 pag...</summary><p>6 pages, Submitted to Interspeech 2026</p></details> |
-| **[SAM 3D Body: Robust Full-Body Human Mesh Recovery](https://arxiv.org/abs/2602.15989v1)** | 2026-02-17 | <details><summary>Code:...</summary><p>Code: https://github.com/facebookresearch/sam-3d-body</p></details> |
 

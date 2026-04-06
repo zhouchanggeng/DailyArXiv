@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion](https://arxiv.org/abs/2604.01761v1)** | 2026-04-02 | <details><summary>proje...</summary><p>project page https://dedoardo.github.io/projects/control-dino/</p></details> |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v1)** | 2026-04-01 |  |
 | **[DINO-Tok: Adapting DINO for Visual Tokenizers](https://arxiv.org/abs/2511.20565v2)** | 2026-03-24 |  |
 | **[Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection](https://arxiv.org/abs/2603.01498v2)** | 2026-03-21 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Unlocking Generalization in Polyp Segmentation with DINO Self-Attention "keys"](https://arxiv.org/abs/2512.13376v2)** | 2026-01-21 | <details><summary>We ha...</summary><p>We have found a bug in our codebase. The DINO vision encoder was not properly frozen, therefore the results and claims are not fully valid. We are working on new results</p></details> |
 | **[DBT-DINO: Towards Foundation model based analysis of Digital Breast Tomosynthesis](https://arxiv.org/abs/2512.13608v1)** | 2025-12-15 |  |
 | **[DINO-BOLDNet: A DINOv3-Guided Multi-Slice Attention Network for T1-to-BOLD Generation](https://arxiv.org/abs/2512.08337v1)** | 2025-12-09 |  |
-| **[DINO-RotateMatch: A Rotation-Aware Deep Framework for Robust Image Matching in Large-Scale 3D Reconstruction](https://arxiv.org/abs/2512.03715v1)** | 2025-12-03 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 1 table</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adversarial Attenuation Patch Attack for SAR Object Detection](https://arxiv.org/abs/2604.00887v1)** | 2026-04-01 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Source code is available at https://github.com/boremycin/SAAP</p></details> |
-| **[TaCarla: A comprehensive benchmarking dataset for end-to-end autonomous driving](https://arxiv.org/abs/2602.23499v2)** | 2026-04-01 |  |
-| **[Representation Learning with Semantic-aware Instance and Sparse Token Alignments](https://arxiv.org/abs/2601.08165v2)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted to ICPR 2026</p></details> |
-| **[Conditional Polarization Guidance for Camouflaged Object Detection](https://arxiv.org/abs/2603.30008v2)** | 2026-04-01 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, 4 tables</p></details> |
-| **[TF-SSD: A Strong Pipeline via Synergic Mask Filter for Training-free Co-salient Object Detection](https://arxiv.org/abs/2604.00549v1)** | 2026-04-01 | Accepted by CVPR26 |
-| **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v1)** | 2026-04-01 |  |
-| **[Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](https://arxiv.org/abs/2603.29954v1)** | 2026-03-31 | <details><summary>8 pag...</summary><p>8 pages, Accepted at CVPR 2026</p></details> |
-| **[Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data](https://arxiv.org/abs/2603.29842v1)** | 2026-03-31 | <details><summary>21 pa...</summary><p>21 pages, 12 figures. Accepted at CVPR 2026</p></details> |
-| **[Image-Specific Adaptation of Transformer Encoders for Compute-Efficient Segmentation](https://arxiv.org/abs/2404.15244v3)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 WVAQ</p></details> |
-| **[Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](https://arxiv.org/abs/2512.05597v3)** | 2026-03-31 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/abs/2512.00818v2)** | 2026-03-31 |  |
-| **[Align Your Query: Representation Alignment for Multimodality Medical Object Detection](https://arxiv.org/abs/2510.02789v2)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project page: https://araseo.github.io/alignyourquery/</p></details> |
-| **[Sim-to-Real Fruit Detection Using Synthetic Data: Quantitative Evaluation and Embedded Deployment with Isaac Sim](https://arxiv.org/abs/2603.28670v1)** | 2026-03-30 | 18 pages, 6 figures |
-| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted by ICME 2026</p></details> |
-| **[CPUBone: Efficient Vision Backbone Design for Devices with Low Parallelization Capabilities](https://arxiv.org/abs/2603.26425v2)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted at CVPR Findings 2026</p></details> |
+| **[SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection](https://arxiv.org/abs/2604.03176v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Multimedia</p></details> |
+| **[Learning Adaptive Pseudo-Label Selection for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2509.23880v3)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
+| **[Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection](https://arxiv.org/abs/2604.02966v1)** | 2026-04-03 | CVPR2026 Accepted |
+| **[Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection](https://arxiv.org/abs/2604.02935v1)** | 2026-04-03 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, including supplementary material. Accepted by IEEE ICME 2026</p></details> |
+| **[RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection](https://arxiv.org/abs/2604.02903v1)** | 2026-04-03 |  |
+| **[PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis](https://arxiv.org/abs/2604.02804v1)** | 2026-04-03 |  |
+| **[Generalized Small Object Detection:A Point-Prompted Paradigm and Benchmark](https://arxiv.org/abs/2604.02773v1)** | 2026-04-03 |  |
+| **[DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.02753v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[TaCarla: A comprehensive benchmarking dataset for end-to-end autonomous driving](https://arxiv.org/abs/2602.23499v3)** | 2026-04-02 |  |
+| **[PPEDCRF: Privacy-Preserving Enhanced Dynamic CRF for Location-Privacy Protection for Sequence Videos with Minimal Detection Degradation](https://arxiv.org/abs/2603.01593v2)** | 2026-04-02 | <details><summary>We wo...</summary><p>We would like to withdraw this paper due to identified issues in the experimental design and insufficient supporting data, which affect the reliability of the reported results. A substantially revised version with corrected experiments and extended evaluations will be prepared and submitted in the future</p></details> |
+| **[EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer](https://arxiv.org/abs/2602.20985v2)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Lifting Unlabeled Internet-level Data for 3D Scene Understanding](https://arxiv.org/abs/2604.01907v1)** | 2026-04-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://sv-pp.github.io/</p></details> |
+| **[MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label](https://arxiv.org/abs/2604.01646v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Towards Physically Realizable Adversarial Attenuation Patch against SAR Object Detection](https://arxiv.org/abs/2604.00887v2)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Source code is available at https://github.com/boremycin/SAAP</p></details> |
+| **[Non-monotonicity in Conformal Risk Control](https://arxiv.org/abs/2604.01502v1)** | 2026-04-02 | <details><summary>38 pa...</summary><p>38 pages, 6 figures, 3 tables</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes](https://arxiv.org/abs/2408.12406v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by ECCV2024 Workshop "Computational Aspects of Deep Learning (CADL)"</p></details> |
 | **[PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images](https://arxiv.org/abs/2604.00495v1)** | 2026-04-01 |  |
 | **[Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting](https://arxiv.org/abs/2411.17132v2)** | 2026-03-30 |  |
 | **[Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement](https://arxiv.org/abs/2603.28027v1)** | 2026-03-30 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 12 tables</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Expression Segmentation](https://arxiv.org/abs/2603.18086v1)** | 2026-03-18 |  |
 | **[Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery](https://arxiv.org/abs/2603.15603v1)** | 2026-03-16 |  |
 | **[SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](https://arxiv.org/abs/2505.22596v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[ZO-SAM: Zero-Order Sharpness-Aware Minimization for Efficient Sparse Training](https://arxiv.org/abs/2603.13115v1)** | 2026-03-13 |  |
 

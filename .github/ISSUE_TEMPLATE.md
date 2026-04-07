@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
+| **[DINO-VO: Learning Where to Focus for Enhanced State Estimation](https://arxiv.org/abs/2604.04055v1)** | 2026-04-05 |  |
 | **[Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion](https://arxiv.org/abs/2604.01761v1)** | 2026-04-02 | <details><summary>proje...</summary><p>project page https://dedoardo.github.io/projects/control-dino/</p></details> |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v1)** | 2026-04-01 |  |
 | **[DINO-Tok: Adapting DINO for Visual Tokenizers](https://arxiv.org/abs/2511.20565v2)** | 2026-03-24 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[DINO-AD: Unsupervised Anomaly Detection with Frozen DINO-V3 Features](https://arxiv.org/abs/2602.03870v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted by ISBI 2026, 4 pages, 2 figures, 3 tables</p></details> |
 | **[DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation](https://arxiv.org/abs/2601.22904v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, and 11 figures</p></details> |
 | **[Unlocking Generalization in Polyp Segmentation with DINO Self-Attention "keys"](https://arxiv.org/abs/2512.13376v2)** | 2026-01-21 | <details><summary>We ha...</summary><p>We have found a bug in our codebase. The DINO vision encoder was not properly frozen, therefore the results and claims are not fully valid. We are working on new results</p></details> |
-| **[DBT-DINO: Towards Foundation model based analysis of Digital Breast Tomosynthesis](https://arxiv.org/abs/2512.13608v1)** | 2025-12-15 |  |
-| **[DINO-BOLDNet: A DINOv3-Guided Multi-Slice Attention Network for T1-to-BOLD Generation](https://arxiv.org/abs/2512.08337v1)** | 2025-12-09 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,27 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection](https://arxiv.org/abs/2604.04908v1)** | 2026-04-06 |  |
+| **[Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving](https://arxiv.org/abs/2604.04797v1)** | 2026-04-06 | 9 pages, 8 figures |
+| **[RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](https://arxiv.org/abs/2604.04490v1)** | 2026-04-06 | <details><summary>CVPR ...</summary><p>CVPR submission / conference paper</p></details> |
+| **[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label](https://arxiv.org/abs/2604.01646v2)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Intelligent Traffic Monitoring with YOLOv11: A Case Study in Real-Time Vehicle Detection](https://arxiv.org/abs/2604.04080v1)** | 2026-04-05 | <details><summary>2025 ...</summary><p>2025 International Conference on Computer and Applications (ICCA)</p></details> |
+| **[Beyond Task-Driven Features for Object Detection](https://arxiv.org/abs/2604.03839v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at the 46th IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2026, Washington D.C., United States. 4 pages and 4 figures</p></details> |
+| **[Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention](https://arxiv.org/abs/2604.03836v1)** | 2026-04-04 | <details><summary>The I...</summary><p>The International Joint Conference on Neural Networks (IJCNN) 2026</p></details> |
+| **[ComPrivDet: Efficient Privacy Object Detection in Compressed Domains Through Inference Reuse](https://arxiv.org/abs/2604.03640v1)** | 2026-04-04 | 6 pages, 6 figures |
+| **[Determined by User Needs: A Salient Object Detection Rationale Beyond Conventional Visual Stimuli](https://arxiv.org/abs/2604.03526v1)** | 2026-04-04 |  |
 | **[SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection](https://arxiv.org/abs/2604.03176v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Multimedia</p></details> |
 | **[Learning Adaptive Pseudo-Label Selection for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2509.23880v3)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
+| **[YOLOv11 Demystified: A Practical Guide to High-Performance Object Detection](https://arxiv.org/abs/2604.03349v1)** | 2026-04-03 | <details><summary>Paper...</summary><p>Paper accepted to CVC 2026 conference, but not continued due to no financial support</p></details> |
 | **[Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection](https://arxiv.org/abs/2604.02966v1)** | 2026-04-03 | CVPR2026 Accepted |
 | **[Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection](https://arxiv.org/abs/2604.02935v1)** | 2026-04-03 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, including supplementary material. Accepted by IEEE ICME 2026</p></details> |
-| **[RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection](https://arxiv.org/abs/2604.02903v1)** | 2026-04-03 |  |
-| **[PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis](https://arxiv.org/abs/2604.02804v1)** | 2026-04-03 |  |
-| **[Generalized Small Object Detection:A Point-Prompted Paradigm and Benchmark](https://arxiv.org/abs/2604.02773v1)** | 2026-04-03 |  |
-| **[DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.02753v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[TaCarla: A comprehensive benchmarking dataset for end-to-end autonomous driving](https://arxiv.org/abs/2602.23499v3)** | 2026-04-02 |  |
-| **[PPEDCRF: Privacy-Preserving Enhanced Dynamic CRF for Location-Privacy Protection for Sequence Videos with Minimal Detection Degradation](https://arxiv.org/abs/2603.01593v2)** | 2026-04-02 | <details><summary>We wo...</summary><p>We would like to withdraw this paper due to identified issues in the experimental design and insufficient supporting data, which affect the reliability of the reported results. A substantially revised version with corrected experiments and extended evaluations will be prepared and submitted in the future</p></details> |
-| **[EW-DETR: Evolving World Object Detection via Incremental Low-Rank DEtection TRansformer](https://arxiv.org/abs/2602.20985v2)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Lifting Unlabeled Internet-level Data for 3D Scene Understanding](https://arxiv.org/abs/2604.01907v1)** | 2026-04-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://sv-pp.github.io/</p></details> |
-| **[MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label](https://arxiv.org/abs/2604.01646v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Towards Physically Realizable Adversarial Attenuation Patch against SAR Object Detection](https://arxiv.org/abs/2604.00887v2)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Source code is available at https://github.com/boremycin/SAAP</p></details> |
-| **[Non-monotonicity in Conformal Risk Control](https://arxiv.org/abs/2604.01502v1)** | 2026-04-02 | <details><summary>38 pa...</summary><p>38 pages, 6 figures, 3 tables</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data](https://arxiv.org/abs/2511.21926v2)** | 2026-04-06 |  |
+| **[A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias](https://arxiv.org/abs/2511.17378v2)** | 2026-04-06 | Neurips 2025 |
 | **[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes](https://arxiv.org/abs/2408.12406v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by ECCV2024 Workshop "Computational Aspects of Deep Learning (CADL)"</p></details> |
 | **[PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images](https://arxiv.org/abs/2604.00495v1)** | 2026-04-01 |  |
 | **[Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting](https://arxiv.org/abs/2411.17132v2)** | 2026-03-30 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[SGDFuse: SAM-Guided Diffusion Model for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v6)** | 2026-03-21 | <details><summary>Publi...</summary><p>Published in Information Fusion</p></details> |
 | **[Prompt-Free Lightweight SAM Adaptation for Histopathology Nuclei Segmentation with Strong Cross-Dataset Generalization](https://arxiv.org/abs/2603.20326v1)** | 2026-03-20 |  |
 | **[SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Expression Segmentation](https://arxiv.org/abs/2603.18086v1)** | 2026-03-18 |  |
-| **[Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery](https://arxiv.org/abs/2603.15603v1)** | 2026-03-16 |  |
-| **[SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning](https://arxiv.org/abs/2505.22596v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 

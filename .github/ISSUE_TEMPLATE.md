@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
 | **[DINO-VO: Learning Where to Focus for Enhanced State Estimation](https://arxiv.org/abs/2604.04055v1)** | 2026-04-05 |  |
 | **[Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion](https://arxiv.org/abs/2604.01761v1)** | 2026-04-02 | <details><summary>proje...</summary><p>project page https://dedoardo.github.io/projects/control-dino/</p></details> |
-| **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v1)** | 2026-04-01 |  |
 | **[DINO-Tok: Adapting DINO for Visual Tokenizers](https://arxiv.org/abs/2511.20565v2)** | 2026-03-24 |  |
 | **[Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection](https://arxiv.org/abs/2603.01498v2)** | 2026-03-21 |  |
 | **[Rewarding DINO: Predicting Dense Rewards with Vision Foundation Models](https://arxiv.org/abs/2603.16978v1)** | 2026-03-17 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, submitted to IEEE</p></details> |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weather-Conditioned Branch Routing for Robust LiDAR-Radar 3D Object Detection](https://arxiv.org/abs/2604.05405v1)** | 2026-04-07 |  |
+| **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[UAVReason: A Unified, Large-Scale Benchmark for Multimodal Aerial Scene Reasoning and Generation](https://arxiv.org/abs/2604.05377v1)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 7 tables</p></details> |
+| **[DAT: Dual-Aware Adaptive Transmission for Efficient Multimodal LLM Inference in Edge-Cloud Systems](https://arxiv.org/abs/2604.05375v1)** | 2026-04-07 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Submitted to ACM Multimedia 2026</p></details> |
+| **[Unsupervised Multi-agent and Single-agent Perception from Cooperative Views](https://arxiv.org/abs/2604.05354v1)** | 2026-04-07 | Accepted to CVPR2026 |
+| **[Dual-Thresholded Heatmap-Guided Proposal Clustering and Negative Certainty Supervision with Enhanced Base Network for Weakly Supervised Object Detection](https://arxiv.org/abs/2509.08289v2)** | 2026-04-07 | <details><summary>IEEE ...</summary><p>IEEE TIP Major Revision</p></details> |
+| **[CI-ICM: Channel Importance-driven Learned Image Coding for Machines](https://arxiv.org/abs/2604.05347v1)** | 2026-04-07 |  |
+| **[Indoor Asset Detection in Large Scale 360° Drone-Captured Imagery via 3D Gaussian Splatting](https://arxiv.org/abs/2604.05316v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 3DMV Workshop</p></details> |
+| **[Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D](https://arxiv.org/abs/2604.05212v1)** | 2026-04-06 | <details><summary>proje...</summary><p>project page: http://facebookresearch.github.io/boxer</p></details> |
+| **[Integration of Object Detection and Small VLMs for Construction Safety Hazard Identification](https://arxiv.org/abs/2604.05210v1)** | 2026-04-06 |  |
 | **[HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection](https://arxiv.org/abs/2604.04908v1)** | 2026-04-06 |  |
 | **[Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving](https://arxiv.org/abs/2604.04797v1)** | 2026-04-06 | 9 pages, 8 figures |
 | **[RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](https://arxiv.org/abs/2604.04490v1)** | 2026-04-06 | <details><summary>CVPR ...</summary><p>CVPR submission / conference paper</p></details> |
 | **[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label](https://arxiv.org/abs/2604.01646v2)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Intelligent Traffic Monitoring with YOLOv11: A Case Study in Real-Time Vehicle Detection](https://arxiv.org/abs/2604.04080v1)** | 2026-04-05 | <details><summary>2025 ...</summary><p>2025 International Conference on Computer and Applications (ICCA)</p></details> |
-| **[Beyond Task-Driven Features for Object Detection](https://arxiv.org/abs/2604.03839v1)** | 2026-04-04 | <details><summary>Accep...</summary><p>Accepted for Oral Presentation at the 46th IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2026, Washington D.C., United States. 4 pages and 4 figures</p></details> |
-| **[Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention](https://arxiv.org/abs/2604.03836v1)** | 2026-04-04 | <details><summary>The I...</summary><p>The International Joint Conference on Neural Networks (IJCNN) 2026</p></details> |
-| **[ComPrivDet: Efficient Privacy Object Detection in Compressed Domains Through Inference Reuse](https://arxiv.org/abs/2604.03640v1)** | 2026-04-04 | 6 pages, 6 figures |
-| **[Determined by User Needs: A Salient Object Detection Rationale Beyond Conventional Visual Stimuli](https://arxiv.org/abs/2604.03526v1)** | 2026-04-04 |  |
-| **[SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection](https://arxiv.org/abs/2604.03176v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Multimedia</p></details> |
-| **[Learning Adaptive Pseudo-Label Selection for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2509.23880v3)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[YOLOv11 Demystified: A Practical Guide to High-Performance Object Detection](https://arxiv.org/abs/2604.03349v1)** | 2026-04-03 | <details><summary>Paper...</summary><p>Paper accepted to CVC 2026 conference, but not continued due to no financial support</p></details> |
-| **[Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection](https://arxiv.org/abs/2604.02966v1)** | 2026-04-03 | CVPR2026 Accepted |
-| **[Modality-Specific Hierarchical Enhancement for RGB-D Camouflaged Object Detection](https://arxiv.org/abs/2604.02935v1)** | 2026-04-03 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, including supplementary material. Accepted by IEEE ICME 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

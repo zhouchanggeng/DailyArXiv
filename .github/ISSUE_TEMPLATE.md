@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2026
+title: Latest 15 Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification](https://arxiv.org/abs/2604.07166v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the 5th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2026</p></details> |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
 | **[DINO-VO: Learning Where to Focus for Enhanced State Estimation](https://arxiv.org/abs/2604.04055v1)** | 2026-04-05 |  |
@@ -21,11 +22,12 @@ labels: documentation
 | **[DINO-Mix: Distilling Foundational Knowledge with Cross-Domain CutMix for Semi-supervised Class-imbalanced Medical Image Segmentation](https://arxiv.org/abs/2602.07819v1)** | 2026-02-08 | <details><summary>AAAI ...</summary><p>AAAI 2026 Workshop on Artificial Intelligence with Biased or Scarce Data (Oral)</p></details> |
 | **[DINO-AD: Unsupervised Anomaly Detection with Frozen DINO-V3 Features](https://arxiv.org/abs/2602.03870v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted by ISBI 2026, 4 pages, 2 figures, 3 tables</p></details> |
 | **[DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation](https://arxiv.org/abs/2601.22904v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, and 11 figures</p></details> |
-| **[Unlocking Generalization in Polyp Segmentation with DINO Self-Attention "keys"](https://arxiv.org/abs/2512.13376v2)** | 2026-01-21 | <details><summary>We ha...</summary><p>We have found a bug in our codebase. The DINO vision encoder was not properly frozen, therefore the results and claims are not fully valid. We are working on new results</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Are Face Embeddings Compatible Across Deep Neural Network Models?](https://arxiv.org/abs/2604.07282v1)** | 2026-04-08 |  |
+| **[EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling](https://arxiv.org/abs/2604.06782v1)** | 2026-04-08 |  |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v1)** | 2026-04-01 |  |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v1)** | 2026-04-01 |  |
 | **[TransFIRA: Transfer Learning for Face Image Recognizability Assessment](https://arxiv.org/abs/2510.06353v2)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project Page: https://transfira.github.io/</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing](https://arxiv.org/abs/2603.01038v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[The Good, the Better, and the Best: Improving the Discriminability of Face Embeddings through Attribute-aware Learning](https://arxiv.org/abs/2603.15062v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at IWBF 2026</p></details> |
 | **[AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas](https://arxiv.org/abs/2603.14770v1)** | 2026-03-16 |  |
-| **[Stake the Points: Structure-Faithful Instance Unlearning](https://arxiv.org/abs/2603.12915v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[MovieTeller: Tool-augmented Movie Synopsis with ID Consistent Progressive Abstraction](https://arxiv.org/abs/2602.23228v2)** | 2026-03-13 | 6 pages, CSCWD 2026 |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,8 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study](https://arxiv.org/abs/2604.06750v1)** | 2026-04-08 | 8 pages, 5 figures |
+| **[Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection](https://arxiv.org/abs/2604.06332v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project website: https://light.princeton.edu/telescope</p></details> |
 | **[Weather-Conditioned Branch Routing for Robust LiDAR-Radar 3D Object Detection](https://arxiv.org/abs/2604.05405v1)** | 2026-04-07 |  |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[UAVReason: A Unified, Large-Scale Benchmark for Multimodal Aerial Scene Reasoning and Generation](https://arxiv.org/abs/2604.05377v1)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 7 tables</p></details> |
@@ -77,12 +79,12 @@ labels: documentation
 | **[HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection](https://arxiv.org/abs/2604.04908v1)** | 2026-04-06 |  |
 | **[Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving](https://arxiv.org/abs/2604.04797v1)** | 2026-04-06 | 9 pages, 8 figures |
 | **[RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](https://arxiv.org/abs/2604.04490v1)** | 2026-04-06 | <details><summary>CVPR ...</summary><p>CVPR submission / conference paper</p></details> |
-| **[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[MonoSAOD: Monocular 3D Object Detection with Sparsely Annotated Label](https://arxiv.org/abs/2604.01646v2)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AHCQ-SAM: Toward Accurate and Hardware-Compatible Post-Training Segment Anything Model Quantization](https://arxiv.org/abs/2503.03088v4)** | 2026-04-08 | Update to AHCQ-SAM |
+| **[V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](https://arxiv.org/abs/2511.20886v2)** | 2026-04-08 | 19 pages |
 | **[Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data](https://arxiv.org/abs/2511.21926v2)** | 2026-04-06 |  |
 | **[A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias](https://arxiv.org/abs/2511.17378v2)** | 2026-04-06 | Neurips 2025 |
 | **[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes](https://arxiv.org/abs/2408.12406v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by ECCV2024 Workshop "Computational Aspects of Deep Learning (CADL)"</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Re-Prompting SAM 3 via Object Retrieval: 3rd of the 5th PVUW MOSE Track](https://arxiv.org/abs/2603.23788v1)** | 2026-03-24 |  |
 | **[Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](https://arxiv.org/abs/2603.21287v1)** | 2026-03-22 | Accepted by CVPR26 |
 | **[SGDFuse: SAM-Guided Diffusion Model for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v6)** | 2026-03-21 | <details><summary>Publi...</summary><p>Published in Information Fusion</p></details> |
-| **[Prompt-Free Lightweight SAM Adaptation for Histopathology Nuclei Segmentation with Strong Cross-Dataset Generalization](https://arxiv.org/abs/2603.20326v1)** | 2026-03-20 |  |
-| **[SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Expression Segmentation](https://arxiv.org/abs/2603.18086v1)** | 2026-03-18 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 | **[DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification](https://arxiv.org/abs/2604.07166v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the 5th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2026</p></details> |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
@@ -21,13 +22,14 @@ labels: documentation
 | **[Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving](https://arxiv.org/abs/2602.06159v2)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project website https://albertchen98.github.io/DwD-project/</p></details> |
 | **[DINO-Mix: Distilling Foundational Knowledge with Cross-Domain CutMix for Semi-supervised Class-imbalanced Medical Image Segmentation](https://arxiv.org/abs/2602.07819v1)** | 2026-02-08 | <details><summary>AAAI ...</summary><p>AAAI 2026 Workshop on Artificial Intelligence with Biased or Scarce Data (Oral)</p></details> |
 | **[DINO-AD: Unsupervised Anomaly Detection with Frozen DINO-V3 Features](https://arxiv.org/abs/2602.03870v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted by ISBI 2026, 4 pages, 2 figures, 3 tables</p></details> |
-| **[DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation](https://arxiv.org/abs/2601.22904v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, and 11 figures</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition](https://arxiv.org/abs/2404.02696v2)** | 2026-04-09 |  |
 | **[Are Face Embeddings Compatible Across Deep Neural Network Models?](https://arxiv.org/abs/2604.07282v1)** | 2026-04-08 |  |
 | **[EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling](https://arxiv.org/abs/2604.06782v1)** | 2026-04-08 |  |
+| **[Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386v1)** | 2026-04-08 |  |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v1)** | 2026-04-01 |  |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v1)** | 2026-04-01 |  |
 | **[TransFIRA: Transfer Learning for Face Image Recognizability Assessment](https://arxiv.org/abs/2510.06353v2)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project Page: https://transfira.github.io/</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Adversarial Camouflage](https://arxiv.org/abs/2603.21867v1)** | 2026-03-23 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
 | **[Discovering Intersectional Bias via Directional Alignment in Face Recognition Embeddings](https://arxiv.org/abs/2510.15520v2)** | 2026-03-20 |  |
 | **[From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing](https://arxiv.org/abs/2603.01038v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[The Good, the Better, and the Best: Improving the Discriminability of Face Embeddings through Attribute-aware Learning](https://arxiv.org/abs/2603.15062v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at IWBF 2026</p></details> |
-| **[AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas](https://arxiv.org/abs/2603.14770v1)** | 2026-03-16 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gaze to Insight: A Scalable AI Approach for Detecting Gaze Behaviours in Face-to-Face Collaborative Learning](https://arxiv.org/abs/2604.03317v2)** | 2026-04-09 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables, accepted by the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
+| **[CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild](https://arxiv.org/abs/2604.08287v1)** | 2026-04-09 | Under review |
+| **[Generalization Under Scrutiny: Cross-Domain Detection Progresses, Pitfalls, and Persistent Challenges](https://arxiv.org/abs/2604.08230v1)** | 2026-04-09 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 4 tables</p></details> |
+| **[DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather](https://arxiv.org/abs/2604.08074v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026</p></details> |
+| **[Beyond Mamba: Enhancing State-space Models with Deformable Dilated Convolutions for Multi-scale Traffic Object Detection](https://arxiv.org/abs/2604.08038v1)** | 2026-04-09 |  |
+| **[Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments](https://arxiv.org/abs/2604.07997v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses](https://arxiv.org/abs/2602.22683v2)** | 2026-04-09 |  |
+| **[Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss](https://arxiv.org/abs/2402.08267v3)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at ICIP 2024</p></details> |
+| **[WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects](https://arxiv.org/abs/2604.07759v1)** | 2026-04-09 |  |
+| **[RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection](https://arxiv.org/abs/2505.17732v2)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear in proceedings of CVPR Findings 2026</p></details> |
+| **[Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention](https://arxiv.org/abs/2604.03836v2)** | 2026-04-08 | <details><summary>The I...</summary><p>The International Joint Conference on Neural Networks (IJCNN) 2026</p></details> |
 | **[How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study](https://arxiv.org/abs/2604.06750v1)** | 2026-04-08 | 8 pages, 5 figures |
 | **[Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection](https://arxiv.org/abs/2604.06332v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project website: https://light.princeton.edu/telescope</p></details> |
 | **[Weather-Conditioned Branch Routing for Robust LiDAR-Radar 3D Object Detection](https://arxiv.org/abs/2604.05405v1)** | 2026-04-07 |  |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[UAVReason: A Unified, Large-Scale Benchmark for Multimodal Aerial Scene Reasoning and Generation](https://arxiv.org/abs/2604.05377v1)** | 2026-04-07 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 7 tables</p></details> |
-| **[DAT: Dual-Aware Adaptive Transmission for Efficient Multimodal LLM Inference in Edge-Cloud Systems](https://arxiv.org/abs/2604.05375v1)** | 2026-04-07 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Submitted to ACM Multimedia 2026</p></details> |
-| **[Unsupervised Multi-agent and Single-agent Perception from Cooperative Views](https://arxiv.org/abs/2604.05354v1)** | 2026-04-07 | Accepted to CVPR2026 |
-| **[Dual-Thresholded Heatmap-Guided Proposal Clustering and Negative Certainty Supervision with Enhanced Base Network for Weakly Supervised Object Detection](https://arxiv.org/abs/2509.08289v2)** | 2026-04-07 | <details><summary>IEEE ...</summary><p>IEEE TIP Major Revision</p></details> |
-| **[CI-ICM: Channel Importance-driven Learned Image Coding for Machines](https://arxiv.org/abs/2604.05347v1)** | 2026-04-07 |  |
-| **[Indoor Asset Detection in Large Scale 360° Drone-Captured Imagery via 3D Gaussian Splatting](https://arxiv.org/abs/2604.05316v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 3DMV Workshop</p></details> |
-| **[Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D](https://arxiv.org/abs/2604.05212v1)** | 2026-04-06 | <details><summary>proje...</summary><p>project page: http://facebookresearch.github.io/boxer</p></details> |
-| **[Integration of Object Detection and Small VLMs for Construction Safety Hazard Identification](https://arxiv.org/abs/2604.05210v1)** | 2026-04-06 |  |
-| **[HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection](https://arxiv.org/abs/2604.04908v1)** | 2026-04-06 |  |
-| **[Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving](https://arxiv.org/abs/2604.04797v1)** | 2026-04-06 | 9 pages, 8 figures |
-| **[RAVEN: Radar Adaptive Vision Encoders for Efficient Chirp-wise Object Detection and Segmentation](https://arxiv.org/abs/2604.04490v1)** | 2026-04-06 | <details><summary>CVPR ...</summary><p>CVPR submission / conference paper</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 | **[AHCQ-SAM: Toward Accurate and Hardware-Compatible Post-Training Segment Anything Model Quantization](https://arxiv.org/abs/2503.03088v4)** | 2026-04-08 | Update to AHCQ-SAM |
 | **[V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](https://arxiv.org/abs/2511.20886v2)** | 2026-04-08 | 19 pages |
 | **[Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data](https://arxiv.org/abs/2511.21926v2)** | 2026-04-06 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.24736v1)** | 2026-03-25 | 34 Pages, 14 Figures |
 | **[Re-Prompting SAM 3 via Object Retrieval: 3rd of the 5th PVUW MOSE Track](https://arxiv.org/abs/2603.23788v1)** | 2026-03-24 |  |
 | **[Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting](https://arxiv.org/abs/2603.21287v1)** | 2026-03-22 | Accepted by CVPR26 |
-| **[SGDFuse: SAM-Guided Diffusion Model for High-Fidelity Infrared and Visible Image Fusion](https://arxiv.org/abs/2508.05264v6)** | 2026-03-21 | <details><summary>Publi...</summary><p>Published in Information Fusion</p></details> |
 

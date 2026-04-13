@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2026
+title: Latest 15 Papers - April 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,12 +26,14 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FaceLiVTv2: An Improved Hybrid Architecture for Efficient Mobile Face Recognition](https://arxiv.org/abs/2604.09127v1)** | 2026-04-10 |  |
+| **[Domain-generalizable Face Anti-Spoofing with Patch-based Multi-tasking and Artifact Pattern Conversion](https://arxiv.org/abs/2604.09018v1)** | 2026-04-10 | <details><summary>The p...</summary><p>The published version is available at DOI: https://doi.org/10.1016/j.patcog.2026.113640</p></details> |
+| **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v2)** | 2026-04-10 |  |
 | **[Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition](https://arxiv.org/abs/2404.02696v2)** | 2026-04-09 |  |
 | **[Are Face Embeddings Compatible Across Deep Neural Network Models?](https://arxiv.org/abs/2604.07282v1)** | 2026-04-08 |  |
 | **[EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling](https://arxiv.org/abs/2604.06782v1)** | 2026-04-08 |  |
 | **[Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386v1)** | 2026-04-08 |  |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v1)** | 2026-04-01 |  |
-| **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v1)** | 2026-04-01 |  |
 | **[TransFIRA: Transfer Learning for Face Image Recognizability Assessment](https://arxiv.org/abs/2510.06353v2)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project Page: https://transfira.github.io/</p></details> |
 | **[From Pixels to Reality: Physical-Digital Patch Attacks on Real-World Camera](https://arxiv.org/abs/2603.28425v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to the PerCom 2026 Demo</p></details> |
 | **[LH2Face: Loss function for Hard High-quality Face](https://arxiv.org/abs/2506.23555v4)** | 2026-03-30 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[MLLM-based Textual Explanations for Face Comparison](https://arxiv.org/abs/2603.16629v3)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted at 14th International Workshop on Biometrics and Forensics (IWBF)</p></details> |
 | **[Demographic Fairness in Multimodal LLMs: A Benchmark of Gender and Ethnicity Bias in Face Verification](https://arxiv.org/abs/2603.25613v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026 workshops</p></details> |
 | **[Adversarial Camouflage](https://arxiv.org/abs/2603.21867v1)** | 2026-03-23 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 5 tables</p></details> |
-| **[Discovering Intersectional Bias via Directional Alignment in Face Recognition Embeddings](https://arxiv.org/abs/2510.15520v2)** | 2026-03-20 |  |
-| **[From Intuition to Investigation: A Tool-Augmented Reasoning MLLM Framework for Generalizable Face Anti-Spoofing](https://arxiv.org/abs/2603.01038v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-task Just Recognizable Difference for Video Coding for Machines: Database, Model, and Coding Application](https://arxiv.org/abs/2604.09421v1)** | 2026-04-10 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Circuits and Systems for Video Technology</p></details> |
+| **[Compositional-Degradation UAV Image Restoration: Conditional Decoupled MoE Network and A Benchmark](https://arxiv.org/abs/2604.09313v1)** | 2026-04-10 |  |
+| **[Gen-n-Val: Agentic Image Data Generation and Validation](https://arxiv.org/abs/2506.04676v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 Findings track</p></details> |
+| **[CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild](https://arxiv.org/abs/2604.08287v2)** | 2026-04-10 | Under review |
+| **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
+| **[All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles](https://arxiv.org/abs/2510.26641v4)** | 2026-04-09 |  |
+| **[REACT3D: Recovering Articulations for Interactive Physical 3D Scenes](https://arxiv.org/abs/2510.11340v4)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[AI Driven Soccer Analysis Using Computer Vision](https://arxiv.org/abs/2604.08722v1)** | 2026-04-09 |  |
+| **[Deep Learning-Based Tracking and Lineage Reconstruction of Ligament Breakup](https://arxiv.org/abs/2604.08711v1)** | 2026-04-09 |  |
+| **[WildDet3D: Scaling Promptable 3D Detection in the Wild](https://arxiv.org/abs/2604.08626v1)** | 2026-04-09 |  |
 | **[Gaze to Insight: A Scalable AI Approach for Detecting Gaze Behaviours in Face-to-Face Collaborative Learning](https://arxiv.org/abs/2604.03317v2)** | 2026-04-09 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 2 tables, accepted by the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
-| **[CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild](https://arxiv.org/abs/2604.08287v1)** | 2026-04-09 | Under review |
 | **[Generalization Under Scrutiny: Cross-Domain Detection Progresses, Pitfalls, and Persistent Challenges](https://arxiv.org/abs/2604.08230v1)** | 2026-04-09 | <details><summary>44 pa...</summary><p>44 pages, 8 figures, 4 tables</p></details> |
 | **[DinoRADE: Full Spectral Radar-Camera Fusion with Vision Foundation Model Features for Multi-class Object Detection in Adverse Weather](https://arxiv.org/abs/2604.08074v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2026</p></details> |
 | **[Beyond Mamba: Enhancing State-space Models with Deformable Dilated Convolutions for Multi-scale Traffic Object Detection](https://arxiv.org/abs/2604.08038v1)** | 2026-04-09 |  |
 | **[Few-Shot Incremental 3D Object Detection in Dynamic Indoor Environments](https://arxiv.org/abs/2604.07997v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses](https://arxiv.org/abs/2602.22683v2)** | 2026-04-09 |  |
-| **[Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss](https://arxiv.org/abs/2402.08267v3)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted at ICIP 2024</p></details> |
-| **[WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects](https://arxiv.org/abs/2604.07759v1)** | 2026-04-09 |  |
-| **[RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection](https://arxiv.org/abs/2505.17732v2)** | 2026-04-08 | <details><summary>To ap...</summary><p>To appear in proceedings of CVPR Findings 2026</p></details> |
-| **[Cost-Efficient Multi-Scale Fovea for Semantic-Based Visual Search Attention](https://arxiv.org/abs/2604.03836v2)** | 2026-04-08 | <details><summary>The I...</summary><p>The International Joint Conference on Neural Networks (IJCNN) 2026</p></details> |
-| **[How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study](https://arxiv.org/abs/2604.06750v1)** | 2026-04-08 | 8 pages, 5 figures |
-| **[Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection](https://arxiv.org/abs/2604.06332v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project website: https://light.princeton.edu/telescope</p></details> |
-| **[Weather-Conditioned Branch Routing for Robust LiDAR-Radar 3D Object Detection](https://arxiv.org/abs/2604.05405v1)** | 2026-04-07 |  |
-| **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

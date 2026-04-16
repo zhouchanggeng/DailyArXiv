@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2026
+title: Latest 15 Papers - April 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiProto: Hierarchical Prototype Learning for Interpretable Object Detection Under Low-quality Conditions](https://arxiv.org/abs/2604.13981v1)** | 2026-04-15 | 9 pages, 9 figures |
+| **[Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning](https://arxiv.org/abs/2604.13586v1)** | 2026-04-15 |  |
+| **[Multi-Agent Object Detection Framework Based on Raspberry Pi YOLO Detector and Slack-Ollama Natural Language Interface](https://arxiv.org/abs/2604.13345v1)** | 2026-04-14 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 2 tables, implementation code will be made available upon manuscript publication</p></details> |
+| **[DroneScan-YOLO: Redundancy-Aware Lightweight Detection for Tiny Objects in UAV Imagery](https://arxiv.org/abs/2604.13278v1)** | 2026-04-14 | 12 pages, 10 figures |
 | **[Rethinking Satellite Image Restoration for Onboard AI: A Lightweight Learning-Based Approach](https://arxiv.org/abs/2604.12807v1)** | 2026-04-14 | <details><summary>AI4SP...</summary><p>AI4SPACE@CVPR conference</p></details> |
 | **[GigaCheck: Detecting LLM-generated Content via Object-Centric Span Localization](https://arxiv.org/abs/2410.23728v3)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
 | **[Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning](https://arxiv.org/abs/2604.12719v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the 8th Safe Artificial Intelligence for All Domains (SAIAD) workshop at IEEE/CVF CVPR 2026</p></details> |
@@ -75,14 +79,12 @@ labels: documentation
 | **[COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection](https://arxiv.org/abs/2508.09533v2)** | 2026-04-13 |  |
 | **[Improving Layout Representation Learning Across Inconsistently Annotated Datasets via Agentic Harmonization](https://arxiv.org/abs/2604.11042v1)** | 2026-04-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 5 tables</p></details> |
 | **[UHD-GPGNet: UHD Video Denoising via Gaussian-Process-Guided Local Spatio-Temporal Modeling](https://arxiv.org/abs/2604.11014v1)** | 2026-04-13 |  |
-| **[EviRCOD: Evidence-Guided Probabilistic Decoding for Referring Camouflaged Object Detection](https://arxiv.org/abs/2604.10894v1)** | 2026-04-13 |  |
-| **[Language Prompt vs. Image Enhancement: Boosting Object Detection With CLIP in Hazy Environments](https://arxiv.org/abs/2604.10637v1)** | 2026-04-12 |  |
-| **[Unified Unsupervised and Sparsely-Supervised 3D Object Detection by Semantic Pseudo-Labeling and Prototype Learning](https://arxiv.org/abs/2602.21484v2)** | 2026-04-12 |  |
-| **[Dual-R-DETR: Resolving Query Competition with Pairwise Routing in Transformer Decoders](https://arxiv.org/abs/2512.13876v2)** | 2026-04-11 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, Accepted at ICME2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation](https://arxiv.org/abs/2603.06885v2)** | 2026-04-15 | 9 figure, 3 tables |
+| **[A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings](https://arxiv.org/abs/2604.13367v1)** | 2026-04-15 |  |
 | **[RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation](https://arxiv.org/abs/2603.07436v2)** | 2026-04-13 | 8 pages, 3 figures |
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v2)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted in ICPR 2026</p></details> |
 | **[Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks](https://arxiv.org/abs/2604.11162v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the AI4RWC Workshop at CVPR 2026</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting](https://arxiv.org/abs/2411.17132v2)** | 2026-03-30 |  |
 | **[Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement](https://arxiv.org/abs/2603.28027v1)** | 2026-03-30 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 12 tables</p></details> |
 | **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v2)** | 2026-03-28 |  |
-| **[IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection](https://arxiv.org/abs/2603.27250v1)** | 2026-03-28 |  |
-| **[ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2603.25168v1)** | 2026-03-26 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 8 tables. Submitted to ECCV 2026</p></details> |
 

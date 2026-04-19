@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v1)** | 2026-04-16 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
+| **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v1)** | 2026-04-16 |  |
+| **[Head Count: Privacy-Preserving Face-Based Crowd Monitoring](https://arxiv.org/abs/2604.14250v1)** | 2026-04-15 |  |
 | **[BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning](https://arxiv.org/abs/2604.12686v1)** | 2026-04-14 |  |
 | **[Variational Latent Entropy Estimation Disentanglement: Controlled Attribute Leakage for Face Recognition](https://arxiv.org/abs/2604.11250v1)** | 2026-04-13 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Forensics and Security (TIFS). 13 pages, 5 figures, 4 tables</p></details> |
 | **[On the Capacity of Distinguishable Synthetic Identity Generation under Face Verification](https://arxiv.org/abs/2604.10641v1)** | 2026-04-12 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386v1)** | 2026-04-08 |  |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v1)** | 2026-04-01 |  |
 | **[TransFIRA: Transfer Learning for Face Image Recognizability Assessment](https://arxiv.org/abs/2510.06353v2)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project Page: https://transfira.github.io/</p></details> |
-| **[From Pixels to Reality: Physical-Digital Patch Attacks on Real-World Camera](https://arxiv.org/abs/2603.28425v1)** | 2026-03-30 | <details><summary>Accep...</summary><p>Accepted to the PerCom 2026 Demo</p></details> |
-| **[LH2Face: Loss function for Hard High-quality Face](https://arxiv.org/abs/2506.23555v4)** | 2026-03-30 |  |
-| **[FaceLinkGen: Rethinking Identity Leakage in Privacy-Preserving Face Recognition with Identity Extraction](https://arxiv.org/abs/2602.02914v2)** | 2026-03-29 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Where to Embed: Noise-Aware Positional Embedding for Query Retrieval in Small-Object Detection](https://arxiv.org/abs/2604.15065v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACM ICMR 2026; 14 pages, 6 figures, and 4 tables</p></details> |
+| **[FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection](https://arxiv.org/abs/2604.14884v1)** | 2026-04-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures,accepted to IJCNN 2026</p></details> |
+| **[An Intelligent Robotic and Bio-Digestor Framework for Smart Waste Management](https://arxiv.org/abs/2604.14882v1)** | 2026-04-16 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, submitted to 7th International Conference on Smart Systems and Inventive Technology (ICSSIT 2026)</p></details> |
+| **[Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems](https://arxiv.org/abs/2604.14846v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Code to be released at https://github.com/xHaileab/Paza-AI</p></details> |
+| **[Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments](https://arxiv.org/abs/2604.14781v1)** | 2026-04-16 | <details><summary>Under...</summary><p>Under submission for publication</p></details> |
+| **[DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts](https://arxiv.org/abs/2604.14684v1)** | 2026-04-16 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://arxiv.org/abs/2502.07408v2)** | 2026-04-16 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted as a Featured Paper at Transactions on Machine Learning Research (TMLR)</p></details> |
 | **[HiProto: Hierarchical Prototype Learning for Interpretable Object Detection Under Low-quality Conditions](https://arxiv.org/abs/2604.13981v1)** | 2026-04-15 | 9 pages, 9 figures |
 | **[Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning](https://arxiv.org/abs/2604.13586v1)** | 2026-04-15 |  |
 | **[Multi-Agent Object Detection Framework Based on Raspberry Pi YOLO Detector and Slack-Ollama Natural Language Interface](https://arxiv.org/abs/2604.13345v1)** | 2026-04-14 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 2 tables, implementation code will be made available upon manuscript publication</p></details> |
@@ -72,17 +79,11 @@ labels: documentation
 | **[GigaCheck: Detecting LLM-generated Content via Object-Centric Span Localization](https://arxiv.org/abs/2410.23728v3)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
 | **[Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning](https://arxiv.org/abs/2604.12719v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the 8th Safe Artificial Intelligence for All Domains (SAIAD) workshop at IEEE/CVF CVPR 2026</p></details> |
 | **[Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection](https://arxiv.org/abs/2604.12380v1)** | 2026-04-14 | 10 |
-| **[The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results](https://arxiv.org/abs/2604.11998v1)** | 2026-04-13 | <details><summary>accep...</summary><p>accepted by CVPRW 26 @ NTIRE</p></details> |
-| **[Bridging the RGB-IR Gap: Consensus and Discrepancy Modeling for Text-Guided Multispectral Detection](https://arxiv.org/abs/2604.11234v1)** | 2026-04-13 | <details><summary>17 pa...</summary><p>17 pages ,Under review</p></details> |
-| **[Towards Adaptive Open-Set Object Detection via Category-Level Collaboration Knowledge Mining](https://arxiv.org/abs/2604.11195v1)** | 2026-04-13 | <details><summary>15 pa...</summary><p>15 pages,9 figures,accepted by IEEE Transactions on Image Processing</p></details> |
-| **[Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE](https://arxiv.org/abs/2604.11140v1)** | 2026-04-13 |  |
-| **[COXNet: Cross-Layer Fusion with Adaptive Alignment and Scale Integration for RGBT Tiny Object Detection](https://arxiv.org/abs/2508.09533v2)** | 2026-04-13 |  |
-| **[Improving Layout Representation Learning Across Inconsistently Annotated Datasets via Agentic Harmonization](https://arxiv.org/abs/2604.11042v1)** | 2026-04-13 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 5 tables</p></details> |
-| **[UHD-GPGNet: UHD Video Denoising via Gaussian-Process-Guided Local Spatio-Temporal Modeling](https://arxiv.org/abs/2604.11014v1)** | 2026-04-13 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms](https://arxiv.org/abs/2604.14540v1)** | 2026-04-16 |  |
 | **[OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation](https://arxiv.org/abs/2603.06885v2)** | 2026-04-15 | 9 figure, 3 tables |
 | **[A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings](https://arxiv.org/abs/2604.13367v1)** | 2026-04-15 |  |
 | **[RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation](https://arxiv.org/abs/2603.07436v2)** | 2026-04-13 | 8 pages, 3 figures |
@@ -97,5 +98,4 @@ labels: documentation
 | **[PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images](https://arxiv.org/abs/2604.00495v1)** | 2026-04-01 |  |
 | **[Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting](https://arxiv.org/abs/2411.17132v2)** | 2026-03-30 |  |
 | **[Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement](https://arxiv.org/abs/2603.28027v1)** | 2026-03-30 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 12 tables</p></details> |
-| **[SAM 3: Segment Anything with Concepts](https://arxiv.org/abs/2511.16719v2)** | 2026-03-28 |  |
 

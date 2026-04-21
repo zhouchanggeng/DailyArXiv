@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LBFTI: Layer-Based Facial Template Inversion for Identity-Preserving Fine-Grained Face Reconstruction](https://arxiv.org/abs/2604.18358v1)** | 2026-04-20 |  |
+| **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v1)** | 2026-04-20 |  |
+| **[R-FLoRA: Residual-Statistic-Gated Low-Rank Adaptation for Single-Image Face Morphing Attack Detection](https://arxiv.org/abs/2604.17321v1)** | 2026-04-19 | <details><summary>Pre-P...</summary><p>Pre-Print; Accepted in IEEE Transactions on Information Forensics and Security (TIFS), 2026</p></details> |
 | **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v1)** | 2026-04-16 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
 | **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v1)** | 2026-04-16 |  |
 | **[Head Count: Privacy-Preserving Face-Based Crowd Monitoring](https://arxiv.org/abs/2604.14250v1)** | 2026-04-15 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition](https://arxiv.org/abs/2404.02696v2)** | 2026-04-09 |  |
 | **[Are Face Embeddings Compatible Across Deep Neural Network Models?](https://arxiv.org/abs/2604.07282v1)** | 2026-04-08 |  |
 | **[EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling](https://arxiv.org/abs/2604.06782v1)** | 2026-04-08 |  |
-| **[Label Leakage Attacks in Machine Unlearning: A Parameter and Inversion-Based Approach](https://arxiv.org/abs/2604.07386v1)** | 2026-04-08 |  |
-| **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v1)** | 2026-04-01 |  |
-| **[TransFIRA: Transfer Learning for Face Image Recognizability Assessment](https://arxiv.org/abs/2510.06353v2)** | 2026-03-31 | <details><summary>Proje...</summary><p>Project Page: https://transfira.github.io/</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Where to Embed: Noise-Aware Positional Embedding for Query Retrieval in Small-Object Detection](https://arxiv.org/abs/2604.15065v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACM ICMR 2026; 14 pages, 6 figures, and 4 tables</p></details> |
-| **[FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection](https://arxiv.org/abs/2604.14884v1)** | 2026-04-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures,accepted to IJCNN 2026</p></details> |
-| **[An Intelligent Robotic and Bio-Digestor Framework for Smart Waste Management](https://arxiv.org/abs/2604.14882v1)** | 2026-04-16 | <details><summary>8 pag...</summary><p>8 pages, 10 figures, submitted to 7th International Conference on Smart Systems and Inventive Technology (ICSSIT 2026)</p></details> |
-| **[Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems](https://arxiv.org/abs/2604.14846v1)** | 2026-04-16 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, Code to be released at https://github.com/xHaileab/Paza-AI</p></details> |
-| **[Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments](https://arxiv.org/abs/2604.14781v1)** | 2026-04-16 | <details><summary>Under...</summary><p>Under submission for publication</p></details> |
-| **[DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts](https://arxiv.org/abs/2604.14684v1)** | 2026-04-16 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips](https://arxiv.org/abs/2502.07408v2)** | 2026-04-16 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Accepted as a Featured Paper at Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[HiProto: Hierarchical Prototype Learning for Interpretable Object Detection Under Low-quality Conditions](https://arxiv.org/abs/2604.13981v1)** | 2026-04-15 | 9 pages, 9 figures |
-| **[Efficient Multi-View 3D Object Detection by Dynamic Token Selection and Fine-Tuning](https://arxiv.org/abs/2604.13586v1)** | 2026-04-15 |  |
-| **[Multi-Agent Object Detection Framework Based on Raspberry Pi YOLO Detector and Slack-Ollama Natural Language Interface](https://arxiv.org/abs/2604.13345v1)** | 2026-04-14 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 2 tables, implementation code will be made available upon manuscript publication</p></details> |
-| **[DroneScan-YOLO: Redundancy-Aware Lightweight Detection for Tiny Objects in UAV Imagery](https://arxiv.org/abs/2604.13278v1)** | 2026-04-14 | 12 pages, 10 figures |
-| **[Rethinking Satellite Image Restoration for Onboard AI: A Lightweight Learning-Based Approach](https://arxiv.org/abs/2604.12807v1)** | 2026-04-14 | <details><summary>AI4SP...</summary><p>AI4SPACE@CVPR conference</p></details> |
-| **[GigaCheck: Detecting LLM-generated Content via Object-Centric Span Localization](https://arxiv.org/abs/2410.23728v3)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: ACL 2026</p></details> |
-| **[Monte Carlo Stochastic Depth for Uncertainty Estimation in Deep Learning](https://arxiv.org/abs/2604.12719v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the 8th Safe Artificial Intelligence for All Domains (SAIAD) workshop at IEEE/CVF CVPR 2026</p></details> |
-| **[Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection](https://arxiv.org/abs/2604.12380v1)** | 2026-04-14 | 10 |
+| **[Advancing Vision Transformer with Enhanced Spatial Priors](https://arxiv.org/abs/2604.18549v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by TPAMI2026</p></details> |
+| **[SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection](https://arxiv.org/abs/2604.18476v1)** | 2026-04-20 | CVPR 2026 |
+| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v2)** | 2026-04-20 |  |
+| **[Domain-Specialized Object Detection via Model-Level Mixtures of Experts](https://arxiv.org/abs/2604.18256v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted for publication at IJCNN 2026</p></details> |
+| **[ViT$^3$: Unlocking Test-Time Training in Vision](https://arxiv.org/abs/2512.01643v2)** | 2026-04-20 | CVPR 2026, oral |
+| **[Autonomous Unmanned Aircraft Systems for Enhanced Search and Rescue of Drowning Swimmers: Image-Based Localization and Mission Simulation](https://arxiv.org/abs/2604.18088v1)** | 2026-04-20 | <details><summary>Submi...</summary><p>Submitted to "Applied Intelligence"</p></details> |
+| **[Class-specific diffusion models improve military object detection in a low-data domain](https://arxiv.org/abs/2604.18076v1)** | 2026-04-20 | <details><summary>Submi...</summary><p>Submitted to SPIE Defense + Security</p></details> |
+| **[OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models](https://arxiv.org/abs/2604.17915v1)** | 2026-04-20 |  |
+| **[OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection](https://arxiv.org/abs/2511.21064v2)** | 2026-04-20 |  |
+| **[Exploring Boundary-Aware Spatial-Frequency Fusion for Camouflaged Object Detection](https://arxiv.org/abs/2604.17879v1)** | 2026-04-20 |  |
+| **[DGSSM: Diffusion guided state-space models for multimodal salient object detection](https://arxiv.org/abs/2604.17585v1)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026. Diffusion-guided Mamba framework for multimodal salient object detection. Evaluated on 13 benchmarks (RGB, RGB-D, RGB-T)</p></details> |
+| **[OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942v2)** | 2026-04-19 |  |
+| **[Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style](https://arxiv.org/abs/2603.11024v2)** | 2026-04-18 | 20 pages, 18 figures |
+| **[Prompt Sensitivity in Vision-Language Grounding: How Small Changes in Wording Affect Object Detection](https://arxiv.org/abs/2604.17126v1)** | 2026-04-18 | <details><summary>5 pag...</summary><p>5 pages, 9 figures, 1 table. Accepted at ICCAI 2026 (The 12th International Conference on Computing and Artificial Intelligence), Okinawa, Japan, April 24-27, 2026</p></details> |
+| **[A Real-Time Bike-Pedestrian Safety System with Wide-Angle Perception and Evaluation Testbed for Urban Intersections](https://arxiv.org/abs/2604.17046v1)** | 2026-04-18 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

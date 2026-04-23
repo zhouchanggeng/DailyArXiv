@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Impact of Face Segmentation-Based Background Removal on Recognition and Morphing Attack Detection](https://arxiv.org/abs/2604.20585v1)** | 2026-04-22 | Accepted at FG 2026 |
 | **[Seeing Candidates at Scale: Multimodal LLMs for Visual Political Communication on Instagram](https://arxiv.org/abs/2604.19489v1)** | 2026-04-21 | <details><summary>An ea...</summary><p>An earlier version was presented at #SMSociety 2024 (London)</p></details> |
 | **[Detection of T-shirt Presentation Attacks in Face Recognition Systems](https://arxiv.org/abs/2604.19365v1)** | 2026-04-21 |  |
 | **[LBFTI: Layer-Based Facial Template Inversion for Identity-Preserving Fine-Grained Face Reconstruction](https://arxiv.org/abs/2604.18358v1)** | 2026-04-20 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FaceLiVTv2: An Improved Hybrid Architecture for Efficient Mobile Face Recognition](https://arxiv.org/abs/2604.09127v1)** | 2026-04-10 |  |
 | **[Domain-generalizable Face Anti-Spoofing with Patch-based Multi-tasking and Artifact Pattern Conversion](https://arxiv.org/abs/2604.09018v1)** | 2026-04-10 | <details><summary>The p...</summary><p>The published version is available at DOI: https://doi.org/10.1016/j.patcog.2026.113640</p></details> |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v2)** | 2026-04-10 |  |
-| **[Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition](https://arxiv.org/abs/2404.02696v2)** | 2026-04-09 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
+| **[Beyond ZOH: Advanced Discretization Strategies for Vision Mamba](https://arxiv.org/abs/2604.20606v1)** | 2026-04-22 |  |
+| **[Assessing the Challenges of Collective Perception via V2I Communications in High-Speed Scenarios with Open Road Testing](https://arxiv.org/abs/2604.20489v1)** | 2026-04-22 |  |
+| **[PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044v2)** | 2026-04-22 | <details><summary>A dat...</summary><p>A dataset contains 249,320 pipeline MFL pseudo-color images and 200,020 bounding-box annotations, collected from 12 pipelines spanning approximately 1,530 km</p></details> |
+| **[Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection](https://arxiv.org/abs/2604.20281v1)** | 2026-04-22 |  |
+| **[Weak-to-Strong Knowledge Distillation Accelerates Visual Learning](https://arxiv.org/abs/2604.15451v2)** | 2026-04-21 | 18 pages, 7 figures |
+| **[3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects](https://arxiv.org/abs/2604.19982v1)** | 2026-04-21 |  |
 | **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v3)** | 2026-04-21 |  |
 | **[Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms](https://arxiv.org/abs/2604.19350v1)** | 2026-04-21 |  |
 | **[Adaptive Slicing-Assisted Hyper Inference for Enhanced Small Object Detection in High-Resolution Imagery](https://arxiv.org/abs/2604.19233v1)** | 2026-04-21 |  |
@@ -72,17 +79,13 @@ labels: documentation
 | **[Uncertainty Quantification in Detection Transformers: Object-Level Calibration and Image-Level Reliability](https://arxiv.org/abs/2412.01782v4)** | 2026-04-20 |  |
 | **[URoPE: Universal Relative Position Embedding across Geometric Spaces](https://arxiv.org/abs/2604.18747v1)** | 2026-04-20 |  |
 | **[Advancing Vision Transformer with Enhanced Spatial Priors](https://arxiv.org/abs/2604.18549v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by TPAMI2026</p></details> |
-| **[SemLT3D: Semantic-Guided Expert Distillation for Camera-only Long-Tailed 3D Object Detection](https://arxiv.org/abs/2604.18476v1)** | 2026-04-20 | CVPR 2026 |
-| **[Domain-Specialized Object Detection via Model-Level Mixtures of Experts](https://arxiv.org/abs/2604.18256v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted for publication at IJCNN 2026</p></details> |
-| **[ViT$^3$: Unlocking Test-Time Training in Vision](https://arxiv.org/abs/2512.01643v2)** | 2026-04-20 | CVPR 2026, oral |
-| **[Autonomous Unmanned Aircraft Systems for Enhanced Search and Rescue of Drowning Swimmers: Image-Based Localization and Mission Simulation](https://arxiv.org/abs/2604.18088v1)** | 2026-04-20 | <details><summary>Submi...</summary><p>Submitted to "Applied Intelligence"</p></details> |
-| **[Class-specific diffusion models improve military object detection in a low-data domain](https://arxiv.org/abs/2604.18076v1)** | 2026-04-20 | <details><summary>Submi...</summary><p>Submitted to SPIE Defense + Security</p></details> |
-| **[OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models](https://arxiv.org/abs/2604.17915v1)** | 2026-04-20 |  |
-| **[OVOD-Agent: A Markov-Bandit Framework for Proactive Visual Reasoning and Self-Evolving Detection](https://arxiv.org/abs/2511.21064v2)** | 2026-04-20 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Amodal SAM: A Unified Amodal Segmentation Framework with Generalization](https://arxiv.org/abs/2604.20748v1)** | 2026-04-22 |  |
+| **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
+| **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v1)** | 2026-04-22 | APSIPA ASC 2025 |
 | **[Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Optical Remote Sensing](https://arxiv.org/abs/2512.19302v2)** | 2026-04-21 |  |
 | **[WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms](https://arxiv.org/abs/2604.14540v1)** | 2026-04-16 |  |
 | **[OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation](https://arxiv.org/abs/2603.06885v2)** | 2026-04-15 | 9 figure, 3 tables |
@@ -95,7 +98,4 @@ labels: documentation
 | **[V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](https://arxiv.org/abs/2511.20886v2)** | 2026-04-08 | 19 pages |
 | **[Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data](https://arxiv.org/abs/2511.21926v2)** | 2026-04-06 |  |
 | **[A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias](https://arxiv.org/abs/2511.17378v2)** | 2026-04-06 | Neurips 2025 |
-| **[Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes](https://arxiv.org/abs/2408.12406v2)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted by ECCV2024 Workshop "Computational Aspects of Deep Learning (CADL)"</p></details> |
-| **[PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images](https://arxiv.org/abs/2604.00495v1)** | 2026-04-01 |  |
-| **[Understanding SAM's Robustness to Noisy Labels through Gradient Down-weighting](https://arxiv.org/abs/2411.17132v2)** | 2026-03-30 |  |
 

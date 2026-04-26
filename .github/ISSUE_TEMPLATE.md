@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion](https://arxiv.org/abs/2604.21627v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted At CVPR-W 2026</p></details> |
+| **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v2)** | 2026-04-23 |  |
+| **[ID-Eraser: Proactive Defense Against Face Swapping via Identity Perturbation](https://arxiv.org/abs/2604.21465v1)** | 2026-04-23 |  |
 | **[On the Impact of Face Segmentation-Based Background Removal on Recognition and Morphing Attack Detection](https://arxiv.org/abs/2604.20585v1)** | 2026-04-22 | Accepted at FG 2026 |
 | **[Seeing Candidates at Scale: Multimodal LLMs for Visual Political Communication on Instagram](https://arxiv.org/abs/2604.19489v1)** | 2026-04-21 | <details><summary>An ea...</summary><p>An earlier version was presented at #SMSociety 2024 (London)</p></details> |
 | **[Detection of T-shirt Presentation Attacks in Face Recognition Systems](https://arxiv.org/abs/2604.19365v1)** | 2026-04-21 |  |
@@ -33,14 +36,11 @@ labels: documentation
 | **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v1)** | 2026-04-20 |  |
 | **[R-FLoRA: Residual-Statistic-Gated Low-Rank Adaptation for Single-Image Face Morphing Attack Detection](https://arxiv.org/abs/2604.17321v1)** | 2026-04-19 | <details><summary>Pre-P...</summary><p>Pre-Print; Accepted in IEEE Transactions on Information Forensics and Security (TIFS), 2026</p></details> |
 | **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v1)** | 2026-04-16 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
-| **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v1)** | 2026-04-16 |  |
 | **[Head Count: Privacy-Preserving Face-Based Crowd Monitoring](https://arxiv.org/abs/2604.14250v1)** | 2026-04-15 |  |
 | **[BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning](https://arxiv.org/abs/2604.12686v1)** | 2026-04-14 |  |
 | **[Variational Latent Entropy Estimation Disentanglement: Controlled Attribute Leakage for Face Recognition](https://arxiv.org/abs/2604.11250v1)** | 2026-04-13 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Forensics and Security (TIFS). 13 pages, 5 figures, 4 tables</p></details> |
 | **[On the Capacity of Distinguishable Synthetic Identity Generation under Face Verification](https://arxiv.org/abs/2604.10641v1)** | 2026-04-12 |  |
 | **[FaceLiVTv2: An Improved Hybrid Architecture for Efficient Mobile Face Recognition](https://arxiv.org/abs/2604.09127v1)** | 2026-04-10 |  |
-| **[Domain-generalizable Face Anti-Spoofing with Patch-based Multi-tasking and Artifact Pattern Conversion](https://arxiv.org/abs/2604.09018v1)** | 2026-04-10 | <details><summary>The p...</summary><p>The published version is available at DOI: https://doi.org/10.1016/j.patcog.2026.113640</p></details> |
-| **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v2)** | 2026-04-10 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,28 +64,28 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v1)** | 2026-04-23 |  |
+| **[UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2604.21435v1)** | 2026-04-23 |  |
+| **[Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection](https://arxiv.org/abs/2604.20281v2)** | 2026-04-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[A Probabilistic Framework for Improving Dense Object Detection in Underwater Image Data via Annealing-Based Data Augmentation](https://arxiv.org/abs/2604.21198v1)** | 2026-04-23 |  |
+| **[Accelerating Vision Transformers with Adaptive Patch Sizes](https://arxiv.org/abs/2510.18091v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page at https://rccchoudhury.github.io/apt/</p></details> |
 | **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
 | **[Beyond ZOH: Advanced Discretization Strategies for Vision Mamba](https://arxiv.org/abs/2604.20606v1)** | 2026-04-22 |  |
 | **[Assessing the Challenges of Collective Perception via V2I Communications in High-Speed Scenarios with Open Road Testing](https://arxiv.org/abs/2604.20489v1)** | 2026-04-22 |  |
 | **[PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044v2)** | 2026-04-22 | <details><summary>A dat...</summary><p>A dataset contains 249,320 pipeline MFL pseudo-color images and 200,020 bounding-box annotations, collected from 12 pipelines spanning approximately 1,530 km</p></details> |
-| **[Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection](https://arxiv.org/abs/2604.20281v1)** | 2026-04-22 |  |
 | **[Weak-to-Strong Knowledge Distillation Accelerates Visual Learning](https://arxiv.org/abs/2604.15451v2)** | 2026-04-21 | 18 pages, 7 figures |
 | **[3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects](https://arxiv.org/abs/2604.19982v1)** | 2026-04-21 |  |
 | **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v3)** | 2026-04-21 |  |
 | **[Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms](https://arxiv.org/abs/2604.19350v1)** | 2026-04-21 |  |
 | **[Adaptive Slicing-Assisted Hyper Inference for Enhanced Small Object Detection in High-Resolution Imagery](https://arxiv.org/abs/2604.19233v1)** | 2026-04-21 |  |
 | **[RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility](https://arxiv.org/abs/2503.16251v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026; camera-ready version</p></details> |
-| **[HMR-Net: Hierarchical Modular Routing for Cross-Domain Object Detection in Aerial Images](https://arxiv.org/abs/2604.18866v1)** | 2026-04-20 | <details><summary>Submi...</summary><p>Submitted to IJCV September 2025</p></details> |
-| **[Uncertainty Quantification in Detection Transformers: Object-Level Calibration and Image-Level Reliability](https://arxiv.org/abs/2412.01782v4)** | 2026-04-20 |  |
-| **[URoPE: Universal Relative Position Embedding across Geometric Spaces](https://arxiv.org/abs/2604.18747v1)** | 2026-04-20 |  |
-| **[Advancing Vision Transformer with Enhanced Spatial Priors](https://arxiv.org/abs/2604.18549v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by TPAMI2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v2)** | 2026-04-23 | APSIPA ASC 2025 |
 | **[Amodal SAM: A Unified Amodal Segmentation Framework with Generalization](https://arxiv.org/abs/2604.20748v1)** | 2026-04-22 |  |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
-| **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v1)** | 2026-04-22 | APSIPA ASC 2025 |
 | **[Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Optical Remote Sensing](https://arxiv.org/abs/2512.19302v2)** | 2026-04-21 |  |
 | **[WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms](https://arxiv.org/abs/2604.14540v1)** | 2026-04-16 |  |
 | **[OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation](https://arxiv.org/abs/2603.06885v2)** | 2026-04-15 | 9 figure, 3 tables |

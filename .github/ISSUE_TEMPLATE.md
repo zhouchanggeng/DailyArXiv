@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain](https://arxiv.org/abs/2604.22507v1)** | 2026-04-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables, submitted at 2026 IEEE/RSJ International Conference on Intelligent Robots & Systems</p></details> |
+| **[Depth-Aware Rover: A Study of Edge AI and Monocular Vision for Real-World Implementation](https://arxiv.org/abs/2604.22331v1)** | 2026-04-24 | Accepted by IEEE |
+| **[Lifting Unlabeled Internet-level Data for 3D Scene Understanding](https://arxiv.org/abs/2604.01907v2)** | 2026-04-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://sv-pp.github.io/</p></details> |
+| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v4)** | 2026-04-24 |  |
 | **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v1)** | 2026-04-23 |  |
 | **[UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2604.21435v1)** | 2026-04-23 |  |
 | **[Fourier Series Coder: A Novel Perspective on Angle Boundary Discontinuity Problem for Oriented Object Detection](https://arxiv.org/abs/2604.20281v2)** | 2026-04-23 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
@@ -75,14 +79,12 @@ labels: documentation
 | **[PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044v2)** | 2026-04-22 | <details><summary>A dat...</summary><p>A dataset contains 249,320 pipeline MFL pseudo-color images and 200,020 bounding-box annotations, collected from 12 pipelines spanning approximately 1,530 km</p></details> |
 | **[Weak-to-Strong Knowledge Distillation Accelerates Visual Learning](https://arxiv.org/abs/2604.15451v2)** | 2026-04-21 | 18 pages, 7 figures |
 | **[3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects](https://arxiv.org/abs/2604.19982v1)** | 2026-04-21 |  |
-| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v3)** | 2026-04-21 |  |
-| **[Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms](https://arxiv.org/abs/2604.19350v1)** | 2026-04-21 |  |
-| **[Adaptive Slicing-Assisted Hyper Inference for Enhanced Small Object Detection in High-Resolution Imagery](https://arxiv.org/abs/2604.19233v1)** | 2026-04-21 |  |
-| **[RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility](https://arxiv.org/abs/2503.16251v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026; camera-ready version</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v2)** | 2026-04-24 |  |
+| **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v3)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted in ICPR 2026</p></details> |
 | **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v2)** | 2026-04-23 | APSIPA ASC 2025 |
 | **[Amodal SAM: A Unified Amodal Segmentation Framework with Generalization](https://arxiv.org/abs/2604.20748v1)** | 2026-04-22 |  |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
@@ -91,11 +93,9 @@ labels: documentation
 | **[OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation](https://arxiv.org/abs/2603.06885v2)** | 2026-04-15 | 9 figure, 3 tables |
 | **[A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings](https://arxiv.org/abs/2604.13367v1)** | 2026-04-15 |  |
 | **[RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation](https://arxiv.org/abs/2603.07436v2)** | 2026-04-13 | 8 pages, 3 figures |
-| **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v2)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted in ICPR 2026</p></details> |
 | **[Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks](https://arxiv.org/abs/2604.11162v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the AI4RWC Workshop at CVPR 2026</p></details> |
 | **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 | **[AHCQ-SAM: Toward Accurate and Hardware-Compatible Post-Training Segment Anything Model Quantization](https://arxiv.org/abs/2503.03088v4)** | 2026-04-08 | Update to AHCQ-SAM |
 | **[V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence](https://arxiv.org/abs/2511.20886v2)** | 2026-04-08 | 19 pages |
 | **[Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data](https://arxiv.org/abs/2511.21926v2)** | 2026-04-06 |  |
-| **[A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias](https://arxiv.org/abs/2511.17378v2)** | 2026-04-06 | Neurips 2025 |
 

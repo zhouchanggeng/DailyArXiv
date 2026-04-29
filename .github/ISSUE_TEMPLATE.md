@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - April 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control](https://arxiv.org/abs/2604.25887v1)** | 2026-04-28 | <details><summary>© Ana...</summary><p>© Anas Gamal Aly and Hala ElAarag, 2026. This is the authors' version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record will be published in Proceedings of the 2026 ACM Southeast Conference (ACMSE 2026)</p></details> |
+| **[Multimodal Contextualized Support for Enhancing Video Retrieval System](https://arxiv.org/abs/2412.07584v2)** | 2026-04-28 | <details><summary>This ...</summary><p>This paper has been withdrawn by the author. After further review, the author believes that the current version does not meet the desired standards and plans to revise the work before any potential resubmission</p></details> |
+| **[Quantum-Inspired Robust and Scalable SAR Object Classification](https://arxiv.org/abs/2604.25755v1)** | 2026-04-28 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, EUSAR 2026 conference</p></details> |
+| **[SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks](https://arxiv.org/abs/2604.25432v1)** | 2026-04-28 | 17 pages, 14 figures |
+| **[Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking](https://arxiv.org/abs/2604.25405v1)** | 2026-04-28 |  |
+| **[Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception](https://arxiv.org/abs/2604.25319v1)** | 2026-04-28 | 6 pages, 3 figures |
+| **[A graph generation pipeline for critical infrastructures based on heuristics, images and depth data](https://arxiv.org/abs/2512.07269v2)** | 2026-04-28 |  |
+| **[Hard to See, Hard to Label: Generative and Symbolic Acquisition for Subtle Visual Phenomena](https://arxiv.org/abs/2604.22990v2)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 SVC Workshop</p></details> |
 | **[DETOUR: A Practical Backdoor Attack against Object Detection](https://arxiv.org/abs/2604.24599v1)** | 2026-04-27 |  |
 | **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
 | **[CLLAP: Contrastive Learning-based LiDAR-Augmented Pretraining for Enhanced Radar-Camera Fusion](https://arxiv.org/abs/2604.24044v1)** | 2026-04-27 | <details><summary>accep...</summary><p>accepted by 2026 CVPR Findings</p></details> |
@@ -71,18 +79,11 @@ labels: documentation
 | **[Resource-Constrained UAV-Based Weed Detection for Site-Specific Management on Edge Devices](https://arxiv.org/abs/2604.23442v1)** | 2026-04-25 |  |
 | **[Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.23344v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
 | **[Towards Continual Expansion of Data Coverage: Automatic Text-guided Edge-case Synthesis](https://arxiv.org/abs/2509.26158v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026 Workshop on How Do Vision Models Work</p></details> |
-| **[Transferable Physical-World Adversarial Patches Against Object Detection in Autonomous Driving](https://arxiv.org/abs/2604.23105v1)** | 2026-04-25 |  |
-| **[Hard to See, Hard to Label: Generative and Symbolic Acquisition for Subtle Visual Phenomena](https://arxiv.org/abs/2604.22990v1)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 SVC Workshop</p></details> |
-| **[Self Knowledge Re-expression: A Fully Local Method for Adapting LLMs to Tasks Using Intrinsic Knowledge](https://arxiv.org/abs/2604.22939v1)** | 2026-04-24 |  |
-| **[Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain](https://arxiv.org/abs/2604.22507v1)** | 2026-04-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables, submitted at 2026 IEEE/RSJ International Conference on Intelligent Robots & Systems</p></details> |
-| **[Depth-Aware Rover: A Study of Edge AI and Monocular Vision for Real-World Implementation](https://arxiv.org/abs/2604.22331v1)** | 2026-04-24 | Accepted by IEEE |
-| **[Lifting Unlabeled Internet-level Data for 3D Scene Understanding](https://arxiv.org/abs/2604.01907v2)** | 2026-04-24 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project page: https://sv-pp.github.io/</p></details> |
-| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v4)** | 2026-04-24 |  |
-| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v1)** | 2026-04-23 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images](https://arxiv.org/abs/2604.24793v1)** | 2026-04-25 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, ISBI 2026 oral presentation</p></details> |
 | **[Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM](https://arxiv.org/abs/2604.23314v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track)</p></details> |
 | **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v2)** | 2026-04-24 |  |
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v3)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted in ICPR 2026</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation](https://arxiv.org/abs/2603.07436v2)** | 2026-04-13 | 8 pages, 3 figures |
 | **[Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks](https://arxiv.org/abs/2604.11162v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the AI4RWC Workshop at CVPR 2026</p></details> |
 | **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[AHCQ-SAM: Toward Accurate and Hardware-Compatible Post-Training Segment Anything Model Quantization](https://arxiv.org/abs/2503.03088v4)** | 2026-04-08 | Update to AHCQ-SAM |
 

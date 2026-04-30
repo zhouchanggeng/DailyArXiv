@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FunFace: Feature Utility and Norm Estimation for Face Recognition](https://arxiv.org/abs/2604.26598v1)** | 2026-04-29 |  |
 | **[Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.23584v1)** | 2026-04-26 | <details><summary>ACM I...</summary><p>ACM International Conference on Multimedia Retrieval 2026</p></details> |
 | **[DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion](https://arxiv.org/abs/2604.21627v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted At CVPR-W 2026</p></details> |
 | **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v2)** | 2026-04-23 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[R-FLoRA: Residual-Statistic-Gated Low-Rank Adaptation for Single-Image Face Morphing Attack Detection](https://arxiv.org/abs/2604.17321v1)** | 2026-04-19 | <details><summary>Pre-P...</summary><p>Pre-Print; Accepted in IEEE Transactions on Information Forensics and Security (TIFS), 2026</p></details> |
 | **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v1)** | 2026-04-16 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
 | **[Head Count: Privacy-Preserving Face-Based Crowd Monitoring](https://arxiv.org/abs/2604.14250v1)** | 2026-04-15 |  |
-| **[BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning](https://arxiv.org/abs/2604.12686v1)** | 2026-04-14 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation](https://arxiv.org/abs/2604.26857v1)** | 2026-04-29 | 6 pages, 3 figures |
+| **[Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization](https://arxiv.org/abs/2604.26820v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[ViCrop-Det: Spatial Attention Entropy Guided Cropping for Training-Free Small-Object Detection](https://arxiv.org/abs/2604.26806v1)** | 2026-04-29 |  |
+| **[A Multimodal Depth-Aware Method For Embodied Reference Understanding](https://arxiv.org/abs/2510.08278v3)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[Rethinking Satellite Image Restoration for Onboard AI: A Lightweight Learning-Based Approach](https://arxiv.org/abs/2604.12807v2)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted at AI4SPACE@CVPR conference</p></details> |
+| **[QYOLO: Lightweight Object Detection via Quantum Inspired Shared Channel Mixing](https://arxiv.org/abs/2604.26435v1)** | 2026-04-29 |  |
+| **[Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection](https://arxiv.org/abs/2604.26404v1)** | 2026-04-29 | <details><summary>This ...</summary><p>This article is submitted to Journal of Intelligent Manufacturing, and is currently in under review</p></details> |
+| **[Why Domain Matters: A Preliminary Study of Domain Effects in Underwater Object Detection](https://arxiv.org/abs/2604.26174v1)** | 2026-04-28 | <details><summary>Poste...</summary><p>Poster Presentation at ICRA 2026 Workshop S2S</p></details> |
 | **[No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control](https://arxiv.org/abs/2604.25887v1)** | 2026-04-28 | <details><summary>© Ana...</summary><p>© Anas Gamal Aly and Hala ElAarag, 2026. This is the authors' version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record will be published in Proceedings of the 2026 ACM Southeast Conference (ACMSE 2026)</p></details> |
 | **[Multimodal Contextualized Support for Enhancing Video Retrieval System](https://arxiv.org/abs/2412.07584v2)** | 2026-04-28 | <details><summary>This ...</summary><p>This paper has been withdrawn by the author. After further review, the author believes that the current version does not meet the desired standards and plans to revise the work before any potential resubmission</p></details> |
 | **[Quantum-Inspired Robust and Scalable SAR Object Classification](https://arxiv.org/abs/2604.25755v1)** | 2026-04-28 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, EUSAR 2026 conference</p></details> |
@@ -71,14 +79,6 @@ labels: documentation
 | **[Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking](https://arxiv.org/abs/2604.25405v1)** | 2026-04-28 |  |
 | **[Edge-Cloud Collaborative Reconstruction via Structure-Aware Latent Diffusion for Downstream Remote Sensing Perception](https://arxiv.org/abs/2604.25319v1)** | 2026-04-28 | 6 pages, 3 figures |
 | **[A graph generation pipeline for critical infrastructures based on heuristics, images and depth data](https://arxiv.org/abs/2512.07269v2)** | 2026-04-28 |  |
-| **[Hard to See, Hard to Label: Generative and Symbolic Acquisition for Subtle Visual Phenomena](https://arxiv.org/abs/2604.22990v2)** | 2026-04-28 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 SVC Workshop</p></details> |
-| **[DETOUR: A Practical Backdoor Attack against Object Detection](https://arxiv.org/abs/2604.24599v1)** | 2026-04-27 |  |
-| **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
-| **[CLLAP: Contrastive Learning-based LiDAR-Augmented Pretraining for Enhanced Radar-Camera Fusion](https://arxiv.org/abs/2604.24044v1)** | 2026-04-27 | <details><summary>accep...</summary><p>accepted by 2026 CVPR Findings</p></details> |
-| **[Adaptive Swin Transformer Partitioning over AI-RAN Networks](https://arxiv.org/abs/2604.23554v1)** | 2026-04-26 | <details><summary>6 pag...</summary><p>6 pages. Accepted version for presentation at the 2026 IEEE Vehicular Technology Conference (VTC2026-Spring), Nice, France 9 - 12 June 2026. copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[Resource-Constrained UAV-Based Weed Detection for Site-Specific Management on Edge Devices](https://arxiv.org/abs/2604.23442v1)** | 2026-04-25 |  |
-| **[Exploring Hierarchical Consistency and Unbiased Objectness for Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.23344v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
-| **[Towards Continual Expansion of Data Coverage: Automatic Text-guided Edge-case Synthesis](https://arxiv.org/abs/2509.26158v2)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted in CVPR 2026 Workshop on How Do Vision Models Work</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

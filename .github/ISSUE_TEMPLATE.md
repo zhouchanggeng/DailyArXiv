@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FAME: Feature Activation Map Explanation on Image Classification and Face Recognition](https://arxiv.org/abs/2605.12017v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for CVPR Workshop 2026</p></details> |
 | **[Improving Human Image Animation via Semantic Representation Alignment](https://arxiv.org/abs/2605.10523v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 workshop</p></details> |
 | **[Head Similarity: Modeling Structured Whole-Head Appearance Beyond Face Recognition](https://arxiv.org/abs/2605.07766v1)** | 2026-05-08 |  |
 | **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v1)** | 2026-05-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.23584v1)** | 2026-04-26 | <details><summary>ACM I...</summary><p>ACM International Conference on Multimedia Retrieval 2026</p></details> |
 | **[DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion](https://arxiv.org/abs/2604.21627v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted At CVPR-W 2026</p></details> |
 | **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v2)** | 2026-04-23 |  |
-| **[ID-Eraser: Proactive Defense Against Face Swapping via Identity Perturbation](https://arxiv.org/abs/2604.21465v1)** | 2026-04-23 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks](https://arxiv.org/abs/2604.25432v2)** | 2026-05-12 | Accepted by ISPRS |
+| **[SB-BEVFusion: Enhancing the Robustness against Sensor Malfunction and Corruptions](https://arxiv.org/abs/2605.11799v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICIP 2026</p></details> |
+| **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
+| **[BronchoLumen: Analysis of recent YOLO-based architectures for real-time bronchial orifice detection in video bronchoscopy](https://arxiv.org/abs/2605.11748v1)** | 2026-05-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, IPCAI 2026</p></details> |
+| **[TCP-SSM: Efficient Vision State Space Models with Token-Conditioned Poles](https://arxiv.org/abs/2605.11563v1)** | 2026-05-12 |  |
+| **[Spectral-Adaptive Modulation Networks for Visual Perception](https://arxiv.org/abs/2503.23947v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
+| **[XWOD: A Real-World Benchmark for Object Detection under Extreme Weather Conditions](https://arxiv.org/abs/2605.11521v1)** | 2026-05-12 |  |
+| **[Can Graphs Help Vision SSMs See Better?](https://arxiv.org/abs/2605.11300v1)** | 2026-05-11 | Technical Report |
 | **[Portable Active Learning for Object Detection](https://arxiv.org/abs/2605.10349v1)** | 2026-05-11 | CVPR 2026(highlight) |
 | **[Increasing the Efficiency of DETR for Maritime High-Resolution Images](https://arxiv.org/abs/2605.10269v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to IEEE ITSC 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses. DOI to be added upon publication</p></details> |
 | **[Statistical Analysis for Energy-Efficient Satellite Edge Computing with Latency Guarantees](https://arxiv.org/abs/2605.10215v1)** | 2026-05-11 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table, submitted to IEEE GLOBECOM 2026</p></details> |
@@ -71,18 +79,11 @@ labels: documentation
 | **[Active-SAOOD: Active Sparsely Annotated Oriented Object Detection in Remote Sensing Images](https://arxiv.org/abs/2605.10162v1)** | 2026-05-11 |  |
 | **[Thermal-Det: Language-Guided Cross-Modal Distillation for Open-Vocabulary Thermal Object Detection](https://arxiv.org/abs/2605.10130v1)** | 2026-05-11 | Accepted at CVPR 26 |
 | **[R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](https://arxiv.org/abs/2603.11566v2)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2605.10026v1)** | 2026-05-11 |  |
-| **[Hyperbolic Distillation: Geometry-Guided Cross-Modal Transfer for Robust 3D Object Detection](https://arxiv.org/abs/2605.09899v1)** | 2026-05-11 | <details><summary>Curre...</summary><p>Current version has been subbmitted to IEEE Transactions on Multimedia. Now, this manuscript's status is Under Review</p></details> |
-| **[CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection](https://arxiv.org/abs/2605.09802v1)** | 2026-05-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Code available at https://github.com/1nyourlife/Crossvl_cvpr2026</p></details> |
-| **[Distilling 3D Spatial Reasoning into a Lightweight Vision-Language Model with CoT](https://arxiv.org/abs/2605.09719v1)** | 2026-05-10 |  |
-| **[MVB-Grasp: Minimum-Volume-Box Filtering of Diffusion-based Grasps for Frontal Manipulation](https://arxiv.org/abs/2605.09672v1)** | 2026-05-10 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, accepted to IJCNN 2026</p></details> |
-| **[AnyDepth-DETR/-YOLO: Any-depth object detection with a single network](https://arxiv.org/abs/2605.09407v1)** | 2026-05-10 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 9 tables</p></details> |
-| **[Heterogeneous Model Fusion for Privacy-Aware Multi-Camera Surveillance via Synthetic Domain Adaptation](https://arxiv.org/abs/2605.02169v2)** | 2026-05-10 | <details><summary>42 pa...</summary><p>42 pages, 13 figures. Published in Information Fusion (Elsevier). DOI: 10.1016/j.inffus.2026.104413</p></details> |
-| **[HyDRA Scorpion: A Cost-effective and Modular ROV for Real-Time Underwater Inspection, Intervention, and Object Detection](https://arxiv.org/abs/2605.09093v1)** | 2026-05-09 | <details><summary>9 Pag...</summary><p>9 Pages, 11 figures, Research Paper by UIU Mariner Team</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
 | **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
 | **[VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection](https://arxiv.org/abs/2605.03456v3)** | 2026-05-09 |  |
 | **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604v1)** | 2026-05-08 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v2)** | 2026-04-23 | APSIPA ASC 2025 |
 | **[Amodal SAM: A Unified Amodal Segmentation Framework with Generalization](https://arxiv.org/abs/2604.20748v1)** | 2026-04-22 |  |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
-| **[Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Optical Remote Sensing](https://arxiv.org/abs/2512.19302v2)** | 2026-04-21 |  |
 

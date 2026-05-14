@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PreFIQs: Face Image Quality Is What Survives Pruning](https://arxiv.org/abs/2605.13396v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshops</p></details> |
 | **[FAME: Feature Activation Map Explanation on Image Classification and Face Recognition](https://arxiv.org/abs/2605.12017v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for CVPR Workshop 2026</p></details> |
 | **[Improving Human Image Animation via Semantic Representation Alignment](https://arxiv.org/abs/2605.10523v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 workshop</p></details> |
 | **[Head Similarity: Modeling Structured Whole-Head Appearance Beyond Face Recognition](https://arxiv.org/abs/2605.07766v1)** | 2026-05-08 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[FunFace: Feature Utility and Norm Estimation for Face Recognition](https://arxiv.org/abs/2604.26598v1)** | 2026-04-29 |  |
 | **[Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.23584v1)** | 2026-04-26 | <details><summary>ACM I...</summary><p>ACM International Conference on Multimedia Retrieval 2026</p></details> |
 | **[DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion](https://arxiv.org/abs/2604.21627v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted At CVPR-W 2026</p></details> |
-| **[Find the Differences: Differential Morphing Attack Detection vs Face Recognition](https://arxiv.org/abs/2604.14734v2)** | 2026-04-23 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation](https://arxiv.org/abs/2605.13815v1)** | 2026-05-13 | <details><summary>Prepr...</summary><p>Preprint; 12 pages, 7 figures, 10 tables</p></details> |
+| **[Generative Texture Diversification of 3D Pedestrians for Robust Autonomous Driving Perception](https://arxiv.org/abs/2605.13755v1)** | 2026-05-13 | <details><summary>Publi...</summary><p>Published at SAIAD 2026 Workshop at CVPR 2026</p></details> |
+| **[Pattern-Enhanced RT-DETR for Multi-Class Battery Detection](https://arxiv.org/abs/2605.13670v1)** | 2026-05-13 | 4 pages, 3 figures |
+| **[WD-FQDet: Multispectral Detection Transformer via Wavelet Decomposition and Frequency-aware Query Learning](https://arxiv.org/abs/2605.13621v1)** | 2026-05-13 |  |
+| **[DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.02753v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Rethinking Event-Based Object Dtection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning](https://arxiv.org/abs/2605.08825v2)** | 2026-05-13 |  |
+| **[FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection](https://arxiv.org/abs/2509.23056v2)** | 2026-05-13 |  |
+| **[Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection](https://arxiv.org/abs/2605.13140v1)** | 2026-05-13 |  |
+| **[ERPPO: Entropy Regularization-based Proximal Policy Optimization](https://arxiv.org/abs/2605.13131v1)** | 2026-05-13 | 9 pages, 5 figures |
+| **[Visual Accommodation: Rethinking Image Scale as a Learnable Variable for Object Detection](https://arxiv.org/abs/2412.06341v2)** | 2026-05-13 | 23 pages, 11 figures |
+| **[CoT-Guard: Small Models for Strong Monitoring](https://arxiv.org/abs/2605.12746v1)** | 2026-05-12 |  |
+| **[Scalable Object Detection in the Car Interior With Vision Foundation Models](https://arxiv.org/abs/2508.19651v3)** | 2026-05-12 |  |
+| **[A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline](https://arxiv.org/abs/2605.12608v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project code and experimental configs available at https://github.com/mmohamed28/Clear2Fog</p></details> |
+| **[3D Primitives are a Spatial Language for VLMs](https://arxiv.org/abs/2605.12586v1)** | 2026-05-12 |  |
 | **[SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks](https://arxiv.org/abs/2604.25432v2)** | 2026-05-12 | Accepted by ISPRS |
-| **[SB-BEVFusion: Enhancing the Robustness against Sensor Malfunction and Corruptions](https://arxiv.org/abs/2605.11799v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICIP 2026</p></details> |
-| **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
-| **[BronchoLumen: Analysis of recent YOLO-based architectures for real-time bronchial orifice detection in video bronchoscopy](https://arxiv.org/abs/2605.11748v1)** | 2026-05-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, IPCAI 2026</p></details> |
-| **[TCP-SSM: Efficient Vision State Space Models with Token-Conditioned Poles](https://arxiv.org/abs/2605.11563v1)** | 2026-05-12 |  |
-| **[Spectral-Adaptive Modulation Networks for Visual Perception](https://arxiv.org/abs/2503.23947v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
-| **[XWOD: A Real-World Benchmark for Object Detection under Extreme Weather Conditions](https://arxiv.org/abs/2605.11521v1)** | 2026-05-12 |  |
-| **[Can Graphs Help Vision SSMs See Better?](https://arxiv.org/abs/2605.11300v1)** | 2026-05-11 | Technical Report |
-| **[Portable Active Learning for Object Detection](https://arxiv.org/abs/2605.10349v1)** | 2026-05-11 | CVPR 2026(highlight) |
-| **[Increasing the Efficiency of DETR for Maritime High-Resolution Images](https://arxiv.org/abs/2605.10269v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to IEEE ITSC 2026. Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses. DOI to be added upon publication</p></details> |
-| **[Statistical Analysis for Energy-Efficient Satellite Edge Computing with Latency Guarantees](https://arxiv.org/abs/2605.10215v1)** | 2026-05-11 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, 1 table, submitted to IEEE GLOBECOM 2026</p></details> |
-| **[DetRefiner: Model-Agnostic Detection Refinement with Feature Fusion Transformer](https://arxiv.org/abs/2605.10190v1)** | 2026-05-11 | CVPR 2026 Findings |
-| **[Active-SAOOD: Active Sparsely Annotated Oriented Object Detection in Remote Sensing Images](https://arxiv.org/abs/2605.10162v1)** | 2026-05-11 |  |
-| **[Thermal-Det: Language-Guided Cross-Modal Distillation for Open-Vocabulary Thermal Object Detection](https://arxiv.org/abs/2605.10130v1)** | 2026-05-11 | Accepted at CVPR 26 |
-| **[R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection](https://arxiv.org/abs/2603.11566v2)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation](https://arxiv.org/abs/2605.13815v1)** | 2026-05-13 | <details><summary>Prepr...</summary><p>Preprint; 12 pages, 7 figures, 10 tables</p></details> |
-| **[Generative Texture Diversification of 3D Pedestrians for Robust Autonomous Driving Perception](https://arxiv.org/abs/2605.13755v1)** | 2026-05-13 | <details><summary>Publi...</summary><p>Published at SAIAD 2026 Workshop at CVPR 2026</p></details> |
-| **[Pattern-Enhanced RT-DETR for Multi-Class Battery Detection](https://arxiv.org/abs/2605.13670v1)** | 2026-05-13 | 4 pages, 3 figures |
-| **[WD-FQDet: Multispectral Detection Transformer via Wavelet Decomposition and Frequency-aware Query Learning](https://arxiv.org/abs/2605.13621v1)** | 2026-05-13 |  |
-| **[DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.02753v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Rethinking Event-Based Object Dtection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning](https://arxiv.org/abs/2605.08825v2)** | 2026-05-13 |  |
-| **[FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection](https://arxiv.org/abs/2509.23056v2)** | 2026-05-13 |  |
-| **[Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection](https://arxiv.org/abs/2605.13140v1)** | 2026-05-13 |  |
-| **[ERPPO: Entropy Regularization-based Proximal Policy Optimization](https://arxiv.org/abs/2605.13131v1)** | 2026-05-13 | 9 pages, 5 figures |
-| **[Visual Accommodation: Rethinking Image Scale as a Learnable Variable for Object Detection](https://arxiv.org/abs/2412.06341v2)** | 2026-05-13 | 23 pages, 11 figures |
-| **[CoT-Guard: Small Models for Strong Monitoring](https://arxiv.org/abs/2605.12746v1)** | 2026-05-12 |  |
-| **[Scalable Object Detection in the Car Interior With Vision Foundation Models](https://arxiv.org/abs/2508.19651v3)** | 2026-05-12 |  |
-| **[A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline](https://arxiv.org/abs/2605.12608v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project code and experimental configs available at https://github.com/mmohamed28/Clear2Fog</p></details> |
-| **[3D Primitives are a Spatial Language for VLMs](https://arxiv.org/abs/2605.12586v1)** | 2026-05-12 |  |
-| **[SARU: A Shadow-Aware and Removal Unified Framework for Remote Sensing Images with New Benchmarks](https://arxiv.org/abs/2604.25432v2)** | 2026-05-12 | Accepted by ISPRS |
+| **[Hardware Utilization and Inference Performance of Edge Object Detection Under Fault Injection](https://arxiv.org/abs/2604.09631v2)** | 2026-05-15 |  |
+| **[TSBOW -- Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions](https://arxiv.org/abs/2602.05414v2)** | 2026-05-15 | <details><summary>This ...</summary><p>This paper has been accepted by the 40th AAAI Conference on Artificial Intelligence (AAAI-26)</p></details> |
+| **[SARVLM: A Vision Language Foundation Model for Semantic Understanding in SAR Imagery](https://arxiv.org/abs/2510.22665v3)** | 2026-05-15 | 13 pages, 13 figures |
+| **[RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition](https://arxiv.org/abs/2403.13805v2)** | 2026-05-15 | <details><summary>Proje...</summary><p>Project: https://github.com/Liuziyu77/RAR</p></details> |
+| **[SURGE: Surrogate Gradient Adaptation in Binary Neural Networks](https://arxiv.org/abs/2605.10989v2)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted as a poster at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Learning to Detect and Segment for Open Vocabulary Object Detection](https://arxiv.org/abs/2212.12130v7)** | 2026-05-15 | <details><summary>We ap...</summary><p>We appologize that author Nan Li was not on the published version due to cvpr23 policy that authors cannot be added after abstract deadline</p></details> |
+| **[3DTMDet: A Dual-Path Synergy Network of Transformer and SSM for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2605.15546v1)** | 2026-05-15 |  |
+| **[Learning Dynamic Structural Specialization for Underwater Salient Object Detection](https://arxiv.org/abs/2605.15535v1)** | 2026-05-15 | 15 pages |
+| **[RIDE: Retinex-Informed Decoupling for Exposing Concealed Objects](https://arxiv.org/abs/2605.15450v1)** | 2026-05-14 |  |
+| **[MR2-ByteTrack: CNN and Transformer-based Video Object Detection for AI-augmented Embedded Vision Sensor Nodes](https://arxiv.org/abs/2605.15423v1)** | 2026-05-14 |  |
+| **[Multimodal Object Detection Under Sparse Forest-Canopy Occlusion](https://arxiv.org/abs/2605.15326v1)** | 2026-05-14 |  |
+| **[mRadNet: A Compact Radar Object Detector with MetaFormer](https://arxiv.org/abs/2509.16223v3)** | 2026-05-14 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, to appear in Proc. of 34th European Signal Processing Conference (EUSIPCO 2026), Bruges, Belgique, Aug. 31 - Sept. 4, 2026. Code availble at https://github.com/huaiyu-chen/mRadNet</p></details> |
+| **[Characterizing the visual representation of objects from the child's view](https://arxiv.org/abs/2605.14990v1)** | 2026-05-14 | 19 pages, 6 figures |
+| **[Representative Attention For Vision Transformers](https://arxiv.org/abs/2605.14913v1)** | 2026-05-14 |  |
+| **[Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation](https://arxiv.org/abs/2605.14799v1)** | 2026-05-14 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v2)** | 2026-05-14 |  |
 | **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
 | **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
 | **[VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection](https://arxiv.org/abs/2605.03456v3)** | 2026-05-09 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v3)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted in ICPR 2026</p></details> |
 | **[Semantic-Fast-SAM: Efficient Semantic Segmenter](https://arxiv.org/abs/2604.20169v2)** | 2026-04-23 | APSIPA ASC 2025 |
 | **[Amodal SAM: A Unified Amodal Segmentation Framework with Generalization](https://arxiv.org/abs/2604.20748v1)** | 2026-04-22 |  |
-| **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
 

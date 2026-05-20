@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](https://arxiv.org/abs/2605.14014v2)** | 2026-05-19 |  |
+| **[CADENet: Condition-Adaptive Asynchronous Dual-Stream Enhancement Network for Adverse Weather Perception in Autonomous Driving](https://arxiv.org/abs/2605.19837v1)** | 2026-05-19 |  |
+| **[A novel YOLO26-MoE optimized by an LLM agent for insulator fault detection considering UAV images](https://arxiv.org/abs/2605.19595v1)** | 2026-05-19 |  |
+| **[Towards Camera-Robust 3D Localization: Equation-Anchored Tool-Use for MLLMs](https://arxiv.org/abs/2605.19528v1)** | 2026-05-19 |  |
+| **[Adapted Center and Scale Prediction: More Stable and More Accurate](https://arxiv.org/abs/2002.09053v3)** | 2026-05-19 | 14 pages, 7 figures |
+| **[Fast-BEV++: Fast by Algorithm, Deployable by Design](https://arxiv.org/abs/2512.08237v3)** | 2026-05-19 | <details><summary>most ...</summary><p>most up-to-date version</p></details> |
+| **[Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style](https://arxiv.org/abs/2603.11024v3)** | 2026-05-19 | 20 pages, 18 figures |
 | **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
 | **[A Dataset for the Recognition of Historical and Handwritten Music Scores in Western Notation](https://arxiv.org/abs/2605.18436v1)** | 2026-05-18 | <details><summary>Under...</summary><p>Under review at Scientific Data</p></details> |
 | **[TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/abs/2605.18434v1)** | 2026-05-18 |  |
@@ -72,17 +79,11 @@ labels: documentation
 | **[4DLidarOpen: An Open 4D FMCW Lidar Dataset for Motion-Aware Autonomous Driving](https://arxiv.org/abs/2605.18074v1)** | 2026-05-18 | 15pages, 9 figures |
 | **[DSAA: Dual-Stage Attribute Activation for Fine-grained Open Vocabulary Detection](https://arxiv.org/abs/2605.18023v1)** | 2026-05-18 |  |
 | **[Unleashing the Representational Power of Fourier Shapes for Attacking Infrared Object Detection](https://arxiv.org/abs/2605.17822v1)** | 2026-05-18 |  |
-| **[Towards Universal Physical Adversarial Attacks via a Joint Multi-Objective and Multi-Model Optimization Framework](https://arxiv.org/abs/2605.17772v1)** | 2026-05-18 | Under review |
-| **[Multi-task learning on partially labeled datasets via invariant/equivariant semi-supervised learning](https://arxiv.org/abs/2605.17624v1)** | 2026-05-17 | <details><summary>https...</summary><p>https://github.com/miquelmarti/DenseFixMatch</p></details> |
-| **[Error-Decomposed Class-Conditional Fusion for Statistically Guaranteed Hard-Category Robust Perception](https://arxiv.org/abs/2605.17591v1)** | 2026-05-17 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Preprint</p></details> |
-| **[Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTevent](https://arxiv.org/abs/2603.21787v2)** | 2026-05-17 | <details><summary>Accep...</summary><p>Accepted at the Neuromorphic Field Robotics and Automation Workshop, ICRA 2026</p></details> |
-| **[HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone](https://arxiv.org/abs/2605.17286v1)** | 2026-05-17 |  |
-| **[MoCA3D: Monocular 3D Bounding Box Prediction in the Image Plane](https://arxiv.org/abs/2603.19538v2)** | 2026-05-16 | <details><summary>27 pa...</summary><p>27 pages, 9 figures, including supplementary material</p></details> |
-| **[TRACE: Evidence Grounding-Guided Multi-Video Event Understanding and Claim Generation](https://arxiv.org/abs/2605.16740v1)** | 2026-05-16 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Workshop</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synergistic Foundation Models for Semi-Supervised Fetal Cardiac Ultrasound Analysis: SAM-Med2D Boundary Refinement and DINOv3 Semantic Enhancement](https://arxiv.org/abs/2605.19799v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to the ISBI 2026 Fetal HearT UltraSound Segmentation and Diagnosis (FETUS) Challenge</p></details> |
 | **[SAM 2++: Tracking Anything at Any Granularity](https://arxiv.org/abs/2510.18822v4)** | 2026-05-18 | 14 pages |
 | **[CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](https://arxiv.org/abs/2605.16901v1)** | 2026-05-16 |  |
 | **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v2)** | 2026-05-14 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images](https://arxiv.org/abs/2604.24793v1)** | 2026-04-25 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, ISBI 2026 oral presentation</p></details> |
 | **[Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM](https://arxiv.org/abs/2604.23314v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track)</p></details> |
 | **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v2)** | 2026-04-24 |  |
-| **[PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion](https://arxiv.org/abs/2601.07447v3)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted in ICPR 2026</p></details> |
 

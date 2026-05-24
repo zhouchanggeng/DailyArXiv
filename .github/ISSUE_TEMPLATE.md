@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2026
+title: Latest 15 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v2)** | 2026-05-19 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
 | **[Bridging Data Trials and Task Barriers: A Unified Framework for Sketch Biometric Identification](https://arxiv.org/abs/2605.17367v1)** | 2026-05-17 | <details><summary>The s...</summary><p>The source code and models are publicly available at https://github.com/sHanbIgsUn/UFSB</p></details> |
 | **[Mind the Gap: Learning Modality-Agnostic Representations with a Cross-Modality UNet](https://arxiv.org/abs/2605.16887v1)** | 2026-05-16 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing. See full abstract in the PDF file</p></details> |
 | **[Face inpainting with Identity Preserving Latent Diffusion Models](https://arxiv.org/abs/2605.16696v1)** | 2026-05-15 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition](https://arxiv.org/abs/2605.01217v1)** | 2026-05-02 |  |
 | **[DiffMI: Breaking Face Recognition Privacy via Diffusion-Driven Training-Free Model Inversion](https://arxiv.org/abs/2504.18015v4)** | 2026-05-01 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Information Forensics and Security</p></details> |
 | **[Learning from a single labeled face and a stream of unlabeled data](https://arxiv.org/abs/2604.27564v1)** | 2026-04-30 | <details><summary>Publi...</summary><p>Published at IEEE International Conference on Automatic Face and Gesture Recognition (FG 2013). doi:10.1109/FG.2013.6553720</p></details> |
-| **[Online semi-supervised perception: Real-time learning without explicit feedback](https://arxiv.org/abs/2604.27562v1)** | 2026-04-30 | <details><summary>IEEE ...</summary><p>IEEE Computer Vision and Pattern Recognition Workshop on Online Learning for Computer Vision (CVPR 2010 OLCV)</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoupling Ego-Motion from Target Dynamics via Dual-Interval Motion Cues for UAV Detection](https://arxiv.org/abs/2605.22605v1)** | 2026-05-21 |  |
+| **[SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data](https://arxiv.org/abs/2605.22467v1)** | 2026-05-21 |  |
+| **[Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light](https://arxiv.org/abs/2605.22455v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted non-archival paper at the CVPR 2026 AUTOPILOT Workshop (Autonomous Understanding Through Open-world Perception and Integrated Language Models for On-road Tasks)</p></details> |
+| **[Detection of Virus and Small Cell Patches in Foci Images Using Switchable Convolution and Feature Pyramid Networks](https://arxiv.org/abs/2605.22290v1)** | 2026-05-21 |  |
+| **[Enhancing Event-based Object Detection with Monocular Normal Maps](https://arxiv.org/abs/2508.02127v3)** | 2026-05-21 |  |
+| **[LFX: Towards Unified Light Field Dense Semantic Segmentation and Salient Object Detection](https://arxiv.org/abs/2503.00747v2)** | 2026-05-21 | <details><summary>The s...</summary><p>The source code will be made publicly available at https://github.com/FeiT-FeiTeng/LFX</p></details> |
+| **[Dual-Integrated Low-Latency Single-Lens Infrared Computational Imaging for Object Detection](https://arxiv.org/abs/2605.21964v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 11 figures; supplementary material: 3 pages, 2 figures</p></details> |
+| **[Deformba: Vision State Space Model with Adaptive State Fusion](https://arxiv.org/abs/2605.21308v1)** | 2026-05-20 |  |
+| **[Supporting Dynamic Control-Flow Execution for Runtime Reconfigurable Processors](https://arxiv.org/abs/2605.21203v1)** | 2026-05-20 |  |
+| **[SAM-Sode: Towards Faithful Explanations for Tiny Bacteria Detection](https://arxiv.org/abs/2605.21186v1)** | 2026-05-20 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, conference paper</p></details> |
+| **[RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding](https://arxiv.org/abs/2605.21112v1)** | 2026-05-20 |  |
+| **[How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study](https://arxiv.org/abs/2604.06750v2)** | 2026-05-20 | 8 pages, 5 figures |
+| **[SpikeDet: Better Firing Patterns for Accurate and Energy-Efficient Object Detection with Spiking Neural Networks](https://arxiv.org/abs/2501.15151v5)** | 2026-05-20 |  |
+| **[STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection](https://arxiv.org/abs/2605.20738v1)** | 2026-05-20 | <details><summary>STAR-...</summary><p>STAR-IOD was accepted by ISPRS Journal of Photogrammetry and Remote Sensing</p></details> |
 | **[Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](https://arxiv.org/abs/2605.14014v2)** | 2026-05-19 |  |
-| **[CADENet: Condition-Adaptive Asynchronous Dual-Stream Enhancement Network for Adverse Weather Perception in Autonomous Driving](https://arxiv.org/abs/2605.19837v1)** | 2026-05-19 |  |
-| **[A novel YOLO26-MoE optimized by an LLM agent for insulator fault detection considering UAV images](https://arxiv.org/abs/2605.19595v1)** | 2026-05-19 |  |
-| **[Towards Camera-Robust 3D Localization: Equation-Anchored Tool-Use for MLLMs](https://arxiv.org/abs/2605.19528v1)** | 2026-05-19 |  |
-| **[Adapted Center and Scale Prediction: More Stable and More Accurate](https://arxiv.org/abs/2002.09053v3)** | 2026-05-19 | 14 pages, 7 figures |
-| **[Fast-BEV++: Fast by Algorithm, Deployable by Design](https://arxiv.org/abs/2512.08237v3)** | 2026-05-19 | <details><summary>most ...</summary><p>most up-to-date version</p></details> |
-| **[Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style](https://arxiv.org/abs/2603.11024v3)** | 2026-05-19 | 20 pages, 18 figures |
-| **[YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search](https://arxiv.org/abs/2603.09405v2)** | 2026-05-18 | <details><summary>Accep...</summary><p>Accepted as Oral at CVPR 2026 Workshop on Neural Architecture Search (NAS)</p></details> |
-| **[A Dataset for the Recognition of Historical and Handwritten Music Scores in Western Notation](https://arxiv.org/abs/2605.18436v1)** | 2026-05-18 | <details><summary>Under...</summary><p>Under review at Scientific Data</p></details> |
-| **[TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/abs/2605.18434v1)** | 2026-05-18 |  |
-| **[Enhancing Event-based Object Detection with Monocular Normal Maps](https://arxiv.org/abs/2508.02127v2)** | 2026-05-18 |  |
-| **[EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation](https://arxiv.org/abs/2605.18214v1)** | 2026-05-18 |  |
-| **[4DLidarOpen: An Open 4D FMCW Lidar Dataset for Motion-Aware Autonomous Driving](https://arxiv.org/abs/2605.18074v1)** | 2026-05-18 | 15pages, 9 figures |
-| **[DSAA: Dual-Stage Attribute Activation for Fine-grained Open Vocabulary Detection](https://arxiv.org/abs/2605.18023v1)** | 2026-05-18 |  |
-| **[Unleashing the Representational Power of Fourier Shapes for Attacking Infrared Object Detection](https://arxiv.org/abs/2605.17822v1)** | 2026-05-18 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-Sode: Towards Faithful Explanations for Tiny Bacteria Detection](https://arxiv.org/abs/2605.21186v1)** | 2026-05-20 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, conference paper</p></details> |
 | **[Synergistic Foundation Models for Semi-Supervised Fetal Cardiac Ultrasound Analysis: SAM-Med2D Boundary Refinement and DINOv3 Semantic Enhancement](https://arxiv.org/abs/2605.19799v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to the ISBI 2026 Fetal HearT UltraSound Segmentation and Diagnosis (FETUS) Challenge</p></details> |
 | **[SAM 2++: Tracking Anything at Any Granularity](https://arxiv.org/abs/2510.18822v4)** | 2026-05-18 | 14 pages |
 | **[CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](https://arxiv.org/abs/2605.16901v1)** | 2026-05-16 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics](https://arxiv.org/abs/2604.27128v1)** | 2026-04-29 |  |
 | **[CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images](https://arxiv.org/abs/2604.24793v1)** | 2026-04-25 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, ISBI 2026 oral presentation</p></details> |
 | **[Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM](https://arxiv.org/abs/2604.23314v1)** | 2026-04-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track)</p></details> |
-| **[OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3](https://arxiv.org/abs/2601.13895v2)** | 2026-04-24 |  |
 

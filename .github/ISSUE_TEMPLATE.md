@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DFIR-DETR: Frequency-Domain Iterative Refinement and Dynamic Feature Aggregation for Small Object Detection](https://arxiv.org/abs/2512.07078v4)** | 2026-05-22 |  |
+| **[Edge Assisted Multi-Camera Vehicle Tracking Framework for Real-Time and Scalable Deployment](https://arxiv.org/abs/2511.13904v2)** | 2026-05-22 |  |
+| **[EgoInteract: Synthetic Egocentric Videos Generation for Interaction Understanding and Anticipation](https://arxiv.org/abs/2605.18214v2)** | 2026-05-22 |  |
+| **[VFM$^{4}$SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2604.21502v2)** | 2026-05-22 |  |
+| **[Recursive Block-Diagonal Coupling for Resource-Efficient Training of Vision Models](https://arxiv.org/abs/2605.23656v1)** | 2026-05-22 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 4 tables, and 34 references</p></details> |
+| **[DualMem: Bypassing the Objectness Bottleneck for Calibrated Unknown-Stream Filtering in Open-World Object Detection](https://arxiv.org/abs/2605.23634v1)** | 2026-05-22 |  |
+| **[Rethinking Transfer Learning for Industrial Inspection: DINOv3 vs. ImageNet Pretraining Across RGB and X-ray Tasks](https://arxiv.org/abs/2605.23472v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 Workshop on Vision Foundation Models for Industrial Inspection (VISION'26)</p></details> |
+| **[RS2AD-LiDAR: End-to-End Autonomous Driving LiDAR Data Generation from Roadside Sensor Observations](https://arxiv.org/abs/2605.23406v1)** | 2026-05-22 |  |
+| **[Quantum-Inspired Robust and Scalable SAR Object Classification](https://arxiv.org/abs/2604.25755v2)** | 2026-05-22 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, EUSAR 2026 conference</p></details> |
+| **[PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044v3)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ACM KDD 2026 Datasets and Benchmarks Track</p></details> |
+| **[SLIP-RS: Structured-Attribute Language-Image Pre-Training for Remote Sensing Object Detection](https://arxiv.org/abs/2605.23144v1)** | 2026-05-22 |  |
+| **[Scene Reconstruction as Mapping Priors for 3D Detection](https://arxiv.org/abs/2605.22997v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Decoupling Ego-Motion from Target Dynamics via Dual-Interval Motion Cues for UAV Detection](https://arxiv.org/abs/2605.22605v1)** | 2026-05-21 |  |
 | **[SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data](https://arxiv.org/abs/2605.22467v1)** | 2026-05-21 |  |
 | **[Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light](https://arxiv.org/abs/2605.22455v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted non-archival paper at the CVPR 2026 AUTOPILOT Workshop (Autonomous Understanding Through Open-world Perception and Integrated Language Models for On-road Tasks)</p></details> |
-| **[Detection of Virus and Small Cell Patches in Foci Images Using Switchable Convolution and Feature Pyramid Networks](https://arxiv.org/abs/2605.22290v1)** | 2026-05-21 |  |
-| **[Enhancing Event-based Object Detection with Monocular Normal Maps](https://arxiv.org/abs/2508.02127v3)** | 2026-05-21 |  |
-| **[LFX: Towards Unified Light Field Dense Semantic Segmentation and Salient Object Detection](https://arxiv.org/abs/2503.00747v2)** | 2026-05-21 | <details><summary>The s...</summary><p>The source code will be made publicly available at https://github.com/FeiT-FeiTeng/LFX</p></details> |
-| **[Dual-Integrated Low-Latency Single-Lens Infrared Computational Imaging for Object Detection](https://arxiv.org/abs/2605.21964v1)** | 2026-05-21 | <details><summary>15 pa...</summary><p>15 pages, 11 figures; supplementary material: 3 pages, 2 figures</p></details> |
-| **[Deformba: Vision State Space Model with Adaptive State Fusion](https://arxiv.org/abs/2605.21308v1)** | 2026-05-20 |  |
-| **[Supporting Dynamic Control-Flow Execution for Runtime Reconfigurable Processors](https://arxiv.org/abs/2605.21203v1)** | 2026-05-20 |  |
-| **[SAM-Sode: Towards Faithful Explanations for Tiny Bacteria Detection](https://arxiv.org/abs/2605.21186v1)** | 2026-05-20 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, conference paper</p></details> |
-| **[RCGDet3D: Rethinking 4D Radar-Camera Fusion-based 3D Object Detection with Enhanced Radar Feature Encoding](https://arxiv.org/abs/2605.21112v1)** | 2026-05-20 |  |
-| **[How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study](https://arxiv.org/abs/2604.06750v2)** | 2026-05-20 | 8 pages, 5 figures |
-| **[SpikeDet: Better Firing Patterns for Accurate and Energy-Efficient Object Detection with Spiking Neural Networks](https://arxiv.org/abs/2501.15151v5)** | 2026-05-20 |  |
-| **[STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection](https://arxiv.org/abs/2605.20738v1)** | 2026-05-20 | <details><summary>STAR-...</summary><p>STAR-IOD was accepted by ISPRS Journal of Photogrammetry and Remote Sensing</p></details> |
-| **[Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signals](https://arxiv.org/abs/2605.14014v2)** | 2026-05-19 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

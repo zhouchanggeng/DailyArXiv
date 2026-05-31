@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://arxiv.org/abs/2605.29720v1)** | 2026-05-28 | ICML 2026 |
+| **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v1)** | 2026-05-26 |  |
 | **[LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](https://arxiv.org/abs/2603.03711v3)** | 2026-05-25 |  |
 | **[Enhancing Single-Image Facial Demorphing using Multimodal Large Language Models](https://arxiv.org/abs/2605.25442v1)** | 2026-05-25 |  |
 | **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v2)** | 2026-05-19 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v1)** | 2026-05-08 |  |
 | **[Lightweight Cross-Spectral Face Recognition via Contrastive Alignment and Distillation](https://arxiv.org/abs/2605.04769v1)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted in IEEE TBIOM</p></details> |
 | **[A Deeper Dive into the Irreversibility of PolyProtect: Making Protected Face Templates Harder to Invert](https://arxiv.org/abs/2605.03857v1)** | 2026-05-05 | <details><summary>Submi...</summary><p>Submitted to TIFS journal on 18 February 2026 (under review). Consists of: 12 pages, 10 figures, 4 tables</p></details> |
-| **[Optimized Culprit Identification Using Mobilenet and Attention Mechanisms](https://arxiv.org/abs/2605.08169v1)** | 2026-05-04 |  |
-| **[Asymmetric Invertible Threat: Learning Reversible Privacy Defense for Face Recognition](https://arxiv.org/abs/2605.01217v1)** | 2026-05-02 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semantic Robustness Probing via Inpainting: An Interactive Tool for Safety-Critical Object Detection](https://arxiv.org/abs/2605.27155v1)** | 2026-05-26 |  |
+| **[Cycle Consistency in Video Object-Centric Learning](https://arxiv.org/abs/2605.30211v1)** | 2026-05-28 | 14 pages |
+| **[Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](https://arxiv.org/abs/2603.29954v2)** | 2026-05-28 | <details><summary>8 pag...</summary><p>8 pages, Accepted at CVPR 2026</p></details> |
+| **[Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning](https://arxiv.org/abs/2605.29894v1)** | 2026-05-28 |  |
+| **[The Impact of Semantic Pairs on Self-Supervised Representation Learning](https://arxiv.org/abs/2510.08722v3)** | 2026-05-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables</p></details> |
+| **[GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539v1)** | 2026-05-28 | CVPR 2026 Workshop |
+| **[V2XCrafter: Learning to Generate Driving Scene Across Agents](https://arxiv.org/abs/2605.29471v1)** | 2026-05-28 |  |
+| **[HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone](https://arxiv.org/abs/2605.17286v2)** | 2026-05-28 |  |
+| **[PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044v4)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted by ACM KDD 2026 Datasets and Benchmarks Track</p></details> |
+| **[A Survey on Event-based Optical Marker Systems](https://arxiv.org/abs/2504.20736v2)** | 2026-05-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 table</p></details> |
+| **[LV-OSD: Language-Vision-Complementary Open-Set Object Detection](https://arxiv.org/abs/2605.28271v1)** | 2026-05-27 |  |
+| **[Intra-YOLO: A Small Object Detection Model for Caries and Molar-Incisor Hypomineralization in Intraoral Photography Based on Transfer Learning with Reinforcement Learning](https://arxiv.org/abs/2605.28157v1)** | 2026-05-27 |  |
+| **[Semantic Robustness Probing via Inpainting: An Interactive Tool for Safety-Critical Object Detection](https://arxiv.org/abs/2605.27155v2)** | 2026-05-27 |  |
 | **[COVD: Continual Open-Vocabulary Object Detection with Novel Concept Injection](https://arxiv.org/abs/2605.27116v1)** | 2026-05-26 |  |
 | **[DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts](https://arxiv.org/abs/2604.14684v2)** | 2026-05-26 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
 | **[Small Object Detection in Industrial Recycling: A New Dataset and YOLO Performance Evaluation](https://arxiv.org/abs/2605.26884v1)** | 2026-05-26 |  |
-| **[Dual-Thresholded Heatmap-Guided Proposal Clustering and Negative Certainty Supervision with Enhanced Base Network for Weakly Supervised Object Detection](https://arxiv.org/abs/2509.08289v3)** | 2026-05-26 | <details><summary>IEEE ...</summary><p>IEEE TIP Minor Revision</p></details> |
-| **[Can Visual Mamba Improve AI-Generated Image Detection? An In-Depth Investigation](https://arxiv.org/abs/2605.14799v2)** | 2026-05-26 |  |
-| **[SteelDS: A High-Resolution Video Dataset of E40 Steel Scrap for Object Detection and Instance Segmentation](https://arxiv.org/abs/2605.26682v1)** | 2026-05-26 |  |
-| **[Adaptation-Free Heterogeneous Collaborative Perception with Unseen Agent Configurations](https://arxiv.org/abs/2605.26642v1)** | 2026-05-26 | <details><summary>9 pag...</summary><p>9 pages main paper, 23 pages including references and appendix, 7 figures</p></details> |
-| **[FAST-GOAL: Fast and Efficient Global-local Object Alignment Learning](https://arxiv.org/abs/2605.26615v1)** | 2026-05-26 | <details><summary>21 pa...</summary><p>21 pages, 8 figures, IEEE/TIP 2026 accepted</p></details> |
-| **[ODOV: Benchmark the Open-Domain Open-Vocabulary Object Detection](https://arxiv.org/abs/2508.01253v2)** | 2026-05-26 |  |
-| **[SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at CVPRW 2026</p></details> |
-| **[SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming](https://arxiv.org/abs/2605.25860v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted for publication at the IEEE Sensors Applications Symposium (SAS 2026)</p></details> |
-| **[Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception](https://arxiv.org/abs/2605.25651v1)** | 2026-05-25 |  |
-| **[Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion](https://arxiv.org/abs/2602.01183v2)** | 2026-05-25 | <details><summary>ICML ...</summary><p>ICML 2026, 8 figures, 11 tables</p></details> |
-| **[EFSI-DETR: Efficient Frequency-Semantic Integration for Real-Time Small Object Detection in UAV Imagery](https://arxiv.org/abs/2601.18597v2)** | 2026-05-25 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
 | **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM KDD 2026 ADS</p></details> |
 | **[Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance](https://arxiv.org/abs/2605.25385v1)** | 2026-05-25 | 18 pages |
 | **[CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation](https://arxiv.org/abs/2605.24807v1)** | 2026-05-24 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection](https://arxiv.org/abs/2605.03456v3)** | 2026-05-09 |  |
 | **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604v1)** | 2026-05-08 |  |
 | **[SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition](https://arxiv.org/abs/2605.03706v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
-| **[Investigating Anthropometric Fidelity in SAM 3D Body](https://arxiv.org/abs/2601.06035v2)** | 2026-05-02 |  |
 

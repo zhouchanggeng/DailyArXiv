@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Lightweight Ensemble-Based Face Image Quality Assessment Method with Correlation-Aware Loss](https://arxiv.org/abs/2509.10114v2)** | 2026-05-29 | <details><summary>This ...</summary><p>This paper has been published in the Proceedings of ICCV 2025. The final published version is available via IEEE Xplore</p></details> |
+| **[SteerFace: Debiasing Synthetic Face Generation via Adaptive Residue Perturbation](https://arxiv.org/abs/2605.30894v1)** | 2026-05-29 |  |
+| **[On the Illusion of Gender Bias in Face Recognition: Explaining the Fairness Issue Through Non-demographic Attributes](https://arxiv.org/abs/2501.12020v2)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at IEEE TBIOM</p></details> |
 | **[Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://arxiv.org/abs/2605.29720v1)** | 2026-05-28 | ICML 2026 |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v1)** | 2026-05-26 |  |
 | **[LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](https://arxiv.org/abs/2603.03711v3)** | 2026-05-25 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[FAME: Feature Activation Map Explanation on Image Classification and Face Recognition](https://arxiv.org/abs/2605.12017v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for CVPR Workshop 2026</p></details> |
 | **[Improving Human Image Animation via Semantic Representation Alignment](https://arxiv.org/abs/2605.10523v1)** | 2026-05-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 workshop</p></details> |
 | **[Head Similarity: Modeling Structured Whole-Head Appearance Beyond Face Recognition](https://arxiv.org/abs/2605.07766v1)** | 2026-05-08 |  |
-| **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v1)** | 2026-05-08 |  |
-| **[Lightweight Cross-Spectral Face Recognition via Contrastive Alignment and Distillation](https://arxiv.org/abs/2605.04769v1)** | 2026-05-06 | <details><summary>Accep...</summary><p>Accepted in IEEE TBIOM</p></details> |
-| **[A Deeper Dive into the Irreversibility of PolyProtect: Making Protected Face Templates Harder to Invert](https://arxiv.org/abs/2605.03857v1)** | 2026-05-05 | <details><summary>Submi...</summary><p>Submitted to TIFS journal on 18 February 2026 (under review). Consists of: 12 pages, 10 figures, 4 tables</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DSAA: Dual-Stage Attribute Activation for Fine-grained Open Vocabulary Detection](https://arxiv.org/abs/2605.18023v2)** | 2026-05-29 |  |
+| **[Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning](https://arxiv.org/abs/2605.31174v1)** | 2026-05-29 |  |
+| **[PRISM: Progressive Reasoning through Iterative Slot Memory for Vision](https://arxiv.org/abs/2605.30942v1)** | 2026-05-29 |  |
+| **[On-Device Generative AI for GDPR-Compliant Visual Monitoring: Natural Language Alerts from Local Object Detection](https://arxiv.org/abs/2605.30544v1)** | 2026-05-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 3 tables, 1 listing</p></details> |
 | **[Cycle Consistency in Video Object-Centric Learning](https://arxiv.org/abs/2605.30211v1)** | 2026-05-28 | 14 pages |
 | **[Detecting Unknown Objects via Energy-based Separation for Open World Object Detection](https://arxiv.org/abs/2603.29954v2)** | 2026-05-28 | <details><summary>8 pag...</summary><p>8 pages, Accepted at CVPR 2026</p></details> |
+| **[A Novel Computer Vision Approach for Assessing Fish Responses to Intrusive Objects in Aquaculture](https://arxiv.org/abs/2605.30399v1)** | 2026-05-28 |  |
 | **[Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning](https://arxiv.org/abs/2605.29894v1)** | 2026-05-28 |  |
 | **[The Impact of Semantic Pairs on Self-Supervised Representation Learning](https://arxiv.org/abs/2510.08722v3)** | 2026-05-28 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables</p></details> |
 | **[GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539v1)** | 2026-05-28 | CVPR 2026 Workshop |
@@ -74,15 +79,11 @@ labels: documentation
 | **[PipeMFL-240K: A Large-scale Dataset and Benchmark for Object Detection in Pipeline Magnetic Flux Leakage Imaging](https://arxiv.org/abs/2602.07044v4)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted by ACM KDD 2026 Datasets and Benchmarks Track</p></details> |
 | **[A Survey on Event-based Optical Marker Systems](https://arxiv.org/abs/2504.20736v2)** | 2026-05-27 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 table</p></details> |
 | **[LV-OSD: Language-Vision-Complementary Open-Set Object Detection](https://arxiv.org/abs/2605.28271v1)** | 2026-05-27 |  |
-| **[Intra-YOLO: A Small Object Detection Model for Caries and Molar-Incisor Hypomineralization in Intraoral Photography Based on Transfer Learning with Reinforcement Learning](https://arxiv.org/abs/2605.28157v1)** | 2026-05-27 |  |
-| **[Semantic Robustness Probing via Inpainting: An Interactive Tool for Safety-Critical Object Detection](https://arxiv.org/abs/2605.27155v2)** | 2026-05-27 |  |
-| **[COVD: Continual Open-Vocabulary Object Detection with Novel Concept Injection](https://arxiv.org/abs/2605.27116v1)** | 2026-05-26 |  |
-| **[DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompts](https://arxiv.org/abs/2604.14684v2)** | 2026-05-26 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Small Object Detection in Industrial Recycling: A New Dataset and YOLO Performance Evaluation](https://arxiv.org/abs/2605.26884v1)** | 2026-05-26 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy](https://arxiv.org/abs/2605.31284v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at PHAROS-AIF-MIH workshop @ CVPR 2026</p></details> |
 | **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
 | **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM KDD 2026 ADS</p></details> |
 | **[Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance](https://arxiv.org/abs/2605.25385v1)** | 2026-05-25 | 18 pages |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
 | **[VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection](https://arxiv.org/abs/2605.03456v3)** | 2026-05-09 |  |
 | **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604v1)** | 2026-05-08 |  |
-| **[SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition](https://arxiv.org/abs/2605.03706v1)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2026</p></details> |
 

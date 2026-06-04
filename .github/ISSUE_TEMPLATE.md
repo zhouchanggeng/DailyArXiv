@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2026
+title: Latest 15 Papers - June 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CounterFace: A Synthetic Face Dataset for Fine-Grained Counterfactual Evaluation of Face Recognition Systems](https://arxiv.org/abs/2407.13922v3)** | 2026-06-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/Guruprasad68/counterface_facct2026. Dataset available for non-commercial research upon request</p></details> |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v2)** | 2026-05-31 |  |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v3)** | 2026-05-29 |  |
 | **[SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation](https://arxiv.org/abs/2606.00380v1)** | 2026-05-29 | <details><summary>17 pa...</summary><p>17 pages. Code available at https://github.com/pedroandreou/supreme-unlearning</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Mind the Gap: Learning Modality-Agnostic Representations with a Cross-Modality UNet](https://arxiv.org/abs/2605.16887v1)** | 2026-05-16 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing. See full abstract in the PDF file</p></details> |
 | **[Face inpainting with Identity Preserving Latent Diffusion Models](https://arxiv.org/abs/2605.16696v1)** | 2026-05-15 |  |
 | **[PreFIQs: Face Image Quality Is What Survives Pruning](https://arxiv.org/abs/2605.13396v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshops</p></details> |
-| **[FAME: Feature Activation Map Explanation on Image Classification and Face Recognition](https://arxiv.org/abs/2605.12017v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for CVPR Workshop 2026</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers](https://arxiv.org/abs/2606.05149v1)** | 2026-06-03 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, venue TBD</p></details> |
+| **[StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](https://arxiv.org/abs/2605.03927v2)** | 2026-06-03 |  |
+| **[Tiny Collaborative Inference for Occlusion-Robust Object Detection](https://arxiv.org/abs/2606.02894v2)** | 2026-06-03 |  |
+| **[Real-Time Automatic License Plate Recognition Using YOLOv8, SORT Tracking, and Temporal Data Interpolation](https://arxiv.org/abs/2606.04684v1)** | 2026-06-03 | <details><summary>7 Pag...</summary><p>7 Pages, For Accessing code:https://github.com/ mobeen-pmo/Automatic-License-Plate-Recognition</p></details> |
+| **[Instance-Level Post Hoc Uncertainty Quantification in Object Detection](https://arxiv.org/abs/2606.04656v1)** | 2026-06-03 | 7 pages, 2 figures |
+| **[Towards Evaluating the Robustness of Visual State Space Models](https://arxiv.org/abs/2406.09407v3)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at The 5th Workshop of Adversarial Machine Learning on Computer Vision (CVPRW 2025)</p></details> |
+| **[HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning](https://arxiv.org/abs/2606.04345v1)** | 2026-06-03 | <details><summary>8 pag...</summary><p>8 pages, multiple figures;</p></details> |
+| **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v1)** | 2026-06-02 |  |
+| **[Training-Free Object-Agnostic Jam Detection in Fulfillment Centers](https://arxiv.org/abs/2606.00321v2)** | 2026-06-02 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Accepted at the 2026 IEEE International Conference on Automation Science and Engineering (CASE 2026) as a presentation-only paper</p></details> |
+| **[UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion](https://arxiv.org/abs/2606.03581v1)** | 2026-06-02 | 8 pages |
+| **[Learned Non-Maximum Suppression for 3D Object Detection](https://arxiv.org/abs/2606.03568v1)** | 2026-06-02 | <details><summary>6 pag...</summary><p>6 pages, accepted at IEEE Intelligent Vehicles Symposium (IV) 2026</p></details> |
 | **[TRACE: Evidence Grounding-Guided Multi-Video Event Understanding and Claim Generation](https://arxiv.org/abs/2605.16740v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Workshop</p></details> |
 | **[Collaborative Space Object Detection with Multi-Satellite Viewpoints in LEO Constellations](https://arxiv.org/abs/2606.01895v1)** | 2026-06-01 |  |
 | **[PillarDETR: YOLO-Backbone and RT-DETR Head for Real-Time 3D Object Detection](https://arxiv.org/abs/2606.01757v1)** | 2026-06-01 | <details><summary>6 pag...</summary><p>6 pages, 1 figures, 8 tables</p></details> |
 | **[EIVE: End-to-End Instance-Specific Visual Explanations for Detection Transformers](https://arxiv.org/abs/2606.01601v1)** | 2026-06-01 | 17 pages, 11 figures |
-| **[Co-Fusion4D: Spatio-temporal Collaborative Fusion for Robust 3D Object Detection](https://arxiv.org/abs/2605.20301v2)** | 2026-06-01 |  |
-| **[Reusing Fusion-Time Spectral Reliability for Adaptive Fusion and Expert Routing in RGB-Infrared Object Detection](https://arxiv.org/abs/2606.01173v1)** | 2026-05-31 |  |
-| **[GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2605.29539v2)** | 2026-05-31 | CVPR 2026 Workshop |
-| **[Make Your VLA More Robust Without More Data By Interleaving Motion Planning](https://arxiv.org/abs/2606.00985v1)** | 2026-05-31 |  |
-| **[MoEIoU: Rethinking Bounding-Box Regression as a Mixture of Experts](https://arxiv.org/abs/2606.00844v1)** | 2026-05-30 |  |
-| **[Enhancing Layer Attention Efficiency through Pruning Redundant Retrievals](https://arxiv.org/abs/2503.06473v5)** | 2026-05-30 | 5 pages |
-| **[FlowOVD: Learning Generative Latent Flows for Zero-shot Open-vocabulary Detection](https://arxiv.org/abs/2606.00782v1)** | 2026-05-30 |  |
-| **[Dual-Integrated Low-Latency Single-Lens Infrared Computational Imaging for Object Detection](https://arxiv.org/abs/2605.21964v2)** | 2026-05-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures; supplementary material: 3 pages, 2 figures</p></details> |
-| **[Shape-Prior-Based Point Cloud Completion for Single-Stage Fully Sparse 3D Object Detection](https://arxiv.org/abs/2606.00688v1)** | 2026-05-30 |  |
-| **[LFA: Layer Feature Attention for Run-Time Introspection of 2D Object Detectors in Automated Driving](https://arxiv.org/abs/2606.00372v1)** | 2026-05-29 |  |
-| **[C-LEAD: Contrastive Learning for Enhanced Adversarial Defense](https://arxiv.org/abs/2510.27249v2)** | 2026-05-29 | <details><summary>Publi...</summary><p>Published in SN Computer Science, May 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v2)** | 2026-06-02 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
 | **[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy](https://arxiv.org/abs/2605.31284v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at PHAROS-AIF-MIH workshop @ CVPR 2026</p></details> |
 | **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
 | **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM KDD 2026 ADS</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
 | **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
 | **[VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection](https://arxiv.org/abs/2605.03456v3)** | 2026-05-09 |  |
-| **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604v1)** | 2026-05-08 |  |
 

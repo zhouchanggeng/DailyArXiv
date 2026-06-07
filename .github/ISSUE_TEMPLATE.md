@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[End-to-End Subgraph Detection with GraphDETR](https://arxiv.org/abs/2606.06364v1)** | 2026-06-04 |  |
+| **[Unveiling the Unknown: Open Vocabulary Object Detection with Scene Graphs](https://arxiv.org/abs/2606.05916v1)** | 2026-06-04 |  |
+| **[Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection](https://arxiv.org/abs/2506.10601v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published in Pattern Recognition, 2026</p></details> |
+| **[Real-Time Threat Detection from Surveillance Cameras using Machine Learning](https://arxiv.org/abs/2606.05708v1)** | 2026-06-04 |  |
+| **[BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection](https://arxiv.org/abs/2606.05586v1)** | 2026-06-04 |  |
 | **[An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers](https://arxiv.org/abs/2606.05149v1)** | 2026-06-03 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, venue TBD</p></details> |
 | **[StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](https://arxiv.org/abs/2605.03927v2)** | 2026-06-03 |  |
 | **[Tiny Collaborative Inference for Occlusion-Robust Object Detection](https://arxiv.org/abs/2606.02894v2)** | 2026-06-03 |  |
@@ -74,15 +79,11 @@ labels: documentation
 | **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v1)** | 2026-06-02 |  |
 | **[Training-Free Object-Agnostic Jam Detection in Fulfillment Centers](https://arxiv.org/abs/2606.00321v2)** | 2026-06-02 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Accepted at the 2026 IEEE International Conference on Automation Science and Engineering (CASE 2026) as a presentation-only paper</p></details> |
 | **[UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion](https://arxiv.org/abs/2606.03581v1)** | 2026-06-02 | 8 pages |
-| **[Learned Non-Maximum Suppression for 3D Object Detection](https://arxiv.org/abs/2606.03568v1)** | 2026-06-02 | <details><summary>6 pag...</summary><p>6 pages, accepted at IEEE Intelligent Vehicles Symposium (IV) 2026</p></details> |
-| **[TRACE: Evidence Grounding-Guided Multi-Video Event Understanding and Claim Generation](https://arxiv.org/abs/2605.16740v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Workshop</p></details> |
-| **[Collaborative Space Object Detection with Multi-Satellite Viewpoints in LEO Constellations](https://arxiv.org/abs/2606.01895v1)** | 2026-06-01 |  |
-| **[PillarDETR: YOLO-Backbone and RT-DETR Head for Real-Time 3D Object Detection](https://arxiv.org/abs/2606.01757v1)** | 2026-06-01 | <details><summary>6 pag...</summary><p>6 pages, 1 figures, 8 tables</p></details> |
-| **[EIVE: End-to-End Instance-Specific Visual Explanations for Detection Transformers](https://arxiv.org/abs/2606.01601v1)** | 2026-06-01 | 17 pages, 11 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing](https://arxiv.org/abs/2606.06228v1)** | 2026-06-04 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/chwbob/Sam-Flow</p></details> |
 | **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v2)** | 2026-06-02 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
 | **[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy](https://arxiv.org/abs/2605.31284v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at PHAROS-AIF-MIH workshop @ CVPR 2026</p></details> |
 | **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v2)** | 2026-05-14 |  |
 | **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
 | **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
-| **[VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection](https://arxiv.org/abs/2605.03456v3)** | 2026-05-09 |  |
 

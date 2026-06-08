@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differences in Detection: Explainability Where it Matters](https://arxiv.org/abs/2606.07503v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2026 - How Do Vision Models Work? (HOW)</p></details> |
+| **[RISE: Single Static Radar-based Indoor Scene Understanding](https://arxiv.org/abs/2511.14019v3)** | 2026-06-05 |  |
+| **[AIDEN: Design and Pilot Study of an AI Assistant for the Visually Impaired](https://arxiv.org/abs/2511.06080v4)** | 2026-06-05 |  |
+| **[From Pixels to Shelf: An Integrated Robotic System for Autonomous Supermarket Stocking with a Mobile Manipulator](https://arxiv.org/abs/2509.11740v2)** | 2026-06-05 | <details><summary>Prepr...</summary><p>Preprint for CASE 2026</p></details> |
+| **[CL-CLIP: CLIP-Based Continual Learning Framework with Cost-Volume Category Decoupling for Object Detection](https://arxiv.org/abs/2606.06978v1)** | 2026-06-05 |  |
+| **[Lighting-Aware Representation Learning under Controllable Lighting Variation](https://arxiv.org/abs/2606.06899v1)** | 2026-06-05 |  |
+| **[FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness](https://arxiv.org/abs/2606.06856v1)** | 2026-06-05 |  |
+| **[USU-Corn-WeedDB: A UAV RGB Image Dataset for Multi-Species Weed Detection in Forage Corn](https://arxiv.org/abs/2606.06709v1)** | 2026-06-04 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
+| **[MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models](https://arxiv.org/abs/2606.06696v1)** | 2026-06-04 |  |
 | **[End-to-End Subgraph Detection with GraphDETR](https://arxiv.org/abs/2606.06364v1)** | 2026-06-04 |  |
 | **[Unveiling the Unknown: Open Vocabulary Object Detection with Scene Graphs](https://arxiv.org/abs/2606.05916v1)** | 2026-06-04 |  |
 | **[Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection](https://arxiv.org/abs/2506.10601v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published in Pattern Recognition, 2026</p></details> |
 | **[Real-Time Threat Detection from Surveillance Cameras using Machine Learning](https://arxiv.org/abs/2606.05708v1)** | 2026-06-04 |  |
 | **[BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection](https://arxiv.org/abs/2606.05586v1)** | 2026-06-04 |  |
 | **[An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers](https://arxiv.org/abs/2606.05149v1)** | 2026-06-03 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, venue TBD</p></details> |
-| **[StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning](https://arxiv.org/abs/2605.03927v2)** | 2026-06-03 |  |
-| **[Tiny Collaborative Inference for Occlusion-Robust Object Detection](https://arxiv.org/abs/2606.02894v2)** | 2026-06-03 |  |
-| **[Real-Time Automatic License Plate Recognition Using YOLOv8, SORT Tracking, and Temporal Data Interpolation](https://arxiv.org/abs/2606.04684v1)** | 2026-06-03 | <details><summary>7 Pag...</summary><p>7 Pages, For Accessing code:https://github.com/ mobeen-pmo/Automatic-License-Plate-Recognition</p></details> |
-| **[Instance-Level Post Hoc Uncertainty Quantification in Object Detection](https://arxiv.org/abs/2606.04656v1)** | 2026-06-03 | 7 pages, 2 figures |
-| **[Towards Evaluating the Robustness of Visual State Space Models](https://arxiv.org/abs/2406.09407v3)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted at The 5th Workshop of Adversarial Machine Learning on Computer Vision (CVPRW 2025)</p></details> |
-| **[HYolo: An Intelligent IoT-Based Object Detection System Using Hypergraph Learning](https://arxiv.org/abs/2606.04345v1)** | 2026-06-03 | <details><summary>8 pag...</summary><p>8 pages, multiple figures;</p></details> |
-| **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v1)** | 2026-06-02 |  |
-| **[Training-Free Object-Agnostic Jam Detection in Fulfillment Centers](https://arxiv.org/abs/2606.00321v2)** | 2026-06-02 | <details><summary>4 pag...</summary><p>4 pages, 6 figures. Accepted at the 2026 IEEE International Conference on Automation Science and Engineering (CASE 2026) as a presentation-only paper</p></details> |
-| **[UnsOcc: 3D Semantic Occupancy Prediction in Unstructured Scene via Rendering Fusion](https://arxiv.org/abs/2606.03581v1)** | 2026-06-02 | 8 pages |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Humans: Multispecies Animal Face Recognition Using Transfer Learning](https://arxiv.org/abs/2606.09353v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This paper extends the work published in the proceedings of CAIP 2025 conference: 'Adapting to the Wild: From Human Face to Animal Face Recognition' by De Marsico, M., Jain, A. K., Miranda, M., & Orlando, A</p></details> |
+| **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v2)** | 2026-06-07 |  |
 | **[CounterFace: A Synthetic Face Dataset for Fine-Grained Counterfactual Evaluation of Face Recognition Systems](https://arxiv.org/abs/2407.13922v3)** | 2026-06-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/Guruprasad68/counterface_facct2026. Dataset available for non-commercial research upon request</p></details> |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v2)** | 2026-05-31 |  |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v3)** | 2026-05-29 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v2)** | 2026-05-19 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
 | **[Bridging Data Trials and Task Barriers: A Unified Framework for Sketch Biometric Identification](https://arxiv.org/abs/2605.17367v1)** | 2026-05-17 | <details><summary>The s...</summary><p>The source code and models are publicly available at https://github.com/sHanbIgsUn/UFSB</p></details> |
 | **[Mind the Gap: Learning Modality-Agnostic Representations with a Cross-Modality UNet](https://arxiv.org/abs/2605.16887v1)** | 2026-05-16 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing. See full abstract in the PDF file</p></details> |
-| **[Face inpainting with Identity Preserving Latent Diffusion Models](https://arxiv.org/abs/2605.16696v1)** | 2026-05-15 |  |
-| **[PreFIQs: Face Image Quality Is What Survives Pruning](https://arxiv.org/abs/2605.13396v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshops</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ATN3D: Density-Aware LiDAR-Radar Early 3D Object Detection Under Extreme Sparsity](https://arxiv.org/abs/2606.09634v1)** | 2026-06-08 |  |
+| **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v1)** | 2026-06-08 |  |
+| **[ContextShift: A Controlled Benchmark for Context Dependence in Object Detection](https://arxiv.org/abs/2606.09495v1)** | 2026-06-08 |  |
+| **[RT-SDGOD: Real-Time Single-Domain Generalized Object Detection](https://arxiv.org/abs/2606.09367v1)** | 2026-06-08 |  |
+| **[Taming Perception Jitter: Uncertainty-Aware LiDAR Object Detection for Reliable Motion Classification](https://arxiv.org/abs/2606.09350v1)** | 2026-06-08 |  |
+| **[Distant Object Localisation from Noisy Image Segmentation Sequences](https://arxiv.org/abs/2509.20906v3)** | 2026-06-08 |  |
+| **[Proposal Refinement for Few-Shot Object Detection](https://arxiv.org/abs/2606.09245v1)** | 2026-06-08 |  |
+| **[CAMF-Det: Closure-Aware Multimodal Fusion for LiDAR-Camera 3D Object Detection on UAV Platforms](https://arxiv.org/abs/2606.09143v1)** | 2026-06-08 |  |
+| **[Edge-Constrained UAV Small-Object Detection with P2 Enhancement and Quantum-Inspired Lightweight Structure Search](https://arxiv.org/abs/2606.09081v1)** | 2026-06-08 |  |
+| **[PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction from High-Resolution Remote Sensing Images](https://arxiv.org/abs/2606.08920v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</p></details> |
+| **[Vision-Language Work Zone Intelligence for Safety-Critical Speed Regulation of Mixed-Autonomy Vehicles in Dynamic Environments](https://arxiv.org/abs/2606.08860v1)** | 2026-06-07 |  |
+| **[Geometry-Aware Fisheye-LiDAR Fusion for Robust 3D Object Detection in Low-Overlap Setups](https://arxiv.org/abs/2606.08844v1)** | 2026-06-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, submitted to RA-L</p></details> |
+| **[Distortion-Aware PETR for BEV Object Detection with Mixed Pinhole-Fisheye Cameras](https://arxiv.org/abs/2606.08680v1)** | 2026-06-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted at ICRA 2026</p></details> |
+| **[CamoSAM2: SAM2-oriented Prompt Auto-Refinement for Video Camouflaged Object Detection](https://arxiv.org/abs/2504.00375v2)** | 2026-06-06 | 13 pages, 8 figures, |
 | **[Differences in Detection: Explainability Where it Matters](https://arxiv.org/abs/2606.07503v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2026 - How Do Vision Models Work? (HOW)</p></details> |
-| **[RISE: Single Static Radar-based Indoor Scene Understanding](https://arxiv.org/abs/2511.14019v3)** | 2026-06-05 |  |
-| **[AIDEN: Design and Pilot Study of an AI Assistant for the Visually Impaired](https://arxiv.org/abs/2511.06080v4)** | 2026-06-05 |  |
-| **[From Pixels to Shelf: An Integrated Robotic System for Autonomous Supermarket Stocking with a Mobile Manipulator](https://arxiv.org/abs/2509.11740v2)** | 2026-06-05 | <details><summary>Prepr...</summary><p>Preprint for CASE 2026</p></details> |
-| **[CL-CLIP: CLIP-Based Continual Learning Framework with Cost-Volume Category Decoupling for Object Detection](https://arxiv.org/abs/2606.06978v1)** | 2026-06-05 |  |
-| **[Lighting-Aware Representation Learning under Controllable Lighting Variation](https://arxiv.org/abs/2606.06899v1)** | 2026-06-05 |  |
-| **[FS-DVS: A Frequency-Selective Dynamic Visual Sensing Paradigm for Enhancing Information Completeness](https://arxiv.org/abs/2606.06856v1)** | 2026-06-05 |  |
-| **[USU-Corn-WeedDB: A UAV RGB Image Dataset for Multi-Species Weed Detection in Forage Corn](https://arxiv.org/abs/2606.06709v1)** | 2026-06-04 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
-| **[MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models](https://arxiv.org/abs/2606.06696v1)** | 2026-06-04 |  |
-| **[End-to-End Subgraph Detection with GraphDETR](https://arxiv.org/abs/2606.06364v1)** | 2026-06-04 |  |
-| **[Unveiling the Unknown: Open Vocabulary Object Detection with Scene Graphs](https://arxiv.org/abs/2606.05916v1)** | 2026-06-04 |  |
-| **[Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection](https://arxiv.org/abs/2506.10601v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published in Pattern Recognition, 2026</p></details> |
-| **[Real-Time Threat Detection from Surveillance Cameras using Machine Learning](https://arxiv.org/abs/2606.05708v1)** | 2026-06-04 |  |
-| **[BMCR: Adaptive Backbone Module Composition via Reinforcement Learning for Remote Sensing Object Detection](https://arxiv.org/abs/2606.05586v1)** | 2026-06-04 |  |
-| **[An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers](https://arxiv.org/abs/2606.05149v1)** | 2026-06-03 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, venue TBD</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

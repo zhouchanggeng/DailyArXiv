@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2026
+title: Latest 15 Papers - June 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals](https://arxiv.org/abs/2606.10940v1)** | 2026-06-09 | 15 Pages, 4 Figures |
+| **[A Multimodal RGB and Events Dataset for Hand Detection in First-Person View](https://arxiv.org/abs/2606.10790v1)** | 2026-06-09 |  |
+| **[Using the YOLOv12 Model for Verifying the Correct Color Sequence of Wires in Network Cables (Patch Cords) on the Production Line](https://arxiv.org/abs/2606.10699v1)** | 2026-06-09 |  |
+| **[Analyzing Training-Free Corruption Detection for Object Detection Datasets](https://arxiv.org/abs/2606.10666v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at DataCV Workshop, Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
+| **[TaCarla: A comprehensive benchmarking dataset for end-to-end autonomous driving](https://arxiv.org/abs/2602.23499v4)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the Third Workshop on Simulation for Autonomous Driving (SAD), CVPR 2026</p></details> |
+| **[Automatic Labelling for Low-Light Pedestrian Detection](https://arxiv.org/abs/2507.02513v4)** | 2026-06-09 |  |
+| **[Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407v1)** | 2026-06-09 |  |
 | **[ATN3D: Density-Aware LiDAR-Radar Early 3D Object Detection Under Extreme Sparsity](https://arxiv.org/abs/2606.09634v1)** | 2026-06-08 |  |
 | **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v1)** | 2026-06-08 |  |
 | **[ContextShift: A Controlled Benchmark for Context Dependence in Object Detection](https://arxiv.org/abs/2606.09495v1)** | 2026-06-08 |  |
@@ -72,17 +79,12 @@ labels: documentation
 | **[Distant Object Localisation from Noisy Image Segmentation Sequences](https://arxiv.org/abs/2509.20906v3)** | 2026-06-08 |  |
 | **[Proposal Refinement for Few-Shot Object Detection](https://arxiv.org/abs/2606.09245v1)** | 2026-06-08 |  |
 | **[CAMF-Det: Closure-Aware Multimodal Fusion for LiDAR-Camera 3D Object Detection on UAV Platforms](https://arxiv.org/abs/2606.09143v1)** | 2026-06-08 |  |
-| **[Edge-Constrained UAV Small-Object Detection with P2 Enhancement and Quantum-Inspired Lightweight Structure Search](https://arxiv.org/abs/2606.09081v1)** | 2026-06-08 |  |
-| **[PolyBuild: An End-to-End Method for Polygonal Building Contour Extraction from High-Resolution Remote Sensing Images](https://arxiv.org/abs/2606.08920v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)</p></details> |
-| **[Vision-Language Work Zone Intelligence for Safety-Critical Speed Regulation of Mixed-Autonomy Vehicles in Dynamic Environments](https://arxiv.org/abs/2606.08860v1)** | 2026-06-07 |  |
-| **[Geometry-Aware Fisheye-LiDAR Fusion for Robust 3D Object Detection in Low-Overlap Setups](https://arxiv.org/abs/2606.08844v1)** | 2026-06-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, submitted to RA-L</p></details> |
-| **[Distortion-Aware PETR for BEV Object Detection with Mixed Pinhole-Fisheye Cameras](https://arxiv.org/abs/2606.08680v1)** | 2026-06-07 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, accepted at ICRA 2026</p></details> |
-| **[CamoSAM2: SAM2-oriented Prompt Auto-Refinement for Video Camouflaged Object Detection](https://arxiv.org/abs/2504.00375v2)** | 2026-06-06 | 13 pages, 8 figures, |
-| **[Differences in Detection: Explainability Where it Matters](https://arxiv.org/abs/2606.07503v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2026 - How Do Vision Models Work? (HOW)</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio](https://arxiv.org/abs/2606.10887v1)** | 2026-06-09 |  |
+| **[Don't waste SAM](https://arxiv.org/abs/2606.10696v1)** | 2026-06-09 | <details><summary>Publi...</summary><p>Published at European Symposium on Artificial Neural Networks (ESANN2023), Computational Intelligence and Machine Learning. Bruges (Belgium)</p></details> |
 | **[SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing](https://arxiv.org/abs/2606.06228v1)** | 2026-06-04 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/chwbob/Sam-Flow</p></details> |
 | **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v2)** | 2026-06-02 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
 | **[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy](https://arxiv.org/abs/2605.31284v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at PHAROS-AIF-MIH workshop @ CVPR 2026</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[SAM 2++: Tracking Anything at Any Granularity](https://arxiv.org/abs/2510.18822v4)** | 2026-05-18 | 14 pages |
 | **[CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](https://arxiv.org/abs/2605.16901v1)** | 2026-05-16 |  |
 | **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v2)** | 2026-05-14 |  |
-| **[M$^4$-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2605.11760v1)** | 2026-05-12 | 10 pages, 3 figures |
-| **[Frequency Adapter with SAM for Generalized Medical Image Segmentation](https://arxiv.org/abs/2605.09925v1)** | 2026-05-11 | <details><summary>Under...</summary><p>Under review, 10 pages, 1 figure, 2 tables</p></details> |
 

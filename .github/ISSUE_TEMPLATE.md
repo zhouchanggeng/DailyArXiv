@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
 | **[DINO-GFSA: Geo-Localization via Semantic Gated Fusion and Mamba-based Sequential Aggregation](https://arxiv.org/abs/2606.00784v1)** | 2026-05-30 |  |
 | **[Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909v2)** | 2026-05-08 | MICCAI 2026 |
 | **[DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation](https://arxiv.org/abs/2605.07221v1)** | 2026-05-08 |  |
@@ -21,11 +22,15 @@ labels: documentation
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
 | **[DINO-VO: Learning Where to Focus for Enhanced State Estimation](https://arxiv.org/abs/2604.04055v1)** | 2026-04-05 |  |
-| **[Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion](https://arxiv.org/abs/2604.01761v1)** | 2026-04-02 | <details><summary>proje...</summary><p>project page https://dedoardo.github.io/projects/control-dino/</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 Supplementary (22 pages, 16 figures, 6 tables, 4 supplementary notes)</p></details> |
+| **[Vision Transformers for Face Recognition Need More Registers](https://arxiv.org/abs/2606.12036v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
+| **[ViT-FREE: Efficient Face Recognition via Early Exiting and Synthetic Adaptation](https://arxiv.org/abs/2606.12023v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
+| **[EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation and Following in SAR Operations](https://arxiv.org/abs/2602.20958v2)** | 2026-06-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v1)** | 2026-06-10 |  |
 | **[Beyond Humans: Multispecies Animal Face Recognition Using Transfer Learning](https://arxiv.org/abs/2606.09353v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This paper extends the work published in the proceedings of CAIP 2025 conference: 'Adapting to the Wild: From Human Face to Animal Face Recognition' by De Marsico, M., Jain, A. K., Miranda, M., & Orlando, A</p></details> |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v2)** | 2026-06-07 |  |
 | **[CounterFace: A Synthetic Face Dataset for Fine-Grained Counterfactual Evaluation of Face Recognition Systems](https://arxiv.org/abs/2407.13922v3)** | 2026-06-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/Guruprasad68/counterface_facct2026. Dataset available for non-commercial research upon request</p></details> |
@@ -36,15 +41,11 @@ labels: documentation
 | **[SteerFace: Debiasing Synthetic Face Generation via Adaptive Residue Perturbation](https://arxiv.org/abs/2605.30894v1)** | 2026-05-29 |  |
 | **[On the Illusion of Gender Bias in Face Recognition: Explaining the Fairness Issue Through Non-demographic Attributes](https://arxiv.org/abs/2501.12020v2)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at IEEE TBIOM</p></details> |
 | **[Efficient, Validation-Free Intrinsic Quality Estimation for Large-Scale Face Recognition Datasets](https://arxiv.org/abs/2605.29720v1)** | 2026-05-28 | ICML 2026 |
-| **[LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing](https://arxiv.org/abs/2603.03711v3)** | 2026-05-25 |  |
-| **[Enhancing Single-Image Facial Demorphing using Multimodal Large Language Models](https://arxiv.org/abs/2605.25442v1)** | 2026-05-25 |  |
-| **[When Fairness Metrics Disagree: Evaluating the Reliability of Demographic Fairness Assessment in Machine Learning](https://arxiv.org/abs/2604.15038v2)** | 2026-05-19 | <details><summary>15 pa...</summary><p>15 pages, 4 figues, 5 tables</p></details> |
-| **[Bridging Data Trials and Task Barriers: A Unified Framework for Sketch Biometric Identification](https://arxiv.org/abs/2605.17367v1)** | 2026-05-17 | <details><summary>The s...</summary><p>The source code and models are publicly available at https://github.com/sHanbIgsUn/UFSB</p></details> |
-| **[Mind the Gap: Learning Modality-Agnostic Representations with a Cross-Modality UNet](https://arxiv.org/abs/2605.16887v1)** | 2026-05-16 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing. See full abstract in the PDF file</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
 | **[BIDO: A Biometric Identity Online Authentication Framework](https://arxiv.org/abs/2605.16908v1)** | 2026-05-16 |  |
 | **[MVB-Grasp: Minimum-Volume-Box Filtering of Diffusion-based Grasps for Frontal Manipulation](https://arxiv.org/abs/2605.09672v1)** | 2026-05-10 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, accepted to IJCNN 2026</p></details> |
 | **[A cross-modal network for facial expression recognition](https://arxiv.org/abs/2605.04439v1)** | 2026-05-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing 2026</p></details> |
@@ -59,11 +60,17 @@ labels: documentation
 | **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v1)** | 2025-05-24 |  |
 | **[Multimodal Emotion Coupling via Speech-to-Facial and Bodily Gestures in Dyadic Interaction](https://arxiv.org/abs/2506.10010v1)** | 2025-05-08 |  |
 | **[Leveraging GANs For Active Appearance Models Optimized Model Fitting](https://arxiv.org/abs/2501.11218v3)** | 2025-04-07 | <details><summary>The f...</summary><p>The full text of this preprint has been withdrawn, as it was submitted in error at a much earlier stage, with work still needing substantial refinement and validation. Therefore, the authors do not wish this work to be cited as a reference</p></details> |
-| **[Impact of Face Alignment on Face Image Quality](https://arxiv.org/abs/2412.11779v1)** | 2024-12-16 | <details><summary>Accep...</summary><p>Accepted at EAI ROSENET 2024 - 8th EAI International Conference on Robotic Sensor Networks</p></details> |
 
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Turbo-Inference Strategy for Object Detection and Instance Segmentation](https://arxiv.org/abs/2606.12371v1)** | 2026-06-10 | <details><summary>Prepr...</summary><p>Preprint version of an article published in Computer Vision and Image Understanding</p></details> |
+| **[Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model](https://arxiv.org/abs/2606.12218v1)** | 2026-06-10 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Preprint. Submitted to ACM SIGSPATIAL 2026</p></details> |
+| **[Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries](https://arxiv.org/abs/2606.12066v1)** | 2026-06-10 |  |
+| **[FreqKD: Frequency-Decoupled Cross-Modal Knowledge Distillation for Infrared Object Detection](https://arxiv.org/abs/2606.11572v1)** | 2026-06-10 |  |
+| **[SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation](https://arxiv.org/abs/2510.06596v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted and Published at SPIE: Journal of Electronic Imaging, Vol. 35, Issue 3</p></details> |
+| **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
+| **[STEAM: Squeeze and Transform Enhanced Attention Module](https://arxiv.org/abs/2412.09023v3)** | 2026-06-09 |  |
 | **[Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals](https://arxiv.org/abs/2606.10940v1)** | 2026-06-09 | 15 Pages, 4 Figures |
 | **[A Multimodal RGB and Events Dataset for Hand Detection in First-Person View](https://arxiv.org/abs/2606.10790v1)** | 2026-06-09 |  |
 | **[Using the YOLOv12 Model for Verifying the Correct Color Sequence of Wires in Network Cables (Patch Cords) on the Production Line](https://arxiv.org/abs/2606.10699v1)** | 2026-06-09 |  |
@@ -72,17 +79,11 @@ labels: documentation
 | **[Automatic Labelling for Low-Light Pedestrian Detection](https://arxiv.org/abs/2507.02513v4)** | 2026-06-09 |  |
 | **[Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407v1)** | 2026-06-09 |  |
 | **[ATN3D: Density-Aware LiDAR-Radar Early 3D Object Detection Under Extreme Sparsity](https://arxiv.org/abs/2606.09634v1)** | 2026-06-08 |  |
-| **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v1)** | 2026-06-08 |  |
-| **[ContextShift: A Controlled Benchmark for Context Dependence in Object Detection](https://arxiv.org/abs/2606.09495v1)** | 2026-06-08 |  |
-| **[RT-SDGOD: Real-Time Single-Domain Generalized Object Detection](https://arxiv.org/abs/2606.09367v1)** | 2026-06-08 |  |
-| **[Taming Perception Jitter: Uncertainty-Aware LiDAR Object Detection for Reliable Motion Classification](https://arxiv.org/abs/2606.09350v1)** | 2026-06-08 |  |
-| **[Distant Object Localisation from Noisy Image Segmentation Sequences](https://arxiv.org/abs/2509.20906v3)** | 2026-06-08 |  |
-| **[Proposal Refinement for Few-Shot Object Detection](https://arxiv.org/abs/2606.09245v1)** | 2026-06-08 |  |
-| **[CAMF-Det: Closure-Aware Multimodal Fusion for LiDAR-Camera 3D Object Detection on UAV Platforms](https://arxiv.org/abs/2606.09143v1)** | 2026-06-08 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM: A Mamba-2 State-Space Audio-Language Model](https://arxiv.org/abs/2509.15680v3)** | 2026-06-10 | <details><summary>6 pag...</summary><p>6 pages, Accepted to Interspeech 2026</p></details> |
 | **[Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio](https://arxiv.org/abs/2606.10887v1)** | 2026-06-09 |  |
 | **[Don't waste SAM](https://arxiv.org/abs/2606.10696v1)** | 2026-06-09 | <details><summary>Publi...</summary><p>Published at European Symposium on Artificial Neural Networks (ESANN2023), Computational Intelligence and Machine Learning. Bruges (Belgium)</p></details> |
 | **[SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing](https://arxiv.org/abs/2606.06228v1)** | 2026-06-04 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/chwbob/Sam-Flow</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Synergistic Foundation Models for Semi-Supervised Fetal Cardiac Ultrasound Analysis: SAM-Med2D Boundary Refinement and DINOv3 Semantic Enhancement](https://arxiv.org/abs/2605.19799v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to the ISBI 2026 Fetal HearT UltraSound Segmentation and Diagnosis (FETUS) Challenge</p></details> |
 | **[SAM 2++: Tracking Anything at Any Granularity](https://arxiv.org/abs/2510.18822v4)** | 2026-05-18 | 14 pages |
 | **[CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model](https://arxiv.org/abs/2605.16901v1)** | 2026-05-16 |  |
-| **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v2)** | 2026-05-14 |  |
 

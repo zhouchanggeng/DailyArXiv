@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 12, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications](https://arxiv.org/abs/2606.14658v1)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, SPIE Defense + Security</p></details> |
+| **[Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks](https://arxiv.org/abs/2606.14504v1)** | 2026-06-12 |  |
+| **[Digital Twin Driven Textile Classification and Foreign Object Recognition in Automated Sorting Systems](https://arxiv.org/abs/2603.05230v2)** | 2026-06-12 | <details><summary>10 pa...</summary><p>10 pages,single column, 5 figures, preprint for Photomet Edumet 2026 (Klagenfurt, Austria)</p></details> |
+| **[Hierarchical Consistency Learning for Test-time Adaptation in Camouflage Perception](https://arxiv.org/abs/2605.25651v2)** | 2026-06-12 | Accepted by IEEE TIP |
+| **[PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum](https://arxiv.org/abs/2606.14356v1)** | 2026-06-12 |  |
+| **[Towards Physically Realizable Adversarial Attenuation Patch against SAR Object Detection](https://arxiv.org/abs/2604.00887v3)** | 2026-06-12 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Source code is available at https://github.com/boremycin/SAAP. Accepted and published in IEEE CAIT 2026. DOI: 10.1109/CAIT70489.2026.11553874</p></details> |
+| **[Symmetric Entropy-Constrained Video Coding for Machines](https://arxiv.org/abs/2510.15347v3)** | 2026-06-12 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing. This is the author's accepted manuscript (AAM)</p></details> |
+| **[PMOF: A Dataset and Benchmark for Passenger Monitoring Using Overhead Fisheye Cameras](https://arxiv.org/abs/2606.13910v1)** | 2026-06-11 | <details><summary>6 pag...</summary><p>6 pages, 7 figures. Accepted to the 22nd IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS 2026)</p></details> |
+| **[AnyGoal: Vision-Language Guided Multi-Agent Exploration for Training-Free Lifelong Navigation](https://arxiv.org/abs/2606.13878v1)** | 2026-06-11 | 17 pages, 3 figures |
+| **[Augmentation techniques for video surveillance in the visible and thermal spectral range](https://arxiv.org/abs/2606.13042v1)** | 2026-06-11 | 8 pages |
+| **[Camera and LiDAR BEV Fusion for Cooperative 3D Object Detection on TUMTraf V2X](https://arxiv.org/abs/2606.12981v1)** | 2026-06-11 |  |
+| **[YOLO-AMC: An Improved YOLO Architecture with Attention Mechanisms for Building Crack Detection](https://arxiv.org/abs/2606.12958v1)** | 2026-06-11 | <details><summary>14 pa...</summary><p>14 pages, 8 tables, 6 figures. Expanded version of IET ICETA 2025 conference paper</p></details> |
+| **[Context-Aware Feature-Fusion for Co-occurring Object Detection in Autonomous Driving](https://arxiv.org/abs/2606.12628v1)** | 2026-06-10 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, CVPR 2026 Precognition Workshop</p></details> |
 | **[A Turbo-Inference Strategy for Object Detection and Instance Segmentation](https://arxiv.org/abs/2606.12371v1)** | 2026-06-10 | <details><summary>Prepr...</summary><p>Preprint version of an article published in Computer Vision and Image Understanding</p></details> |
 | **[Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model](https://arxiv.org/abs/2606.12218v1)** | 2026-06-10 | <details><summary>10 pa...</summary><p>10 pages, 6 figures. Preprint. Submitted to ACM SIGSPATIAL 2026</p></details> |
-| **[Performance Analysis of YOLOv11 and YOLOv8 for Mixed Traffic Object Detection under Adverse Weather Conditions in Developing Countries](https://arxiv.org/abs/2606.12066v1)** | 2026-06-10 |  |
-| **[FreqKD: Frequency-Decoupled Cross-Modal Knowledge Distillation for Infrared Object Detection](https://arxiv.org/abs/2606.11572v1)** | 2026-06-10 |  |
-| **[SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation](https://arxiv.org/abs/2510.06596v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted and Published at SPIE: Journal of Electronic Imaging, Vol. 35, Issue 3</p></details> |
-| **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
-| **[STEAM: Squeeze and Transform Enhanced Attention Module](https://arxiv.org/abs/2412.09023v3)** | 2026-06-09 |  |
-| **[Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals](https://arxiv.org/abs/2606.10940v1)** | 2026-06-09 | 15 Pages, 4 Figures |
-| **[A Multimodal RGB and Events Dataset for Hand Detection in First-Person View](https://arxiv.org/abs/2606.10790v1)** | 2026-06-09 |  |
-| **[Using the YOLOv12 Model for Verifying the Correct Color Sequence of Wires in Network Cables (Patch Cords) on the Production Line](https://arxiv.org/abs/2606.10699v1)** | 2026-06-09 |  |
-| **[Analyzing Training-Free Corruption Detection for Object Detection Datasets](https://arxiv.org/abs/2606.10666v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at DataCV Workshop, Conference on Computer Vision and Pattern Recognition (CVPR) 2026</p></details> |
-| **[TaCarla: A comprehensive benchmarking dataset for end-to-end autonomous driving](https://arxiv.org/abs/2602.23499v4)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted at the Third Workshop on Simulation for Autonomous Driving (SAD), CVPR 2026</p></details> |
-| **[Automatic Labelling for Low-Light Pedestrian Detection](https://arxiv.org/abs/2507.02513v4)** | 2026-06-09 |  |
-| **[Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407v1)** | 2026-06-09 |  |
-| **[ATN3D: Density-Aware LiDAR-Radar Early 3D Object Detection Under Extreme Sparsity](https://arxiv.org/abs/2606.09634v1)** | 2026-06-08 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

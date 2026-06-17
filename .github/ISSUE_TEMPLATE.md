@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2026
+title: Latest 15 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation](https://arxiv.org/abs/2606.17972v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/script-Yang/segdino_v2</p></details> |
 | **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
 | **[DINO-GFSA: Geo-Localization via Semantic Gated Fusion and Mamba-based Sequential Aggregation](https://arxiv.org/abs/2606.00784v1)** | 2026-05-30 |  |
 | **[Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909v2)** | 2026-05-08 | MICCAI 2026 |
@@ -21,11 +22,11 @@ labels: documentation
 | **[DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification](https://arxiv.org/abs/2604.07166v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the 5th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2026</p></details> |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
-| **[DINO-VO: Learning Where to Focus for Enhanced State Estimation](https://arxiv.org/abs/2604.04055v1)** | 2026-04-05 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
 | **[Sustainable Face Recognition on Low-Power Devices with VQ-VAE Embeddings](https://arxiv.org/abs/2606.15355v1)** | 2026-06-13 |  |
 | **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 Supplementary (22 pages, 16 figures, 6 tables, 4 supplementary notes)</p></details> |
 | **[Vision Transformers for Face Recognition Need More Registers](https://arxiv.org/abs/2606.12036v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v3)** | 2026-05-29 |  |
 | **[SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation](https://arxiv.org/abs/2606.00380v1)** | 2026-05-29 | <details><summary>17 pa...</summary><p>17 pages. Code available at https://github.com/pedroandreou/supreme-unlearning</p></details> |
 | **[A Lightweight Ensemble-Based Face Image Quality Assessment Method with Correlation-Aware Loss](https://arxiv.org/abs/2509.10114v2)** | 2026-05-29 | <details><summary>This ...</summary><p>This paper has been published in the Proceedings of ICCV 2025. The final published version is available via IEEE Xplore</p></details> |
-| **[SteerFace: Debiasing Synthetic Face Generation via Adaptive Residue Perturbation](https://arxiv.org/abs/2605.30894v1)** | 2026-05-29 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution](https://arxiv.org/abs/2606.18008v1)** | 2026-06-16 | 26 pages, 29 figures |
+| **[Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones](https://arxiv.org/abs/2603.26551v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at International Journal of Computer Vision (IJCV)</p></details> |
+| **[OpenTie: Open-vocabulary Sequential Rebar Tying System](https://arxiv.org/abs/2509.00064v2)** | 2026-06-16 | <details><summary>This ...</summary><p>This article is accepted by The 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE 2026)</p></details> |
+| **[Bounding Box Label Propagation for Re-Annotation of Document Layout Analysis Datasets](https://arxiv.org/abs/2606.17644v1)** | 2026-06-16 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, to appear in proceedings of ICDAR 2026, Vienna, Austria</p></details> |
+| **[FATE: Pillar Encoding and Frequency-Aware Training for Event-Based Object Detection](https://arxiv.org/abs/2606.17334v1)** | 2026-06-15 |  |
 | **[MMDiff: Extending Diffusion Transformers for Multi-Modal Generation](https://arxiv.org/abs/2606.16673v1)** | 2026-06-15 |  |
 | **[Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data](https://arxiv.org/abs/2410.16089v2)** | 2026-06-15 | 10 pages, 6 figures |
 | **[HMR-Net: Hierarchical Modular Routing for Cross-Domain Object Detection in Aerial Images](https://arxiv.org/abs/2604.18866v2)** | 2026-06-15 |  |
@@ -74,11 +79,6 @@ labels: documentation
 | **[Efficient 3D Perception on Multi-Sweep Point Cloud with Gumbel Spatial Pruning](https://arxiv.org/abs/2411.07742v6)** | 2026-06-14 |  |
 | **[Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](https://arxiv.org/abs/2606.15253v1)** | 2026-06-13 | Accepted by ICML2026 |
 | **[Multi-view feature High-order Fusion for Space Weak Object Detection and Segmentation](https://arxiv.org/abs/2606.15118v1)** | 2026-06-13 |  |
-| **[Learn Temporal Consistency For Robust Satellite Video Detector](https://arxiv.org/abs/2606.15112v1)** | 2026-06-13 | 11 pages, 8 figures |
-| **[Gaussian Spatial Priors for Anatomy-Aware Object Detection in Surgical Videos](https://arxiv.org/abs/2606.15049v1)** | 2026-06-13 |  |
-| **[Giving AI a Headache: Acoustic Adversarial Attacks to Computer Vision Applications](https://arxiv.org/abs/2606.14658v1)** | 2026-06-12 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, SPIE Defense + Security</p></details> |
-| **[Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks](https://arxiv.org/abs/2606.14504v1)** | 2026-06-12 |  |
-| **[Digital Twin Driven Textile Classification and Foreign Object Recognition in Automated Sorting Systems](https://arxiv.org/abs/2603.05230v2)** | 2026-06-12 | <details><summary>10 pa...</summary><p>10 pages,single column, 5 figures, preprint for Photomet Edumet 2026 (Klagenfurt, Austria)</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

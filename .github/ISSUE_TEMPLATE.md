@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation](https://arxiv.org/abs/2606.18886v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. The camera-ready version and link will be made publicly available upon publication</p></details> |
 | **[SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation](https://arxiv.org/abs/2606.17972v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/script-Yang/segdino_v2</p></details> |
 | **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
 | **[DINO-GFSA: Geo-Localization via Semantic Gated Fusion and Mamba-based Sequential Aggregation](https://arxiv.org/abs/2606.00784v1)** | 2026-05-30 |  |
@@ -21,18 +22,17 @@ labels: documentation
 | **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 | **[DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification](https://arxiv.org/abs/2604.07166v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the 5th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2026</p></details> |
 | **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Group-DINOmics: Incorporating People Dynamics into DINO for Self-supervised Group Activity Feature Learning](https://arxiv.org/abs/2604.04467v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR2026 Findings</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v2)** | 2026-06-16 |  |
 | **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
 | **[Sustainable Face Recognition on Low-Power Devices with VQ-VAE Embeddings](https://arxiv.org/abs/2606.15355v1)** | 2026-06-13 |  |
 | **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 Supplementary (22 pages, 16 figures, 6 tables, 4 supplementary notes)</p></details> |
 | **[Vision Transformers for Face Recognition Need More Registers](https://arxiv.org/abs/2606.12036v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
 | **[ViT-FREE: Efficient Face Recognition via Early Exiting and Synthetic Adaptation](https://arxiv.org/abs/2606.12023v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
 | **[EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation and Following in SAR Operations](https://arxiv.org/abs/2602.20958v2)** | 2026-06-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v1)** | 2026-06-10 |  |
 | **[Beyond Humans: Multispecies Animal Face Recognition Using Transfer Learning](https://arxiv.org/abs/2606.09353v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This paper extends the work published in the proceedings of CAIP 2025 conference: 'Adapting to the Wild: From Human Face to Animal Face Recognition' by De Marsico, M., Jain, A. K., Miranda, M., & Orlando, A</p></details> |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v2)** | 2026-06-07 |  |
 | **[Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](https://arxiv.org/abs/2606.14748v1)** | 2026-06-05 | <details><summary>IEEE ...</summary><p>IEEE Conf. on Computers, Software, and Applications (COMPSAC), 2026</p></details> |
@@ -64,7 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S3OD: Towards Generalizable Salient Object Detection with Synthetic Data](https://arxiv.org/abs/2510.21605v3)** | 2026-06-17 |  |
+| **[GUMP-Net: An interpretable model-data-driven intelligent algorithm for multi-class pelvic segmentation](https://arxiv.org/abs/2606.19215v1)** | 2026-06-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 3 tables</p></details> |
+| **[Continual Test-Time Adaptation for Object Detection with Adaptive Monitoring and Randomized Restoration](https://arxiv.org/abs/2406.16439v6)** | 2026-06-17 |  |
+| **[Investigation of Neural Network Methods for Reconstruction and Classification of Texture Images Under Conditions of Incomplete Information](https://arxiv.org/abs/2204.14224v3)** | 2026-06-17 | IEEE ACCESS |
+| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v2)** | 2026-06-17 | 29 pages, 18 figures |
 | **[PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution](https://arxiv.org/abs/2606.18008v1)** | 2026-06-16 | 26 pages, 29 figures |
+| **[Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection](https://arxiv.org/abs/2606.18318v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Image Processing (ICIP 2026)</p></details> |
 | **[Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones](https://arxiv.org/abs/2603.26551v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at International Journal of Computer Vision (IJCV)</p></details> |
 | **[OpenTie: Open-vocabulary Sequential Rebar Tying System](https://arxiv.org/abs/2509.00064v2)** | 2026-06-16 | <details><summary>This ...</summary><p>This article is accepted by The 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE 2026)</p></details> |
 | **[Bounding Box Label Propagation for Re-Annotation of Document Layout Analysis Datasets](https://arxiv.org/abs/2606.17644v1)** | 2026-06-16 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, to appear in proceedings of ICDAR 2026, Vienna, Austria</p></details> |
@@ -73,12 +79,6 @@ labels: documentation
 | **[Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data](https://arxiv.org/abs/2410.16089v2)** | 2026-06-15 | 10 pages, 6 figures |
 | **[HMR-Net: Hierarchical Modular Routing for Cross-Domain Object Detection in Aerial Images](https://arxiv.org/abs/2604.18866v2)** | 2026-06-15 |  |
 | **[Hierarchical Fine-Grained Aerial Object Detection](https://arxiv.org/abs/2606.16448v1)** | 2026-06-15 | 15 pages |
-| **[PolyMerge: Compressing 3D Gaussian Splats with Polytope Coverings for Provably Safe Resource-Constrained Navigation](https://arxiv.org/abs/2606.16232v1)** | 2026-06-15 |  |
-| **[Reasoning in Computer Vision: Taxonomy, Models, Tasks, and Methodologies](https://arxiv.org/abs/2508.10523v2)** | 2026-06-15 |  |
-| **[A Dual-Branch Collaborative Framework for Joint Optimization of Underwater Image Enhancement and Object Detection](https://arxiv.org/abs/2606.15857v1)** | 2026-06-14 |  |
-| **[Efficient 3D Perception on Multi-Sweep Point Cloud with Gumbel Spatial Pruning](https://arxiv.org/abs/2411.07742v6)** | 2026-06-14 |  |
-| **[Focus, Align, and Sustain: Counteracting Gradient Dilution in Incremental Object Detection](https://arxiv.org/abs/2606.15253v1)** | 2026-06-13 | Accepted by ICML2026 |
-| **[Multi-view feature High-order Fusion for Space Weak Object Detection and Segmentation](https://arxiv.org/abs/2606.15118v1)** | 2026-06-13 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

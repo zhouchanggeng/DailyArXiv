@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 19, 2026
+title: Latest 15 Papers - June 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[U$^2$Mamba: A Two-level Nested U-structure Mamba for Salient Object Detection](https://arxiv.org/abs/2606.20282v1)** | 2026-06-18 | 6 pages, 2 figures |
+| **[HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-trainin](https://arxiv.org/abs/2606.20189v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Maciej and Jesper contributed equally</p></details> |
+| **[PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units](https://arxiv.org/abs/2603.15106v2)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at ECML-PKDD 2026. 18 pages, 7 figures, 4 tables. This work was funded by the European Commission as part of the MANOLO project under the Horizon Europe programme Grant Agreement No.101135782</p></details> |
+| **[GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks](https://arxiv.org/abs/2512.24592v2)** | 2026-06-18 | Accepted by ECCV2026 |
+| **[Neural Events: Discrete Asynchronous Autoencoders for Event-Based Vision](https://arxiv.org/abs/2606.19835v1)** | 2026-06-18 |  |
+| **[Training-Free Metrics for Synthetic Object Detection Data: A Proxy for Detector Performance](https://arxiv.org/abs/2606.19817v1)** | 2026-06-18 | 9 pages, 4 figures |
 | **[S3OD: Towards Generalizable Salient Object Detection with Synthetic Data](https://arxiv.org/abs/2510.21605v3)** | 2026-06-17 |  |
 | **[GUMP-Net: An interpretable model-data-driven intelligent algorithm for multi-class pelvic segmentation](https://arxiv.org/abs/2606.19215v1)** | 2026-06-17 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 3 tables</p></details> |
 | **[Continual Test-Time Adaptation for Object Detection with Adaptive Monitoring and Randomized Restoration](https://arxiv.org/abs/2406.16439v6)** | 2026-06-17 |  |
@@ -73,12 +79,6 @@ labels: documentation
 | **[Budget-Aware Adaptive Adversarial Patches for Black-Box Object Detection](https://arxiv.org/abs/2606.18318v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted to the 2026 IEEE International Conference on Image Processing (ICIP 2026)</p></details> |
 | **[Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones](https://arxiv.org/abs/2603.26551v2)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at International Journal of Computer Vision (IJCV)</p></details> |
 | **[OpenTie: Open-vocabulary Sequential Rebar Tying System](https://arxiv.org/abs/2509.00064v2)** | 2026-06-16 | <details><summary>This ...</summary><p>This article is accepted by The 2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE 2026)</p></details> |
-| **[Bounding Box Label Propagation for Re-Annotation of Document Layout Analysis Datasets](https://arxiv.org/abs/2606.17644v1)** | 2026-06-16 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, to appear in proceedings of ICDAR 2026, Vienna, Austria</p></details> |
-| **[FATE: Pillar Encoding and Frequency-Aware Training for Event-Based Object Detection](https://arxiv.org/abs/2606.17334v1)** | 2026-06-15 |  |
-| **[MMDiff: Extending Diffusion Transformers for Multi-Modal Generation](https://arxiv.org/abs/2606.16673v1)** | 2026-06-15 |  |
-| **[Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data](https://arxiv.org/abs/2410.16089v2)** | 2026-06-15 | 10 pages, 6 figures |
-| **[HMR-Net: Hierarchical Modular Routing for Cross-Domain Object Detection in Aerial Images](https://arxiv.org/abs/2604.18866v2)** | 2026-06-15 |  |
-| **[Hierarchical Fine-Grained Aerial Object Detection](https://arxiv.org/abs/2606.16448v1)** | 2026-06-15 | 15 pages |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

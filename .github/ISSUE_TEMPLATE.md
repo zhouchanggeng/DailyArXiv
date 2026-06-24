@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection](https://arxiv.org/abs/2606.24805v1)** | 2026-06-23 |  |
+| **[HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training](https://arxiv.org/abs/2606.20189v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Maciej and Jesper contributed equally</p></details> |
+| **[VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](https://arxiv.org/abs/2606.24498v1)** | 2026-06-23 |  |
+| **[M^2C-EvDet: Multi-Domain Multi-Order Cross-Modal Knowledge Distillation for Event-based Object Detection](https://arxiv.org/abs/2606.24248v1)** | 2026-06-23 |  |
+| **[M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for optical-SAR Object Detection](https://arxiv.org/abs/2505.10931v4)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[MSPL: Multi-Step Pseudo-Labeling for Open-Vocabulary Object Detection](https://arxiv.org/abs/2510.14792v4)** | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted by ECCV 2026</p></details> |
+| **[Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection](https://arxiv.org/abs/2606.24092v1)** | 2026-06-23 | Accepted by Sensors |
+| **[Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark](https://arxiv.org/abs/2503.14862v3)** | 2026-06-23 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
+| **[MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment](https://arxiv.org/abs/2509.14001v5)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages main paper, 10 pages supplementary material</p></details> |
+| **[From Spatial to Spectral: An Efficient, Frequency-Guided Feature Representation Learner for Small Object Detection](https://arxiv.org/abs/2606.23825v1)** | 2026-06-22 |  |
 | **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code: https://github.com/VisualScienceLab-KHU/ReSet</p></details> |
 | **[GO: The Great Outdoors Multimodal Dataset](https://arxiv.org/abs/2501.19274v2)** | 2026-06-22 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, accepted at IV 2026</p></details> |
 | **[Modular Diffusion Models for Structured Visual Recognition](https://arxiv.org/abs/2606.22702v1)** | 2026-06-21 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 4 tables</p></details> |
 | **[Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline](https://arxiv.org/abs/2606.22608v1)** | 2026-06-21 | Under review |
 | **[The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination](https://arxiv.org/abs/2606.22574v1)** | 2026-06-21 | 18 pages |
-| **[NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models](https://arxiv.org/abs/2606.22537v1)** | 2026-06-21 |  |
-| **[Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection](https://arxiv.org/abs/2606.22378v1)** | 2026-06-21 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. Code: https://github.com/fulongcai/PACT</p></details> |
-| **[Accurate identification and measurement of the precipitate area by two-stage deep neural networks in novel chromium-based alloys](https://arxiv.org/abs/2606.22112v1)** | 2026-06-20 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. Published in Phys. Chem. Chem. Phys</p></details> |
-| **[HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training](https://arxiv.org/abs/2606.20189v2)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Maciej and Jesper contributed equally</p></details> |
-| **[YOLO26 vs. YOLOv8: A Comprehensive Architectural Benchmark of Next-Generation Real-Time Object Detection Models](https://arxiv.org/abs/2605.24831v2)** | 2026-06-19 | <details><summary>11 pa...</summary><p>11 pages, 6 tables, 9 figures</p></details> |
-| **[MIRCaps: A Large-Scale Mixed-Domain Dataset with Image-Level and Region-Level Captions for Fine-Grained Vision-Language Learning](https://arxiv.org/abs/2606.21419v1)** | 2026-06-19 |  |
-| **[OSOG: A Differentiable, Physics-Informed Synthetic Data Engine for Micro-Optical Environments](https://arxiv.org/abs/2606.21381v1)** | 2026-06-19 | 9 pages, 5 figures |
-| **[Mind the Noise: Sensitivity of Transformer-based Interaction-Aware Trajectory Prediction Models to Noisy Data](https://arxiv.org/abs/2606.21344v1)** | 2026-06-19 |  |
-| **[Object-Centric Dataset Resources for Constrained-Data Image Generation and Augmentation](https://arxiv.org/abs/2606.21113v1)** | 2026-06-19 | <details><summary>5 pag...</summary><p>5 pages including references, 2 figures, 2 tables. Dataset and related files at https://github.com/Latzi/object-centric-low-data-datasets and https://doi.org/10.5281/zenodo.20573001</p></details> |
-| **[U$^2$Mamba: A Two-level Nested U-structure Mamba for Salient Object Detection](https://arxiv.org/abs/2606.20282v1)** | 2026-06-18 | 6 pages, 2 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

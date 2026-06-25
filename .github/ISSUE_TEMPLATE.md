@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2026
+title: Latest 15 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$S^{2}$-FracMix: Label-Preserving Self-Saliency Mixup Augmentation](https://arxiv.org/abs/2606.25784v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v1)** | 2026-06-24 |  |
+| **[PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution](https://arxiv.org/abs/2606.18008v2)** | 2026-06-24 | 26 pages, 29 figures |
+| **[Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform](https://arxiv.org/abs/2606.25652v1)** | 2026-06-24 |  |
+| **[REViT: Roto-reflection Equivariant Convolutional Vision Transformer](https://arxiv.org/abs/2606.25318v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
+| **[LEVIRDet: A Million-Scale 159-Category Dataset and Foundation Model for Universal Remote Sensing Object Detection](https://arxiv.org/abs/2606.25312v1)** | 2026-06-24 | 18 pages, 9 figures |
 | **[DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection](https://arxiv.org/abs/2606.24805v1)** | 2026-06-23 |  |
 | **[HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training](https://arxiv.org/abs/2606.20189v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Maciej and Jesper contributed equally</p></details> |
 | **[VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](https://arxiv.org/abs/2606.24498v1)** | 2026-06-23 |  |
@@ -73,12 +79,6 @@ labels: documentation
 | **[Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection](https://arxiv.org/abs/2606.24092v1)** | 2026-06-23 | Accepted by Sensors |
 | **[Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark](https://arxiv.org/abs/2503.14862v3)** | 2026-06-23 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment](https://arxiv.org/abs/2509.14001v5)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages main paper, 10 pages supplementary material</p></details> |
-| **[From Spatial to Spectral: An Efficient, Frequency-Guided Feature Representation Learner for Small Object Detection](https://arxiv.org/abs/2606.23825v1)** | 2026-06-22 |  |
-| **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code: https://github.com/VisualScienceLab-KHU/ReSet</p></details> |
-| **[GO: The Great Outdoors Multimodal Dataset](https://arxiv.org/abs/2501.19274v2)** | 2026-06-22 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, accepted at IV 2026</p></details> |
-| **[Modular Diffusion Models for Structured Visual Recognition](https://arxiv.org/abs/2606.22702v1)** | 2026-06-21 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 4 tables</p></details> |
-| **[Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline](https://arxiv.org/abs/2606.22608v1)** | 2026-06-21 | Under review |
-| **[The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination](https://arxiv.org/abs/2606.22574v1)** | 2026-06-21 | 18 pages |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

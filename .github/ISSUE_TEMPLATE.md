@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT](https://arxiv.org/abs/2606.27084v1)** | 2026-06-25 | 24 pages, 17 figures |
 | **[DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation](https://arxiv.org/abs/2606.18886v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. The camera-ready version and link will be made publicly available upon publication</p></details> |
 | **[SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation](https://arxiv.org/abs/2606.17972v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/script-Yang/segdino_v2</p></details> |
 | **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization](https://arxiv.org/abs/2604.12346v1)** | 2026-04-14 |  |
 | **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 | **[DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification](https://arxiv.org/abs/2604.07166v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the 5th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2026</p></details> |
-| **[PET-DINO: Unifying Visual Cues into Grounding DINO with Prompt-Enriched Training](https://arxiv.org/abs/2604.00503v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GO: The Great Outdoors Multimodal Dataset](https://arxiv.org/abs/2501.19274v3)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, accepted at IV 2026</p></details> |
+| **[Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection](https://arxiv.org/abs/2606.26849v1)** | 2026-06-25 | 20 pages, 5 figures |
+| **[Augmentation techniques for video surveillance in the visible and thermal spectral range](https://arxiv.org/abs/2606.13042v2)** | 2026-06-25 | <details><summary>8 pag...</summary><p>8 pages. SPIE Security + Defence, Strasbourg, 10th September 2019</p></details> |
+| **[Symmetric Entropy-Constrained Video Coding for Machines](https://arxiv.org/abs/2510.15347v4)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing. This is the author's accepted manuscript (AAM)</p></details> |
+| **[Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation](https://arxiv.org/abs/2606.26743v1)** | 2026-06-25 |  |
+| **[TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://arxiv.org/abs/2606.26615v1)** | 2026-06-25 | ECCV 2026 |
+| **[NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models](https://arxiv.org/abs/2606.22537v2)** | 2026-06-25 | Accept to ECCV 2026 |
+| **[UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Vehicles](https://arxiv.org/abs/2511.18254v3)** | 2026-06-25 | <details><summary>This ...</summary><p>This work has been accepted to the European Conference on Computer Vision (ECCV) 2026. Project Page: https://lisiyi777.github.io/UniFlow/</p></details> |
 | **[$S^{2}$-FracMix: Label-Preserving Self-Saliency Mixup Augmentation](https://arxiv.org/abs/2606.25784v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v1)** | 2026-06-24 |  |
 | **[PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution](https://arxiv.org/abs/2606.18008v2)** | 2026-06-24 | 26 pages, 29 figures |
@@ -71,14 +79,6 @@ labels: documentation
 | **[REViT: Roto-reflection Equivariant Convolutional Vision Transformer](https://arxiv.org/abs/2606.25318v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
 | **[LEVIRDet: A Million-Scale 159-Category Dataset and Foundation Model for Universal Remote Sensing Object Detection](https://arxiv.org/abs/2606.25312v1)** | 2026-06-24 | 18 pages, 9 figures |
 | **[DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection](https://arxiv.org/abs/2606.24805v1)** | 2026-06-23 |  |
-| **[HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training](https://arxiv.org/abs/2606.20189v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Maciej and Jesper contributed equally</p></details> |
-| **[VistaRef: Boosting Visual Spatial Orientation Awareness for Pointing-to-Object Detection](https://arxiv.org/abs/2606.24498v1)** | 2026-06-23 |  |
-| **[M^2C-EvDet: Multi-Domain Multi-Order Cross-Modal Knowledge Distillation for Event-based Object Detection](https://arxiv.org/abs/2606.24248v1)** | 2026-06-23 |  |
-| **[M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for optical-SAR Object Detection](https://arxiv.org/abs/2505.10931v4)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[MSPL: Multi-Step Pseudo-Labeling for Open-Vocabulary Object Detection](https://arxiv.org/abs/2510.14792v4)** | 2026-06-23 | <details><summary>This ...</summary><p>This paper has been accepted by ECCV 2026</p></details> |
-| **[Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection](https://arxiv.org/abs/2606.24092v1)** | 2026-06-23 | Accepted by Sensors |
-| **[Fine-Grained Open-Vocabulary Object Detection with Fined-Grained Prompts: Task, Dataset and Benchmark](https://arxiv.org/abs/2503.14862v3)** | 2026-06-23 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
-| **[MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment](https://arxiv.org/abs/2509.14001v5)** | 2026-06-22 | <details><summary>18 pa...</summary><p>18 pages main paper, 10 pages supplementary material</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2026
+title: Latest 15 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,9 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling](https://arxiv.org/abs/2606.27831v1)** | 2026-06-26 |  |
+| **[Explainable AI for Biodiversity Monitoring and Ecological Image Analysis](https://arxiv.org/abs/2606.27667v1)** | 2026-06-26 |  |
+| **[Radar Guided Camera Verification for Automatic Emergency Braking Rethinking Object Detection in Radar Camera Fusion](https://arxiv.org/abs/2606.27556v1)** | 2026-06-25 | 8 pages, 8 figures |
 | **[GO: The Great Outdoors Multimodal Dataset](https://arxiv.org/abs/2501.19274v3)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, accepted at IV 2026</p></details> |
 | **[Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection](https://arxiv.org/abs/2606.26849v1)** | 2026-06-25 | 20 pages, 5 figures |
 | **[Augmentation techniques for video surveillance in the visible and thermal spectral range](https://arxiv.org/abs/2606.13042v2)** | 2026-06-25 | <details><summary>8 pag...</summary><p>8 pages. SPIE Security + Defence, Strasbourg, 10th September 2019</p></details> |
@@ -76,13 +79,11 @@ labels: documentation
 | **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v1)** | 2026-06-24 |  |
 | **[PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution](https://arxiv.org/abs/2606.18008v2)** | 2026-06-24 | 26 pages, 29 figures |
 | **[Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform](https://arxiv.org/abs/2606.25652v1)** | 2026-06-24 |  |
-| **[REViT: Roto-reflection Equivariant Convolutional Vision Transformer](https://arxiv.org/abs/2606.25318v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted for publication at ICML 2026</p></details> |
-| **[LEVIRDet: A Million-Scale 159-Category Dataset and Foundation Model for Universal Remote Sensing Object Detection](https://arxiv.org/abs/2606.25312v1)** | 2026-06-24 | 18 pages, 9 figures |
-| **[DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection](https://arxiv.org/abs/2606.24805v1)** | 2026-06-23 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2603.25168v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v1)** | 2026-06-20 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. This is the revised version of a manuscript currently under review for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 | **[Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics](https://arxiv.org/abs/2604.27128v2)** | 2026-06-15 |  |
 | **[SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation](https://arxiv.org/abs/2602.06335v2)** | 2026-06-14 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
 | **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM KDD 2026 ADS</p></details> |
 | **[Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance](https://arxiv.org/abs/2605.25385v1)** | 2026-05-25 | 18 pages |
-| **[CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation](https://arxiv.org/abs/2605.24807v1)** | 2026-05-24 |  |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2026
+title: Latest 15 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes](https://arxiv.org/abs/2606.30321v1)** | 2026-06-29 |  |
 | **[Model Inversion meets Cryptographic Fuzzy Extractors](https://arxiv.org/abs/2510.25687v3)** | 2026-06-19 |  |
 | **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v2)** | 2026-06-16 |  |
 | **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[CounterFace: A Synthetic Face Dataset for Fine-Grained Counterfactual Evaluation of Face Recognition Systems](https://arxiv.org/abs/2407.13922v3)** | 2026-06-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/Guruprasad68/counterface_facct2026. Dataset available for non-commercial research upon request</p></details> |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v2)** | 2026-05-31 |  |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v3)** | 2026-05-29 |  |
-| **[SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation](https://arxiv.org/abs/2606.00380v1)** | 2026-05-29 | <details><summary>17 pa...</summary><p>17 pages. Code available at https://github.com/pedroandreou/supreme-unlearning</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hippocampus-DETR: An Explicit Memory Object Detection Framework Based on Hippocampus Modeling](https://arxiv.org/abs/2606.27831v1)** | 2026-06-26 |  |
-| **[Explainable AI for Biodiversity Monitoring and Ecological Image Analysis](https://arxiv.org/abs/2606.27667v1)** | 2026-06-26 |  |
-| **[Radar Guided Camera Verification for Automatic Emergency Braking Rethinking Object Detection in Radar Camera Fusion](https://arxiv.org/abs/2606.27556v1)** | 2026-06-25 | 8 pages, 8 figures |
-| **[GO: The Great Outdoors Multimodal Dataset](https://arxiv.org/abs/2501.19274v3)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, accepted at IV 2026</p></details> |
-| **[Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection](https://arxiv.org/abs/2606.26849v1)** | 2026-06-25 | 20 pages, 5 figures |
-| **[Augmentation techniques for video surveillance in the visible and thermal spectral range](https://arxiv.org/abs/2606.13042v2)** | 2026-06-25 | <details><summary>8 pag...</summary><p>8 pages. SPIE Security + Defence, Strasbourg, 10th September 2019</p></details> |
-| **[Symmetric Entropy-Constrained Video Coding for Machines](https://arxiv.org/abs/2510.15347v4)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing. This is the author's accepted manuscript (AAM)</p></details> |
-| **[Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation](https://arxiv.org/abs/2606.26743v1)** | 2026-06-25 |  |
-| **[TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://arxiv.org/abs/2606.26615v1)** | 2026-06-25 | ECCV 2026 |
-| **[NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models](https://arxiv.org/abs/2606.22537v2)** | 2026-06-25 | Accept to ECCV 2026 |
-| **[UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Vehicles](https://arxiv.org/abs/2511.18254v3)** | 2026-06-25 | <details><summary>This ...</summary><p>This work has been accepted to the European Conference on Computer Vision (ECCV) 2026. Project Page: https://lisiyi777.github.io/UniFlow/</p></details> |
-| **[$S^{2}$-FracMix: Label-Preserving Self-Saliency Mixup Augmentation](https://arxiv.org/abs/2606.25784v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v1)** | 2026-06-24 |  |
-| **[PhaseWin: An Efficient Search Algorithm for Faithful Visual Attribution](https://arxiv.org/abs/2606.18008v2)** | 2026-06-24 | 26 pages, 29 figures |
-| **[Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform](https://arxiv.org/abs/2606.25652v1)** | 2026-06-24 |  |
+| **[FR-DETR: Frequency and Recurrent Feature Refinement for Robust Object Detection under Adverse Weather](https://arxiv.org/abs/2606.30471v1)** | 2026-06-29 | 14 pages |
+| **[Efficient RGB-T Object Detection via Sparse Cross-Modality Fusion](https://arxiv.org/abs/2606.30215v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted by ECCV-2026</p></details> |
+| **[HiRes: A Hierarchical Cascaded Method for Resistor Value Identification](https://arxiv.org/abs/2606.30179v1)** | 2026-06-29 | <details><summary>Submi...</summary><p>Submitted to ICONIP 2026</p></details> |
+| **[XYZ-IBD: Benchmarking Robust 6D Object Pose Estimation under Real-World Industrial Complexity](https://arxiv.org/abs/2506.00599v3)** | 2026-06-29 |  |
+| **[Bridging the Gap Between Image Restoration and Navigational Safety in Hazy Conditions: A New Visibility Estimation Metric for Maritime Surveillance](https://arxiv.org/abs/2606.30049v1)** | 2026-06-29 | 20 pages,10 figures |
+| **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code: https://github.com/VisualScienceLab-KHU/ReSet</p></details> |
+| **[Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing](https://arxiv.org/abs/2508.02425v2)** | 2026-06-29 | <details><summary>2025 ...</summary><p>2025 IEEE 21st International Conference on Automation Science and Engineering (CASE), Los Angeles, CA, USA</p></details> |
+| **[MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection](https://arxiv.org/abs/2506.12697v3)** | 2026-06-29 |  |
+| **[LeAD-M3D: Leveraging Asymmetric Distillation for Real-Time Monocular 3D Detection](https://arxiv.org/abs/2512.05663v3)** | 2026-06-28 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://deepscenario.github.io/LeAD-M3D/</p></details> |
+| **[CollabOD: Collaborative Multi-Backbone with Cross-scale Vision for UAV Small Object Detection](https://arxiv.org/abs/2603.05905v2)** | 2026-06-28 |  |
+| **[GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem](https://arxiv.org/abs/2606.29161v1)** | 2026-06-28 |  |
+| **[CMTFormer: Marrying Transformer with Hierarchical Information Interaction for RGB-Event Object Detection](https://arxiv.org/abs/2606.29136v1)** | 2026-06-28 | 15 pages |
+| **[Adaptive Spectrum-Aware Feature Disentangled Network for Small Object Detection](https://arxiv.org/abs/2606.29029v1)** | 2026-06-27 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted at ECCV 2026</p></details> |
+| **[CoLR-Det: Collaborative Latent Restoration for Small Object Detection in Low-Resolution Remote Sensing Images](https://arxiv.org/abs/2601.12507v2)** | 2026-06-27 |  |
+| **[Virtual Ring Try-On](https://arxiv.org/abs/2606.28792v1)** | 2026-06-27 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation](https://arxiv.org/abs/2606.30477v1)** | 2026-06-29 | 54 pages |
 | **[ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2603.25168v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v1)** | 2026-06-20 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. This is the revised version of a manuscript currently under review for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 | **[Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics](https://arxiv.org/abs/2604.27128v2)** | 2026-06-15 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy](https://arxiv.org/abs/2605.31284v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at PHAROS-AIF-MIH workshop @ CVPR 2026</p></details> |
 | **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
 | **[Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation](https://arxiv.org/abs/2602.11799v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ACM KDD 2026 ADS</p></details> |
-| **[Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance](https://arxiv.org/abs/2605.25385v1)** | 2026-05-25 | 18 pages |
 

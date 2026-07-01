@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FaceMoE: Mixture of Experts for Low-Resolution Face Recognition](https://arxiv.org/abs/2606.32040v1)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://kartik-3004.github.io/FaceMoE/</p></details> |
+| **[Phantom: A Unified Face-Swap Deepfake Protection Framework with Latent and Spatial Constraints](https://arxiv.org/abs/2606.31703v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings)</p></details> |
 | **[Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes](https://arxiv.org/abs/2606.30321v1)** | 2026-06-29 |  |
 | **[Model Inversion meets Cryptographic Fuzzy Extractors](https://arxiv.org/abs/2510.25687v3)** | 2026-06-19 |  |
 | **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v2)** | 2026-06-16 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v2)** | 2026-06-07 |  |
 | **[Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](https://arxiv.org/abs/2606.14748v1)** | 2026-06-05 | <details><summary>IEEE ...</summary><p>IEEE Conf. on Computers, Software, and Applications (COMPSAC), 2026</p></details> |
 | **[CounterFace: A Synthetic Face Dataset for Fine-Grained Counterfactual Evaluation of Face Recognition Systems](https://arxiv.org/abs/2407.13922v3)** | 2026-06-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/Guruprasad68/counterface_facct2026. Dataset available for non-commercial research upon request</p></details> |
-| **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v2)** | 2026-05-31 |  |
-| **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v3)** | 2026-05-29 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FR-DETR: Frequency and Recurrent Feature Refinement for Robust Object Detection under Adverse Weather](https://arxiv.org/abs/2606.30471v1)** | 2026-06-29 | 14 pages |
-| **[Efficient RGB-T Object Detection via Sparse Cross-Modality Fusion](https://arxiv.org/abs/2606.30215v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted by ECCV-2026</p></details> |
-| **[HiRes: A Hierarchical Cascaded Method for Resistor Value Identification](https://arxiv.org/abs/2606.30179v1)** | 2026-06-29 | <details><summary>Submi...</summary><p>Submitted to ICONIP 2026</p></details> |
-| **[XYZ-IBD: Benchmarking Robust 6D Object Pose Estimation under Real-World Industrial Complexity](https://arxiv.org/abs/2506.00599v3)** | 2026-06-29 |  |
-| **[Bridging the Gap Between Image Restoration and Navigational Safety in Hazy Conditions: A New Visibility Estimation Metric for Maritime Surveillance](https://arxiv.org/abs/2606.30049v1)** | 2026-06-29 | 20 pages,10 figures |
-| **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code: https://github.com/VisualScienceLab-KHU/ReSet</p></details> |
-| **[Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing](https://arxiv.org/abs/2508.02425v2)** | 2026-06-29 | <details><summary>2025 ...</summary><p>2025 IEEE 21st International Conference on Automation Science and Engineering (CASE), Los Angeles, CA, USA</p></details> |
-| **[MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection](https://arxiv.org/abs/2506.12697v3)** | 2026-06-29 |  |
-| **[LeAD-M3D: Leveraging Asymmetric Distillation for Real-Time Monocular 3D Detection](https://arxiv.org/abs/2512.05663v3)** | 2026-06-28 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://deepscenario.github.io/LeAD-M3D/</p></details> |
-| **[CollabOD: Collaborative Multi-Backbone with Cross-scale Vision for UAV Small Object Detection](https://arxiv.org/abs/2603.05905v2)** | 2026-06-28 |  |
-| **[GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem](https://arxiv.org/abs/2606.29161v1)** | 2026-06-28 |  |
-| **[CMTFormer: Marrying Transformer with Hierarchical Information Interaction for RGB-Event Object Detection](https://arxiv.org/abs/2606.29136v1)** | 2026-06-28 | 15 pages |
-| **[Adaptive Spectrum-Aware Feature Disentangled Network for Small Object Detection](https://arxiv.org/abs/2606.29029v1)** | 2026-06-27 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Accepted at ECCV 2026</p></details> |
-| **[CoLR-Det: Collaborative Latent Restoration for Small Object Detection in Low-Resolution Remote Sensing Images](https://arxiv.org/abs/2601.12507v2)** | 2026-06-27 |  |
-| **[Virtual Ring Try-On](https://arxiv.org/abs/2606.28792v1)** | 2026-06-27 |  |
+| **[Real-Time Source-Free Object Detection](https://arxiv.org/abs/2606.31834v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Autonomous UAV Navigation for Individual Wildlife Re-Identification](https://arxiv.org/abs/2606.31772v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at 2026 CV4Animals Workshop at CVPR</p></details> |
+| **[HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection](https://arxiv.org/abs/2606.31496v1)** | 2026-06-30 |  |
+| **[Zero-Shot Quantization for Object Detectors using Off-the-Shelf Generative Models](https://arxiv.org/abs/2606.31456v1)** | 2026-06-30 | <details><summary>Publi...</summary><p>Published at ECCV 2026</p></details> |
+| **[Domain Adaptive Object Detection via Dual-Stream Bilevel-Cycle Optimization](https://arxiv.org/abs/2606.31373v1)** | 2026-06-30 |  |
+| **[Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics](https://arxiv.org/abs/2509.19957v2)** | 2026-06-30 | <details><summary>Pendi...</summary><p>Pending significant revision of the statistical analysis</p></details> |
+| **[Rethinking Foundation Model Collaboration: Enhancing Specialized Models through Proxy Task Reasoning](https://arxiv.org/abs/2606.31157v1)** | 2026-06-30 |  |
+| **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455v2)** | 2026-06-30 | <details><summary>This ...</summary><p>This work has been accepted to the European Conference on Computer Vision (ECCV) 2026. Project Page: https://ggare-cmu.github.io/DetPO/</p></details> |
+| **[Horizon3D: Sparse Radar-Camera Fusion for Long-Range 3D Perception in Autonomous Driving](https://arxiv.org/abs/2606.31096v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://geonhobang.github.io/horizon3d-project-page. Code: https://github.com/geonhobang/ECCV2026_Horizon3D</p></details> |
+| **[TerraDiT-$Ω$: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive](https://arxiv.org/abs/2606.31029v1)** | 2026-06-30 | <details><summary>Europ...</summary><p>European Conference on Computer Vision 2026</p></details> |
+| **[Dual Sparse Aggregation Transformer for Multispectral Object Detection](https://arxiv.org/abs/2606.31015v1)** | 2026-06-30 |  |
+| **[URoPE: Universal Relative Position Embedding across Geometric Spaces](https://arxiv.org/abs/2604.18747v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code is available: https://urope-pe.github.io/</p></details> |
+| **[Medical Image Spatial Grounding with Semantic Sampling](https://arxiv.org/abs/2603.14579v3)** | 2026-06-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at MICCAI 2026</p></details> |
+| **[The Label Imitation Game: Turing Test Network for Zero-Shot Pseudo-Label Pruning](https://arxiv.org/abs/2606.30875v1)** | 2026-06-29 | ECCV 2026 |
+| **[Simple Supervision Is Hard to Beat: A Bitter Lesson from Sparse Target Labels in Domain-Adaptive Object Detection](https://arxiv.org/abs/2606.30795v1)** | 2026-06-29 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

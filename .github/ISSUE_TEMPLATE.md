@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2026
+title: Latest 15 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning](https://arxiv.org/abs/2603.22969v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Towards High-Resolution Visual Perception via Hierarchical Entity Exploration](https://arxiv.org/abs/2607.00816v1)** | 2026-07-01 | Accepted by ECCV2026 |
+| **[Active Learning for Cascaded Object Detection: Balancing Coverage and Uncertainty in Table Extraction Pipelines](https://arxiv.org/abs/2607.00747v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2026</p></details> |
+| **[GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746v1)** | 2026-07-01 | ICLR 2026 |
+| **[A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline](https://arxiv.org/abs/2605.12608v2)** | 2026-07-01 | <details><summary>Proje...</summary><p>Project code and experimental configs available at https://github.com/mmohamed28/Clear2Fog</p></details> |
+| **[From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping](https://arxiv.org/abs/2607.00530v1)** | 2026-07-01 | 8 pages |
+| **[Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models](https://arxiv.org/abs/2607.00357v1)** | 2026-07-01 |  |
+| **[DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images](https://arxiv.org/abs/2607.00338v1)** | 2026-07-01 | Accepted by ECCV2026 |
+| **[A Synthetic-Driven Vision System for Assembly Step Recognition](https://arxiv.org/abs/2607.00129v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by CASE 2026</p></details> |
 | **[Real-Time Source-Free Object Detection](https://arxiv.org/abs/2606.31834v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Autonomous UAV Navigation for Individual Wildlife Re-Identification](https://arxiv.org/abs/2606.31772v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at 2026 CV4Animals Workshop at CVPR</p></details> |
 | **[HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection](https://arxiv.org/abs/2606.31496v1)** | 2026-06-30 |  |
 | **[Zero-Shot Quantization for Object Detectors using Off-the-Shelf Generative Models](https://arxiv.org/abs/2606.31456v1)** | 2026-06-30 | <details><summary>Publi...</summary><p>Published at ECCV 2026</p></details> |
 | **[Domain Adaptive Object Detection via Dual-Stream Bilevel-Cycle Optimization](https://arxiv.org/abs/2606.31373v1)** | 2026-06-30 |  |
 | **[Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics](https://arxiv.org/abs/2509.19957v2)** | 2026-06-30 | <details><summary>Pendi...</summary><p>Pending significant revision of the statistical analysis</p></details> |
-| **[Rethinking Foundation Model Collaboration: Enhancing Specialized Models through Proxy Task Reasoning](https://arxiv.org/abs/2606.31157v1)** | 2026-06-30 |  |
-| **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455v2)** | 2026-06-30 | <details><summary>This ...</summary><p>This work has been accepted to the European Conference on Computer Vision (ECCV) 2026. Project Page: https://ggare-cmu.github.io/DetPO/</p></details> |
-| **[Horizon3D: Sparse Radar-Camera Fusion for Long-Range 3D Perception in Autonomous Driving](https://arxiv.org/abs/2606.31096v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://geonhobang.github.io/horizon3d-project-page. Code: https://github.com/geonhobang/ECCV2026_Horizon3D</p></details> |
-| **[TerraDiT-$Ω$: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive](https://arxiv.org/abs/2606.31029v1)** | 2026-06-30 | <details><summary>Europ...</summary><p>European Conference on Computer Vision 2026</p></details> |
-| **[Dual Sparse Aggregation Transformer for Multispectral Object Detection](https://arxiv.org/abs/2606.31015v1)** | 2026-06-30 |  |
-| **[URoPE: Universal Relative Position Embedding across Geometric Spaces](https://arxiv.org/abs/2604.18747v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code is available: https://urope-pe.github.io/</p></details> |
-| **[Medical Image Spatial Grounding with Semantic Sampling](https://arxiv.org/abs/2603.14579v3)** | 2026-06-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at MICCAI 2026</p></details> |
-| **[The Label Imitation Game: Turing Test Network for Zero-Shot Pseudo-Label Pruning](https://arxiv.org/abs/2606.30875v1)** | 2026-06-29 | ECCV 2026 |
-| **[Simple Supervision Is Hard to Beat: A Bitter Lesson from Sparse Target Labels in Domain-Adaptive Object Detection](https://arxiv.org/abs/2606.30795v1)** | 2026-06-29 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

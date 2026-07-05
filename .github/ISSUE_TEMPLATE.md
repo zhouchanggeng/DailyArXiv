@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2026
+title: Latest 15 Papers - July 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection](https://arxiv.org/abs/2607.01303v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Information Forensics & Security (TIFS)</p></details> |
 | **[FaceMoE: Mixture of Experts for Low-Resolution Face Recognition](https://arxiv.org/abs/2606.32040v1)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://kartik-3004.github.io/FaceMoE/</p></details> |
 | **[Phantom: A Unified Face-Swap Deepfake Protection Framework with Latent and Spatial Constraints](https://arxiv.org/abs/2606.31703v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings)</p></details> |
 | **[Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes](https://arxiv.org/abs/2606.30321v1)** | 2026-06-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Beyond Humans: Multispecies Animal Face Recognition Using Transfer Learning](https://arxiv.org/abs/2606.09353v1)** | 2026-06-08 | <details><summary>This ...</summary><p>This paper extends the work published in the proceedings of CAIP 2025 conference: 'Adapting to the Wild: From Human Face to Animal Face Recognition' by De Marsico, M., Jain, A. K., Miranda, M., & Orlando, A</p></details> |
 | **[IDDM: Identity-Decoupled Personalized Diffusion Models with a Tunable Privacy-Utility Trade-off](https://arxiv.org/abs/2604.00903v2)** | 2026-06-07 |  |
 | **[Is My Vision-Language Data in Your AI? Membership Inference Test (MINT) Demo 2](https://arxiv.org/abs/2606.14748v1)** | 2026-06-05 | <details><summary>IEEE ...</summary><p>IEEE Conf. on Computers, Software, and Applications (COMPSAC), 2026</p></details> |
-| **[CounterFace: A Synthetic Face Dataset for Fine-Grained Counterfactual Evaluation of Face Recognition Systems](https://arxiv.org/abs/2407.13922v3)** | 2026-06-01 | <details><summary>Code ...</summary><p>Code available at https://github.com/Guruprasad68/counterface_facct2026. Dataset available for non-commercial research upon request</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Q-GAIN: A Python Package for Machine Learning and Physically Informed Analysis Applications](https://arxiv.org/abs/2607.02413v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submission to SciPost, 20 pages with 4 figures</p></details> |
+| **[SCLARO: A Dataset for Grounded Scenario-Level Scene Understanding and ScenarioCLIP for Benchmarking](https://arxiv.org/abs/2511.20274v2)** | 2026-07-02 |  |
+| **[Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2607.02074v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 main</p></details> |
+| **[Evaluating Vision-Language Models as a Zero-Shot Learning Alternative to You Only Look Once and Optical Character Recognition for Nigerian License Plate Recognition](https://arxiv.org/abs/2607.02025v1)** | 2026-07-02 |  |
+| **[A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity](https://arxiv.org/abs/2607.02005v1)** | 2026-07-02 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 6 tables,</p></details> |
+| **[Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment](https://arxiv.org/abs/2607.01983v1)** | 2026-07-02 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 8 tables. ECCV 2026 camera-ready</p></details> |
+| **[CamoNAS: Neural Architecture Search for Enhanced Camouflaged Object Detection](https://arxiv.org/abs/2607.01870v1)** | 2026-07-02 | <details><summary>Publi...</summary><p>Published in The Visual Computer. Author manuscript version</p></details> |
+| **[C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation](https://arxiv.org/abs/2607.01827v1)** | 2026-07-02 | 18 pages, 8figures |
+| **[Rethinking Conditional Generation for Underwater Salient Object Detection](https://arxiv.org/abs/2607.01825v1)** | 2026-07-02 |  |
+| **[ProCal: Inference-Time Proposal Calibration for Open-Vocabulary Object Detection](https://arxiv.org/abs/2607.01759v1)** | 2026-07-02 |  |
+| **[ZENITH: Automated Gradient Norm Informed Stochastic Optimization](https://arxiv.org/abs/2601.15212v2)** | 2026-07-01 |  |
 | **[FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning](https://arxiv.org/abs/2603.22969v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Towards High-Resolution Visual Perception via Hierarchical Entity Exploration](https://arxiv.org/abs/2607.00816v1)** | 2026-07-01 | Accepted by ECCV2026 |
 | **[Active Learning for Cascaded Object Detection: Balancing Coverage and Uncertainty in Table Extraction Pipelines](https://arxiv.org/abs/2607.00747v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2026</p></details> |
 | **[GaussianFusion: Unified 3D Gaussian Representation for Multi-Modal Fusion Perception](https://arxiv.org/abs/2607.00746v1)** | 2026-07-01 | ICLR 2026 |
-| **[A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline](https://arxiv.org/abs/2605.12608v2)** | 2026-07-01 | <details><summary>Proje...</summary><p>Project code and experimental configs available at https://github.com/mmohamed28/Clear2Fog</p></details> |
-| **[From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping](https://arxiv.org/abs/2607.00530v1)** | 2026-07-01 | 8 pages |
-| **[Personalized Object Identification and Localization via In-Context Inference with Vision-Language Models](https://arxiv.org/abs/2607.00357v1)** | 2026-07-01 |  |
-| **[DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images](https://arxiv.org/abs/2607.00338v1)** | 2026-07-01 | Accepted by ECCV2026 |
-| **[A Synthetic-Driven Vision System for Assembly Step Recognition](https://arxiv.org/abs/2607.00129v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by CASE 2026</p></details> |
-| **[Real-Time Source-Free Object Detection](https://arxiv.org/abs/2606.31834v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Autonomous UAV Navigation for Individual Wildlife Re-Identification](https://arxiv.org/abs/2606.31772v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at 2026 CV4Animals Workshop at CVPR</p></details> |
-| **[HVPNet: A Bio-Inspired Network for General Salient and Camouflaged Object Detection](https://arxiv.org/abs/2606.31496v1)** | 2026-06-30 |  |
-| **[Zero-Shot Quantization for Object Detectors using Off-the-Shelf Generative Models](https://arxiv.org/abs/2606.31456v1)** | 2026-06-30 | <details><summary>Publi...</summary><p>Published at ECCV 2026</p></details> |
-| **[Domain Adaptive Object Detection via Dual-Stream Bilevel-Cycle Optimization](https://arxiv.org/abs/2606.31373v1)** | 2026-06-30 |  |
-| **[Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics](https://arxiv.org/abs/2509.19957v2)** | 2026-06-30 | <details><summary>Pendi...</summary><p>Pending significant revision of the statistical analysis</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

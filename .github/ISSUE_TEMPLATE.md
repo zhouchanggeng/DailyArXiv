@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
+| **[Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models](https://arxiv.org/abs/2607.05702v1)** | 2026-07-06 |  |
 | **[PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition](https://arxiv.org/abs/2607.03581v1)** | 2026-07-03 |  |
 | **[A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation](https://arxiv.org/abs/2607.03131v1)** | 2026-07-03 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Project repository available at: https://github.com/DumitruEstera/ai-surveillance-system</p></details> |
 | **[Attention-Guided Efficientnet Architecture For Precise Criminal Identification in Surveillance Images](https://arxiv.org/abs/2607.03073v1)** | 2026-07-03 | <details><summary>Link:...</summary><p>Link: https://advancedengineeringscience.com/index.php/aes/article/view/363, Publisher: Sichuan University, Chaina</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Sustainable Face Recognition on Low-Power Devices with VQ-VAE Embeddings](https://arxiv.org/abs/2606.15355v1)** | 2026-06-13 |  |
 | **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 Supplementary (22 pages, 16 figures, 6 tables, 4 supplementary notes)</p></details> |
 | **[Vision Transformers for Face Recognition Need More Registers](https://arxiv.org/abs/2606.12036v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
-| **[ViT-FREE: Efficient Face Recognition via Early Exiting and Synthetic Adaptation](https://arxiv.org/abs/2606.12023v1)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition (2026)</p></details> |
-| **[EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation and Following in SAR Operations](https://arxiv.org/abs/2602.20958v2)** | 2026-06-10 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,9 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection](https://arxiv.org/abs/2607.05176v1)** | 2026-07-06 |  |
+| **[FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection](https://arxiv.org/abs/2607.05176v2)** | 2026-07-07 |  |
+| **[Propose and Attend: Training-free MLLM Grounding Confidence via Multi-Token Localized Attention](https://arxiv.org/abs/2607.05978v1)** | 2026-07-07 |  |
+| **[FGAA-FPN: Foreground-Guided Angle-Aware Feature Pyramid Network for Oriented Object Detection](https://arxiv.org/abs/2602.10710v2)** | 2026-07-07 | <details><summary>Submi...</summary><p>Submitted to The Visual Computer</p></details> |
+| **[DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection](https://arxiv.org/abs/2606.24805v2)** | 2026-07-07 | Accepted by ECCV2026 |
+| **[REVIVE: A Multi-Modal Framework for Vandalism Detection and Recovery in Autonomous Vehicles](https://arxiv.org/abs/2607.05649v1)** | 2026-07-06 |  |
 | **[Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection](https://arxiv.org/abs/2607.05148v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing](https://arxiv.org/abs/2607.04921v1)** | 2026-07-06 |  |
+| **[A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog](https://arxiv.org/abs/2607.05467v1)** | 2026-07-06 |  |
 | **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069v3)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code: https://github.com/VisualScienceLab-KHU/ReSet</p></details> |
 | **[RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2607.04587v1)** | 2026-07-06 | ECCV 2026 |
 | **[Representation Recycling for Streaming Video Analysis](https://arxiv.org/abs/2204.13492v5)** | 2026-07-05 | <details><summary>v3: E...</summary><p>v3: ECCV2022 paper. This version: extended version accepted to be published at Neurocomputing</p></details> |
@@ -74,11 +79,6 @@ labels: documentation
 | **[FRFDet: Efficient UAV Small Object Detection with Symmetric Sampling and Scalable Fusion](https://arxiv.org/abs/2607.04125v1)** | 2026-07-05 | 12 pages, 9 figures |
 | **[Sparse4D-Radar: An Efficient and Robust Framework for Surround-View 3D Object Detection via 4D Radar-Camera Fusion](https://arxiv.org/abs/2607.04098v1)** | 2026-07-05 | 13 pages, 6 figures |
 | **[NavEYE: Vision-Centered Multi-Sensor Fusion-Based Situational Awareness System for Intelligent Surface Vehicles](https://arxiv.org/abs/2607.03915v1)** | 2026-07-04 |  |
-| **[InfraNet: Quality-Aware RGB Guidance for Efficient Infrared Object Detection](https://arxiv.org/abs/2607.03795v1)** | 2026-07-04 |  |
-| **[LEVIRDet: A Million-Scale 159-Category Dataset and Foundation Model for Universal Remote Sensing Object Detection](https://arxiv.org/abs/2606.25312v2)** | 2026-07-04 | 18 pages, 9 figures |
-| **[IPDiff: Diffusion-driven ORSI Salient Object Detection with Information Reconstruction and Multi-Prior Guidance](https://arxiv.org/abs/2607.03696v1)** | 2026-07-04 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, accepted by IJCV 2026</p></details> |
-| **[Vision Non-Causal Trapezoidal Mamba: Eliminating Directional Scanning in Vision SSMs with Second-Order Dynamics](https://arxiv.org/abs/2607.03589v1)** | 2026-07-03 | <details><summary>Submi...</summary><p>Submitted to WACV 2027 Conference Round 1</p></details> |
-| **[TiROD: Tiny Robotics Dataset and Benchmark for Continual Object Detection](https://arxiv.org/abs/2409.16215v4)** | 2026-07-03 | <details><summary>Accep...</summary><p>Accepted at Journal of Intelligent Robotics & Systems</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

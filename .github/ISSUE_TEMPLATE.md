@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMDiff: Extending Diffusion Transformers for Multi-Modal Generation](https://arxiv.org/abs/2606.16673v2)** | 2026-07-08 |  |
+| **[ROAD-Waymo: A Large-Scale Action Awareness Dataset for Autonomous Driving](https://arxiv.org/abs/2411.01683v3)** | 2026-07-08 |  |
+| **[Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection](https://arxiv.org/abs/2607.07192v1)** | 2026-07-08 |  |
+| **[NavEYE: Vision-Centered Multi-Sensor Fusion-Based Situational Awareness System for Intelligent Surface Vehicles](https://arxiv.org/abs/2607.03915v2)** | 2026-07-08 |  |
+| **[Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model](https://arxiv.org/abs/2607.06896v1)** | 2026-07-08 | <details><summary>4 pag...</summary><p>4 pages, 8 figures, submitted to IEEE International Conference on Robotics and Automation (ICRA) 2025 Future of Construction Workshop</p></details> |
+| **[Vision Non-Causal Trapezoidal Mamba: Eliminating Directional Scanning in Vision SSMs with Second-Order Dynamics](https://arxiv.org/abs/2607.03589v2)** | 2026-07-07 | Technical Report |
 | **[FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection](https://arxiv.org/abs/2607.05176v2)** | 2026-07-07 |  |
 | **[Propose and Attend: Training-free MLLM Grounding Confidence via Multi-Token Localized Attention](https://arxiv.org/abs/2607.05978v1)** | 2026-07-07 |  |
 | **[FGAA-FPN: Foreground-Guided Angle-Aware Feature Pyramid Network for Oriented Object Detection](https://arxiv.org/abs/2602.10710v2)** | 2026-07-07 | <details><summary>Submi...</summary><p>Submitted to The Visual Computer</p></details> |
@@ -71,18 +77,14 @@ labels: documentation
 | **[REVIVE: A Multi-Modal Framework for Vandalism Detection and Recovery in Autonomous Vehicles](https://arxiv.org/abs/2607.05649v1)** | 2026-07-06 |  |
 | **[Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection](https://arxiv.org/abs/2607.05148v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing](https://arxiv.org/abs/2607.04921v1)** | 2026-07-06 |  |
+| **[LipSSD: Lipschitz-Constrained Single-Shot Detection for Adversarially Robust Object Detection](https://arxiv.org/abs/2607.06592v1)** | 2026-07-06 |  |
 | **[A Task-Driven Evaluation of UAV Detection and Tracking under Synthetic Fog](https://arxiv.org/abs/2607.05467v1)** | 2026-07-06 |  |
-| **[Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection](https://arxiv.org/abs/2606.23069v3)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Code: https://github.com/VisualScienceLab-KHU/ReSet</p></details> |
-| **[RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2607.04587v1)** | 2026-07-06 | ECCV 2026 |
-| **[Representation Recycling for Streaming Video Analysis](https://arxiv.org/abs/2204.13492v5)** | 2026-07-05 | <details><summary>v3: E...</summary><p>v3: ECCV2022 paper. This version: extended version accepted to be published at Neurocomputing</p></details> |
-| **[Framework and Multi-modal Dataset for Roadwork Zone Detection and Geo-localization](https://arxiv.org/abs/2607.04330v1)** | 2026-07-05 | <details><summary>Accep...</summary><p>Accepted to IEEE IV25. The RZDG dataset and code can be found at: https://github.com/chrisyan/RZDG</p></details> |
-| **[FRFDet: Efficient UAV Small Object Detection with Symmetric Sampling and Scalable Fusion](https://arxiv.org/abs/2607.04125v1)** | 2026-07-05 | 12 pages, 9 figures |
-| **[Sparse4D-Radar: An Efficient and Robust Framework for Surround-View 3D Object Detection via 4D Radar-Camera Fusion](https://arxiv.org/abs/2607.04098v1)** | 2026-07-05 | 13 pages, 6 figures |
-| **[NavEYE: Vision-Centered Multi-Sensor Fusion-Based Situational Awareness System for Intelligent Surface Vehicles](https://arxiv.org/abs/2607.03915v1)** | 2026-07-04 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Edge-aware Prompt-enhanced SAM for Ultrasound Image Segmentation](https://arxiv.org/abs/2607.07240v1)** | 2026-07-08 | Accepted to ICME2026 |
+| **[HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation](https://arxiv.org/abs/2607.06972v1)** | 2026-07-08 | 9 pages, 4 figures |
 | **[FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering](https://arxiv.org/abs/2607.04170v1)** | 2026-07-05 |  |
 | **[PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation](https://arxiv.org/abs/2606.30477v1)** | 2026-06-29 | 54 pages |
 | **[ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2603.25168v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Where Does Texture Evidence Live in SAM? Features, Proposal Masks, and Texture Segmentation](https://arxiv.org/abs/2606.14755v1)** | 2026-06-07 | <details><summary>26 pa...</summary><p>26 pages, 13 figures, 20 tables. Code available at https://github.com/Scientific-Computing-Lab/ArchiTexture</p></details> |
 | **[SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing](https://arxiv.org/abs/2606.06228v1)** | 2026-06-04 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/chwbob/Sam-Flow</p></details> |
 | **[SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624v2)** | 2026-06-02 | <details><summary>Websi...</summary><p>Website: https://ai.meta.com/sam3d/</p></details> |
-| **[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy](https://arxiv.org/abs/2605.31284v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at PHAROS-AIF-MIH workshop @ CVPR 2026</p></details> |
-| **[SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving](https://arxiv.org/abs/2605.28136v1)** | 2026-05-27 |  |
 

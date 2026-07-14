@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2026
+title: Latest 15 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LFD: Enabling Real-World Lensless Face Recognition with a Large-Scale Dataset](https://arxiv.org/abs/2607.10094v1)** | 2026-07-11 | 10 pages |
 | **[Parameter Efficient Machine Unlearning on Hybrid Resistive Memory based Compute-in-Memory Accelerators](https://arxiv.org/abs/2601.10037v3)** | 2026-07-10 |  |
 | **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
 | **[Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models](https://arxiv.org/abs/2607.05702v1)** | 2026-07-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v2)** | 2026-06-16 |  |
 | **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
 | **[Sustainable Face Recognition on Low-Power Devices with VQ-VAE Embeddings](https://arxiv.org/abs/2606.15355v1)** | 2026-06-13 |  |
-| **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v1)** | 2026-06-10 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 Supplementary (22 pages, 16 figures, 6 tables, 4 supplementary notes)</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,27 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting](https://arxiv.org/abs/2607.11732v1)** | 2026-07-13 |  |
+| **[KAMERA: Enhancing Aerial Surveys of Ice-associated Seals in Arctic Environments](https://arxiv.org/abs/2509.19129v2)** | 2026-07-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables. Code: https://github.com/Kitware/kamera</p></details> |
+| **[Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection](https://arxiv.org/abs/2607.09115v2)** | 2026-07-13 | <details><summary>The 5...</summary><p>The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026)</p></details> |
+| **[Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts](https://arxiv.org/abs/2607.10949v1)** | 2026-07-12 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; Supplementary Material: 7 pages, 3 figures</p></details> |
+| **[Water Reflection Detection Using Symmetric Attention](https://arxiv.org/abs/2607.10749v1)** | 2026-07-12 |  |
+| **[Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality](https://arxiv.org/abs/2607.10575v1)** | 2026-07-12 |  |
+| **[IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment](https://arxiv.org/abs/2603.27250v2)** | 2026-07-11 |  |
+| **[DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence](https://arxiv.org/abs/2607.10098v1)** | 2026-07-11 | <details><summary>15 pa...</summary><p>15 pages, 23 figures, accepted by ACM MobiCom 2026</p></details> |
 | **[Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://arxiv.org/abs/2607.09654v1)** | 2026-07-10 |  |
 | **[Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing](https://arxiv.org/abs/2607.09583v1)** | 2026-07-10 | 14 pages, 4 figures |
-| **[Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection](https://arxiv.org/abs/2607.09115v1)** | 2026-07-10 | <details><summary>The 5...</summary><p>The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026)</p></details> |
+| **[Does YOLO26 Truly Offer Advantages Over Its Predecessors for Edge Deployment? A Benchmark Study in Aquaculture](https://arxiv.org/abs/2607.09835v1)** | 2026-07-10 |  |
 | **[Toward Active Object Detection for UAVs in the Wild: A Large-Scale Dataset, Benchmark and Method](https://arxiv.org/abs/2607.09078v1)** | 2026-07-10 | <details><summary>18 pa...</summary><p>18 pages, 19 figures, 5 tables</p></details> |
+| **[A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback](https://arxiv.org/abs/2607.09807v1)** | 2026-07-09 |  |
 | **[VocaDet: Sample-Driven Open-Vocabulary Object Detection and Segmentation via Visual Tokenization and Vector Database Retrieval](https://arxiv.org/abs/2607.08541v1)** | 2026-07-09 |  |
 | **[On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection](https://arxiv.org/abs/2607.08391v1)** | 2026-07-09 |  |
-| **[Dual-Correlation Hypergraph Network for Unaligned RGBT Video Object Detection and A Large-scale Benchmark](https://arxiv.org/abs/2607.08191v1)** | 2026-07-09 |  |
-| **[LDFE: Laplacian Decoupled Feature Enhancement Block for Dual-Stream CNN-based RGB-IR Object Detection](https://arxiv.org/abs/2607.08076v1)** | 2026-07-09 |  |
-| **[MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection](https://arxiv.org/abs/2511.12810v2)** | 2026-07-09 |  |
-| **[LOGOS: Language-guided Oriented Object Detection in Aerial Scenes](https://arxiv.org/abs/2607.08004v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to SOICT 2025</p></details> |
-| **[Monocular Vision Based Control Framework for Grasping](https://arxiv.org/abs/2607.07897v1)** | 2026-07-08 | <details><summary>This ...</summary><p>This paper is accepted at IEEE/ASME International Conference on Advanced Intelligent Mechatronics 2026 (AIM 202^)</p></details> |
-| **[MMDiff: Extending Diffusion Transformers for Multi-Modal Generation](https://arxiv.org/abs/2606.16673v2)** | 2026-07-08 |  |
-| **[ROAD-Waymo: A Large-Scale Action Awareness Dataset for Autonomous Driving](https://arxiv.org/abs/2411.01683v3)** | 2026-07-08 |  |
-| **[Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection](https://arxiv.org/abs/2607.07192v1)** | 2026-07-08 |  |
-| **[NavEYE: Vision-Centered Multi-Sensor Fusion-Based Situational Awareness System for Intelligent Surface Vehicles](https://arxiv.org/abs/2607.03915v2)** | 2026-07-08 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting](https://arxiv.org/abs/2607.11732v1)** | 2026-07-13 |  |
+| **[IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment](https://arxiv.org/abs/2603.27250v2)** | 2026-07-11 |  |
 | **[Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing](https://arxiv.org/abs/2607.09583v1)** | 2026-07-10 | 14 pages, 4 figures |
 | **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v3)** | 2026-07-10 |  |
 | **[SAM-MT: Real-Time Interactive Multi-Target Video Segmentation](https://arxiv.org/abs/2607.08688v1)** | 2026-07-09 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://henghuiding.com/SAM-MT/</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation](https://arxiv.org/abs/2602.06335v2)** | 2026-06-14 |  |
 | **[Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images](https://arxiv.org/abs/2606.15604v1)** | 2026-06-14 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
 | **[SAM: A Mamba-2 State-Space Audio-Language Model](https://arxiv.org/abs/2509.15680v3)** | 2026-06-10 | <details><summary>6 pag...</summary><p>6 pages, Accepted to Interspeech 2026</p></details> |
-| **[Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio](https://arxiv.org/abs/2606.10887v1)** | 2026-06-09 |  |
-| **[Don't waste SAM](https://arxiv.org/abs/2606.10696v1)** | 2026-06-09 | <details><summary>Publi...</summary><p>Published at European Symposium on Artificial Neural Networks (ESANN2023), Computational Intelligence and Machine Learning. Bruges (Belgium)</p></details> |
 

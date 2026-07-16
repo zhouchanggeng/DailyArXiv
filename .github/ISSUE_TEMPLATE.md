@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 16, 2026
+title: Latest 15 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow](https://arxiv.org/abs/2607.13250v1)** | 2026-07-14 |  |
 | **[Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT](https://arxiv.org/abs/2606.27084v1)** | 2026-06-25 | 24 pages, 17 figures |
 | **[DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation](https://arxiv.org/abs/2606.18886v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. The camera-ready version and link will be made publicly available upon publication</p></details> |
 | **[SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation](https://arxiv.org/abs/2606.17972v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/script-Yang/segdino_v2</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[DINO-Explorer: Active Underwater Discovery via Ego-Motion Compensated Semantic Predictive Coding](https://arxiv.org/abs/2604.12933v1)** | 2026-04-14 |  |
 | **[Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization](https://arxiv.org/abs/2604.12346v1)** | 2026-04-14 |  |
 | **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
-| **[DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification](https://arxiv.org/abs/2604.07166v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to the 5th Explainable AI for Computer Vision (XAI4CV) Workshop at CVPR 2026</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
 | **[PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition](https://arxiv.org/abs/2607.03581v2)** | 2026-07-13 |  |
 | **[LFD: Enabling Real-World Lensless Face Recognition with a Large-Scale Dataset](https://arxiv.org/abs/2607.10094v1)** | 2026-07-11 | 10 pages |
 | **[Parameter Efficient Machine Unlearning on Hybrid Resistive Memory based Compute-in-Memory Accelerators](https://arxiv.org/abs/2601.10037v3)** | 2026-07-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Model Inversion meets Cryptographic Fuzzy Extractors](https://arxiv.org/abs/2510.25687v3)** | 2026-06-19 |  |
 | **[Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](https://arxiv.org/abs/2606.11615v2)** | 2026-06-16 |  |
 | **[Flux-Guard: Facial Identity Protection using diffusion models](https://arxiv.org/abs/2606.17606v1)** | 2026-06-16 |  |
-| **[Sustainable Face Recognition on Low-Power Devices with VQ-VAE Embeddings](https://arxiv.org/abs/2606.15355v1)** | 2026-06-13 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,27 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter](https://arxiv.org/abs/2607.13891v1)** | 2026-07-15 |  |
+| **[Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention](https://arxiv.org/abs/2603.06228v2)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 tables, ECCV 2026</p></details> |
+| **[Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts](https://arxiv.org/abs/2607.10949v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; Supplementary Material: 7 pages, 3 figures</p></details> |
+| **[When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization](https://arxiv.org/abs/2604.16855v2)** | 2026-07-15 |  |
+| **[Symbiosis-Inspired Knowledge Distillation for Incremental Object Detection](https://arxiv.org/abs/2607.13452v1)** | 2026-07-15 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, Accepted by ICML 2026</p></details> |
+| **[A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions](https://arxiv.org/abs/2601.22830v2)** | 2026-07-14 | 8 pages, 11 figures |
 | **[ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models](https://arxiv.org/abs/2607.12959v1)** | 2026-07-14 |  |
 | **[Metric-Guided Synthetic Image Data Rendering for Deep Learning compatible with Agentic AI](https://arxiv.org/abs/2607.12874v1)** | 2026-07-14 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 4 pages</p></details> |
 | **[A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback](https://arxiv.org/abs/2607.09807v2)** | 2026-07-14 |  |
 | **[MambaPSA: A Mamba-based Replacement for C2PSA in YOLO26](https://arxiv.org/abs/2607.12681v1)** | 2026-07-14 |  |
+| **[No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA](https://arxiv.org/abs/2607.13106v1)** | 2026-07-14 |  |
 | **[Automatic Labelling for Low-Light Pedestrian Detection](https://arxiv.org/abs/2507.02513v5)** | 2026-07-14 |  |
 | **[A Comprehensive Evaluation of Deep Learning Object Detection Models on Heterogeneous Edge Devices](https://arxiv.org/abs/2409.16808v3)** | 2026-07-14 |  |
 | **[DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection](https://arxiv.org/abs/2607.12419v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[M2I2HA: Multi-modal Object Detection Based on Intra- and Inter-Modal Hypergraph Attention](https://arxiv.org/abs/2601.14776v3)** | 2026-07-14 | <details><summary>43 pa...</summary><p>43 pages, 13 figures, The theoretical derivation was refined, some data was updated, and experiments were added</p></details> |
-| **[GeoSEAN: Explainable Country-Level Image Geolocation for ASEAN Regions](https://arxiv.org/abs/2607.12284v1)** | 2026-07-14 |  |
-| **[ACZ-GSeg: Adaptive Concentric Zone-based Two-stage Ground Segmentation for LiDAR Point Clouds](https://arxiv.org/abs/2607.12110v1)** | 2026-07-13 |  |
-| **[GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting](https://arxiv.org/abs/2607.11732v1)** | 2026-07-13 |  |
-| **[KAMERA: Enhancing Aerial Surveys of Ice-associated Seals in Arctic Environments](https://arxiv.org/abs/2509.19129v2)** | 2026-07-13 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables. Code: https://github.com/Kitware/kamera</p></details> |
-| **[Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection](https://arxiv.org/abs/2607.09115v2)** | 2026-07-13 | <details><summary>The 5...</summary><p>The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026)</p></details> |
-| **[Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts](https://arxiv.org/abs/2607.10949v1)** | 2026-07-12 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; Supplementary Material: 7 pages, 3 figures</p></details> |
-| **[Water Reflection Detection Using Symmetric Attention](https://arxiv.org/abs/2607.10749v1)** | 2026-07-12 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Audio Separation Hurts Zero-Shot ASR: Evaluating SAM-Audio with Whisper on Bengali and English Speech](https://arxiv.org/abs/2603.04710v2)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS 2026)</p></details> |
+| **[Executable JavaScript as a Checkable Specification Language: A JS-SAM Case Study on SysMoBench](https://arxiv.org/abs/2607.13092v1)** | 2026-07-14 | <details><summary>34 pa...</summary><p>34 pages, 9 tables, no figures. Code, trace corpora, and replication guide: https://github.com/jdubray/SysMoBench-1 (branch js-sam-tla-phase3) . Companion study on a production payment system: arXiv:2607.05076</p></details> |
 | **[GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting](https://arxiv.org/abs/2607.11732v1)** | 2026-07-13 |  |
 | **[IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment](https://arxiv.org/abs/2603.27250v2)** | 2026-07-11 |  |
 | **[Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing](https://arxiv.org/abs/2607.09583v1)** | 2026-07-10 | 14 pages, 4 figures |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v1)** | 2026-06-20 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. This is the revised version of a manuscript currently under review for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 | **[Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics](https://arxiv.org/abs/2604.27128v2)** | 2026-06-15 |  |
 | **[SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation](https://arxiv.org/abs/2602.06335v2)** | 2026-06-14 |  |
-| **[Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images](https://arxiv.org/abs/2606.15604v1)** | 2026-06-14 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
-| **[SAM: A Mamba-2 State-Space Audio-Language Model](https://arxiv.org/abs/2509.15680v3)** | 2026-06-10 | <details><summary>6 pag...</summary><p>6 pages, Accepted to Interspeech 2026</p></details> |
 

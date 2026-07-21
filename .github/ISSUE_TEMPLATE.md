@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition](https://arxiv.org/abs/2607.17504v1)** | 2026-07-20 |  |
+| **[Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction](https://arxiv.org/abs/2607.17042v1)** | 2026-07-19 | <details><summary>This ...</summary><p>This work is accepted at IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2026)</p></details> |
 | **[Intentional Electromagnetic Interference Attacks on Facial Recognition](https://arxiv.org/abs/2607.15512v1)** | 2026-07-16 | <details><summary>To be...</summary><p>To be published in IEEE/IAPR IJCB (International Joint Conference on Biometrics) 2026</p></details> |
 | **[Quantifying Training Membership Information in the Hyperspherical Embedding Geometry of Face Recognition Models](https://arxiv.org/abs/2607.15084v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IEEE/IAPR IJCB 2026</p></details> |
 | **[Benchmarking Face Recognition without Real Faces](https://arxiv.org/abs/2607.14932v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IJCB 2026</p></details> |
@@ -33,14 +35,12 @@ labels: documentation
 | **[PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition](https://arxiv.org/abs/2607.03581v2)** | 2026-07-13 |  |
 | **[LFD: Enabling Real-World Lensless Face Recognition with a Large-Scale Dataset](https://arxiv.org/abs/2607.10094v1)** | 2026-07-11 | 10 pages |
 | **[Parameter Efficient Machine Unlearning on Hybrid Resistive Memory based Compute-in-Memory Accelerators](https://arxiv.org/abs/2601.10037v3)** | 2026-07-10 |  |
+| **[ForensicNet: Lightweight Attention-Enhanced MobileNetV2 for Automated Face Identification](https://arxiv.org/abs/2607.16273v1)** | 2026-07-08 | <details><summary>DOI: ...</summary><p>DOI: https://doi.org/10.48084/etasr Link: https://etasr.com/index.php/ETASR/article/view/18636</p></details> |
 | **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
 | **[Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models](https://arxiv.org/abs/2607.05702v1)** | 2026-07-06 |  |
 | **[A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation](https://arxiv.org/abs/2607.03131v1)** | 2026-07-03 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Project repository available at: https://github.com/DumitruEstera/ai-surveillance-system</p></details> |
 | **[Attention-Guided Efficientnet Architecture For Precise Criminal Identification in Surveillance Images](https://arxiv.org/abs/2607.03073v1)** | 2026-07-03 | <details><summary>Link:...</summary><p>Link: https://advancedengineeringscience.com/index.php/aes/article/view/363, Publisher: Sichuan University, Chaina</p></details> |
 | **[Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes](https://arxiv.org/abs/2606.30321v2)** | 2026-07-02 |  |
-| **[CPG-PAD: Concept-Informed Prompts Guided Presentation Attack Detection](https://arxiv.org/abs/2607.01303v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Information Forensics & Security (TIFS)</p></details> |
-| **[FaceMoE: Mixture of Experts for Low-Resolution Face Recognition](https://arxiv.org/abs/2606.32040v1)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://kartik-3004.github.io/FaceMoE/</p></details> |
-| **[Phantom: A Unified Face-Swap Deepfake Protection Framework with Latent and Spatial Constraints](https://arxiv.org/abs/2606.31703v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings)</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Technical Design Review of Duke Robotics Club's Oogway & Crush: AUVs for RoboSub 2026](https://arxiv.org/abs/2607.18075v1)** | 2026-07-20 |  |
+| **[IoUCert: Robustness Verification for Anchor-based Object Detectors](https://arxiv.org/abs/2603.03043v3)** | 2026-07-20 | ECCV 2026 |
+| **[Attention from Above: A Multimodal Model for Drone-Based Object Localization](https://arxiv.org/abs/2607.17669v1)** | 2026-07-20 | <details><summary>Prepr...</summary><p>Preprint. Accepted for publication in the International Journal of Interactive Mobile Technologies</p></details> |
+| **[GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models](https://arxiv.org/abs/2603.16461v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project page: https://gapmllm.github.io/</p></details> |
+| **[Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection](https://arxiv.org/abs/2607.17340v1)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection](https://arxiv.org/abs/2512.12281v2)** | 2026-07-19 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 6 tables</p></details> |
+| **[LEGO Co-builder: Exploring Fine-Grained Vision-Language Modeling for Multimodal LEGO Assembly Assistants](https://arxiv.org/abs/2507.05515v3)** | 2026-07-18 | <details><summary>This ...</summary><p>This version has been accepted by ICMI 2026 Conference</p></details> |
+| **[Foundation-Assisted Active Learning for Object Detection Annotation](https://arxiv.org/abs/2607.16671v1)** | 2026-07-18 |  |
 | **[Embodied Active Learning under Limited Annotation and Navigation Budget for Object Detection](https://arxiv.org/abs/2607.15974v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 | **[Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation](https://arxiv.org/abs/2606.26743v2)** | 2026-07-17 |  |
+| **[Privacy-Aware Synthetic Video Benchmarking and Relational Evaluation for Worker-Under-Suspended-Load Detection](https://arxiv.org/abs/2607.16351v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at the 3rd Workshop on Synthetic Data for Computer Vision (SynData4CV), CVPR 2026. OpenReview: https://openreview.net/forum?id=dMfhFmDWsg . Dataset and code: https://huggingface.co/datasets/govtech/SynthSite</p></details> |
 | **[Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method](https://arxiv.org/abs/2603.27556v2)** | 2026-07-17 |  |
 | **[On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training](https://arxiv.org/abs/2601.18929v2)** | 2026-07-16 | Inaccurate findings |
 | **[Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion](https://arxiv.org/abs/2607.15041v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, accepted by IEEE TMM</p></details> |
 | **[Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](https://arxiv.org/abs/2408.12548v3)** | 2026-07-16 | 19 pages, 4 figures |
-| **[Simulating Automotive Radar with Lidar and Camera Inputs](https://arxiv.org/abs/2503.08068v3)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Training-Free Metrics for Synthetic Object Detection Data: A Proxy for Detector Performance](https://arxiv.org/abs/2606.19817v2)** | 2026-07-16 | 16 pages, 10 figures |
-| **[Zero-Shot Quantization for Object Detectors using Off-the-Shelf Generative Models](https://arxiv.org/abs/2606.31456v2)** | 2026-07-16 | <details><summary>Publi...</summary><p>Published at ECCV 2026</p></details> |
-| **[Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection](https://arxiv.org/abs/2607.14560v1)** | 2026-07-16 | ECCV 2026 |
-| **[3DPipe: A Pipelined GPU Framework for Scalable Generalized Spatial Join over Polyhedral Objects](https://arxiv.org/abs/2604.19982v2)** | 2026-07-15 |  |
-| **[PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter](https://arxiv.org/abs/2607.13891v1)** | 2026-07-15 |  |
-| **[Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention](https://arxiv.org/abs/2603.06228v2)** | 2026-07-15 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 tables, ECCV 2026</p></details> |
-| **[Unsupervised Detection of Entry and Exit Regions from Vehicle Trajectories for Camera-Agnostic Turning Movement Counts](https://arxiv.org/abs/2607.10949v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; Supplementary Material: 7 pages, 3 figures</p></details> |
-| **[When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization](https://arxiv.org/abs/2604.16855v2)** | 2026-07-15 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,10 +18,10 @@ labels: documentation
 | **[DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation](https://arxiv.org/abs/2605.07221v1)** | 2026-05-08 |  |
 | **[DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery](https://arxiv.org/abs/2605.03175v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at 2026 CVPR MORSE Workshop</p></details> |
 | **[Dino-NestedUNet: Unlocking Foundation Vision Encoders for Pathology Tumor Bulk Segmentation via Dense Decoding](https://arxiv.org/abs/2605.00894v1)** | 2026-04-27 |  |
-| **[Deploy DINO with Many-to-Many Association](https://arxiv.org/abs/2604.23670v1)** | 2026-04-26 |  |
 | **[DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval](https://arxiv.org/abs/2604.19432v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[DINO-Explorer: Active Underwater Discovery via Ego-Motion Compensated Semantic Predictive Coding](https://arxiv.org/abs/2604.12933v1)** | 2026-04-14 |  |
 | **[Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization](https://arxiv.org/abs/2604.12346v1)** | 2026-04-14 |  |
+| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v2)** | 2026-07-21 |  |
+| **[CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement](https://arxiv.org/abs/2607.19036v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 17 pages, 8 figures, 6 tables. Code: https://github.com/Megalo-f/CoGoal3D</p></details> |
+| **[TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://arxiv.org/abs/2606.26615v2)** | 2026-07-21 | ECCV 2026 |
+| **[GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks](https://arxiv.org/abs/2512.24592v3)** | 2026-07-21 | Accepted by ECCV2026 |
+| **[CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV](https://arxiv.org/abs/2607.18779v1)** | 2026-07-21 | 15 pages |
+| **[Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection](https://arxiv.org/abs/2607.18700v1)** | 2026-07-21 |  |
 | **[Technical Design Review of Duke Robotics Club's Oogway & Crush: AUVs for RoboSub 2026](https://arxiv.org/abs/2607.18075v1)** | 2026-07-20 |  |
 | **[IoUCert: Robustness Verification for Anchor-based Object Detectors](https://arxiv.org/abs/2603.03043v3)** | 2026-07-20 | ECCV 2026 |
 | **[Attention from Above: A Multimodal Model for Drone-Based Object Localization](https://arxiv.org/abs/2607.17669v1)** | 2026-07-20 | <details><summary>Prepr...</summary><p>Preprint. Accepted for publication in the International Journal of Interactive Mobile Technologies</p></details> |
@@ -73,12 +79,6 @@ labels: documentation
 | **[LEGO Co-builder: Exploring Fine-Grained Vision-Language Modeling for Multimodal LEGO Assembly Assistants](https://arxiv.org/abs/2507.05515v3)** | 2026-07-18 | <details><summary>This ...</summary><p>This version has been accepted by ICMI 2026 Conference</p></details> |
 | **[Foundation-Assisted Active Learning for Object Detection Annotation](https://arxiv.org/abs/2607.16671v1)** | 2026-07-18 |  |
 | **[Embodied Active Learning under Limited Annotation and Navigation Budget for Object Detection](https://arxiv.org/abs/2607.15974v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
-| **[Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation](https://arxiv.org/abs/2606.26743v2)** | 2026-07-17 |  |
-| **[Privacy-Aware Synthetic Video Benchmarking and Relational Evaluation for Worker-Under-Suspended-Load Detection](https://arxiv.org/abs/2607.16351v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at the 3rd Workshop on Synthetic Data for Computer Vision (SynData4CV), CVPR 2026. OpenReview: https://openreview.net/forum?id=dMfhFmDWsg . Dataset and code: https://huggingface.co/datasets/govtech/SynthSite</p></details> |
-| **[Towards Domain-Generalized Open-Vocabulary Object Detection: A Progressive Domain-invariant Cross-modal Alignment Method](https://arxiv.org/abs/2603.27556v2)** | 2026-07-17 |  |
-| **[On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training](https://arxiv.org/abs/2601.18929v2)** | 2026-07-16 | Inaccurate findings |
-| **[Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion](https://arxiv.org/abs/2607.15041v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, accepted by IEEE TMM</p></details> |
-| **[Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities](https://arxiv.org/abs/2408.12548v3)** | 2026-07-16 | 19 pages, 4 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

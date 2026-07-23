@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2026
+title: Latest 15 Papers - July 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
+| **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](https://arxiv.org/abs/2607.19886v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition](https://arxiv.org/abs/2607.17504v1)** | 2026-07-20 |  |
 | **[Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction](https://arxiv.org/abs/2607.17042v1)** | 2026-07-19 | <details><summary>This ...</summary><p>This work is accepted at IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2026)</p></details> |
 | **[Intentional Electromagnetic Interference Attacks on Facial Recognition](https://arxiv.org/abs/2607.15512v1)** | 2026-07-16 | <details><summary>To be...</summary><p>To be published in IEEE/IAPR IJCB (International Joint Conference on Biometrics) 2026</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
 | **[Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models](https://arxiv.org/abs/2607.05702v1)** | 2026-07-06 |  |
 | **[A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation](https://arxiv.org/abs/2607.03131v1)** | 2026-07-03 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Project repository available at: https://github.com/DumitruEstera/ai-surveillance-system</p></details> |
-| **[Attention-Guided Efficientnet Architecture For Precise Criminal Identification in Surveillance Images](https://arxiv.org/abs/2607.03073v1)** | 2026-07-03 | <details><summary>Link:...</summary><p>Link: https://advancedengineeringscience.com/index.php/aes/article/view/363, Publisher: Sichuan University, Chaina</p></details> |
-| **[Optimizing Image Preparation and Compression for Face Recognition within 1024 Bytes](https://arxiv.org/abs/2606.30321v2)** | 2026-07-02 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v2)** | 2026-07-21 |  |
+| **[How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection](https://arxiv.org/abs/2607.20263v1)** | 2026-07-22 |  |
+| **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v3)** | 2026-07-22 |  |
+| **[Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training](https://arxiv.org/abs/2607.20238v1)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 11 figures,</p></details> |
+| **[Pointing-Based Object Recognition](https://arxiv.org/abs/2603.15403v2)** | 2026-07-22 | <details><summary>Submi...</summary><p>Submitted to InnovAIte conference</p></details> |
+| **[G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](https://arxiv.org/abs/2607.19942v1)** | 2026-07-22 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026 (OSS)</p></details> |
 | **[CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement](https://arxiv.org/abs/2607.19036v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 17 pages, 8 figures, 6 tables. Code: https://github.com/Megalo-f/CoGoal3D</p></details> |
 | **[TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://arxiv.org/abs/2606.26615v2)** | 2026-07-21 | ECCV 2026 |
 | **[GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks](https://arxiv.org/abs/2512.24592v3)** | 2026-07-21 | Accepted by ECCV2026 |
@@ -75,14 +79,11 @@ labels: documentation
 | **[Attention from Above: A Multimodal Model for Drone-Based Object Localization](https://arxiv.org/abs/2607.17669v1)** | 2026-07-20 | <details><summary>Prepr...</summary><p>Preprint. Accepted for publication in the International Journal of Interactive Mobile Technologies</p></details> |
 | **[GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models](https://arxiv.org/abs/2603.16461v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project page: https://gapmllm.github.io/</p></details> |
 | **[Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection](https://arxiv.org/abs/2607.17340v1)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Cognitive-YOLO: LLM-Driven Architecture Synthesis from First Principles of Data for Object Detection](https://arxiv.org/abs/2512.12281v2)** | 2026-07-19 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 6 tables</p></details> |
-| **[LEGO Co-builder: Exploring Fine-Grained Vision-Language Modeling for Multimodal LEGO Assembly Assistants](https://arxiv.org/abs/2507.05515v3)** | 2026-07-18 | <details><summary>This ...</summary><p>This version has been accepted by ICMI 2026 Conference</p></details> |
-| **[Foundation-Assisted Active Learning for Object Detection Annotation](https://arxiv.org/abs/2607.16671v1)** | 2026-07-18 |  |
-| **[Embodied Active Learning under Limited Annotation and Navigation Budget for Object Detection](https://arxiv.org/abs/2607.15974v1)** | 2026-07-17 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v2)** | 2026-07-22 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 | **[Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion](https://arxiv.org/abs/2607.15041v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, accepted by IEEE TMM</p></details> |
 | **[XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation](https://arxiv.org/abs/2607.14287v1)** | 2026-07-15 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 3 tables. Accepted to the IAPR Workshop on Machine Vision for Industrial Inspection (MVI2), in conjunction with ICPR 2026. Code: https://github.com/Mahedi-61/XCT-SAM</p></details> |
 | **[When Audio Separation Hurts Zero-Shot ASR: Evaluating SAM-Audio with Whisper on Bengali and English Speech](https://arxiv.org/abs/2603.04710v2)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS 2026)</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering](https://arxiv.org/abs/2607.04170v1)** | 2026-07-05 |  |
 | **[PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation](https://arxiv.org/abs/2606.30477v1)** | 2026-06-29 | 54 pages |
 | **[ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2603.25168v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v1)** | 2026-06-20 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. This is the revised version of a manuscript currently under review for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 

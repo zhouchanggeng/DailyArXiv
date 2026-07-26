@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2026
+title: Latest 15 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing](https://arxiv.org/abs/2607.20900v1)** | 2026-07-23 | accepted to IJCB2026 |
 | **[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/abs/2507.19474v2)** | 2026-07-16 |  |
 | **[AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow](https://arxiv.org/abs/2607.13250v1)** | 2026-07-14 |  |
 | **[Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT](https://arxiv.org/abs/2606.27084v1)** | 2026-06-25 | 24 pages, 17 figures |
@@ -21,11 +22,12 @@ labels: documentation
 | **[DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval](https://arxiv.org/abs/2604.19432v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[DINO-Explorer: Active Underwater Discovery via Ego-Motion Compensated Semantic Predictive Coding](https://arxiv.org/abs/2604.12933v1)** | 2026-04-14 |  |
 | **[Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization](https://arxiv.org/abs/2604.12346v1)** | 2026-04-14 |  |
-| **[OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance](https://arxiv.org/abs/2604.08461v1)** | 2026-04-09 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, 5 tables</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features](https://arxiv.org/abs/2607.21347v1)** | 2026-07-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables. Accepted for publication at IEEE International Joint Conference on Biometrics (IJCB), 2026</p></details> |
+| **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026; Project page: https://www.idiap.ch/paper/driveface/</p></details> |
 | **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
 | **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](https://arxiv.org/abs/2607.19886v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition](https://arxiv.org/abs/2607.17504v1)** | 2026-07-20 |  |
@@ -33,14 +35,12 @@ labels: documentation
 | **[Intentional Electromagnetic Interference Attacks on Facial Recognition](https://arxiv.org/abs/2607.15512v1)** | 2026-07-16 | <details><summary>To be...</summary><p>To be published in IEEE/IAPR IJCB (International Joint Conference on Biometrics) 2026</p></details> |
 | **[Quantifying Training Membership Information in the Hyperspherical Embedding Geometry of Face Recognition Models](https://arxiv.org/abs/2607.15084v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IEEE/IAPR IJCB 2026</p></details> |
 | **[Benchmarking Face Recognition without Real Faces](https://arxiv.org/abs/2607.14932v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IJCB 2026</p></details> |
-| **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
 | **[PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition](https://arxiv.org/abs/2607.03581v2)** | 2026-07-13 |  |
 | **[LFD: Enabling Real-World Lensless Face Recognition with a Large-Scale Dataset](https://arxiv.org/abs/2607.10094v1)** | 2026-07-11 | 10 pages |
 | **[Parameter Efficient Machine Unlearning on Hybrid Resistive Memory based Compute-in-Memory Accelerators](https://arxiv.org/abs/2601.10037v3)** | 2026-07-10 |  |
 | **[ForensicNet: Lightweight Attention-Enhanced MobileNetV2 for Automated Face Identification](https://arxiv.org/abs/2607.16273v1)** | 2026-07-08 | <details><summary>DOI: ...</summary><p>DOI: https://doi.org/10.48084/etasr Link: https://etasr.com/index.php/ETASR/article/view/18636</p></details> |
 | **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
 | **[Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models](https://arxiv.org/abs/2607.05702v1)** | 2026-07-06 |  |
-| **[A Multi-Task Deep Learning Framework for Real-Time Intelligent Video Surveillance with Temporal Event Validation](https://arxiv.org/abs/2607.03131v1)** | 2026-07-03 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Project repository available at: https://github.com/DumitruEstera/ai-surveillance-system</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic data generation framework for quality control automation in gravure printing](https://arxiv.org/abs/2607.21577v1)** | 2026-07-23 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. To be submitted to Journal of Engineering Research (Elsevier). Certain TeX commands are supported</p></details> |
+| **[A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback](https://arxiv.org/abs/2607.09807v3)** | 2026-07-23 |  |
+| **[Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection](https://arxiv.org/abs/2607.21032v1)** | 2026-07-23 | Accepted by IEEE TMM |
+| **[QATMA: Quantization-Aware Training with Multimodal Alignment for Open-Vocabulary Object Detection](https://arxiv.org/abs/2603.05964v3)** | 2026-07-23 |  |
+| **[RECO: Region-Aware Compensation for Extrinsic Perturbations in Roadside 3D Detection](https://arxiv.org/abs/2607.20947v1)** | 2026-07-23 |  |
+| **[Spectrogram-Based Joint Detection, Localization, and Classification of Events in Continuously Recorded IBR Waveforms](https://arxiv.org/abs/2607.20817v1)** | 2026-07-23 |  |
+| **[Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection](https://arxiv.org/abs/2607.05148v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection](https://arxiv.org/abs/2607.20263v1)** | 2026-07-22 |  |
 | **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v3)** | 2026-07-22 |  |
 | **[Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training](https://arxiv.org/abs/2607.20238v1)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 11 figures,</p></details> |
@@ -72,13 +79,6 @@ labels: documentation
 | **[CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement](https://arxiv.org/abs/2607.19036v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 17 pages, 8 figures, 6 tables. Code: https://github.com/Megalo-f/CoGoal3D</p></details> |
 | **[TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://arxiv.org/abs/2606.26615v2)** | 2026-07-21 | ECCV 2026 |
 | **[GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks](https://arxiv.org/abs/2512.24592v3)** | 2026-07-21 | Accepted by ECCV2026 |
-| **[CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV](https://arxiv.org/abs/2607.18779v1)** | 2026-07-21 | 15 pages |
-| **[Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection](https://arxiv.org/abs/2607.18700v1)** | 2026-07-21 |  |
-| **[Technical Design Review of Duke Robotics Club's Oogway & Crush: AUVs for RoboSub 2026](https://arxiv.org/abs/2607.18075v1)** | 2026-07-20 |  |
-| **[IoUCert: Robustness Verification for Anchor-based Object Detectors](https://arxiv.org/abs/2603.03043v3)** | 2026-07-20 | ECCV 2026 |
-| **[Attention from Above: A Multimodal Model for Drone-Based Object Localization](https://arxiv.org/abs/2607.17669v1)** | 2026-07-20 | <details><summary>Prepr...</summary><p>Preprint. Accepted for publication in the International Journal of Interactive Mobile Technologies</p></details> |
-| **[GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models](https://arxiv.org/abs/2603.16461v2)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project page: https://gapmllm.github.io/</p></details> |
-| **[Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection](https://arxiv.org/abs/2607.17340v1)** | 2026-07-19 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

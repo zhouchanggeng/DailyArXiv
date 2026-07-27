@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReCowGnition: A Realistic Biometric Benchmark for Cow Face Recognition](https://arxiv.org/abs/2607.22071v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026 Workshops</p></details> |
 | **[Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features](https://arxiv.org/abs/2607.21347v1)** | 2026-07-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables. Accepted for publication at IEEE International Joint Conference on Biometrics (IJCB), 2026</p></details> |
 | **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026; Project page: https://www.idiap.ch/paper/driveface/</p></details> |
 | **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Parameter Efficient Machine Unlearning on Hybrid Resistive Memory based Compute-in-Memory Accelerators](https://arxiv.org/abs/2601.10037v3)** | 2026-07-10 |  |
 | **[ForensicNet: Lightweight Attention-Enhanced MobileNetV2 for Automated Face Identification](https://arxiv.org/abs/2607.16273v1)** | 2026-07-08 | <details><summary>DOI: ...</summary><p>DOI: https://doi.org/10.48084/etasr Link: https://etasr.com/index.php/ETASR/article/view/18636</p></details> |
 | **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
-| **[Robust Face Super-Resolution and Recognition Through Multi-Feature Aggregation in Diffusion Models](https://arxiv.org/abs/2607.05702v1)** | 2026-07-06 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TDiR: Transformer based Diffusion for Image Restoration Tasks](https://arxiv.org/abs/2506.20302v2)** | 2026-07-24 |  |
+| **[RISE: Single Static Radar-based Indoor Scene Understanding](https://arxiv.org/abs/2511.14019v4)** | 2026-07-24 |  |
+| **[AdamNX: An Adam improvement algorithm based on a novel exponential decay mechanism for the second-order moment estimate](https://arxiv.org/abs/2511.13465v5)** | 2026-07-24 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 12 tables</p></details> |
+| **[Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments](https://arxiv.org/abs/2607.22226v1)** | 2026-07-24 |  |
 | **[Synthetic data generation framework for quality control automation in gravure printing](https://arxiv.org/abs/2607.21577v1)** | 2026-07-23 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. To be submitted to Journal of Engineering Research (Elsevier). Certain TeX commands are supported</p></details> |
 | **[A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback](https://arxiv.org/abs/2607.09807v3)** | 2026-07-23 |  |
 | **[Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection](https://arxiv.org/abs/2607.21032v1)** | 2026-07-23 | Accepted by IEEE TMM |
@@ -75,14 +79,11 @@ labels: documentation
 | **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v3)** | 2026-07-22 |  |
 | **[Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training](https://arxiv.org/abs/2607.20238v1)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 11 figures,</p></details> |
 | **[Pointing-Based Object Recognition](https://arxiv.org/abs/2603.15403v2)** | 2026-07-22 | <details><summary>Submi...</summary><p>Submitted to InnovAIte conference</p></details> |
-| **[G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](https://arxiv.org/abs/2607.19942v1)** | 2026-07-22 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026 (OSS)</p></details> |
-| **[CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement](https://arxiv.org/abs/2607.19036v1)** | 2026-07-21 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 17 pages, 8 figures, 6 tables. Code: https://github.com/Megalo-f/CoGoal3D</p></details> |
-| **[TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://arxiv.org/abs/2606.26615v2)** | 2026-07-21 | ECCV 2026 |
-| **[GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks](https://arxiv.org/abs/2512.24592v3)** | 2026-07-21 | Accepted by ECCV2026 |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement](https://arxiv.org/abs/2607.21881v1)** | 2026-07-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 3 tables. Preprint submitted to Taylor & Francis. Code: https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM Dataset: https://doi.org/10.5281/zenodo.21519912</p></details> |
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v2)** | 2026-07-22 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 | **[Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion](https://arxiv.org/abs/2607.15041v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, accepted by IEEE TMM</p></details> |
 | **[XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation](https://arxiv.org/abs/2607.14287v1)** | 2026-07-15 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 3 tables. Accepted to the IAPR Workshop on Machine Vision for Industrial Inspection (MVI2), in conjunction with ICPR 2026. Code: https://github.com/Mahedi-61/XCT-SAM</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation](https://arxiv.org/abs/2607.06972v1)** | 2026-07-08 | 9 pages, 4 figures |
 | **[FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering](https://arxiv.org/abs/2607.04170v1)** | 2026-07-05 |  |
 | **[PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation](https://arxiv.org/abs/2606.30477v1)** | 2026-06-29 | 54 pages |
-| **[ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis](https://arxiv.org/abs/2603.25168v2)** | 2026-06-26 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 

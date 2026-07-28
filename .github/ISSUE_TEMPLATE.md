@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IJCB-AFMFR 2026: Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data](https://arxiv.org/abs/2607.24422v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics 2026 (IJCB 2026)</p></details> |
 | **[ReCowGnition: A Realistic Biometric Benchmark for Cow Face Recognition](https://arxiv.org/abs/2607.22071v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026 Workshops</p></details> |
+| **[Beyond Error-vs-Discard Characteristic: Toward Stable and Reliable Evaluation for Face Image Quality Assessment](https://arxiv.org/abs/2607.22752v1)** | 2026-07-23 |  |
 | **[Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features](https://arxiv.org/abs/2607.21347v1)** | 2026-07-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables. Accepted for publication at IEEE International Joint Conference on Biometrics (IJCB), 2026</p></details> |
 | **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026; Project page: https://www.idiap.ch/paper/driveface/</p></details> |
 | **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition](https://arxiv.org/abs/2607.03581v2)** | 2026-07-13 |  |
 | **[LFD: Enabling Real-World Lensless Face Recognition with a Large-Scale Dataset](https://arxiv.org/abs/2607.10094v1)** | 2026-07-11 | 10 pages |
 | **[Parameter Efficient Machine Unlearning on Hybrid Resistive Memory based Compute-in-Memory Accelerators](https://arxiv.org/abs/2601.10037v3)** | 2026-07-10 |  |
-| **[ForensicNet: Lightweight Attention-Enhanced MobileNetV2 for Automated Face Identification](https://arxiv.org/abs/2607.16273v1)** | 2026-07-08 | <details><summary>DOI: ...</summary><p>DOI: https://doi.org/10.48084/etasr Link: https://etasr.com/index.php/ETASR/article/view/18636</p></details> |
-| **[Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline](https://arxiv.org/abs/2607.05996v1)** | 2026-07-07 | preprint |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](https://arxiv.org/abs/2607.19942v2)** | 2026-07-27 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026 (Supplementary Material Included)</p></details> |
+| **[Multimodal Semantic-Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2607.23981v1)** | 2026-07-27 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 4 tables</p></details> |
+| **[Neuromorphic Object Detection: An In-Depth Study and Future Directions](https://arxiv.org/abs/2607.23576v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the IEEE</p></details> |
+| **[Phenology-based learning framework for yield estimation and harvest forecasting of raspberry fruits](https://arxiv.org/abs/2411.00967v2)** | 2026-07-25 |  |
+| **[GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection](https://arxiv.org/abs/2607.23059v1)** | 2026-07-25 |  |
+| **[LEGO Co-builder: Exploring Fine-Grained Vision-Language Modeling for Multimodal LEGO Assembly Assistants](https://arxiv.org/abs/2507.05515v4)** | 2026-07-24 | <details><summary>This ...</summary><p>This version has been accepted by ICMI 2026 Conference</p></details> |
 | **[TDiR: Transformer based Diffusion for Image Restoration Tasks](https://arxiv.org/abs/2506.20302v2)** | 2026-07-24 |  |
 | **[RISE: Single Static Radar-based Indoor Scene Understanding](https://arxiv.org/abs/2511.14019v4)** | 2026-07-24 |  |
 | **[AdamNX: An Adam improvement algorithm based on a novel exponential decay mechanism for the second-order moment estimate](https://arxiv.org/abs/2511.13465v5)** | 2026-07-24 | <details><summary>29 pa...</summary><p>29 pages, 6 figures, 12 tables</p></details> |
@@ -73,12 +79,6 @@ labels: documentation
 | **[Spectral-Spatial Synergistic Guided Network for Hyperspectral Salient Object Detection](https://arxiv.org/abs/2607.21032v1)** | 2026-07-23 | Accepted by IEEE TMM |
 | **[QATMA: Quantization-Aware Training with Multimodal Alignment for Open-Vocabulary Object Detection](https://arxiv.org/abs/2603.05964v3)** | 2026-07-23 |  |
 | **[RECO: Region-Aware Compensation for Extrinsic Perturbations in Roadside 3D Detection](https://arxiv.org/abs/2607.20947v1)** | 2026-07-23 |  |
-| **[Spectrogram-Based Joint Detection, Localization, and Classification of Events in Continuously Recorded IBR Waveforms](https://arxiv.org/abs/2607.20817v1)** | 2026-07-23 |  |
-| **[Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection](https://arxiv.org/abs/2607.05148v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection](https://arxiv.org/abs/2607.20263v1)** | 2026-07-22 |  |
-| **[When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models](https://arxiv.org/abs/2603.03989v3)** | 2026-07-22 |  |
-| **[Not All Patches are Equal: Sampling Matters for Visible-Infrared Pre-Training](https://arxiv.org/abs/2607.20238v1)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 11 figures,</p></details> |
-| **[Pointing-Based Object Recognition](https://arxiv.org/abs/2603.15403v2)** | 2026-07-22 | <details><summary>Submi...</summary><p>Submitted to InnovAIte conference</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

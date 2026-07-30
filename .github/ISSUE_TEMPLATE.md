@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 30, 2026
+title: Latest 15 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041v1)** | 2026-07-27 |  |
 | **[IJCB-AFMFR 2026: Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data](https://arxiv.org/abs/2607.24422v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics 2026 (IJCB 2026)</p></details> |
 | **[On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems](https://arxiv.org/abs/2607.25990v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted by IJCB 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Intentional Electromagnetic Interference Attacks on Facial Recognition](https://arxiv.org/abs/2607.15512v1)** | 2026-07-16 | <details><summary>To be...</summary><p>To be published in IEEE/IAPR IJCB (International Joint Conference on Biometrics) 2026</p></details> |
 | **[Quantifying Training Membership Information in the Hyperspherical Embedding Geometry of Face Recognition Models](https://arxiv.org/abs/2607.15084v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IEEE/IAPR IJCB 2026</p></details> |
 | **[Benchmarking Face Recognition without Real Faces](https://arxiv.org/abs/2607.14932v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IJCB 2026</p></details> |
-| **[PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition](https://arxiv.org/abs/2607.03581v2)** | 2026-07-13 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,9 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation](https://arxiv.org/abs/2607.27058v1)** | 2026-07-29 |  |
+| **[Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention](https://arxiv.org/abs/2603.06228v3)** | 2026-07-29 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 tables, ECCV 2026</p></details> |
+| **[Hyper-FEOD: Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE](https://arxiv.org/abs/2604.11140v2)** | 2026-07-29 |  |
 | **[Image Quality Dependent Degradation for AI Systems](https://arxiv.org/abs/2607.25736v1)** | 2026-07-28 |  |
 | **[Rethinking Event-Based Object Dtection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning](https://arxiv.org/abs/2605.08825v4)** | 2026-07-28 |  |
 | **[Multi-Sensor Alignment for Weather Simulations](https://arxiv.org/abs/2607.25612v1)** | 2026-07-28 |  |
@@ -76,9 +79,6 @@ labels: documentation
 | **[Multimodal Semantic-Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2607.23981v1)** | 2026-07-27 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 4 tables</p></details> |
 | **[Neuromorphic Object Detection: An In-Depth Study and Future Directions](https://arxiv.org/abs/2607.23576v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the IEEE</p></details> |
 | **[Phenology-based learning framework for yield estimation and harvest forecasting of raspberry fruits](https://arxiv.org/abs/2411.00967v2)** | 2026-07-25 |  |
-| **[GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection](https://arxiv.org/abs/2607.23059v1)** | 2026-07-25 |  |
-| **[LEGO Co-builder: Exploring Fine-Grained Vision-Language Modeling for Multimodal LEGO Assembly Assistants](https://arxiv.org/abs/2507.05515v4)** | 2026-07-24 | <details><summary>This ...</summary><p>This version has been accepted by ICMI 2026 Conference</p></details> |
-| **[TDiR: Transformer based Diffusion for Image Restoration Tasks](https://arxiv.org/abs/2506.20302v2)** | 2026-07-24 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

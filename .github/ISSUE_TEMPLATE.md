@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Private Face Recognition Training Dataset Publication via Identity-Decoupled and Geometry-Preserving Face Distillation](https://arxiv.org/abs/2607.27764v1)** | 2026-07-30 |  |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041v1)** | 2026-07-27 |  |
 | **[IJCB-AFMFR 2026: Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data](https://arxiv.org/abs/2607.24422v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics 2026 (IJCB 2026)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Articulated Humanoid Head for a Robot Receptionist Capable of Natural Human Interaction](https://arxiv.org/abs/2607.17042v1)** | 2026-07-19 | <details><summary>This ...</summary><p>This work is accepted at IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2026)</p></details> |
 | **[Intentional Electromagnetic Interference Attacks on Facial Recognition](https://arxiv.org/abs/2607.15512v1)** | 2026-07-16 | <details><summary>To be...</summary><p>To be published in IEEE/IAPR IJCB (International Joint Conference on Biometrics) 2026</p></details> |
 | **[Quantifying Training Membership Information in the Hyperspherical Embedding Geometry of Face Recognition Models](https://arxiv.org/abs/2607.15084v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IEEE/IAPR IJCB 2026</p></details> |
-| **[Benchmarking Face Recognition without Real Faces](https://arxiv.org/abs/2607.14932v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at IJCB 2026</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers](https://arxiv.org/abs/2607.28589v1)** | 2026-07-30 |  |
+| **[pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks](https://arxiv.org/abs/2504.07835v6)** | 2026-07-30 |  |
+| **[EHGCN: Hierarchical Euclidean-Hyperbolic Fusion via Motion-Aware GCN for Hybrid Event Stream Perception](https://arxiv.org/abs/2504.16616v4)** | 2026-07-30 |  |
+| **[Test-Time Backdoor Detection for Object Detection Models](https://arxiv.org/abs/2503.15293v2)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Code is available at https://github.com/Rookie143/Trace</p></details> |
+| **[Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures](https://arxiv.org/abs/2607.28007v1)** | 2026-07-30 |  |
+| **[RiO-DETR: DETR for Real-time Oriented Object Detection](https://arxiv.org/abs/2603.09411v2)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, 31 pages, 9 figures</p></details> |
+| **[VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection](https://arxiv.org/abs/2607.27843v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Rethinking Event-Based Object Detection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning](https://arxiv.org/abs/2605.08825v5)** | 2026-07-30 |  |
+| **[Morphological Detection and Classification of Microplastics and Nanoplastics Emerged from Consumer Products by Deep Learning](https://arxiv.org/abs/2409.13688v2)** | 2026-07-29 |  |
 | **[Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation](https://arxiv.org/abs/2607.27058v1)** | 2026-07-29 |  |
 | **[Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention](https://arxiv.org/abs/2603.06228v3)** | 2026-07-29 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 8 tables, ECCV 2026</p></details> |
 | **[Hyper-FEOD: Sparse Hypergraph-Enhanced Frame-Event Object Detection with Fine-Grained MoE](https://arxiv.org/abs/2604.11140v2)** | 2026-07-29 |  |
 | **[Image Quality Dependent Degradation for AI Systems](https://arxiv.org/abs/2607.25736v1)** | 2026-07-28 |  |
-| **[Rethinking Event-Based Object Dtection through Representation-Level Temporal Aggregation and Model-Level Hypergraph Reasoning](https://arxiv.org/abs/2605.08825v4)** | 2026-07-28 |  |
 | **[Multi-Sensor Alignment for Weather Simulations](https://arxiv.org/abs/2607.25612v1)** | 2026-07-28 |  |
 | **[Reading Legends on Ancient Coins: An Object Detection Approach for Character Recognition on a Novel Roman Republican Dataset](https://arxiv.org/abs/2607.25455v1)** | 2026-07-28 |  |
-| **[Discriminative and Consistent Representation Distillation](https://arxiv.org/abs/2407.11802v6)** | 2026-07-28 | <details><summary>Publi...</summary><p>Published at the 19th European Conference on Computer Vision (ECCV 2026) Workshops</p></details> |
-| **[RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2607.25392v1)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted to ACMMM 2026</p></details> |
-| **[CD-RMOT-Bench: Benchmarking the Cross-Domain Referring Multi-Object Tracking](https://arxiv.org/abs/2607.25239v1)** | 2026-07-28 |  |
-| **[Mondrian: On-Device High-Performance Video Analytics with Compressive Packed Inference](https://arxiv.org/abs/2403.07598v2)** | 2026-07-27 | <details><summary>Added...</summary><p>Added code release URL</p></details> |
-| **[G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](https://arxiv.org/abs/2607.19942v2)** | 2026-07-27 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026 (Supplementary Material Included)</p></details> |
-| **[Multimodal Semantic-Probabilistic Objectness for Open World Object Detection](https://arxiv.org/abs/2607.23981v1)** | 2026-07-27 | <details><summary>16 pa...</summary><p>16 pages, 3 figures, 4 tables</p></details> |
-| **[Neuromorphic Object Detection: An In-Depth Study and Future Directions](https://arxiv.org/abs/2607.23576v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the IEEE</p></details> |
-| **[Phenology-based learning framework for yield estimation and harvest forecasting of raspberry fruits](https://arxiv.org/abs/2411.00967v2)** | 2026-07-25 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation](https://arxiv.org/abs/2607.27585v1)** | 2026-07-30 |  |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research</p></details> |
 | **[Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement](https://arxiv.org/abs/2607.21881v1)** | 2026-07-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 3 tables. Preprint submitted to Taylor & Francis. Code: https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM Dataset: https://doi.org/10.5281/zenodo.21519912</p></details> |
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v2)** | 2026-07-22 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SAM-MT: Real-Time Interactive Multi-Target Video Segmentation](https://arxiv.org/abs/2607.08688v1)** | 2026-07-09 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://henghuiding.com/SAM-MT/</p></details> |
 | **[An Edge-aware Prompt-enhanced SAM for Ultrasound Image Segmentation](https://arxiv.org/abs/2607.07240v1)** | 2026-07-08 | Accepted to ICME2026 |
 | **[HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation](https://arxiv.org/abs/2607.06972v1)** | 2026-07-08 | 9 pages, 4 figures |
-| **[FedFFT: Taming Client Drift in Federated SAM via Spectral Perturbation Filtering](https://arxiv.org/abs/2607.04170v1)** | 2026-07-05 |  |
 

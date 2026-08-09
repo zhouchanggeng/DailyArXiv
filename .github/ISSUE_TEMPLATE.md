@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IDperturb: Enhancing Variation in Synthetic Face Generation via Angular Perturbation](https://arxiv.org/abs/2602.18831v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs](https://arxiv.org/abs/2608.04501v1)** | 2026-08-05 |  |
+| **[Model Inversion meets Cryptographic Fuzzy Extractors](https://arxiv.org/abs/2510.25687v4)** | 2026-08-05 |  |
 | **[Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222v3)** | 2026-08-03 | 8 pages, 9 figures |
 | **[Have I Seen You? Embedding Behavior Signals Synthetic Face Dataset Membership](https://arxiv.org/abs/2607.29144v1)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at EUVIP'26 student session</p></details> |
 | **[DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models](https://arxiv.org/abs/2607.28936v1)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Beyond Error-vs-Discard Characteristic: Toward Stable and Reliable Evaluation for Face Image Quality Assessment](https://arxiv.org/abs/2607.22752v1)** | 2026-07-23 |  |
 | **[Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features](https://arxiv.org/abs/2607.21347v1)** | 2026-07-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables. Accepted for publication at IEEE International Joint Conference on Biometrics (IJCB), 2026</p></details> |
 | **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026; Project page: https://www.idiap.ch/paper/driveface/</p></details> |
-| **[DifFoundMAD: Foundation Models meet Differential Morphing Attack Detection](https://arxiv.org/abs/2604.17961v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026</p></details> |
-| **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](https://arxiv.org/abs/2607.19886v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[DecoyFace: Beyond Obfuscation via Controllable and Imperceptible Identity Misdirection for Privacy-Preserving Face Recognition](https://arxiv.org/abs/2607.17504v1)** | 2026-07-20 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation](https://arxiv.org/abs/2608.02495v1)** | 2026-08-03 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 7tabs</p></details> |
-| **[A drone that learns to efficiently find non-uniformly distributed objects in agricultural fields: from simulation to the real world](https://arxiv.org/abs/2505.09278v2)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted to the Novel Approaches for Precision Agriculture and Forestry with Autonomous Robots IEEE ICRA Workshop - 2025</p></details> |
-| **[UAV-Based Environmental Monitoring of Rip-Current Indicators Using Wavelet-Derived Texture Features](https://arxiv.org/abs/2608.02448v1)** | 2026-08-03 | 24 pages, 10 figures |
-| **[ABRA: Teleporting Fine-Tuned Knowledge Across Domains for Open-Vocabulary Object Detection](https://arxiv.org/abs/2603.12409v2)** | 2026-08-03 | <details><summary>Paper...</summary><p>Paper under consideration for acceptance at Pattern Recognition Letters</p></details> |
-| **[GSRAIN: Physically Calibrated High-/Low-Frequency Rainfall Synthesis for 3D Gaussian Driving Scenes](https://arxiv.org/abs/2608.02177v1)** | 2026-08-03 |  |
-| **[Two Sides of the Same Coin: Co-Evolving Search for Cross-Task Attacks on Vision-Language Models](https://arxiv.org/abs/2608.02137v1)** | 2026-08-03 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, and 8 tables; includes supplementary material</p></details> |
-| **[Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion](https://arxiv.org/abs/2608.02092v1)** | 2026-08-03 |  |
-| **[Assessing the Benefits of Combining Advanced Deep Learning Techniques for Post-Disaster Building Damage Assessment from UAV Imagery](https://arxiv.org/abs/2608.01906v1)** | 2026-08-03 | <details><summary>Accep...</summary><p>Accepted at ECMLPKDD 2026, 31 pages (including appendix), 18 figures</p></details> |
-| **[Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2608.01348v1)** | 2026-08-02 |  |
-| **[Beyond Symmetric Fusion: Exploiting Task-Dependent Modality Strengths for RGB-Event Small Object Detection](https://arxiv.org/abs/2608.01302v1)** | 2026-08-02 | 3 figures, 7 tables |
-| **[Bridging Multimodal Fusion and Expert Routing via Spectral Reliability Descriptors for Robust Object Detection](https://arxiv.org/abs/2606.01173v2)** | 2026-08-02 |  |
-| **[MGDFIS: Multi-scale Global-detail Feature Integration Strategy for Small Object Detection](https://arxiv.org/abs/2506.12697v4)** | 2026-08-02 |  |
-| **[Assistant Placement Aria: A Benchmark for Egocentric Placement Assistance](https://arxiv.org/abs/2608.00652v1)** | 2026-08-01 |  |
-| **[RadYOLO: Computationally Efficient 3D Object Detection and Segmentation in CT and MRI](https://arxiv.org/abs/2608.00508v1)** | 2026-08-01 |  |
-| **[V2VCrafter: Consistent Street-View Image Generation Across Vehicles](https://arxiv.org/abs/2605.29471v2)** | 2026-08-01 |  |
+| **[CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection](https://arxiv.org/abs/2608.06205v1)** | 2026-08-06 |  |
+| **[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion](https://arxiv.org/abs/2608.05858v1)** | 2026-08-06 | 8 pages |
+| **[Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2608.01348v2)** | 2026-08-06 |  |
+| **[Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen](https://arxiv.org/abs/2608.04865v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[RegisterBridgeMM: A Register-Centric Framework for RGB-Infrared Object Detection](https://arxiv.org/abs/2608.04833v1)** | 2026-08-05 |  |
+| **[FUSEP: A Multi-Center Benchmark for Diverse Tasks in Early Pregnancy Fetal Ultrasound Screening](https://arxiv.org/abs/2608.04766v1)** | 2026-08-05 |  |
+| **[Simile Understanding in Text-to-Image Models: An Evaluation Framework](https://arxiv.org/abs/2608.04750v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted as a full paper at ACM Multimedia 2026</p></details> |
+| **[Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection](https://arxiv.org/abs/2509.07654v2)** | 2026-08-05 |  |
+| **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v1)** | 2026-08-05 | 13pages,12figures |
+| **[Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2608.04394v1)** | 2026-08-05 |  |
+| **[NCGR: Noise-Conditional Gated Rectification for Camera Extrinsic Perturbations in BEV 3D Object Detection](https://arxiv.org/abs/2608.03895v1)** | 2026-08-04 | <details><summary>21 pa...</summary><p>21 pages, including supplementary material</p></details> |
+| **[SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence](https://arxiv.org/abs/2608.03728v1)** | 2026-08-04 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, and 10 tables. Code and sanitized research artifacts are available at https://github.com/keithhegit/SAT-Edge-Agent</p></details> |
+| **[Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation](https://arxiv.org/abs/2608.03490v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026</p></details> |
+| **[FreqAdapt: Frequency-Adaptive Processing for RAW Object Detection](https://arxiv.org/abs/2608.03385v1)** | 2026-08-04 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

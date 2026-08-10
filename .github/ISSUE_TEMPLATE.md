@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Casting the Net! Revisiting MasterFace Impersonation Attacks](https://arxiv.org/abs/2608.06952v1)** | 2026-08-07 | <details><summary>To ap...</summary><p>To appear at ACM CCS 2026; Seunghun Paik and Sunpill Kim contributed equally</p></details> |
+| **[Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap](https://arxiv.org/abs/2608.06580v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026, Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data</p></details> |
 | **[IDperturb: Enhancing Variation in Synthetic Face Generation via Angular Perturbation](https://arxiv.org/abs/2602.18831v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
 | **[Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs](https://arxiv.org/abs/2608.04501v1)** | 2026-08-05 |  |
 | **[Model Inversion meets Cryptographic Fuzzy Extractors](https://arxiv.org/abs/2510.25687v4)** | 2026-08-05 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems](https://arxiv.org/abs/2607.25990v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted by IJCB 2026</p></details> |
 | **[ReCowGnition: A Realistic Biometric Benchmark for Cow Face Recognition](https://arxiv.org/abs/2607.22071v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026 Workshops</p></details> |
 | **[Beyond Error-vs-Discard Characteristic: Toward Stable and Reliable Evaluation for Face Image Quality Assessment](https://arxiv.org/abs/2607.22752v1)** | 2026-07-23 |  |
-| **[Quality-Aware Multimodal Fusion Reveals Implicit Identity in Valence-Arousal Features](https://arxiv.org/abs/2607.21347v1)** | 2026-07-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 6 tables. Accepted for publication at IEEE International Joint Conference on Biometrics (IJCB), 2026</p></details> |
-| **[DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](https://arxiv.org/abs/2607.13515v2)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted in IJCB 2026; Project page: https://www.idiap.ch/paper/driveface/</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline](https://arxiv.org/abs/2608.07382v1)** | 2026-08-07 |  |
+| **[RegionDet: A Benchmark for Region Detection Beyond Object Instances](https://arxiv.org/abs/2608.06850v1)** | 2026-08-07 |  |
+| **[ECAD: Expanding Class-Agnostic Detection Beyond Thing-Centric Objectness](https://arxiv.org/abs/2608.06841v1)** | 2026-08-07 |  |
+| **[YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720v2)** | 2026-08-07 |  |
+| **[Corrupting Attention: Evasion-Based Adversarial Attacks on Encoder Attention in Detection Transformers](https://arxiv.org/abs/2608.06674v1)** | 2026-08-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
 | **[CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection](https://arxiv.org/abs/2608.06205v1)** | 2026-08-06 |  |
 | **[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion](https://arxiv.org/abs/2608.05858v1)** | 2026-08-06 | 8 pages |
@@ -74,11 +79,6 @@ labels: documentation
 | **[Simile Understanding in Text-to-Image Models: An Evaluation Framework](https://arxiv.org/abs/2608.04750v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted as a full paper at ACM Multimedia 2026</p></details> |
 | **[Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection](https://arxiv.org/abs/2509.07654v2)** | 2026-08-05 |  |
 | **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v1)** | 2026-08-05 | 13pages,12figures |
-| **[Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2608.04394v1)** | 2026-08-05 |  |
-| **[NCGR: Noise-Conditional Gated Rectification for Camera Extrinsic Perturbations in BEV 3D Object Detection](https://arxiv.org/abs/2608.03895v1)** | 2026-08-04 | <details><summary>21 pa...</summary><p>21 pages, including supplementary material</p></details> |
-| **[SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence](https://arxiv.org/abs/2608.03728v1)** | 2026-08-04 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, and 10 tables. Code and sanitized research artifacts are available at https://github.com/keithhegit/SAT-Edge-Agent</p></details> |
-| **[Lightweight 3D Object Detection via Mamba-Based Knowledge Distillation](https://arxiv.org/abs/2608.03490v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026</p></details> |
-| **[FreqAdapt: Frequency-Adaptive Processing for RAW Object Detection](https://arxiv.org/abs/2608.03385v1)** | 2026-08-04 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

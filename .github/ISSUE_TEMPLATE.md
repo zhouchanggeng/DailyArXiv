@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaDINO: Pair-Aware In-Backbone Adaptation of Frozen DINO for Efficient Remote Sensing Change Detection](https://arxiv.org/abs/2608.07982v1)** | 2026-08-08 |  |
+| **[DINO-3DRA: Leveraging 2D Foundation Model Semantics for 3D Cerebral Aneurysm Segmentation](https://arxiv.org/abs/2608.07767v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing](https://arxiv.org/abs/2607.20900v1)** | 2026-07-23 | accepted to IJCB2026 |
 | **[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/abs/2507.19474v2)** | 2026-07-16 |  |
 | **[AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow](https://arxiv.org/abs/2607.13250v1)** | 2026-07-14 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery](https://arxiv.org/abs/2605.03175v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at 2026 CVPR MORSE Workshop</p></details> |
 | **[Dino-NestedUNet: Unlocking Foundation Vision Encoders for Pathology Tumor Bulk Segmentation via Dense Decoding](https://arxiv.org/abs/2605.00894v1)** | 2026-04-27 |  |
 | **[DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval](https://arxiv.org/abs/2604.19432v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[DINO-Explorer: Active Underwater Discovery via Ego-Motion Compensated Semantic Predictive Coding](https://arxiv.org/abs/2604.12933v1)** | 2026-04-14 |  |
-| **[Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization](https://arxiv.org/abs/2604.12346v1)** | 2026-04-14 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Noise to Meaning: Meaningful Secret Sharing with Tamper Detection for Facial Recognition](https://arxiv.org/abs/2608.08924v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
+| **[A Combined Feature-Based Framework for Disguise and Spoofing Detection in Face Recognition Systems](https://arxiv.org/abs/2608.08521v1)** | 2026-08-09 | 5 pages, 3 figures |
+| **[Compatibility of Face Embeddings Across Deep Neural Networks](https://arxiv.org/abs/2604.07282v2)** | 2026-08-09 |  |
 | **[Casting the Net! Revisiting MasterFace Impersonation Attacks](https://arxiv.org/abs/2608.06952v1)** | 2026-08-07 | <details><summary>To ap...</summary><p>To appear at ACM CCS 2026; Seunghun Paik and Sunpill Kim contributed equally</p></details> |
 | **[Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap](https://arxiv.org/abs/2608.06580v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026, Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data</p></details> |
 | **[IDperturb: Enhancing Variation in Synthetic Face Generation via Angular Perturbation](https://arxiv.org/abs/2602.18831v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041v1)** | 2026-07-27 |  |
 | **[IJCB-AFMFR 2026: Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data](https://arxiv.org/abs/2607.24422v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics 2026 (IJCB 2026)</p></details> |
-| **[On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems](https://arxiv.org/abs/2607.25990v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted by IJCB 2026</p></details> |
-| **[ReCowGnition: A Realistic Biometric Benchmark for Cow Face Recognition](https://arxiv.org/abs/2607.22071v1)** | 2026-07-24 | <details><summary>Accep...</summary><p>Accepted at ICPR 2026 Workshops</p></details> |
-| **[Beyond Error-vs-Discard Characteristic: Toward Stable and Reliable Evaluation for Face Image Quality Assessment](https://arxiv.org/abs/2607.22752v1)** | 2026-07-23 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v2)** | 2026-08-10 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
 | **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
 | **[BIDO: A Biometric Identity Online Authentication Framework](https://arxiv.org/abs/2605.16908v1)** | 2026-05-16 |  |
 | **[MVB-Grasp: Minimum-Volume-Box Filtering of Diffusion-based Grasps for Frontal Manipulation](https://arxiv.org/abs/2605.09672v1)** | 2026-05-10 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, accepted to IJCNN 2026</p></details> |
@@ -57,28 +58,27 @@ labels: documentation
 | **[SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users](https://arxiv.org/abs/2504.10157v3)** | 2025-07-15 |  |
 | **[Mitigating Knowledge Discrepancies among Multiple Datasets for Task-agnostic Unified Face Alignment](https://arxiv.org/abs/2503.22359v2)** | 2025-06-30 | <details><summary>24 Pa...</summary><p>24 Pages, 9 Figures, accepted to IJCV-2025</p></details> |
 | **[Towards Large-Scale Pose-Invariant Face Recognition Using Face Defrontalization](https://arxiv.org/abs/2506.04496v1)** | 2025-06-04 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 4 tables</p></details> |
-| **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v1)** | 2025-05-24 |  |
 | **[Multimodal Emotion Coupling via Speech-to-Facial and Bodily Gestures in Dyadic Interaction](https://arxiv.org/abs/2506.10010v1)** | 2025-05-08 |  |
 | **[Leveraging GANs For Active Appearance Models Optimized Model Fitting](https://arxiv.org/abs/2501.11218v3)** | 2025-04-07 | <details><summary>The f...</summary><p>The full text of this preprint has been withdrawn, as it was submitted in error at a much earlier stage, with work still needing substantial refinement and validation. Therefore, the authors do not wish this work to be cited as a reference</p></details> |
 
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline](https://arxiv.org/abs/2608.07382v1)** | 2026-08-07 |  |
-| **[RegionDet: A Benchmark for Region Detection Beyond Object Instances](https://arxiv.org/abs/2608.06850v1)** | 2026-08-07 |  |
-| **[ECAD: Expanding Class-Agnostic Detection Beyond Thing-Centric Objectness](https://arxiv.org/abs/2608.06841v1)** | 2026-08-07 |  |
-| **[YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720v2)** | 2026-08-07 |  |
-| **[Corrupting Attention: Evasion-Based Adversarial Attacks on Encoder Attention in Detection Transformers](https://arxiv.org/abs/2608.06674v1)** | 2026-08-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 6 tables</p></details> |
-| **[CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection](https://arxiv.org/abs/2608.06205v1)** | 2026-08-06 |  |
-| **[Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection](https://arxiv.org/abs/2604.04444v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Shape-Aware Oriented Bounding Box (OBB) to Horizontal Bounding Box (HBB) Conversion](https://arxiv.org/abs/2608.05858v1)** | 2026-08-06 | 8 pages |
-| **[Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection](https://arxiv.org/abs/2608.01348v2)** | 2026-08-06 |  |
-| **[Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen](https://arxiv.org/abs/2608.04865v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[RegisterBridgeMM: A Register-Centric Framework for RGB-Infrared Object Detection](https://arxiv.org/abs/2608.04833v1)** | 2026-08-05 |  |
-| **[FUSEP: A Multi-Center Benchmark for Diverse Tasks in Early Pregnancy Fetal Ultrasound Screening](https://arxiv.org/abs/2608.04766v1)** | 2026-08-05 |  |
-| **[Simile Understanding in Text-to-Image Models: An Evaluation Framework](https://arxiv.org/abs/2608.04750v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted as a full paper at ACM Multimedia 2026</p></details> |
-| **[Beyond Motion Cues and Structural Sparsity: Revisiting Small Moving Target Detection](https://arxiv.org/abs/2509.07654v2)** | 2026-08-05 |  |
-| **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v1)** | 2026-08-05 | 13pages,12figures |
+| **[Deep Multimodal Wearable Sensor Fusion for Detection of Body-Focused Repetitive Behaviors](https://arxiv.org/abs/2608.09830v1)** | 2026-08-10 |  |
+| **[Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells](https://arxiv.org/abs/2608.09658v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). A supplementary video demonstrating the workcell is available at https://youtu.be/zobin6oytGk</p></details> |
+| **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v2)** | 2026-08-10 | 13pages,12figures |
+| **[Bridging Object Detection and Segmentation with Polygon Detection Transformers](https://arxiv.org/abs/2603.09245v2)** | 2026-08-10 | <details><summary>Subst...</summary><p>Substantially revised and extended version with a new title, additional co-authors, new methodology, expanded experiments and analyses, and supplementary material in the appendix</p></details> |
+| **[Deep Learning based Detection of Fishing Vessels and Fishing Monitoring using Nightlight Images](https://arxiv.org/abs/2608.09360v1)** | 2026-08-10 |  |
+| **[Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration](https://arxiv.org/abs/2608.09311v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accept by ICIG2026 (Oral)</p></details> |
+| **[RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](https://arxiv.org/abs/2608.09147v1)** | 2026-08-10 |  |
+| **[Integrated Multimodal AI System for Retrieval-Augmented Reasoning, Object Sensing, and Damage Analysis](https://arxiv.org/abs/2608.08935v1)** | 2026-08-09 |  |
+| **[Zero-Shot Traffic Accident Detection via a Coarse-to-Fine VLM-Tracking Pipeline](https://arxiv.org/abs/2608.08867v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the AUTOPILOT Workshop, CVPR 2026, Denver, CO</p></details> |
+| **[Anchor-Based AI Approach for Pre-Crash Object Detection Utilizing Micro-Doppler Signatures in Automotive Radar](https://arxiv.org/abs/2608.08701v1)** | 2026-08-09 |  |
+| **[HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds](https://arxiv.org/abs/2602.11554v4)** | 2026-08-09 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
+| **[SC-Diff: Semantically Calibrated Diffusion for Visible-to-Infrared Image Translation](https://arxiv.org/abs/2608.08555v1)** | 2026-08-09 |  |
+| **[Discriminative and Consistent Representation Distillation](https://arxiv.org/abs/2407.11802v7)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted at the 19th European Conference on Computer Vision (ECCV 2026) Workshops</p></details> |
+| **[SCTD 3.0: Sonar Common Target Detection in the Wild - A Large-Scale, Multi-Scene Dataset from Real Marine Surveys](https://arxiv.org/abs/2608.08106v1)** | 2026-08-08 |  |
+| **[SARVLM: A Vision Language Foundation Model for Semantic Understanding in SAR Imagery](https://arxiv.org/abs/2510.22665v4)** | 2026-08-08 | 13 pages, 13 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

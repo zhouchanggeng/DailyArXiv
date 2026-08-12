@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO-A: Adapting Self-Distillation Vision Transformers to General Audio Representation Learning](https://arxiv.org/abs/2608.10659v1)** | 2026-08-11 |  |
 | **[AdaDINO: Pair-Aware In-Backbone Adaptation of Frozen DINO for Efficient Remote Sensing Change Detection](https://arxiv.org/abs/2608.07982v1)** | 2026-08-08 |  |
 | **[DINO-3DRA: Leveraging 2D Foundation Model Semantics for 3D Cerebral Aneurysm Segmentation](https://arxiv.org/abs/2608.07767v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing](https://arxiv.org/abs/2607.20900v1)** | 2026-07-23 | accepted to IJCB2026 |
@@ -21,13 +22,13 @@ labels: documentation
 | **[DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation](https://arxiv.org/abs/2605.07221v1)** | 2026-05-08 |  |
 | **[DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery](https://arxiv.org/abs/2605.03175v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at 2026 CVPR MORSE Workshop</p></details> |
 | **[Dino-NestedUNet: Unlocking Foundation Vision Encoders for Pathology Tumor Bulk Segmentation via Dense Decoding](https://arxiv.org/abs/2605.00894v1)** | 2026-04-27 |  |
-| **[DINO Eats CLIP: Adapting Beyond Knowns for Open-set 3D Object Retrieval](https://arxiv.org/abs/2604.19432v1)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Combined Feature-Based Framework for Disguise and Spoofing Detection in Face Recognition Systems](https://arxiv.org/abs/2608.08521v2)** | 2026-08-11 | 5 pages, 3 figures |
+| **[SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception](https://arxiv.org/abs/2608.10497v1)** | 2026-08-11 |  |
 | **[From Noise to Meaning: Meaningful Secret Sharing with Tamper Detection for Facial Recognition](https://arxiv.org/abs/2608.08924v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
-| **[A Combined Feature-Based Framework for Disguise and Spoofing Detection in Face Recognition Systems](https://arxiv.org/abs/2608.08521v1)** | 2026-08-09 | 5 pages, 3 figures |
 | **[Compatibility of Face Embeddings Across Deep Neural Networks](https://arxiv.org/abs/2604.07282v2)** | 2026-08-09 |  |
 | **[Casting the Net! Revisiting MasterFace Impersonation Attacks](https://arxiv.org/abs/2608.06952v1)** | 2026-08-07 | <details><summary>To ap...</summary><p>To appear at ACM CCS 2026; Seunghun Paik and Sunpill Kim contributed equally</p></details> |
 | **[Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap](https://arxiv.org/abs/2608.06580v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026, Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Private Face Recognition Training Dataset Publication via Identity-Decoupled and Geometry-Preserving Face Distillation](https://arxiv.org/abs/2607.27764v1)** | 2026-07-30 |  |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 | **[ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041v1)** | 2026-07-27 |  |
-| **[IJCB-AFMFR 2026: Competition on Adapting Foundation Models for Face Recognition Using Synthetic Training Data](https://arxiv.org/abs/2607.24422v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics 2026 (IJCB 2026)</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection](https://arxiv.org/abs/2608.11135v1)** | 2026-08-11 |  |
+| **[A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa](https://arxiv.org/abs/2608.11053v1)** | 2026-08-11 |  |
+| **[Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers](https://arxiv.org/abs/2608.10989v1)** | 2026-08-11 | <details><summary>24 pa...</summary><p>24 pages, 9 figures. Includes supplementary material</p></details> |
+| **[Shaping the notion of #wellbeing in the therapy culture context: an analysis through Instagram narratives](https://arxiv.org/abs/2608.10793v1)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 2 tables</p></details> |
+| **[InterPruner: Interactive Structured Pruning via Taylor-Implicit Criterion and Language-Prior Modulator for Multimodal Object Detection](https://arxiv.org/abs/2608.10724v1)** | 2026-08-11 |  |
+| **[Bridging Severe Cross-Modal Misalignment: End-to-End Visible-Infrared Object Detection via Explicit Feature-Domain Affine Registration](https://arxiv.org/abs/2608.10680v1)** | 2026-08-11 |  |
 | **[Deep Multimodal Wearable Sensor Fusion for Detection of Body-Focused Repetitive Behaviors](https://arxiv.org/abs/2608.09830v1)** | 2026-08-10 |  |
 | **[Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells](https://arxiv.org/abs/2608.09658v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). A supplementary video demonstrating the workcell is available at https://youtu.be/zobin6oytGk</p></details> |
 | **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v2)** | 2026-08-10 | 13pages,12figures |
@@ -73,12 +79,6 @@ labels: documentation
 | **[RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](https://arxiv.org/abs/2608.09147v1)** | 2026-08-10 |  |
 | **[Integrated Multimodal AI System for Retrieval-Augmented Reasoning, Object Sensing, and Damage Analysis](https://arxiv.org/abs/2608.08935v1)** | 2026-08-09 |  |
 | **[Zero-Shot Traffic Accident Detection via a Coarse-to-Fine VLM-Tracking Pipeline](https://arxiv.org/abs/2608.08867v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the AUTOPILOT Workshop, CVPR 2026, Denver, CO</p></details> |
-| **[Anchor-Based AI Approach for Pre-Crash Object Detection Utilizing Micro-Doppler Signatures in Automotive Radar](https://arxiv.org/abs/2608.08701v1)** | 2026-08-09 |  |
-| **[HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds](https://arxiv.org/abs/2602.11554v4)** | 2026-08-09 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[SC-Diff: Semantically Calibrated Diffusion for Visible-to-Infrared Image Translation](https://arxiv.org/abs/2608.08555v1)** | 2026-08-09 |  |
-| **[Discriminative and Consistent Representation Distillation](https://arxiv.org/abs/2407.11802v7)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted at the 19th European Conference on Computer Vision (ECCV 2026) Workshops</p></details> |
-| **[SCTD 3.0: Sonar Common Target Detection in the Wild - A Large-Scale, Multi-Scene Dataset from Real Marine Surveys](https://arxiv.org/abs/2608.08106v1)** | 2026-08-08 |  |
-| **[SARVLM: A Vision Language Foundation Model for Semantic Understanding in SAR Imagery](https://arxiv.org/abs/2510.22665v4)** | 2026-08-08 | 13 pages, 13 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

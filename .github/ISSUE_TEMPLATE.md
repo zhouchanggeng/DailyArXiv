@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,10 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs](https://arxiv.org/abs/2608.12179v1)** | 2026-08-12 | ECCV 2026 |
+| **[EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection](https://arxiv.org/abs/2608.11685v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 6 tables</p></details> |
+| **[Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming](https://arxiv.org/abs/2608.11645v1)** | 2026-08-12 |  |
+| **[ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection](https://arxiv.org/abs/2608.11595v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
 | **[Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection](https://arxiv.org/abs/2608.11135v1)** | 2026-08-11 |  |
 | **[A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa](https://arxiv.org/abs/2608.11053v1)** | 2026-08-11 |  |
 | **[Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers](https://arxiv.org/abs/2608.10989v1)** | 2026-08-11 | <details><summary>24 pa...</summary><p>24 pages, 9 figures. Includes supplementary material</p></details> |
@@ -75,10 +79,6 @@ labels: documentation
 | **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v2)** | 2026-08-10 | 13pages,12figures |
 | **[Bridging Object Detection and Segmentation with Polygon Detection Transformers](https://arxiv.org/abs/2603.09245v2)** | 2026-08-10 | <details><summary>Subst...</summary><p>Substantially revised and extended version with a new title, additional co-authors, new methodology, expanded experiments and analyses, and supplementary material in the appendix</p></details> |
 | **[Deep Learning based Detection of Fishing Vessels and Fishing Monitoring using Nightlight Images](https://arxiv.org/abs/2608.09360v1)** | 2026-08-10 |  |
-| **[Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration](https://arxiv.org/abs/2608.09311v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accept by ICIG2026 (Oral)</p></details> |
-| **[RefineAny3D: Depth Refinement as Semantic Alignment for Monocular 3D Detection](https://arxiv.org/abs/2608.09147v1)** | 2026-08-10 |  |
-| **[Integrated Multimodal AI System for Retrieval-Augmented Reasoning, Object Sensing, and Damage Analysis](https://arxiv.org/abs/2608.08935v1)** | 2026-08-09 |  |
-| **[Zero-Shot Traffic Accident Detection via a Coarse-to-Fine VLM-Tracking Pipeline](https://arxiv.org/abs/2608.08867v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the AUTOPILOT Workshop, CVPR 2026, Denver, CO</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

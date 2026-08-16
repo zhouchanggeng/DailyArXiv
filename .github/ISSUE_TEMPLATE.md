@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bias Mitigation in Face Recognition via Demographic-based Supervised Contrastive Learning](https://arxiv.org/abs/2608.12971v1)** | 2026-08-13 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 5 tables</p></details> |
 | **[A Combined Feature-Based Framework for Disguise and Spoofing Detection in Face Recognition Systems](https://arxiv.org/abs/2608.08521v2)** | 2026-08-11 | 5 pages, 3 figures |
 | **[SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception](https://arxiv.org/abs/2608.10497v1)** | 2026-08-11 |  |
 | **[From Noise to Meaning: Meaningful Secret Sharing with Tamper Detection for Facial Recognition](https://arxiv.org/abs/2608.08924v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models](https://arxiv.org/abs/2607.28936v1)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
 | **[Private Face Recognition Training Dataset Publication via Identity-Decoupled and Geometry-Preserving Face Distillation](https://arxiv.org/abs/2607.27764v1)** | 2026-07-30 |  |
 | **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
-| **[ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041v1)** | 2026-07-27 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline](https://arxiv.org/abs/2605.12608v3)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to Neurocomputing. Project code and experimental configs available at https://github.com/mmohamed28/Clear2Fog</p></details> |
+| **[AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage](https://arxiv.org/abs/2608.13343v1)** | 2026-08-13 |  |
+| **[From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction](https://arxiv.org/abs/2604.27906v3)** | 2026-08-13 | 33 pages, 7 figures |
+| **[Geometry-Grounded Unified 3D Perception for Autonomous Driving](https://arxiv.org/abs/2608.13147v1)** | 2026-08-13 |  |
+| **[P2Fusion: Prompt-based Progressive Infrared-Visible Image Fusion via Dual-Prior Distillation](https://arxiv.org/abs/2608.13045v1)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Website: https://p2fusion.github.io</p></details> |
+| **[Delving into Cascaded Instability: A Lipschitz Continuity View on Image Restoration and Object Detection Synergy](https://arxiv.org/abs/2510.24232v3)** | 2026-08-13 | NeurIPS 2025 |
+| **[Towards Sparsely Annotated Open-World Object Detection](https://arxiv.org/abs/2608.12714v1)** | 2026-08-13 |  |
+| **[Class Geometry as Supervision for Sample-Efficient Open-World Detection](https://arxiv.org/abs/2608.12698v1)** | 2026-08-13 | <details><summary>Under...</summary><p>Under review. 12 Pages, 5 figures, 4 tables</p></details> |
 | **[Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs](https://arxiv.org/abs/2608.12179v1)** | 2026-08-12 | ECCV 2026 |
 | **[EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection](https://arxiv.org/abs/2608.11685v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 6 tables</p></details> |
 | **[Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming](https://arxiv.org/abs/2608.11645v1)** | 2026-08-12 |  |
@@ -71,14 +79,6 @@ labels: documentation
 | **[Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection](https://arxiv.org/abs/2608.11135v1)** | 2026-08-11 |  |
 | **[A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa](https://arxiv.org/abs/2608.11053v1)** | 2026-08-11 |  |
 | **[Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers](https://arxiv.org/abs/2608.10989v1)** | 2026-08-11 | <details><summary>24 pa...</summary><p>24 pages, 9 figures. Includes supplementary material</p></details> |
-| **[Shaping the notion of #wellbeing in the therapy culture context: an analysis through Instagram narratives](https://arxiv.org/abs/2608.10793v1)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 2 tables</p></details> |
-| **[InterPruner: Interactive Structured Pruning via Taylor-Implicit Criterion and Language-Prior Modulator for Multimodal Object Detection](https://arxiv.org/abs/2608.10724v1)** | 2026-08-11 |  |
-| **[Bridging Severe Cross-Modal Misalignment: End-to-End Visible-Infrared Object Detection via Explicit Feature-Domain Affine Registration](https://arxiv.org/abs/2608.10680v1)** | 2026-08-11 |  |
-| **[Deep Multimodal Wearable Sensor Fusion for Detection of Body-Focused Repetitive Behaviors](https://arxiv.org/abs/2608.09830v1)** | 2026-08-10 |  |
-| **[Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells](https://arxiv.org/abs/2608.09658v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). A supplementary video demonstrating the workcell is available at https://youtu.be/zobin6oytGk</p></details> |
-| **[ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection](https://arxiv.org/abs/2608.04559v2)** | 2026-08-10 | 13pages,12figures |
-| **[Bridging Object Detection and Segmentation with Polygon Detection Transformers](https://arxiv.org/abs/2603.09245v2)** | 2026-08-10 | <details><summary>Subst...</summary><p>Substantially revised and extended version with a new title, additional co-authors, new methodology, expanded experiments and analyses, and supplementary material in the appendix</p></details> |
-| **[Deep Learning based Detection of Fishing Vessels and Fishing Monitoring using Nightlight Images](https://arxiv.org/abs/2608.09360v1)** | 2026-08-10 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

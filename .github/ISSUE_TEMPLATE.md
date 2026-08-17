@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XSA-MAD: Cross-modal Semantic Alignment for Morphing Attack Detection](https://arxiv.org/abs/2608.13861v1)** | 2026-08-14 | accepted to ICIP2026 |
+| **[Face Re-morphing: Differential Morphing Attack Detection via Feature-Space Similarity Changes](https://arxiv.org/abs/2608.13858v1)** | 2026-08-14 | accepted to IJCB2026 |
 | **[Bias Mitigation in Face Recognition via Demographic-based Supervised Contrastive Learning](https://arxiv.org/abs/2608.12971v1)** | 2026-08-13 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 5 tables</p></details> |
 | **[A Combined Feature-Based Framework for Disguise and Spoofing Detection in Face Recognition Systems](https://arxiv.org/abs/2608.08521v2)** | 2026-08-11 | 5 pages, 3 figures |
 | **[SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception](https://arxiv.org/abs/2608.10497v1)** | 2026-08-11 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222v3)** | 2026-08-03 | 8 pages, 9 figures |
 | **[Have I Seen You? Embedding Behavior Signals Synthetic Face Dataset Membership](https://arxiv.org/abs/2607.29144v1)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at EUVIP'26 student session</p></details> |
 | **[DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models](https://arxiv.org/abs/2607.28936v1)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
-| **[Private Face Recognition Training Dataset Publication via Identity-Decoupled and Geometry-Preserving Face Distillation](https://arxiv.org/abs/2607.27764v1)** | 2026-07-30 |  |
-| **[Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model](https://arxiv.org/abs/2607.26742v1)** | 2026-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 5 tables, submitted to IberSPEECH 2026</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure](https://arxiv.org/abs/2608.14428v1)** | 2026-08-14 | Accepted by ECCV2026 |
+| **[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
+| **[MAGneT-3D: Monocular and Domain-Generalizable Temporal 3D Detection](https://arxiv.org/abs/2608.14282v1)** | 2026-08-14 | <details><summary>To ap...</summary><p>To appear at ECCVW 2026 (DriveX workshop; Oral paper). Johannes Meier and Mohamed Kotb - both authors contributed equally. Project page: https://mo-sameh.github.io/MAGneT-3D-Project-Page/</p></details> |
+| **[LightTeaNet: A Weakly Supervised Lightweight CNN for Multi-Label Tea Leaf Disease Detection and Localization](https://arxiv.org/abs/2608.14178v1)** | 2026-08-14 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 5 tables</p></details> |
+| **[PISA: A Pseudo-Individual Source-Domain Feature Adaptation Framework for Test-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2608.14142v1)** | 2026-08-14 |  |
+| **[YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720v3)** | 2026-08-14 |  |
 | **[A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline](https://arxiv.org/abs/2605.12608v3)** | 2026-08-13 | <details><summary>Accep...</summary><p>Accepted to Neurocomputing. Project code and experimental configs available at https://github.com/mmohamed28/Clear2Fog</p></details> |
 | **[AmalthAI: An Open-Source Computer Vision Platform for Cultural Heritage](https://arxiv.org/abs/2608.13343v1)** | 2026-08-13 |  |
 | **[From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction](https://arxiv.org/abs/2604.27906v3)** | 2026-08-13 | 33 pages, 7 figures |
@@ -73,12 +79,6 @@ labels: documentation
 | **[Towards Sparsely Annotated Open-World Object Detection](https://arxiv.org/abs/2608.12714v1)** | 2026-08-13 |  |
 | **[Class Geometry as Supervision for Sample-Efficient Open-World Detection](https://arxiv.org/abs/2608.12698v1)** | 2026-08-13 | <details><summary>Under...</summary><p>Under review. 12 Pages, 5 figures, 4 tables</p></details> |
 | **[Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs](https://arxiv.org/abs/2608.12179v1)** | 2026-08-12 | ECCV 2026 |
-| **[EGM-Det: Entropy-Guided Multimodal Adaptive Fusion for UAV RGB-IR Object Detection](https://arxiv.org/abs/2608.11685v1)** | 2026-08-12 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 6 tables</p></details> |
-| **[Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming](https://arxiv.org/abs/2608.11645v1)** | 2026-08-12 |  |
-| **[ProtoHGF-Net: Prototype HyperGraph Fusion with Intra-modal Calibration for RGBT Object Detection](https://arxiv.org/abs/2608.11595v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
-| **[Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection](https://arxiv.org/abs/2608.11135v1)** | 2026-08-11 |  |
-| **[A Comparative Evaluation of Deep Learning Object Detection Models on a Real-World Multi-Plant Dataset from Africa](https://arxiv.org/abs/2608.11053v1)** | 2026-08-11 |  |
-| **[Putting Registers to Work: Task Registers for Token Pruning in Vision Transformers](https://arxiv.org/abs/2608.10989v1)** | 2026-08-11 | <details><summary>24 pa...</summary><p>24 pages, 9 figures. Includes supplementary material</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

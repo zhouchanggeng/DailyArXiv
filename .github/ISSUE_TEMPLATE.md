@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparative Study of Out-of-the-Box Technology for Automatic Target Detection and Recognition](https://arxiv.org/abs/2608.17917v1)** | 2026-08-18 | <details><summary>This ...</summary><p>This paper was originally presented at the International Conference on Military Communication and Information Systems, organized by the Information Systems Technology Scientific and Technical Committee, IST-224-RSY - the ICMCIS, held in Bath, United Kingdom, 12-13 May 2026</p></details> |
+| **[Two-Stage Teacher-Student Reliable Prior Learning for Robust Underwater Image Enhancement](https://arxiv.org/abs/2608.00137v2)** | 2026-08-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, and 6 tables</p></details> |
+| **[S$^3$AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection](https://arxiv.org/abs/2608.17475v1)** | 2026-08-18 |  |
+| **[Continuity-Driven Representation Learning for Industrial Defect Detection](https://arxiv.org/abs/2608.17362v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at the British Machine Vision Conference (BMVC) 2026</p></details> |
+| **[The 10th AI City Challenge](https://arxiv.org/abs/2608.17044v1)** | 2026-08-17 | <details><summary>Summa...</summary><p>Summary of the 10th AI City Challenge Workshop in conjunction with ECCV 2026</p></details> |
 | **[Binarized High-Efficiency RAW Video Restoration and Beyond](https://arxiv.org/abs/2608.16756v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted by TPAMI2026</p></details> |
 | **[DRAFE: Domain-Robust Asymmetric Fusion of Heterogeneous Detection Transformers for Cross-City Fine-Grained Traffic Object Detection](https://arxiv.org/abs/2608.16632v1)** | 2026-08-17 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 6 tables. Code available at: https://github.com/dyagbobli/VisionOps-Trainer</p></details> |
 | **[Ultra: Unsupervised Cross-Task Optimization for Reliable Restoration Segmentation Collaboration under Adverse Weather](https://arxiv.org/abs/2608.16589v1)** | 2026-08-17 |  |
@@ -74,15 +79,11 @@ labels: documentation
 | **[Boundary-Aligned Contribution Routing for Robust Optical--SAR Object Detection](https://arxiv.org/abs/2608.15261v1)** | 2026-08-15 |  |
 | **[G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](https://arxiv.org/abs/2607.19942v3)** | 2026-08-15 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026 (Supplementary Material Included)</p></details> |
 | **[PIEDet: Prototype-Driven Intrinsically Explainable Object Detection](https://arxiv.org/abs/2604.13981v2)** | 2026-08-15 | 14 pages, 6 figures |
-| **[GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure](https://arxiv.org/abs/2608.14428v1)** | 2026-08-14 | Accepted by ECCV2026 |
-| **[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
-| **[MAGneT-3D: Monocular and Domain-Generalizable Temporal 3D Detection](https://arxiv.org/abs/2608.14282v1)** | 2026-08-14 | <details><summary>To ap...</summary><p>To appear at ECCVW 2026 (DriveX workshop; Oral paper). Johannes Meier and Mohamed Kotb - both authors contributed equally. Project page: https://mo-sameh.github.io/MAGneT-3D-Project-Page/</p></details> |
-| **[LightTeaNet: A Weakly Supervised Lightweight CNN for Multi-Label Tea Leaf Disease Detection and Localization](https://arxiv.org/abs/2608.14178v1)** | 2026-08-14 | <details><summary>24 pa...</summary><p>24 pages, 11 figures, 5 tables</p></details> |
-| **[PISA: A Pseudo-Individual Source-Domain Feature Adaptation Framework for Test-Time Open-Vocabulary Object Detection](https://arxiv.org/abs/2608.14142v1)** | 2026-08-14 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S$^3$AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection](https://arxiv.org/abs/2608.17475v1)** | 2026-08-18 |  |
 | **[SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation](https://arxiv.org/abs/2608.16110v1)** | 2026-08-17 |  |
 | **[EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass](https://arxiv.org/abs/2608.02284v1)** | 2026-08-03 |  |
 | **[SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting](https://arxiv.org/abs/2607.29033v1)** | 2026-07-31 | Accepted to ECCV2026 |
@@ -97,5 +98,4 @@ labels: documentation
 | **[GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting](https://arxiv.org/abs/2607.11732v1)** | 2026-07-13 |  |
 | **[IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment](https://arxiv.org/abs/2603.27250v2)** | 2026-07-11 |  |
 | **[Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing](https://arxiv.org/abs/2607.09583v1)** | 2026-07-10 | 14 pages, 4 figures |
-| **[Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt](https://arxiv.org/abs/2510.15849v3)** | 2026-07-10 |  |
 

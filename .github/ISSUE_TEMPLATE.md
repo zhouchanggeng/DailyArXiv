@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Frozen DINO Localizes Image Edits Without a Localizer](https://arxiv.org/abs/2608.18968v1)** | 2026-08-19 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables</p></details> |
 | **[DINO-A: Adapting Self-Distillation Vision Transformers to General Audio Representation Learning](https://arxiv.org/abs/2608.10659v1)** | 2026-08-11 |  |
 | **[AdaDINO: Pair-Aware In-Backbone Adaptation of Frozen DINO for Efficient Remote Sensing Change Detection](https://arxiv.org/abs/2608.07982v1)** | 2026-08-08 |  |
 | **[DINO-3DRA: Leveraging 2D Foundation Model Semantics for 3D Cerebral Aneurysm Segmentation](https://arxiv.org/abs/2608.07767v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909v2)** | 2026-05-08 | MICCAI 2026 |
 | **[DINO-MVR: Multi-View Readout of Frozen DINOv3 for Annotation-Efficient Medical Segmentation](https://arxiv.org/abs/2605.07221v1)** | 2026-05-08 |  |
 | **[DINO Soars: DINOv3 for Open-Vocabulary Semantic Segmentation of Remote Sensing Imagery](https://arxiv.org/abs/2605.03175v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at 2026 CVPR MORSE Workshop</p></details> |
-| **[Dino-NestedUNet: Unlocking Foundation Vision Encoders for Pathology Tumor Bulk Segmentation via Dense Decoding](https://arxiv.org/abs/2605.00894v1)** | 2026-04-27 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v3)** | 2026-08-19 |  |
 | **[Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching](https://arxiv.org/abs/2608.16791v1)** | 2026-08-17 |  |
 | **[SCOUT: Semantic Concept Discovery for Open-Vocabulary Editing of face Recognition Templates](https://arxiv.org/abs/2608.16251v1)** | 2026-08-17 |  |
 | **[SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation](https://arxiv.org/abs/2606.00380v2)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at WIPE-OUT 2026, the 2nd Workshop on Machine Unlearning and Privacy Preservation, co-located with ECML-PKDD 2026, Naples, Italy. Camera-ready version. 16 pages. Code available at https://github.com/pedroandreou/supreme-unlearning</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Casting the Net! Revisiting MasterFace Impersonation Attacks](https://arxiv.org/abs/2608.06952v1)** | 2026-08-07 | <details><summary>To ap...</summary><p>To appear at ACM CCS 2026; Seunghun Paik and Sunpill Kim contributed equally</p></details> |
 | **[Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap](https://arxiv.org/abs/2608.06580v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026, Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data</p></details> |
 | **[IDperturb: Enhancing Variation in Synthetic Face Generation via Angular Perturbation](https://arxiv.org/abs/2602.18831v2)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Privacy-Preserving Action Recognition: Taxonomy, Methods, and Privacy-Utility Trade-offs](https://arxiv.org/abs/2608.04501v1)** | 2026-08-05 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift](https://arxiv.org/abs/2608.19088v1)** | 2026-08-19 |  |
+| **[SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection](https://arxiv.org/abs/2608.19080v1)** | 2026-08-19 |  |
+| **[SED-FOD: Scattering-Aware Expert Decomposition for Few-Shot Cross-Sensor SAR Object Detection](https://arxiv.org/abs/2608.18755v1)** | 2026-08-19 | <details><summary>Submi...</summary><p>Submitted to IEEE JSTARS. 13 pages, 7 figures</p></details> |
+| **[CGMap: A Geospatially Aware Deep Learning Framework for Crop Gap Mapping Using UAV](https://arxiv.org/abs/2607.18779v2)** | 2026-08-19 | 15 pages |
 | **[Comparative Study of Out-of-the-Box Technology for Automatic Target Detection and Recognition](https://arxiv.org/abs/2608.17917v1)** | 2026-08-18 | <details><summary>This ...</summary><p>This paper was originally presented at the International Conference on Military Communication and Information Systems, organized by the Information Systems Technology Scientific and Technical Committee, IST-224-RSY - the ICMCIS, held in Bath, United Kingdom, 12-13 May 2026</p></details> |
 | **[Two-Stage Teacher-Student Reliable Prior Learning for Robust Underwater Image Enhancement](https://arxiv.org/abs/2608.00137v2)** | 2026-08-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, and 6 tables</p></details> |
 | **[S$^3$AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection](https://arxiv.org/abs/2608.17475v1)** | 2026-08-18 |  |
@@ -75,10 +79,6 @@ labels: documentation
 | **[Sterilizable Scene Graph Generation for Operating Rooms](https://arxiv.org/abs/2608.16469v1)** | 2026-08-17 |  |
 | **[AdROD: HyperNetwork-based Adversarially Robust Object Detection for Autonomous Driving](https://arxiv.org/abs/2608.16031v1)** | 2026-08-17 |  |
 | **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v4)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026. The Objects365 pre-training results have also been updated. Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter</p></details> |
-| **[Degraded Infrared Small Object Detection via Degradation-Adapted Physics-Guided Restoration](https://arxiv.org/abs/2608.09311v2)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accept by ICIG2026 (Oral)</p></details> |
-| **[Boundary-Aligned Contribution Routing for Robust Optical--SAR Object Detection](https://arxiv.org/abs/2608.15261v1)** | 2026-08-15 |  |
-| **[G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](https://arxiv.org/abs/2607.19942v3)** | 2026-08-15 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026 (Supplementary Material Included)</p></details> |
-| **[PIEDet: Prototype-Driven Intrinsically Explainable Object Detection](https://arxiv.org/abs/2604.13981v2)** | 2026-08-15 | 14 pages, 6 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

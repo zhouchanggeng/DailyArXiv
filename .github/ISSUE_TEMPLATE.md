@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion](https://arxiv.org/abs/2608.02092v2)** | 2026-08-20 |  |
+| **[Object-aware graph matching network for cross-domain remote sensing image localization](https://arxiv.org/abs/2511.02489v2)** | 2026-08-20 |  |
+| **[YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720v4)** | 2026-08-20 | <details><summary>Sorry...</summary><p>Sorry, we need to evaluate and revise the paper more scientifically</p></details> |
+| **[Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training](https://arxiv.org/abs/2608.19973v1)** | 2026-08-20 | Accepted by ECCV26 |
+| **[ReynoldsFlow: Physics-Inspired Spatiotemporal Flow Representation for Video Understanding](https://arxiv.org/abs/2503.04500v3)** | 2026-08-20 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 4 tables</p></details> |
+| **[CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios](https://arxiv.org/abs/2608.19380v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 Workshop DriveX</p></details> |
+| **[YolovN-CBi: A Lightweight and Efficient Architecture for Real-Time Detection of Small UAVs](https://arxiv.org/abs/2512.18046v2)** | 2026-08-19 | <details><summary>This ...</summary><p>This manuscript has been submitted to the journal Computer Optics and is currently under review</p></details> |
 | **[Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift](https://arxiv.org/abs/2608.19088v1)** | 2026-08-19 |  |
 | **[SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection](https://arxiv.org/abs/2608.19080v1)** | 2026-08-19 |  |
 | **[SED-FOD: Scattering-Aware Expert Decomposition for Few-Shot Cross-Sensor SAR Object Detection](https://arxiv.org/abs/2608.18755v1)** | 2026-08-19 | <details><summary>Submi...</summary><p>Submitted to IEEE JSTARS. 13 pages, 7 figures</p></details> |
@@ -72,13 +79,6 @@ labels: documentation
 | **[Two-Stage Teacher-Student Reliable Prior Learning for Robust Underwater Image Enhancement](https://arxiv.org/abs/2608.00137v2)** | 2026-08-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, and 6 tables</p></details> |
 | **[S$^3$AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection](https://arxiv.org/abs/2608.17475v1)** | 2026-08-18 |  |
 | **[Continuity-Driven Representation Learning for Industrial Defect Detection](https://arxiv.org/abs/2608.17362v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at the British Machine Vision Conference (BMVC) 2026</p></details> |
-| **[The 10th AI City Challenge](https://arxiv.org/abs/2608.17044v1)** | 2026-08-17 | <details><summary>Summa...</summary><p>Summary of the 10th AI City Challenge Workshop in conjunction with ECCV 2026</p></details> |
-| **[Binarized High-Efficiency RAW Video Restoration and Beyond](https://arxiv.org/abs/2608.16756v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted by TPAMI2026</p></details> |
-| **[DRAFE: Domain-Robust Asymmetric Fusion of Heterogeneous Detection Transformers for Cross-City Fine-Grained Traffic Object Detection](https://arxiv.org/abs/2608.16632v1)** | 2026-08-17 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 6 tables. Code available at: https://github.com/dyagbobli/VisionOps-Trainer</p></details> |
-| **[Ultra: Unsupervised Cross-Task Optimization for Reliable Restoration Segmentation Collaboration under Adverse Weather](https://arxiv.org/abs/2608.16589v1)** | 2026-08-17 |  |
-| **[Sterilizable Scene Graph Generation for Operating Rooms](https://arxiv.org/abs/2608.16469v1)** | 2026-08-17 |  |
-| **[AdROD: HyperNetwork-based Adversarially Robust Object Detection for Autonomous Driving](https://arxiv.org/abs/2608.16031v1)** | 2026-08-17 |  |
-| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v4)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026. The Objects365 pre-training results have also been updated. Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

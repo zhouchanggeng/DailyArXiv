@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2026
+title: Latest 15 Papers - August 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment](https://arxiv.org/abs/2608.21486v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshops</p></details> |
 | **[Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds](https://arxiv.org/abs/2608.20884v1)** | 2026-08-21 |  |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v3)** | 2026-08-19 |  |
 | **[Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching](https://arxiv.org/abs/2608.16791v1)** | 2026-08-17 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Noise to Meaning: Meaningful Secret Sharing with Tamper Detection for Facial Recognition](https://arxiv.org/abs/2608.08924v1)** | 2026-08-09 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2026</p></details> |
 | **[Compatibility of Face Embeddings Across Deep Neural Networks](https://arxiv.org/abs/2604.07282v2)** | 2026-08-09 |  |
 | **[Casting the Net! Revisiting MasterFace Impersonation Attacks](https://arxiv.org/abs/2608.06952v1)** | 2026-08-07 | <details><summary>To ap...</summary><p>To appear at ACM CCS 2026; Seunghun Paik and Sunpill Kim contributed equally</p></details> |
-| **[Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap](https://arxiv.org/abs/2608.06580v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB) 2026, Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Multimodal Fusion Detection through Spatial Mask and Channel Competition](https://arxiv.org/abs/2608.02092v3)** | 2026-08-24 |  |
+| **[Macro-Action Topological Navigation under Noisy Localization using Reinforcement Learning](https://arxiv.org/abs/2608.23055v1)** | 2026-08-24 | <details><summary>15 pa...</summary><p>15 pages, Accepted at the Artificial Intelligence Symposium (AIS) 2026</p></details> |
+| **[FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small Object Detection](https://arxiv.org/abs/2607.05176v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://arxiv.org/abs/2608.22665v1)** | 2026-08-24 |  |
+| **[DiD It in 87 Minutes: A Label-Free Softmax-to-Linear Adaptation of Vision Transformers for Object Detection](https://arxiv.org/abs/2608.22368v1)** | 2026-08-23 |  |
+| **[Spiking Neural Networks for Energy-Efficient Object Detection in Forward-Looking Sonar Imagery](https://arxiv.org/abs/2608.22072v1)** | 2026-08-22 |  |
+| **[Learning Spatially Adaptive Structural Coordination for Underwater Salient Object Detection](https://arxiv.org/abs/2605.15535v2)** | 2026-08-22 | 15 pages |
+| **[C$^2$Path: Class-Conditional Pathway Decoupling for Vision-Language Incremental Object Detection](https://arxiv.org/abs/2608.21937v1)** | 2026-08-22 |  |
 | **[On the Transferability of Agricultural Weed Detection Under Cross-Field Distribution Shift](https://arxiv.org/abs/2608.21254v1)** | 2026-08-21 |  |
 | **[Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds](https://arxiv.org/abs/2608.21170v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Findings)</p></details> |
 | **[A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration](https://arxiv.org/abs/2608.21099v1)** | 2026-08-21 |  |
@@ -71,14 +79,6 @@ labels: documentation
 | **[PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration](https://arxiv.org/abs/2608.21031v1)** | 2026-08-21 |  |
 | **[SuppreSensing: Expert-Guided Feature Recalibration and Discrepancy Augmentation for Multimodal Object Detection](https://arxiv.org/abs/2608.20944v1)** | 2026-08-21 | 10 pages |
 | **[Semantically Compatible Knowledge Distillation for Cross-Domain Object Detection with Vision Foundation Models](https://arxiv.org/abs/2608.20916v1)** | 2026-08-21 |  |
-| **[Multi-Modal Traffic Sign Detection with Semantic Attributes for Autonomous Driving](https://arxiv.org/abs/2608.20874v1)** | 2026-08-21 |  |
-| **[Privacy-Preserving Object Detection for Vision Transformer-Based Models](https://arxiv.org/abs/2608.20712v1)** | 2026-08-21 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, accepted for GCCE2026</p></details> |
-| **[Vision Foundation Model Driven Foreground-Aware Pseudo-LiDAR Generation for Monocular 3D Object Detection](https://arxiv.org/abs/2404.09431v3)** | 2026-08-21 | 12 pages, 4 figures |
-| **[Cloak of Invisibility: Real-Time Privacy-Preserving Volumetric Video Streaming](https://arxiv.org/abs/2608.11645v2)** | 2026-08-21 |  |
-| **[A Dataset-Centric Benchmark of Deep Learning Methods for Grape Leaf Disease Classification and Detection](https://arxiv.org/abs/2608.20608v1)** | 2026-08-20 |  |
-| **[Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion](https://arxiv.org/abs/2608.02092v2)** | 2026-08-20 |  |
-| **[Object-aware graph matching network for cross-domain remote sensing image localization](https://arxiv.org/abs/2511.02489v2)** | 2026-08-20 |  |
-| **[YOLOv14: Adaptive Real-Time Object Detection for Diverse Imaging Conditions](https://arxiv.org/abs/2608.04720v4)** | 2026-08-20 | <details><summary>Sorry...</summary><p>Sorry, we need to evaluate and revise the paper more scientifically</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lossy Event Compression: From Event Stream Distortion to Task Performance](https://arxiv.org/abs/2608.28429v1)** | 2026-08-28 |  |
+| **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
+| **[Spatial-Semantic Reasoning using Large Language Models for Efficient UAV Search Operations](https://arxiv.org/abs/2608.28270v1)** | 2026-08-28 | <details><summary>8 pag...</summary><p>8 pages, preprint, Published in: 2025 European Conference on Mobile Robots (ECMR), DOI: 10.1109/ECMR65884.2025.11163229</p></details> |
+| **[HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone](https://arxiv.org/abs/2605.17286v3)** | 2026-08-28 |  |
+| **[WALDO: One-Shot Exemplar-Conditioned Object Detection in Cluttered Scenes](https://arxiv.org/abs/2608.28216v1)** | 2026-08-28 |  |
+| **[PhenoIntel: A Lifecycle-Aligned Multi-Agent Web Application for Verified, Accessible Plant Phenotype Analysis](https://arxiv.org/abs/2608.27999v1)** | 2026-08-28 | <details><summary>32 pa...</summary><p>32 pages, 11 figures, 9 tables. Submitted to Engineering Applications of Artificial Intelligence (Elsevier)</p></details> |
+| **[uScenes: A Multimodal RGB and 3D Sonar Dataset for Underwater Robot Perception](https://arxiv.org/abs/2608.27795v1)** | 2026-08-28 |  |
+| **[Deflickering Vision-Based Occupancy Networks through Lightweight Spatio-Temporal Correlation](https://arxiv.org/abs/2502.15438v5)** | 2026-08-28 |  |
 | **[DOD-SA: Infrared-Visible Decoupled Object Detection with Single-Modality Annotations](https://arxiv.org/abs/2508.10445v2)** | 2026-08-27 | 12 pages, 8 figures |
 | **[TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection](https://arxiv.org/abs/2608.27282v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to the 2023 IEEE Intelligent Vehicles Symposium (IV 2023)</p></details> |
 | **[CODE: Cross-Modal Calibration and Dynamic Suppression for Open World Object Detection](https://arxiv.org/abs/2608.27214v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026 (MM '26)</p></details> |
@@ -71,18 +79,12 @@ labels: documentation
 | **[UFO-DETR: Frequency-Guided End-to-End Detector for UAV Tiny Objects](https://arxiv.org/abs/2602.22712v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at CSCWD 2026</p></details> |
 | **[pychop: Emulating Low-Precision Arithmetic in Numerical Methods and Neural Networks](https://arxiv.org/abs/2504.07835v7)** | 2026-08-26 |  |
 | **[Low-Latency Event-Based Object Detection with Spatially-Sparse Linear Attention](https://arxiv.org/abs/2603.06228v4)** | 2026-08-26 | <details><summary>Europ...</summary><p>European Conference on Computer Vision (ECCV) 2026</p></details> |
-| **[Socialized Detector Learning: Trajectory-Guided and Reciprocal Distillation for Heterogeneous Object Detectors](https://arxiv.org/abs/2608.25836v1)** | 2026-08-26 | <details><summary>12 pa...</summary><p>12 pages; supplementary material included</p></details> |
-| **[TDFNet: Tri-projection Deformable Fusion Network for Panoramic Salient Object Detection](https://arxiv.org/abs/2608.25808v1)** | 2026-08-26 |  |
-| **[MIMONet: Multi-scale Input and Multi-scale Output Network for Salient Object Detection](https://arxiv.org/abs/2608.25733v1)** | 2026-08-26 |  |
-| **[Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques](https://arxiv.org/abs/2312.10089v2)** | 2026-08-26 | 7 pages, 2 figures |
-| **[RSFusionDet: Underwater RGB-Sonar Multimodal Object Detection](https://arxiv.org/abs/2608.25367v1)** | 2026-08-26 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, 18 tables</p></details> |
-| **[Model-Agnostic Open-Set Air-to-Air Visual Object Detection for Reliable UAV Perception](https://arxiv.org/abs/2509.09297v2)** | 2026-08-25 | <details><summary>This ...</summary><p>This paper has been withdrawn as it has been merged into arXiv:2511.15343</p></details> |
-| **[Screening Autism Spectrum Disorder in children using Deep Learning Approach : Evaluating the classification model of YOLOv26s by comparing with other models](https://arxiv.org/abs/2306.14300v2)** | 2026-08-25 | <details><summary>7 pag...</summary><p>7 pages,5 figures, 2 tables</p></details> |
-| **[Example-based Robust Abnormality Detection with Minimal Annotations using Exemplar Med-DETR](https://arxiv.org/abs/2608.24281v1)** | 2026-08-25 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](https://arxiv.org/abs/2506.04970v2)** | 2026-08-28 |  |
+| **[RegCL: Compact Continual SAM Adaptation for Visual Grounding in Multi-Sensorial Media](https://arxiv.org/abs/2507.12297v2)** | 2026-08-28 |  |
 | **[SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation](https://arxiv.org/abs/2608.20754v2)** | 2026-08-26 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
 | **[SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation](https://arxiv.org/abs/2412.12660v2)** | 2026-08-26 | <details><summary>17 pa...</summary><p>17 pages, 11 figures. Under review</p></details> |
 | **[Hierarchical Prototype-Memory Adaptation of SAM for Surgical Instrument Segmentation](https://arxiv.org/abs/2608.24541v1)** | 2026-08-25 |  |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement](https://arxiv.org/abs/2607.21881v1)** | 2026-07-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 3 tables. Preprint submitted to Taylor & Francis. Code: https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM Dataset: https://doi.org/10.5281/zenodo.21519912</p></details> |
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v2)** | 2026-07-22 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
 | **[Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion](https://arxiv.org/abs/2607.15041v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, accepted by IEEE TMM</p></details> |
-| **[XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation](https://arxiv.org/abs/2607.14287v1)** | 2026-07-15 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 3 tables. Accepted to the IAPR Workshop on Machine Vision for Industrial Inspection (MVI2), in conjunction with ICPR 2026. Code: https://github.com/Mahedi-61/XCT-SAM</p></details> |
-| **[When Audio Separation Hurts Zero-Shot ASR: Evaluating SAM-Audio with Whisper on Bengali and English Speech](https://arxiv.org/abs/2603.04710v2)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. IEEE 3rd International Conference on Computing, Applications and Systems (COMPAS 2026)</p></details> |
 

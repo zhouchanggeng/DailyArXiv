@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2026
+title: Latest 15 Papers - September 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set](https://arxiv.org/abs/2609.01141v1)** | 2026-09-01 |  |
+| **[Low-Quality Face Recognition using Center Aligned Representations and Local Margin Constraints](https://arxiv.org/abs/2609.01014v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accept at IEEE/IAPR IJCB 2026</p></details> |
+| **[Unmasking Face Embeddings: Reading, Rendering and Naming with Foundation Models](https://arxiv.org/abs/2609.00411v1)** | 2026-08-31 |  |
 | **[Identity-Conditioned Latent Consistency Distillation for Face Synthesis](https://arxiv.org/abs/2608.31053v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 Conference on Graphics, Patterns and Images (SIBGRAPI)</p></details> |
 | **[UFPR-PEs: A Brazilian Face Recognition Benchmark with Self-Declared Race/Color Labels](https://arxiv.org/abs/2608.30688v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 Conference on Graphics, Patterns and Images (SIBGRAPI)</p></details> |
 | **[Foundation and Multimodal Large Language Models for Face Presentation and Morph Attack Detection](https://arxiv.org/abs/2608.29802v1)** | 2026-08-30 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v3)** | 2026-08-19 |  |
 | **[Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching](https://arxiv.org/abs/2608.16791v1)** | 2026-08-17 |  |
 | **[SCOUT: Semantic Concept Discovery for Open-Vocabulary Editing of face Recognition Templates](https://arxiv.org/abs/2608.16251v1)** | 2026-08-17 |  |
-| **[SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation](https://arxiv.org/abs/2606.00380v2)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at WIPE-OUT 2026, the 2nd Workshop on Machine Unlearning and Privacy Preservation, co-located with ECML-PKDD 2026, Naples, Italy. Camera-ready version. 16 pages. Code available at https://github.com/pedroandreou/supreme-unlearning</p></details> |
-| **[Partial FC: Training 10 Million Identities on a Single Machine](https://arxiv.org/abs/2010.05222v4)** | 2026-08-15 | 8 pages, 9 figures |
-| **[XSA-MAD: Cross-modal Semantic Alignment for Morphing Attack Detection](https://arxiv.org/abs/2608.13861v1)** | 2026-08-14 | accepted to ICIP2026 |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras](https://arxiv.org/abs/2510.26614v2)** | 2026-09-01 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS), 2026</p></details> |
+| **[Exploiting Stability-Plasticity Asymmetry in Pretrained Detectors for Incremental Object Detection](https://arxiv.org/abs/2504.10214v2)** | 2026-09-01 |  |
+| **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v2)** | 2026-09-01 |  |
+| **[RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing](https://arxiv.org/abs/2609.00814v1)** | 2026-09-01 |  |
+| **[Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://arxiv.org/abs/2609.00111v1)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/QwenLM/Qwen-Drive-1.0</p></details> |
 | **[UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion](https://arxiv.org/abs/2608.21786v2)** | 2026-08-31 |  |
 | **[Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821v1)** | 2026-08-31 | <details><summary>Proje...</summary><p>Project Page: https://lucida-r2s.github.io/</p></details> |
 | **[A Composition-Aware Pretraining Framework for Geospatial Foundation Models](https://arxiv.org/abs/2608.30817v1)** | 2026-08-31 |  |
@@ -74,11 +79,6 @@ labels: documentation
 | **[Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM](https://arxiv.org/abs/2509.06422v2)** | 2026-08-31 |  |
 | **[Real-Time Scene-Adaptive Tone Mapping for High-Dynamic Range Object Detection](https://arxiv.org/abs/2608.30400v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
-| **[Seeing the Unseen: Camouflaged Object Detection Beyond the Visible Spectrum](https://arxiv.org/abs/2608.30355v1)** | 2026-08-31 |  |
-| **[EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection](https://arxiv.org/abs/2603.11521v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[A Lightweight Phenology-Aware YOLOv5 Framework for Tomato Growth Stage Detection in Resource-Constrained Bhutanese Greenhouse Environments](https://arxiv.org/abs/2608.30088v1)** | 2026-08-30 |  |
-| **[SynCrash: A Multi-Stage Pipeline for Zero-Shot Accident Detection and Localization in Traffic Surveillance Video](https://arxiv.org/abs/2608.29759v1)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted at the CVPR 2026 AUTOPILOT Workshop (non-archival)</p></details> |
-| **[SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images](https://arxiv.org/abs/2608.29626v1)** | 2026-08-30 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

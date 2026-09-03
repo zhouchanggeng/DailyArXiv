@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 03, 2026
+title: Latest 15 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Attract and Repel: Dual Quality Margin Learning for Face Recognition (DQM-Face)](https://arxiv.org/abs/2609.02644v1)** | 2026-09-02 | <details><summary>ECCV ...</summary><p>ECCV 2026. Code: https://github.com/RAIB-group/DQM-Face</p></details> |
 | **[Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set](https://arxiv.org/abs/2609.01141v1)** | 2026-09-01 |  |
 | **[Low-Quality Face Recognition using Center Aligned Representations and Local Margin Constraints](https://arxiv.org/abs/2609.01014v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accept at IEEE/IAPR IJCB 2026</p></details> |
 | **[Unmasking Face Embeddings: Reading, Rendering and Naming with Foundation Models](https://arxiv.org/abs/2609.00411v1)** | 2026-08-31 |  |
@@ -40,18 +41,17 @@ labels: documentation
 | **[Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds](https://arxiv.org/abs/2608.20884v1)** | 2026-08-21 |  |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v3)** | 2026-08-19 |  |
 | **[Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching](https://arxiv.org/abs/2608.16791v1)** | 2026-08-17 |  |
-| **[SCOUT: Semantic Concept Discovery for Open-Vocabulary Editing of face Recognition Templates](https://arxiv.org/abs/2608.16251v1)** | 2026-08-17 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoPulse: Neonatal heart rate and peripheral capillary oxygen saturation (SpO2) estimation from contact free video](https://arxiv.org/abs/2602.23771v2)** | 2026-09-02 | <details><summary>Revis...</summary><p>Revised manuscript with updated methodology, figures, evaluation details, references, ethics and data availability statements. The manuscript has been aligned with the version being prepared for submission to an IEEE Journal</p></details> |
 | **[Anisotropic Green Coordinates](https://arxiv.org/abs/2512.20386v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH Asia 2026 Journal Track</p></details> |
 | **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v2)** | 2026-08-10 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
 | **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
 | **[BIDO: A Biometric Identity Online Authentication Framework](https://arxiv.org/abs/2605.16908v1)** | 2026-05-16 |  |
 | **[MVB-Grasp: Minimum-Volume-Box Filtering of Diffusion-based Grasps for Frontal Manipulation](https://arxiv.org/abs/2605.09672v1)** | 2026-05-10 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, accepted to IJCNN 2026</p></details> |
 | **[A cross-modal network for facial expression recognition](https://arxiv.org/abs/2605.04439v1)** | 2026-05-06 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Image Processing 2026</p></details> |
-| **[VideoPulse: Neonatal heart rate and peripheral capillary oxygen saturation (SpO2) estimation from contact free video](https://arxiv.org/abs/2602.23771v1)** | 2026-02-27 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables. Preprint. Intended for submission to an IEEE Journal</p></details> |
 | **[Hierarchical MLANet: Multi-level Attention for 3D Face Reconstruction From Single Images](https://arxiv.org/abs/2509.10024v3)** | 2025-09-28 | <details><summary>This ...</summary><p>This work was completed during danling's MPhil studies at the University of Manchester</p></details> |
 | **[CEM-Net: Cross-Emotion Memory Network for Emotional Talking Face Generation](https://arxiv.org/abs/2508.12368v1)** | 2025-08-17 |  |
 | **[Backdoor Attacks on Deep Learning Face Detection](https://arxiv.org/abs/2508.00620v1)** | 2025-08-01 |  |
@@ -64,6 +64,13 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation](https://arxiv.org/abs/2609.02560v1)** | 2026-09-02 |  |
+| **[Information Density Imbalance in Visual Object Detection](https://arxiv.org/abs/2609.02369v1)** | 2026-09-02 | 12 pages, 6 figures |
+| **[Domain shift-robust object detection with GenAI image editing](https://arxiv.org/abs/2609.02299v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
+| **[If It Moves, Radar Knows: A Physics-Aware Radar Transformer for Class-Agnostic Moving-Object Detection](https://arxiv.org/abs/2609.02289v1)** | 2026-09-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables, submitted to 2027 ICRA</p></details> |
+| **[Discriminative and Consistent Representation Distillation](https://arxiv.org/abs/2407.11802v8)** | 2026-09-02 | <details><summary>ECCV ...</summary><p>ECCV 2026 Workshop MELEX</p></details> |
+| **[CoViT: Instance-Correspondence Contrastive Learning for Vision Transformer](https://arxiv.org/abs/2609.01787v1)** | 2026-09-01 |  |
+| **[UAV Thermal Imagery for Inert Ordnance Screening: Multi Campaign Dataset Development,Object Detection, and Practical Recommendations](https://arxiv.org/abs/2609.01738v1)** | 2026-09-01 | <details><summary>Abstr...</summary><p>Abstract edited to fit format</p></details> |
 | **[Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras](https://arxiv.org/abs/2510.26614v2)** | 2026-09-01 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS), 2026</p></details> |
 | **[Exploiting Stability-Plasticity Asymmetry in Pretrained Detectors for Incremental Object Detection](https://arxiv.org/abs/2504.10214v2)** | 2026-09-01 |  |
 | **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v2)** | 2026-09-01 |  |
@@ -72,13 +79,6 @@ labels: documentation
 | **[UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion](https://arxiv.org/abs/2608.21786v2)** | 2026-08-31 |  |
 | **[Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821v1)** | 2026-08-31 | <details><summary>Proje...</summary><p>Project Page: https://lucida-r2s.github.io/</p></details> |
 | **[A Composition-Aware Pretraining Framework for Geospatial Foundation Models](https://arxiv.org/abs/2608.30817v1)** | 2026-08-31 |  |
-| **[RailGen: Improving Railway Intrusion Detection via Agent-Guided Small-Scale Foreign Object Generation](https://arxiv.org/abs/2608.30727v1)** | 2026-08-31 |  |
-| **[RailSyn: Diagnosis-Guided Image Generation for Traceable Data Completion in Railway Foreign Object Detection](https://arxiv.org/abs/2608.30709v1)** | 2026-08-31 |  |
-| **[Geometry-Grounded Unified 3D Perception for Autonomous Driving](https://arxiv.org/abs/2608.13147v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by BMVC 2026</p></details> |
-| **[Making the Discrete Continuous: Synthetic RAW Augmentations for Fine-Grained Evaluation of Person Detection Performance in Low Light](https://arxiv.org/abs/2605.22455v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted non-archival paper at the CVPR 2026 AUTOPILOT Workshop (Autonomous Understanding Through Open-world Perception and Integrated Language Models for On-road Tasks)</p></details> |
-| **[Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM](https://arxiv.org/abs/2509.06422v2)** | 2026-08-31 |  |
-| **[Real-Time Scene-Adaptive Tone Mapping for High-Dynamic Range Object Detection](https://arxiv.org/abs/2608.30400v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

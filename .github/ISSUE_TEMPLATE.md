@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](https://arxiv.org/abs/2506.10226v3)** | 2026-09-03 | ICML 2026 |
 | **[Learning to Attract and Repel: Dual Quality Margin Learning for Face Recognition (DQM-Face)](https://arxiv.org/abs/2609.02644v1)** | 2026-09-02 | <details><summary>ECCV ...</summary><p>ECCV 2026. Code: https://github.com/RAIB-group/DQM-Face</p></details> |
 | **[Revisiting Face Recognition for Monozygotic Twins: The Celeb Twins Test Set](https://arxiv.org/abs/2609.01141v1)** | 2026-09-01 |  |
 | **[Low-Quality Face Recognition using Center Aligned Representations and Local Margin Constraints](https://arxiv.org/abs/2609.01014v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accept at IEEE/IAPR IJCB 2026</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment](https://arxiv.org/abs/2608.21486v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshops</p></details> |
 | **[Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds](https://arxiv.org/abs/2608.20884v1)** | 2026-08-21 |  |
 | **[RULER: Representation-Level Verification of Machine Unlearning](https://arxiv.org/abs/2605.27569v3)** | 2026-08-19 |  |
-| **[Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching](https://arxiv.org/abs/2608.16791v1)** | 2026-08-17 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A hybrid pipeline for dynamic ontology-based semantic mapping](https://arxiv.org/abs/2609.03891v1)** | 2026-09-03 |  |
+| **[Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language](https://arxiv.org/abs/2609.03677v1)** | 2026-09-03 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, submitted to the IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS), our implementation and benchmark dataset are available at https://github.com/KIT-MRT/AD-Diff</p></details> |
+| **[Residual Optimal Transport-Based Experts Collaboration Towards Modality-Aware Infrared-Visible Object Detection](https://arxiv.org/abs/2609.03516v1)** | 2026-09-03 |  |
+| **[When Depth Hurts: Reliability-Aware Geometry Distillation for Depth-Free RGB-D Salient Object Detection](https://arxiv.org/abs/2609.03378v1)** | 2026-09-03 |  |
+| **[GramLoop: Training-Free Gram-Gated Replay for Robust Dense Prediction](https://arxiv.org/abs/2608.29113v2)** | 2026-09-03 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/cheyan9/GramLoop</p></details> |
 | **[Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation](https://arxiv.org/abs/2609.02560v1)** | 2026-09-02 |  |
 | **[Information Density Imbalance in Visual Object Detection](https://arxiv.org/abs/2609.02369v1)** | 2026-09-02 | 12 pages, 6 figures |
 | **[Domain shift-robust object detection with GenAI image editing](https://arxiv.org/abs/2609.02299v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
@@ -74,11 +79,6 @@ labels: documentation
 | **[Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras](https://arxiv.org/abs/2510.26614v2)** | 2026-09-01 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS), 2026</p></details> |
 | **[Exploiting Stability-Plasticity Asymmetry in Pretrained Detectors for Incremental Object Detection](https://arxiv.org/abs/2504.10214v2)** | 2026-09-01 |  |
 | **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v2)** | 2026-09-01 |  |
-| **[RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing](https://arxiv.org/abs/2609.00814v1)** | 2026-09-01 |  |
-| **[Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving](https://arxiv.org/abs/2609.00111v1)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/QwenLM/Qwen-Drive-1.0</p></details> |
-| **[UniDiffFusion: A Unified Diffusion Framework for Multi-Task and Degradation-Robust Image Fusion](https://arxiv.org/abs/2608.21786v2)** | 2026-08-31 |  |
-| **[Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling](https://arxiv.org/abs/2608.30821v1)** | 2026-08-31 | <details><summary>Proje...</summary><p>Project Page: https://lucida-r2s.github.io/</p></details> |
-| **[A Composition-Aware Pretraining Framework for Geospatial Foundation Models](https://arxiv.org/abs/2608.30817v1)** | 2026-08-31 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

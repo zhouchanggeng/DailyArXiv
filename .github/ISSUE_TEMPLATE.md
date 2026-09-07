@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2026
+title: Latest 15 Papers - September 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Development of a Humanoid Robot Prototype for Multimodal Human-Robot Interaction](https://arxiv.org/abs/2609.05361v1)** | 2026-09-04 | <details><summary>6 pag...</summary><p>6 pages, 6 figures. Published in the 2025 RIVF International Conference on Computing and Communication Technologies (RIVF 2025)</p></details> |
+| **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
+| **[Efficient Multi-Timescale Event Representations for Feed-Forward Object Detection](https://arxiv.org/abs/2609.05049v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to the Workshop on Neuromorphic Vision (NEVi) at ECCV 2026, 16 pages</p></details> |
+| **[SimFuse3D: Source-Guided Target Simulation and Confidence-Guided Multi-Stage Localization Reweighting for Cross-Platform 3D Object Detection](https://arxiv.org/abs/2609.04886v1)** | 2026-09-04 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Submitted to IEEE Robotics and Automation Letters</p></details> |
+| **[YOLO with Kolmogorov-Arnold networks and vision-language foundation models for interpretable object detection with trustworthy multimodal AI in computer vision perception](https://arxiv.org/abs/2603.23037v2)** | 2026-09-04 | <details><summary>23 pa...</summary><p>23 pages, 23 Figures, 9 Tables</p></details> |
+| **[AI-Powered CPS-Enabled Vulnerable-User-Aware Urban Transportation Digital Twin: Methods and Applications](https://arxiv.org/abs/2501.10396v4)** | 2026-09-04 |  |
+| **[Water Reflection Detection Using Symmetric Attention](https://arxiv.org/abs/2607.10749v2)** | 2026-09-04 |  |
+| **[Post Fusion Bird's Eye View Feature Stabilization for Robust Multimodal 3D Detection](https://arxiv.org/abs/2603.05623v2)** | 2026-09-03 | 8 pages, IROS 2026 |
+| **[Object Concepts Emerge from Motion](https://arxiv.org/abs/2609.04348v1)** | 2026-09-03 |  |
 | **[A hybrid pipeline for dynamic ontology-based semantic mapping](https://arxiv.org/abs/2609.03891v1)** | 2026-09-03 |  |
 | **[Understanding Autonomous Driving Datasets by Describing Differences between Image Subsets in Natural Language](https://arxiv.org/abs/2609.03677v1)** | 2026-09-03 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, submitted to the IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS), our implementation and benchmark dataset are available at https://github.com/KIT-MRT/AD-Diff</p></details> |
 | **[Residual Optimal Transport-Based Experts Collaboration Towards Modality-Aware Infrared-Visible Object Detection](https://arxiv.org/abs/2609.03516v1)** | 2026-09-03 |  |
 | **[When Depth Hurts: Reliability-Aware Geometry Distillation for Depth-Free RGB-D Salient Object Detection](https://arxiv.org/abs/2609.03378v1)** | 2026-09-03 |  |
 | **[GramLoop: Training-Free Gram-Gated Replay for Robust Dense Prediction](https://arxiv.org/abs/2608.29113v2)** | 2026-09-03 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/cheyan9/GramLoop</p></details> |
 | **[Stereo 4D Radar for 3D Object Detection: Integrating Geometric Alignment and Absolute Velocity Estimation](https://arxiv.org/abs/2609.02560v1)** | 2026-09-02 |  |
-| **[Information Density Imbalance in Visual Object Detection](https://arxiv.org/abs/2609.02369v1)** | 2026-09-02 | 12 pages, 6 figures |
-| **[Domain shift-robust object detection with GenAI image editing](https://arxiv.org/abs/2609.02299v1)** | 2026-09-02 | <details><summary>Submi...</summary><p>Submitted to SPIE Sensors + Imaging 2026</p></details> |
-| **[If It Moves, Radar Knows: A Physics-Aware Radar Transformer for Class-Agnostic Moving-Object Detection](https://arxiv.org/abs/2609.02289v1)** | 2026-09-02 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables, submitted to 2027 ICRA</p></details> |
-| **[Discriminative and Consistent Representation Distillation](https://arxiv.org/abs/2407.11802v8)** | 2026-09-02 | <details><summary>ECCV ...</summary><p>ECCV 2026 Workshop MELEX</p></details> |
-| **[CoViT: Instance-Correspondence Contrastive Learning for Vision Transformer](https://arxiv.org/abs/2609.01787v1)** | 2026-09-01 |  |
-| **[UAV Thermal Imagery for Inert Ordnance Screening: Multi Campaign Dataset Development,Object Detection, and Practical Recommendations](https://arxiv.org/abs/2609.01738v1)** | 2026-09-01 | <details><summary>Abstr...</summary><p>Abstract edited to fit format</p></details> |
-| **[Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras](https://arxiv.org/abs/2510.26614v2)** | 2026-09-01 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots & Systems (IROS), 2026</p></details> |
-| **[Exploiting Stability-Plasticity Asymmetry in Pretrained Detectors for Incremental Object Detection](https://arxiv.org/abs/2504.10214v2)** | 2026-09-01 |  |
-| **[Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://arxiv.org/abs/2606.09536v2)** | 2026-09-01 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-D2Q: Aligning Multimodal Doc2Query with Search Demand and Conversion for E-commerce](https://arxiv.org/abs/2609.04961v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted by CIKM2026 Oral Full Paper</p></details> |
 | **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](https://arxiv.org/abs/2506.04970v2)** | 2026-08-28 |  |
 | **[RegCL: Compact Continual SAM Adaptation for Visual Grounding in Multi-Sensorial Media](https://arxiv.org/abs/2507.12297v2)** | 2026-08-28 |  |
 | **[SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation](https://arxiv.org/abs/2608.20754v2)** | 2026-08-26 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research</p></details> |
 | **[Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement](https://arxiv.org/abs/2607.21881v1)** | 2026-07-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 3 tables. Preprint submitted to Taylor & Francis. Code: https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM Dataset: https://doi.org/10.5281/zenodo.21519912</p></details> |
 | **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v2)** | 2026-07-22 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
-| **[Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion](https://arxiv.org/abs/2607.15041v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, accepted by IEEE TMM</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 10, 2026
+title: Latest 15 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation](https://arxiv.org/abs/2609.10506v1)** | 2026-09-09 | <details><summary>Prepr...</summary><p>Preprint, Project Page: https://utn-air.github.io/DUET-DINO</p></details> |
 | **[Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection](https://arxiv.org/abs/2609.07670v1)** | 2026-09-07 | <details><summary>Proje...</summary><p>Project page: https://xavierjiezou.github.io/UCF-Net/</p></details> |
 | **[Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving](https://arxiv.org/abs/2602.06159v3)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
 | **[Frozen DINO Localizes Image Edits Without a Localizer](https://arxiv.org/abs/2608.18968v1)** | 2026-08-19 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation](https://arxiv.org/abs/2606.17972v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/script-Yang/segdino_v2</p></details> |
 | **[VL-DINO: Leveraging CLIP Vision-Language Knowledge for Open-Vocabulary Object Detectio](https://arxiv.org/abs/2606.11546v1)** | 2026-06-10 |  |
 | **[DINO-GFSA: Geo-Localization via Semantic Gated Fusion and Mamba-based Sequential Aggregation](https://arxiv.org/abs/2606.00784v1)** | 2026-05-30 |  |
-| **[Dino U-Net: Exploiting High-Fidelity Dense Features from Foundation Models for Medical Image Segmentation](https://arxiv.org/abs/2508.20909v2)** | 2026-05-08 | MICCAI 2026 |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SynThermFace: Amplifying Limited Paired Data for Visible-Thermal Face Recognition via Synthetic Data Generation](https://arxiv.org/abs/2609.10303v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted in BMVC Workshops 2026</p></details> |
+| **[A Kernel-Based Modular Discriminant Analysis Framework for Small-Sample Learning](https://arxiv.org/abs/2609.09910v1)** | 2026-09-09 |  |
 | **[FaceLinkGen: A Re-evaluation of Identity Leakage in Privacy-Preserving Face Recognition and Face Anonymization Systems Using Simple Distillation](https://arxiv.org/abs/2602.02914v3)** | 2026-09-03 |  |
 | **[ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](https://arxiv.org/abs/2506.10226v3)** | 2026-09-03 | ICML 2026 |
 | **[Learning to Attract and Repel: Dual Quality Margin Learning for Face Recognition (DQM-Face)](https://arxiv.org/abs/2609.02644v1)** | 2026-09-02 | <details><summary>ECCV ...</summary><p>ECCV 2026. Code: https://github.com/RAIB-group/DQM-Face</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Toward Interpretable Privacy Guarantees in Face-Swapping Anonymization](https://arxiv.org/abs/2608.25750v1)** | 2026-08-26 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 5 tables</p></details> |
 | **[Vision Language Model Fusion for Explainable Face Recognition](https://arxiv.org/abs/2608.24430v1)** | 2026-08-25 |  |
 | **[Unlocking the power of partnership: How humans and machines can work together to improve face recognition](https://arxiv.org/abs/2510.02570v2)** | 2026-08-24 |  |
-| **[EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment](https://arxiv.org/abs/2608.21486v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshops</p></details> |
-| **[Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds](https://arxiv.org/abs/2608.20884v1)** | 2026-08-21 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ScopeMamba-YOLO: Widening the Perceptual Scope Inward and Outward for Small Object Detection in Remote Sensing Imagery](https://arxiv.org/abs/2609.10156v1)** | 2026-09-09 |  |
+| **[Vague2Detect: Handling Ambiguous Prompts in Knowledge-Based Open-World Detection](https://arxiv.org/abs/2609.09949v1)** | 2026-09-09 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables. Code: https://github.com/ibrohimgets/Vague2Detect</p></details> |
+| **[Take What You Need: Flexible Multi-Task Semantic Communications with Channel Adaptation](https://arxiv.org/abs/2502.08221v2)** | 2026-09-09 | <details><summary>This ...</summary><p>This article contains errors in the scheme implementation</p></details> |
+| **[Hyperbolic Geometry for Open-World Object Detection in Remote Sensing Imagery](https://arxiv.org/abs/2609.09626v1)** | 2026-09-09 |  |
 | **[Spheriverse: 3D Scene Understanding from Spherical Observations in the Wild](https://arxiv.org/abs/2609.09012v1)** | 2026-09-08 | <details><summary>The e...</summary><p>The established benchmark and source code will be available at https://feit-feiteng.github.io/Spheriverse</p></details> |
 | **[TriCCOT: Tri-part Convolutional Conformal Transformer for Onboard Space Object Detection](https://arxiv.org/abs/2609.08659v1)** | 2026-09-08 | Accepted at BMVC2026 |
 | **[A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing](https://arxiv.org/abs/2609.08338v1)** | 2026-09-08 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, ITSC 2026, Invited Session</p></details> |
@@ -75,10 +79,6 @@ labels: documentation
 | **[Solution for UCF UrbanTwin V2X-Real Track: Sim-to-Real Urban LiDAR 3D Object Detection](https://arxiv.org/abs/2609.07608v1)** | 2026-09-07 | 7 pages,2 figures |
 | **[Solution for UCF UrbanTwin LUMPI Track: Sim-to-Real Urban LiDAR 3D Object Detection](https://arxiv.org/abs/2609.07590v1)** | 2026-09-07 | 5 pages,1 figures |
 | **[SphereSOD: Geometry-Structure Coupled Learning for 360 Salient Object Detection](https://arxiv.org/abs/2609.07571v1)** | 2026-09-07 | 12 pages |
-| **[Detect Anything in Graphic Design: Element-Level Rewards for Autoregressive Detection](https://arxiv.org/abs/2609.07072v1)** | 2026-09-07 |  |
-| **[Observing Health Outcomes Using Remote Sensing Imagery and Geo-Context Guided Visual Transformer](https://arxiv.org/abs/2602.00110v2)** | 2026-09-06 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 3 tables. Revised version incorporating peer-review comments. Published in IEEE Transactions on Geoscience and Remote Sensing</p></details> |
-| **[Reading Decoder Trajectories: Training-Free Counterfactual Query-Trajectory Reliability for Small-Object Detection](https://arxiv.org/abs/2609.06581v1)** | 2026-09-06 |  |
-| **[Event-based Optical Marker Systems: A survey](https://arxiv.org/abs/2504.20736v3)** | 2026-09-06 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 table</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

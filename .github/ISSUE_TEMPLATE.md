@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What a gated sensing pipeline never looks at: bandwidth reduction and the misses behind it](https://arxiv.org/abs/2609.15579v1)** | 2026-09-14 | <details><summary>13 pa...</summary><p>13 pages, 6 tables, no figures. Reports a superseded detection result alongside the corrected run that replaces it; Table 6 carries every scored run of every staged flight</p></details> |
+| **[From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection](https://arxiv.org/abs/2512.15971v2)** | 2026-09-14 |  |
+| **[ESAFusion: LiDAR--4-D Radar Fusion via Local Geometric Complementation and Multiscale Adaptive Interaction for 3-D Object Detection](https://arxiv.org/abs/2609.14619v1)** | 2026-09-13 |  |
+| **[Small Object Detection in Drone Aerial Imagery with LAF-YOLOv10](https://arxiv.org/abs/2609.14560v1)** | 2026-09-13 |  |
+| **[Rethinking Camouflage Image Generation towards a Training-Free Paradigm](https://arxiv.org/abs/2609.14377v1)** | 2026-09-13 | 21 pages, 17 figures |
+| **[Bi-Level Routing and Sparse Spatial Attention based Multi-View BEV 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2609.14185v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to 2026 9th International Conference on Computer Information Science and Application Technology (CISAT). 4 pages, 1 figure</p></details> |
+| **[Quantum-Gated LiteSSD: A Parameter-Efficient Lightweight Hybrid Quantum-Classical Framework for Forward-Looking Sonar Object Detection](https://arxiv.org/abs/2609.14025v1)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 Marine Vision as short paper</p></details> |
+| **[RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing](https://arxiv.org/abs/2609.00814v2)** | 2026-09-12 |  |
+| **[Rank-Consistent Set Reasoning for Co-Salient Object Detection](https://arxiv.org/abs/2609.13706v1)** | 2026-09-12 |  |
+| **[YOLO12-MambaScan: An Efficient Object Detector with High-Frequency Enhancement and State-Space Modeling](https://arxiv.org/abs/2609.13647v1)** | 2026-09-12 |  |
 | **[Input Resolution Matters: Real-Time Object Detection Latency](https://arxiv.org/abs/2609.12920v1)** | 2026-09-11 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2026 34th IEEE International Symposium on Modelling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)</p></details> |
 | **[A2DINOv3: Rethinking Multi-Modal Object Detection via Socialized Collaboration](https://arxiv.org/abs/2608.21099v2)** | 2026-09-11 |  |
 | **[LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection](https://arxiv.org/abs/2609.12798v1)** | 2026-09-11 |  |
 | **[4D-RaDiff: Latent Point Diffusion for 4D Radar Point Cloud Generation](https://arxiv.org/abs/2512.14235v2)** | 2026-09-11 | ECCV 2026 DriveX |
 | **[RA-SOD: Reliability-Aware RGB-T Salient Object Detection under Modality Degradation](https://arxiv.org/abs/2609.12622v1)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[RoES: Rotational Equivariant Selective-frequency Fusion for Multimodal Images](https://arxiv.org/abs/2609.12497v1)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (MM '26). 10 pages, 6 figures. Code: https://github.com/BryceLosky/RoES-Fusion</p></details> |
-| **[Feature Recovery for Object Understanding After Irreversible Fire Damage](https://arxiv.org/abs/2609.12078v1)** | 2026-09-10 | <details><summary>28 pa...</summary><p>28 pages, 11 figures, 9 tables</p></details> |
-| **[MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images](https://arxiv.org/abs/2609.11717v1)** | 2026-09-10 | <details><summary>16 pa...</summary><p>16 pages, 4 figures. Code: https://github.com/diuzhevVlad/MC-DeTra</p></details> |
-| **[A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing](https://arxiv.org/abs/2609.08338v2)** | 2026-09-10 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, ITSC 2026, Invited Session</p></details> |
-| **[Your Model Already Knows Don't Teach It, Learn to Ask It: Soft Prompting for Few-Shot Adaptation of Vision-Language Models](https://arxiv.org/abs/2609.11310v1)** | 2026-09-10 |  |
-| **[Improving Faint Object Detection for Space Situational Awareness with Variational Autoencoders](https://arxiv.org/abs/2609.11269v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted at SPAICE 2026: the 3rd European Space Agency Conference on AI in and for Space</p></details> |
-| **[TailProp: content-adaptive light- and heavy-tailed propagation for vision](https://arxiv.org/abs/2609.11081v1)** | 2026-09-10 | <details><summary>Prepr...</summary><p>Preprint. Under review at ICLR 2027. 18 pages, main text 9 pages, includes appendix, figures and supplementary analyses</p></details> |
-| **[Does YOLO26 Truly Offer Advantages Over Its Predecessors for Edge Deployment? A Benchmark Study in Aquaculture](https://arxiv.org/abs/2607.09835v2)** | 2026-09-09 | <details><summary>Publi...</summary><p>Published in MDPI AI. Final version available at https://doi.org/10.3390/ai7090354</p></details> |
-| **[ScopeMamba-YOLO: Widening the Perceptual Scope Inward and Outward for Small Object Detection in Remote Sensing Imagery](https://arxiv.org/abs/2609.10156v1)** | 2026-09-09 |  |
-| **[Vague2Detect: Handling Ambiguous Prompts in Knowledge-Based Open-World Detection](https://arxiv.org/abs/2609.09949v1)** | 2026-09-09 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables. Code: https://github.com/ibrohimgets/Vague2Detect</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAMReg: SAM-enabled Image Registration with ROI-based Correspondence](https://arxiv.org/abs/2410.14083v2)** | 2026-09-14 | accepted in TMI |
 | **[SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation](https://arxiv.org/abs/2506.08949v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: Due to unresolved limitations in this study, we believe that the conclusions are not yet sufficiently supported. We therefore withdraw this preprint and advise readers not to cite it (confirmed by the corresponding author)</p></details> |
 | **[SAM-D2Q: Aligning Multimodal Doc2Query with Search Demand and Conversion for E-commerce](https://arxiv.org/abs/2609.04961v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted by CIKM2026 Oral Full Paper</p></details> |
 | **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](https://arxiv.org/abs/2506.04970v2)** | 2026-08-28 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting](https://arxiv.org/abs/2607.29033v1)** | 2026-07-31 | Accepted to ECCV2026 |
 | **[ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation](https://arxiv.org/abs/2607.27585v1)** | 2026-07-30 |  |
 | **[SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM](https://arxiv.org/abs/2511.20027v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted by Machine Intelligence Research</p></details> |
-| **[Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement](https://arxiv.org/abs/2607.21881v1)** | 2026-07-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 3 tables. Preprint submitted to Taylor & Francis. Code: https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM Dataset: https://doi.org/10.5281/zenodo.21519912</p></details> |
 

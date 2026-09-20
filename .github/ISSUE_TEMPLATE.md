@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantic SLAM in Precision Agriculture using Bayesian Inference](https://arxiv.org/abs/2609.20604v1)** | 2026-09-17 |  |
+| **[Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels](https://arxiv.org/abs/2609.20150v1)** | 2026-09-17 |  |
+| **[PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation](https://arxiv.org/abs/2609.20066v1)** | 2026-09-17 | <details><summary>Code:...</summary><p>Code: https://github.com/wzz-z/PointEvent</p></details> |
+| **[Enhanced Knowledge Distillation for Detection Transformer via Teacher Prediction Refinement](https://arxiv.org/abs/2609.19964v1)** | 2026-09-17 |  |
+| **[BinoGen: Scaling egocentric binocular data for embodied visual perception and learning](https://arxiv.org/abs/2609.19881v1)** | 2026-09-17 |  |
+| **[Socialized UAV Cross-Task Learning: Towards Cross-Granularity Collaboration through Hierarchical Interaction](https://arxiv.org/abs/2609.19867v1)** | 2026-09-17 | 9 pages, 6 figures |
+| **[Federated Learning Framework for Privacy-Preserving Kidney Stone Detection](https://arxiv.org/abs/2609.19740v1)** | 2026-09-17 |  |
+| **[BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems](https://arxiv.org/abs/2609.19699v1)** | 2026-09-17 |  |
+| **[Selective Cotton Boll Localization for Robotic Harvesting: Evaluation of Deep Learning Vision Models Under Field Conditions](https://arxiv.org/abs/2609.19592v1)** | 2026-09-17 | <details><summary>27 Pa...</summary><p>27 Pages, 19 Figures, 15 Tables</p></details> |
+| **[Efficient Unified Multimodal Understanding (EUMU): Winning Solution for the MUMU Track at the 8th LSVOS Challenge](https://arxiv.org/abs/2609.19451v1)** | 2026-09-16 |  |
+| **[Open-vocabulary 3D object detection with promptable segmentation](https://arxiv.org/abs/2609.19358v1)** | 2026-09-16 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 12 tables</p></details> |
 | **[DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation](https://arxiv.org/abs/2609.18773v1)** | 2026-09-16 |  |
+| **[4D Radar Perception Algorithms for Autonomous Driving: A Review](https://arxiv.org/abs/2609.19216v1)** | 2026-09-16 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 5 tables. Submitted to IEEE Sensors Journal</p></details> |
 | **[Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems](https://arxiv.org/abs/2609.18542v1)** | 2026-09-16 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Transactions of the Korean Society of Automotive Engineers</p></details> |
 | **[Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation](https://arxiv.org/abs/2609.18511v1)** | 2026-09-16 | 9 pages, 3 figures |
-| **[From Pixels to Semantics: Edge AI for UAV-Based Critical Infrastructure Inspection](https://arxiv.org/abs/2609.18448v1)** | 2026-09-16 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 2 tables, Sumbitted to IEEE Internet Computing 2026</p></details> |
-| **[Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks](https://arxiv.org/abs/2508.11584v3)** | 2026-09-16 | <details><summary>\c{op...</summary><p>\c{opyright} 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Understanding Dynamic Scenes at Gigapixel Scale: Wide-Area Spatio-Temporal Perception from UAVs](https://arxiv.org/abs/2609.18210v1)** | 2026-09-16 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
-| **[CapMap-MS-TTA: 3rd Place Solution for the MUMU Track of the 8th LSVOS Challenge at ECCV 2026](https://arxiv.org/abs/2609.18206v1)** | 2026-09-16 |  |
-| **[Stealthy in Semantics, Antagonistic in Space: Attacking Visible-Infrared Object Detectors via Object-Level Misalignment](https://arxiv.org/abs/2609.18133v1)** | 2026-09-16 |  |
-| **[Aligned Consensus Teaching for Label-Efficient Oriented Object Detection in Weakly-Aligned Visible-Infrared Imagery](https://arxiv.org/abs/2609.18124v1)** | 2026-09-16 |  |
-| **[Beyond Pixel Similarity: Task-Aware Evaluation of GAN-Based Synthetic Sonar Data for Robotic Perception](https://arxiv.org/abs/2609.18100v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at Sim2Real and Classical Control: From Rigorous Theory to Data-Driven Robotics - IROS Workshop 2026</p></details> |
-| **[Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion](https://arxiv.org/abs/2412.11420v2)** | 2026-09-16 |  |
-| **[CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection](https://arxiv.org/abs/2608.06205v2)** | 2026-09-15 | <details><summary>v2: R...</summary><p>v2: Revised version after addressing reviewer comments</p></details> |
-| **[Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion](https://arxiv.org/abs/2609.17427v1)** | 2026-09-15 | <details><summary>25 pa...</summary><p>25 pages, 10 figures, 7 tables</p></details> |
-| **[NeuroSymbEAD: A Large Scale Neuro-Symbolic Caption Dataset for Omni-Directional Embodied Autonomous Driving](https://arxiv.org/abs/2609.16919v1)** | 2026-09-15 |  |
-| **[Channel-Wise and Token-Aware Post-Training Quantization for Visual State Space Duality](https://arxiv.org/abs/2609.16656v1)** | 2026-09-15 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 5 tables</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics](https://arxiv.org/abs/2609.19453v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the ICLR 2024 Workshop on Practical ML for Low Resource Settings (PML4LRS)</p></details> |
 | **[SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM](https://arxiv.org/abs/2609.18037v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
 | **[SAMReg: SAM-enabled Image Registration with ROI-based Correspondence](https://arxiv.org/abs/2410.14083v2)** | 2026-09-14 | accepted in TMI |
 | **[SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation](https://arxiv.org/abs/2506.08949v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: Due to unresolved limitations in this study, we believe that the conclusions are not yet sufficiently supported. We therefore withdraw this preprint and advise readers not to cite it (confirmed by the corresponding author)</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation](https://arxiv.org/abs/2608.16110v1)** | 2026-08-17 |  |
 | **[EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass](https://arxiv.org/abs/2608.02284v1)** | 2026-08-03 |  |
 | **[Temperon: Full-Time SAM Quality at a Third Less Wall-Clock](https://arxiv.org/abs/2609.17575v1)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages, 5 Figures, 4 Tables</p></details> |
-| **[SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting](https://arxiv.org/abs/2607.29033v1)** | 2026-07-31 | Accepted to ECCV2026 |
 

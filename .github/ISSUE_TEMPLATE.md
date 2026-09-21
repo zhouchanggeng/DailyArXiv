@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition](https://arxiv.org/abs/2609.21879v1)** | 2026-09-18 | 11 pages |
 | **[DenseFace: Bias Mitigation in Face Recognition via Density-Aware Probabilistic Matching](https://arxiv.org/abs/2609.16149v1)** | 2026-09-14 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Accepted at IEEE/IAPR International Joint Conference on Biometrics (IJCB) 2026</p></details> |
 | **[Online Video Agent Harness for Long Video Understanding](https://arxiv.org/abs/2609.12818v1)** | 2026-09-11 | <details><summary>35pag...</summary><p>35pages, 12 tables, 10 figures</p></details> |
 | **[SynThermFace: Amplifying Limited Paired Data for Visible-Thermal Face Recognition via Synthetic Data Generation](https://arxiv.org/abs/2609.10303v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted in BMVC Workshops 2026</p></details> |
@@ -40,12 +41,11 @@ labels: documentation
 | **[UFPR-PEs: A Brazilian Face Recognition Benchmark with Self-Declared Race/Color Labels](https://arxiv.org/abs/2608.30688v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 Conference on Graphics, Patterns and Images (SIBGRAPI)</p></details> |
 | **[Foundation and Multimodal Large Language Models for Face Presentation and Morph Attack Detection](https://arxiv.org/abs/2608.29802v1)** | 2026-08-30 |  |
 | **[Learning Late, Guiding Early: Timestep-Decoupled Semantic Guidance for Fair Face Generation](https://arxiv.org/abs/2608.25862v2)** | 2026-08-27 |  |
-| **[Toward Interpretable Privacy Guarantees in Face-Swapping Anonymization](https://arxiv.org/abs/2608.25750v1)** | 2026-08-26 | <details><summary>18 pa...</summary><p>18 pages, 15 figures, 5 tables</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoPulse: Neonatal heart rate and peripheral capillary oxygen saturation (SpO2) estimation from contact free video](https://arxiv.org/abs/2602.23771v3)** | 2026-09-15 | <details><summary>Revis...</summary><p>Revised manuscript with updated methodology, figures, evaluation details, references, ethics and data availability statements. The manuscript has been aligned with the version being prepared for submission to an IEEE Journal</p></details> |
+| **[VideoPulse: Neonatal heart rate and peripheral capillary oxygen saturation (SpO2) estimation from contact free video](https://arxiv.org/abs/2602.23771v4)** | 2026-09-18 | <details><summary>Revis...</summary><p>Revised manuscript with updated methodology, figures, evaluation details, references, ethics and data availability statements. The manuscript has been aligned with the version being prepared for submission to an IEEE Journal</p></details> |
 | **[Anisotropic Green Coordinates](https://arxiv.org/abs/2512.20386v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH Asia 2026 Journal Track</p></details> |
 | **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v2)** | 2026-08-10 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
 | **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
@@ -64,25 +64,27 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing YOLO27, YOLO26, YOLO11, and YOLOv8 for Fine-Grained Small-Object Detection and Segmentation in Complex Orchard Environments](https://arxiv.org/abs/2608.23636v2)** | 2026-09-18 |  |
+| **[Recursive Block-Diagonal Coupling for Resource-Efficient Training of Vision Models](https://arxiv.org/abs/2605.23656v2)** | 2026-09-18 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 4 tables, and 34 references</p></details> |
+| **[Object Detection Benchmarks are Incomplete: The Role of Label Errors and Annotation Uncertainty](https://arxiv.org/abs/2609.21822v1)** | 2026-09-18 |  |
+| **[PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection](https://arxiv.org/abs/2609.21780v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[XCalib Depth-Guided Geometric Optimization for Dense Thermal-Visible Video Registration](https://arxiv.org/abs/2609.21770v1)** | 2026-09-18 | 10 pages, 6 figures |
+| **[The Impact of Semantic Pairs on Self-Supervised Representation Learning](https://arxiv.org/abs/2510.08722v4)** | 2026-09-18 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 5 tables</p></details> |
+| **[The EventCV Library for Event-Based Robotic Vision](https://arxiv.org/abs/2609.21330v1)** | 2026-09-18 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 3 tables, under review</p></details> |
+| **[Combining Object Detection with Geometry-Aware Clustering to Distinguish Overlapping Plants in UAV Imagery](https://arxiv.org/abs/2609.21304v1)** | 2026-09-18 | 34 pages |
+| **[Signal-Centric Remote Sensing via Alternative Preprocessing and Acoustic Processing for ML-Driven Applications](https://arxiv.org/abs/2609.21123v1)** | 2026-09-17 | <details><summary>7 pag...</summary><p>7 pages, 9 figures, 3 tables. Published in Proc. IEEE SoutheastCon 2025, pp. 1078-1084, doi: 10.1109/SoutheastCon56624.2025.10971547</p></details> |
+| **[CORDS: Continuous Representations of Discrete Structures](https://arxiv.org/abs/2601.21583v2)** | 2026-09-17 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 38 pages, including appendix. Code: https://github.com/stases/CORDS</p></details> |
 | **[Semantic SLAM in Precision Agriculture using Bayesian Inference](https://arxiv.org/abs/2609.20604v1)** | 2026-09-17 |  |
 | **[Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels](https://arxiv.org/abs/2609.20150v1)** | 2026-09-17 |  |
 | **[PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation](https://arxiv.org/abs/2609.20066v1)** | 2026-09-17 | <details><summary>Code:...</summary><p>Code: https://github.com/wzz-z/PointEvent</p></details> |
 | **[Enhanced Knowledge Distillation for Detection Transformer via Teacher Prediction Refinement](https://arxiv.org/abs/2609.19964v1)** | 2026-09-17 |  |
 | **[BinoGen: Scaling egocentric binocular data for embodied visual perception and learning](https://arxiv.org/abs/2609.19881v1)** | 2026-09-17 |  |
-| **[Socialized UAV Cross-Task Learning: Towards Cross-Granularity Collaboration through Hierarchical Interaction](https://arxiv.org/abs/2609.19867v1)** | 2026-09-17 | 9 pages, 6 figures |
-| **[Federated Learning Framework for Privacy-Preserving Kidney Stone Detection](https://arxiv.org/abs/2609.19740v1)** | 2026-09-17 |  |
-| **[BA-TRACE: Boundary-Aware Trace Reconstruction for Scenario-Based Evaluation of Mixed AUTOSAR Adaptive and ROS 2 Vehicular Embedded Systems](https://arxiv.org/abs/2609.19699v1)** | 2026-09-17 |  |
-| **[Selective Cotton Boll Localization for Robotic Harvesting: Evaluation of Deep Learning Vision Models Under Field Conditions](https://arxiv.org/abs/2609.19592v1)** | 2026-09-17 | <details><summary>27 Pa...</summary><p>27 Pages, 19 Figures, 15 Tables</p></details> |
-| **[Efficient Unified Multimodal Understanding (EUMU): Winning Solution for the MUMU Track at the 8th LSVOS Challenge](https://arxiv.org/abs/2609.19451v1)** | 2026-09-16 |  |
-| **[Open-vocabulary 3D object detection with promptable segmentation](https://arxiv.org/abs/2609.19358v1)** | 2026-09-16 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 12 tables</p></details> |
-| **[DISTA-Net++: Rethinking Infrared Small Target Unmixing Beyond Sub-Pixel Separation](https://arxiv.org/abs/2609.18773v1)** | 2026-09-16 |  |
-| **[4D Radar Perception Algorithms for Autonomous Driving: A Review](https://arxiv.org/abs/2609.19216v1)** | 2026-09-16 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 5 tables. Submitted to IEEE Sensors Journal</p></details> |
-| **[Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems](https://arxiv.org/abs/2609.18542v1)** | 2026-09-16 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Transactions of the Korean Society of Automotive Engineers</p></details> |
-| **[Learning from Distributed Eyes: Leveraging Collaborative Perception for Automated Model Adaptation](https://arxiv.org/abs/2609.18511v1)** | 2026-09-16 | 9 pages, 3 figures |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation](https://arxiv.org/abs/2609.21424v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted by ICME 2026, 6 pages, 3 figures. Corresponding authors: Anpeng Wang and Runmin Cong</p></details> |
+| **[Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy](https://arxiv.org/abs/2609.21038v1)** | 2026-09-17 | <details><summary>Peer-...</summary><p>Peer-reviewed and accepted at NeurIPS 2026 LXAI Workshop. Pending presentation/publication at JLXAIR</p></details> |
 | **[Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics](https://arxiv.org/abs/2609.19453v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the ICLR 2024 Workshop on Practical ML for Low Resource Settings (PML4LRS)</p></details> |
 | **[SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM](https://arxiv.org/abs/2609.18037v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
 | **[SAMReg: SAM-enabled Image Registration with ROI-based Correspondence](https://arxiv.org/abs/2410.14083v2)** | 2026-09-14 | accepted in TMI |
@@ -96,6 +98,4 @@ labels: documentation
 | **[GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization](https://arxiv.org/abs/2608.20929v1)** | 2026-08-21 |  |
 | **[S$^3$AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection](https://arxiv.org/abs/2608.17475v1)** | 2026-08-18 |  |
 | **[SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation](https://arxiv.org/abs/2608.16110v1)** | 2026-08-17 |  |
-| **[EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass](https://arxiv.org/abs/2608.02284v1)** | 2026-08-03 |  |
-| **[Temperon: Full-Time SAM Quality at a Third Less Wall-Clock](https://arxiv.org/abs/2609.17575v1)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages, 5 Figures, 4 Tables</p></details> |
 

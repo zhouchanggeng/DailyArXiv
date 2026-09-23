@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2026
+title: Latest 15 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes](https://arxiv.org/abs/2609.26505v1)** | 2026-09-22 |  |
+| **[Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping](https://arxiv.org/abs/2609.26325v1)** | 2026-09-22 | <details><summary>IROS ...</summary><p>IROS 2026 Workshop on Long-Term Perception for Human-Centric Autonomy</p></details> |
+| **[A Geometry-Aware Framework for Clustering Cylindrical Data](https://arxiv.org/abs/2609.26321v1)** | 2026-09-22 |  |
+| **[LiAuto-MindViT: A Hybrid Vision Backbone with Adaptive Bidirectional Mamba](https://arxiv.org/abs/2609.24337v2)** | 2026-09-22 | 10 pages, 5 figures |
+| **[C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather](https://arxiv.org/abs/2609.25693v1)** | 2026-09-22 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Accepted at ACM Multimedia (ACM MM 2026)</p></details> |
+| **[mbariml: a curation pipeline for turning deep-sea imagery and video into object-detection training data](https://arxiv.org/abs/2609.25500v1)** | 2026-09-21 |  |
 | **[YolovN-CBi: A Lightweight and Efficient Architecture for Real-Time Detection of Small UAVs](https://arxiv.org/abs/2512.18046v3)** | 2026-09-21 | <details><summary>This ...</summary><p>This manuscript has been submitted to the journal Computer Optics and is currently under review</p></details> |
 | **[DroneGround: Open-Vocabulary Drone Payload Characterization Using Synthetic Data and Grounded Vision-Language Models](https://arxiv.org/abs/2609.07780v2)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at RVS-SE, British Machine Vision Conference, 2026</p></details> |
 | **[Perception-Aware Communication Middleware for Distributed Visual Perception in UAV Swarms](https://arxiv.org/abs/2609.24964v1)** | 2026-09-21 |  |
@@ -71,18 +77,13 @@ labels: documentation
 | **[Ev-YOLO: Uncertainty-Aware Object Detection via a Unified Evidential Formulation](https://arxiv.org/abs/2609.24668v1)** | 2026-09-21 | <details><summary>Prepr...</summary><p>Preprint / submitted manuscript. This version has not undergone peer review. To appear in the proceedings of the 9th International Conference on Belief Functions (BFAS 2026), Springer, LNAI</p></details> |
 | **[MECAIL: Communication-Aware Incremental Learning for Object Detection with 14.6 KB Spatiotemporal Experts](https://arxiv.org/abs/2609.24455v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted at ITSC 2026</p></details> |
 | **[GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers](https://arxiv.org/abs/2506.11784v2)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted as a Poster at NeurIPS 2025. This version matches the NeurIPS 2025 camera-ready/proceedings version</p></details> |
-| **[LiAuto-MindViT: A Hybrid Vision Backbone with Adaptive Bidirectional Mamba](https://arxiv.org/abs/2609.24337v1)** | 2026-09-21 |  |
 | **[AdaptiveCDM: Source-Free Few-Shot Domain Adaptation for Cell Detection in Microscopic Images](https://arxiv.org/abs/2503.03370v3)** | 2026-09-21 | 6 pages, 5 figures |
 | **[Graded-Relevance Composed Multimodal Retrieval for E-commerce Visual Search at Scale](https://arxiv.org/abs/2609.24152v1)** | 2026-09-21 |  |
-| **[A paired synthetic construction-site image dataset for robust computer vision under adverse conditions](https://arxiv.org/abs/2609.24075v1)** | 2026-09-21 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 7 tables. Dataset and code are publicly available</p></details> |
-| **[InterHier: Learning Interconnected Hierarchical Semantics for Open-Vocabulary Object Detection](https://arxiv.org/abs/2609.24026v1)** | 2026-09-21 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Published in IEEE Access</p></details> |
-| **[Closed-Circuit Television Data as an Emergent Data Source for Urban Rail Platform Crowding Estimation](https://arxiv.org/abs/2508.03749v2)** | 2026-09-20 | <details><summary>26 pa...</summary><p>26 pages, 17 figures, 4 tables</p></details> |
-| **[Mind the Gaps: A Curated Benchmark for Form Field Detection](https://arxiv.org/abs/2609.23679v1)** | 2026-09-20 | <details><summary>Accep...</summary><p>Accepted at the International Workshop on Document Analysis Systems (DAS) 2026. Dataset: https://huggingface.co/datasets/omoured/minicommonform</p></details> |
-| **[Towards robust multimodal 3D object detection via visual foundation models](https://arxiv.org/abs/2609.23541v1)** | 2026-09-20 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Bilingual English-Chinese manuscript; the complete English version appears first, followed by the complete Chinese version</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation](https://arxiv.org/abs/2609.25490v1)** | 2026-09-21 |  |
 | **[ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation](https://arxiv.org/abs/2607.27585v2)** | 2026-09-21 |  |
 | **[SRPR-Net: Semantic and Relational Prompt Refinement for Automated SAM-based Instance Segmentation](https://arxiv.org/abs/2609.24226v1)** | 2026-09-21 |  |
 | **[P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation](https://arxiv.org/abs/2609.21424v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted by ICME 2026, 6 pages, 3 figures. Corresponding authors: Anpeng Wang and Runmin Cong</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation](https://arxiv.org/abs/2608.20754v2)** | 2026-08-26 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
 | **[SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation](https://arxiv.org/abs/2412.12660v2)** | 2026-08-26 | <details><summary>17 pa...</summary><p>17 pages, 11 figures. Under review</p></details> |
 | **[Hierarchical Prototype-Memory Adaptation of SAM for Surgical Instrument Segmentation](https://arxiv.org/abs/2608.24541v1)** | 2026-08-25 |  |
-| **[GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization](https://arxiv.org/abs/2608.20929v1)** | 2026-08-21 |  |
 

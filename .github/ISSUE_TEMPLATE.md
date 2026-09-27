@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 25, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning](https://arxiv.org/abs/2608.04452v2)** | 2026-09-24 |  |
+| **[TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision](https://arxiv.org/abs/2609.20869v2)** | 2026-09-24 | <details><summary>39 pa...</summary><p>39 pages, 4 figures, 11 tables. Project page: https://ml.comexp.net Corrected the corresponding author's email address</p></details> |
+| **[Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding](https://arxiv.org/abs/2609.29835v1)** | 2026-09-24 | 8 pages |
+| **[SARFusion: Scene-Aware Routing Fusion for Robust Camera-LiDAR 3D Object Detection](https://arxiv.org/abs/2609.29235v1)** | 2026-09-24 |  |
+| **[FoCal: Frequency-Oriented Cross-Modal Interaction and Spectral Calibration for Aerial Visible-Infrared Object Detection](https://arxiv.org/abs/2609.29125v1)** | 2026-09-24 |  |
+| **[Seeing Is Not Measuring: Tool-Augmented Metric Spatial Reasoning for Vision-Language Models](https://arxiv.org/abs/2609.29073v1)** | 2026-09-24 |  |
+| **[ESAFusion: LiDAR--4-D Radar Fusion via Local Geometric Complementation and Multiscale Adaptive Interaction for 3-D Object Detection](https://arxiv.org/abs/2609.14619v2)** | 2026-09-24 |  |
+| **[MLPerf Automotive](https://arxiv.org/abs/2510.27065v2)** | 2026-09-23 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 5 tables</p></details> |
 | **[Automated Palynological Analysis System: Integrating Deep Metric Learning, Detection and Classification in Bright Field Microscopy](https://arxiv.org/abs/2604.16743v2)** | 2026-09-23 | 12 pages, 16 figures |
 | **[MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](https://arxiv.org/abs/2609.28358v1)** | 2026-09-23 | 12 pages, 7 figures |
 | **[ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus](https://arxiv.org/abs/2609.28239v1)** | 2026-09-23 | <details><summary>13 pa...</summary><p>13 pages, 8 figures (including supplementary materials); Code available at https://github.com/Alex66366/ODPure</p></details> |
@@ -71,14 +79,6 @@ labels: documentation
 | **[CasCVS-Net: A Staged Multi-Task Cascade for Critical View of Safety Assessment](https://arxiv.org/abs/2609.27681v1)** | 2026-09-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
 | **[SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection](https://arxiv.org/abs/2609.27671v1)** | 2026-09-23 | <details><summary>9 pag...</summary><p>9 pages, 7 table, 5 figures</p></details> |
 | **[OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942v3)** | 2026-09-23 |  |
-| **[S2A:Semantic-to-Spatial Alignment for Alignment-Free RGB-T Salient Object Detection](https://arxiv.org/abs/2609.27413v1)** | 2026-09-23 |  |
-| **[Bend the Clock: Predicting Ahead to Beat Latency in Event-Based Object Detection](https://arxiv.org/abs/2609.26919v1)** | 2026-09-22 |  |
-| **[Semantically-Guided Domain Randomization for Industrial Object Detection in Low-Image-Budget Regimes](https://arxiv.org/abs/2609.26505v1)** | 2026-09-22 |  |
-| **[Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping](https://arxiv.org/abs/2609.26325v1)** | 2026-09-22 | <details><summary>IROS ...</summary><p>IROS 2026 Workshop on Long-Term Perception for Human-Centric Autonomy</p></details> |
-| **[A Geometry-Aware Framework for Clustering Cylindrical Data](https://arxiv.org/abs/2609.26321v1)** | 2026-09-22 |  |
-| **[LiAuto-MindViT: A Hybrid Vision Backbone with Adaptive Bidirectional Mamba](https://arxiv.org/abs/2609.24337v2)** | 2026-09-22 | 10 pages, 5 figures |
-| **[C2FXNet: Coarse-to-Fine Scene Expert for Unified Object Detection across Adverse Weather](https://arxiv.org/abs/2609.25693v1)** | 2026-09-22 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. Accepted at ACM Multimedia (ACM MM 2026)</p></details> |
-| **[mbariml: a curation pipeline for turning deep-sea imagery and video into object-detection training data](https://arxiv.org/abs/2609.25500v1)** | 2026-09-21 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

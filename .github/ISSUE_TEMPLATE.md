@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,9 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diagnosing the Sources of Compositional Failure in Vision-Language Models: A Controlled Analysis](https://arxiv.org/abs/2609.31456v1)** | 2026-09-25 |  |
+| **[Scale-invariant Gaussian derivative residual networks](https://arxiv.org/abs/2603.02843v2)** | 2026-09-25 | <details><summary>58 pa...</summary><p>58 pages, 29 figures, 5 tables</p></details> |
+| **[CSCWD: Cross-Scale Channel-wise Knowledge Distillation for Lightweight Tiny Object Detection on Edge Devices](https://arxiv.org/abs/2609.30395v1)** | 2026-09-24 |  |
 | **[Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning](https://arxiv.org/abs/2608.04452v2)** | 2026-09-24 |  |
 | **[TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision](https://arxiv.org/abs/2609.20869v2)** | 2026-09-24 | <details><summary>39 pa...</summary><p>39 pages, 4 figures, 11 tables. Project page: https://ml.comexp.net Corrected the corresponding author's email address</p></details> |
 | **[Retrieve-to-Localize: Bridging Large Language Models and LiDAR Geometry for Spatial Grounding](https://arxiv.org/abs/2609.29835v1)** | 2026-09-24 | 8 pages |
@@ -76,13 +79,11 @@ labels: documentation
 | **[MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](https://arxiv.org/abs/2609.28358v1)** | 2026-09-23 | 12 pages, 7 figures |
 | **[ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus](https://arxiv.org/abs/2609.28239v1)** | 2026-09-23 | <details><summary>13 pa...</summary><p>13 pages, 8 figures (including supplementary materials); Code available at https://github.com/Alex66366/ODPure</p></details> |
 | **[MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction](https://arxiv.org/abs/2609.27706v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[CasCVS-Net: A Staged Multi-Task Cascade for Critical View of Safety Assessment](https://arxiv.org/abs/2609.27681v1)** | 2026-09-23 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
-| **[SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection](https://arxiv.org/abs/2609.27671v1)** | 2026-09-23 | <details><summary>9 pag...</summary><p>9 pages, 7 table, 5 figures</p></details> |
-| **[OD3: Optimization-free Dataset Distillation for Object Detection](https://arxiv.org/abs/2506.01942v3)** | 2026-09-23 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation](https://arxiv.org/abs/2609.31160v1)** | 2026-09-25 |  |
 | **[LiAM-SAM: Lifecycle-Aware Memory for Robust SAM2-Based MOT](https://arxiv.org/abs/2609.28078v1)** | 2026-09-23 |  |
 | **[SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation](https://arxiv.org/abs/2609.25490v1)** | 2026-09-21 |  |
 | **[ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation](https://arxiv.org/abs/2607.27585v2)** | 2026-09-21 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery](https://arxiv.org/abs/2506.04970v2)** | 2026-08-28 |  |
 | **[RegCL: Compact Continual SAM Adaptation for Visual Grounding in Multi-Sensorial Media](https://arxiv.org/abs/2507.12297v2)** | 2026-08-28 |  |
 | **[SPARK-SAM: Learning How to Prompt and Respond for Infrared Small Target Segmentation](https://arxiv.org/abs/2608.20754v2)** | 2026-08-26 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables</p></details> |
-| **[SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation](https://arxiv.org/abs/2412.12660v2)** | 2026-08-26 | <details><summary>17 pa...</summary><p>17 pages, 11 figures. Under review</p></details> |
 

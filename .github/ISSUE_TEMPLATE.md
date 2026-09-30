@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,27 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection](https://arxiv.org/abs/2609.38116v1)** | 2026-09-29 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Submitted to IEEE ICASSP 2027</p></details> |
+| **[From Unity Simulation to Diffusion-Based Augmentation: Quantifying Dataset Balance for Robust Object Detection](https://arxiv.org/abs/2609.38010v1)** | 2026-09-29 |  |
+| **[ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding](https://arxiv.org/abs/2609.37801v1)** | 2026-09-29 |  |
+| **[SimFuse3D: Source-Guided Target Simulation and Confidence-Guided Multi-Stage Localization Reweighting for Cross-Platform 3D Object Detection](https://arxiv.org/abs/2609.04886v2)** | 2026-09-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Submitted to ICRA</p></details> |
+| **[VesselBench-800K: A Large-scale Perception Benchmark for Multimodal Vessel Detection, Counting, and Density Estimation](https://arxiv.org/abs/2609.37003v1)** | 2026-09-29 |  |
+| **[Understanding Dynamic Scenes at Gigapixel Scale: Wide-Area Spatio-Temporal Perception from UAVs](https://arxiv.org/abs/2609.18210v2)** | 2026-09-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 3 tables</p></details> |
+| **[Moving Object Detection from Moving Camera Using Focus of Expansion Likelihood and Segmentation](https://arxiv.org/abs/2507.13628v3)** | 2026-09-28 | <details><summary>11 pa...</summary><p>11 pages. Accepted manuscript of the article published in the International Journal of Automation Technology (IJAT), Vol. 20, No. 5, pp. 491-502, 2026</p></details> |
+| **[LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://arxiv.org/abs/2609.36380v1)** | 2026-09-28 |  |
+| **[Mirage: a Clean-Label Backdoor against LiDAR 3D Object Detection](https://arxiv.org/abs/2606.20752v2)** | 2026-09-28 |  |
 | **[AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection](https://arxiv.org/abs/2609.35490v1)** | 2026-09-28 |  |
 | **[Physics-Guided Spectral Distillation for Underwater Image Enhancement on Resource-Constrained Devices](https://arxiv.org/abs/2609.34795v1)** | 2026-09-28 | 10 pages, 9 figures |
 | **[Time-frequency localization of bird calls in dense soundscapes](https://arxiv.org/abs/2606.10407v2)** | 2026-09-28 | <details><summary>The f...</summary><p>The following changes are made in this version: 1) added comparison to SAM 3 and RF-DETR models, 2) added a literature review on object-detection based acoustic segmentation, and 3) compressed the paper to fit within 5 pages</p></details> |
 | **[AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](https://arxiv.org/abs/2506.02914v3)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. Code and benchmark: https://github.com/annoguide/AutoExpert-3D-benchmark</p></details> |
 | **[Analytical and Convolutional Neural Network-Based Motion-Vector Propagation for Efficient Video Object Detection](https://arxiv.org/abs/2609.34142v1)** | 2026-09-28 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, This work has been submitted to IEEE for possible publication</p></details> |
 | **[OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images](https://arxiv.org/abs/2409.19648v2)** | 2026-09-27 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Geoscience and Remote Sensing (TGRS 2024) ESI Highly Cited Paper</p></details> |
-| **[Probabilistic Object Detection with Conformal Prediction](https://arxiv.org/abs/2605.07549v2)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted and selected for oral presentation at COPA 2026 (https://proceedings.mlr.press/v329/ries26a.html). Code is available at https://github.com/mos-ks/OD-CP</p></details> |
-| **[AttentionViG: Cross-Attention-Based Dynamic Neighbor Aggregation in Vision GNNs](https://arxiv.org/abs/2509.25570v2)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted to Learning on Graphs Conference, 2026 (LoG)</p></details> |
-| **[AevaScenes: An FMCW LiDAR Dataset and Benchmark for Long-Range Perception](https://arxiv.org/abs/2609.33230v1)** | 2026-09-27 | <details><summary>Proje...</summary><p>Project page: https://scenes.aeva.com</p></details> |
-| **[Synthetic Thermal Image Generation for Real-Time Animal Detection Under Low-Visibility Conditions](https://arxiv.org/abs/2609.32944v1)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted at The IEEE Cyber Awareness Research Symposium (CARS), 2026</p></details> |
-| **[Precision As You Need: Stochastic Computing Is a Dense Adaptive Quantizer](https://arxiv.org/abs/2609.32922v1)** | 2026-09-26 | NeurIPS 2026 |
-| **[SV2V-RSim: A Comprehensive Benchmark for Self-Selective V2V Cooperative Perception with Near-Realistic Data](https://arxiv.org/abs/2609.32863v1)** | 2026-09-26 |  |
-| **[Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling](https://arxiv.org/abs/2609.32824v1)** | 2026-09-26 |  |
-| **[PACGNet: Pyramidal Adaptive Cross-Gating Network for Multimodal Object Detection in Aerial Imagery](https://arxiv.org/abs/2512.18291v3)** | 2026-09-26 | 14 pages, 6 figures |
-| **[PQR3D: Progressive Query Refinement over Reference-Conditioned Temporal Windows for Multi-View 3D Object Detection](https://arxiv.org/abs/2609.32163v1)** | 2026-09-26 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ActiveSAM: Fast and Accurate Open-Vocabulary Semantic Segmentation with Frozen SAM 3](https://arxiv.org/abs/2606.16996v2)** | 2026-09-29 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/VILA-Lab/ActiveSAM</p></details> |
+| **[SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation](https://arxiv.org/abs/2609.37283v1)** | 2026-09-29 |  |
 | **[SGP-SAM: Self-Gated Prompting for Transferring 3D Segment Anything Models to Lesion Segmentation](https://arxiv.org/abs/2604.22825v2)** | 2026-09-28 |  |
 | **[HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking](https://arxiv.org/abs/2609.34396v1)** | 2026-09-28 |  |
 | **[AD-SAM: Adapting the Segment Anything Model for Semantic Segmentation in Autonomous Driving](https://arxiv.org/abs/2510.27047v2)** | 2026-09-27 | <details><summary>v2: S...</summary><p>v2: Substantially revised. Results regenerated under a common training protocol with retrained baselines; architecture updated (single-scale deformable fusion, three-stage progressive decoder). Title and author order updated. Submitted to Image and Vision Computing (Special Issue: Visual Perception Enabling Autonomous Navigation)</p></details> |
@@ -96,6 +98,4 @@ labels: documentation
 | **[Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics](https://arxiv.org/abs/2609.19453v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the ICLR 2024 Workshop on Practical ML for Low Resource Settings (PML4LRS)</p></details> |
 | **[SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM](https://arxiv.org/abs/2609.18037v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
 | **[SAMReg: SAM-enabled Image Registration with ROI-based Correspondence](https://arxiv.org/abs/2410.14083v2)** | 2026-09-14 | accepted in TMI |
-| **[SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation](https://arxiv.org/abs/2506.08949v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: Due to unresolved limitations in this study, we believe that the conclusions are not yet sufficiently supported. We therefore withdraw this preprint and advise readers not to cite it (confirmed by the corresponding author)</p></details> |
-| **[SAM-D2Q: Aligning Multimodal Doc2Query with Search Demand and Conversion for E-commerce](https://arxiv.org/abs/2609.04961v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted by CIKM2026 Oral Full Paper</p></details> |
 

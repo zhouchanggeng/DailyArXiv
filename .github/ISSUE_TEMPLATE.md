@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2026
+title: Latest 15 Papers - October 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dyna-DINO: Efficient ViT Distillation Via Adaptive Representation Anchoring](https://arxiv.org/abs/2606.19483v2)** | 2026-10-01 |  |
 | **[Two Global Crops Suffice: Locating Semantic Emergence in DINO-Style Self-Supervised Learning](https://arxiv.org/abs/2609.28187v1)** | 2026-09-23 |  |
 | **[D3GS: Depth, DINO, and RGB Diffusion Co-Guided 3D Gaussian Splatting for Sparse-View Reconstruction](https://arxiv.org/abs/2609.22941v1)** | 2026-09-19 |  |
 | **[DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation](https://arxiv.org/abs/2609.10506v1)** | 2026-09-09 | <details><summary>Prepr...</summary><p>Preprint, Project Page: https://utn-air.github.io/DUET-DINO</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow](https://arxiv.org/abs/2607.13250v1)** | 2026-07-14 |  |
 | **[Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT](https://arxiv.org/abs/2606.27084v1)** | 2026-06-25 | 24 pages, 17 figures |
 | **[DINO-Med3D: Bridging Dimension and Domain Gaps in Volumetric Segmentation via Progressive Adaptation](https://arxiv.org/abs/2606.18886v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026. The camera-ready version and link will be made publicly available upon publication</p></details> |
-| **[SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation](https://arxiv.org/abs/2606.17972v1)** | 2026-06-16 | <details><summary>Code:...</summary><p>Code: https://github.com/script-Yang/segdino_v2</p></details> |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding](https://arxiv.org/abs/2609.37801v2)** | 2026-10-01 |  |
+| **[Localisation-Aware Uncertainty for Pretrained Object Detection](https://arxiv.org/abs/2610.01409v1)** | 2026-10-01 |  |
+| **[Robust Evidential Learning Through Latent Consistency](https://arxiv.org/abs/2610.01384v1)** | 2026-10-01 |  |
+| **[Open Vocabulary Word Recognition From Transcribed Bangla Texts](https://arxiv.org/abs/2610.01134v1)** | 2026-10-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. Accepted version of the paper published in the 2023 26th International Conference on Computer and Information Technology (ICCIT). Code: https://github.com/FaiasPromit/Optical-Character-Recognition-From-Handwritten-Bangla-Texts</p></details> |
+| **[Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability](https://arxiv.org/abs/2610.01067v1)** | 2026-10-01 |  |
+| **[Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data](https://arxiv.org/abs/2410.16089v3)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted and published version. \c{opyright} 2026 IEEE. Published in: 2026 International Symposium on Networks, Computers and Communications (ISNCC), Bristol, UK, 8-10 Sept. 2026. An extended 12-page version is available as v2 of this record</p></details> |
 | **[Introduction to Computer Vision](https://arxiv.org/abs/2609.39627v1)** | 2026-09-30 | <details><summary>217 p...</summary><p>217 pages. For online notes and code, see https://sbirchfield.github.io/cvintro</p></details> |
 | **[PCB-MC: Missing Component Analysis in Printed Circuit Boards](https://arxiv.org/abs/2609.39427v1)** | 2026-09-30 | Preprint |
 | **[AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection](https://arxiv.org/abs/2609.35490v2)** | 2026-09-30 |  |
@@ -72,13 +78,7 @@ labels: documentation
 | **[Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers](https://arxiv.org/abs/2609.39184v1)** | 2026-09-30 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table; Accepted at MICCAI 2026 Workshop CDMRI; Code: https://github.com/Marcus02W/Diffusion-DETR</p></details> |
 | **[Towards Formal Verification of Deep Neural Networks for Object Detection](https://arxiv.org/abs/2407.01295v6)** | 2026-09-30 | <details><summary>NASA ...</summary><p>NASA Formal Methods (NFM) 2026</p></details> |
 | **[Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection](https://arxiv.org/abs/2609.38747v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, including 2 pages of appendix; 9 figures and 4 tables</p></details> |
-| **[Deep Multimodal Fusion Detection through Spatial Mask and Channel Competition](https://arxiv.org/abs/2608.02092v4)** | 2026-09-29 |  |
-| **[Onboard Vision and MPC Navigation for Underwater Robots: An Open BlueROV2 Platform for Multi-Robot Experiments & Docking](https://arxiv.org/abs/2609.38511v1)** | 2026-09-29 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection](https://arxiv.org/abs/2609.38116v1)** | 2026-09-29 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Submitted to IEEE ICASSP 2027</p></details> |
-| **[From Unity Simulation to Diffusion-Based Augmentation: Quantifying Dataset Balance for Robust Object Detection](https://arxiv.org/abs/2609.38010v1)** | 2026-09-29 |  |
-| **[ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding](https://arxiv.org/abs/2609.37801v1)** | 2026-09-29 |  |
-| **[Raw Imagery Impacting Your AI: Should You Care?](https://arxiv.org/abs/2609.38265v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted at OBPDC 2026</p></details> |
-| **[SimFuse3D: Source-Guided Target Simulation and Confidence-Guided Multi-Stage Localization Reweighting for Cross-Platform 3D Object Detection](https://arxiv.org/abs/2609.04886v2)** | 2026-09-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. Submitted to ICRA</p></details> |
+| **[Vmem-$\varphi$: Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics](https://arxiv.org/abs/2610.00350v1)** | 2026-09-29 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

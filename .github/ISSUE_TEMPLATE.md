@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling](https://arxiv.org/abs/2609.32824v2)** | 2026-10-02 |  |
+| **[VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models](https://arxiv.org/abs/2610.03218v1)** | 2026-10-02 |  |
+| **[Open Vocabulary Word Recognition From Transcribed Bangla Texts](https://arxiv.org/abs/2610.01134v2)** | 2026-10-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. Accepted version of the paper published in the 2023 26th International Conference on Computer and Information Technology (ICCIT). Code: https://github.com/FaiasPromit/Open-Vocabulary-Word-Recognition-From-Transcribed-Bangla-Texts.git</p></details> |
+| **[OpenBox: Annotate Any Bounding Boxes in 3D](https://arxiv.org/abs/2512.01352v2)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[ZeBROD: Zero-Retraining Based Recognition and Object Detection Framework](https://arxiv.org/abs/2512.04888v4)** | 2026-10-01 | <details><summary>This ...</summary><p>This manuscript was first submitted to the Journal of Automation and Intelligence. The preprint version was posted to arXiv afterwards to facilitate open access and community feedback</p></details> |
+| **[A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback](https://arxiv.org/abs/2607.09807v4)** | 2026-10-01 |  |
 | **[ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding](https://arxiv.org/abs/2609.37801v2)** | 2026-10-01 |  |
 | **[Localisation-Aware Uncertainty for Pretrained Object Detection](https://arxiv.org/abs/2610.01409v1)** | 2026-10-01 |  |
 | **[Robust Evidential Learning Through Latent Consistency](https://arxiv.org/abs/2610.01384v1)** | 2026-10-01 |  |
-| **[Open Vocabulary Word Recognition From Transcribed Bangla Texts](https://arxiv.org/abs/2610.01134v1)** | 2026-10-01 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. Accepted version of the paper published in the 2023 26th International Conference on Computer and Information Technology (ICCIT). Code: https://github.com/FaiasPromit/Optical-Character-Recognition-From-Handwritten-Bangla-Texts</p></details> |
 | **[Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability](https://arxiv.org/abs/2610.01067v1)** | 2026-10-01 |  |
 | **[Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data](https://arxiv.org/abs/2410.16089v3)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted and published version. \c{opyright} 2026 IEEE. Published in: 2026 International Symposium on Networks, Computers and Communications (ISNCC), Bristol, UK, 8-10 Sept. 2026. An extended 12-page version is available as v2 of this record</p></details> |
 | **[Introduction to Computer Vision](https://arxiv.org/abs/2609.39627v1)** | 2026-09-30 | <details><summary>217 p...</summary><p>217 pages. For online notes and code, see https://sbirchfield.github.io/cvintro</p></details> |
 | **[PCB-MC: Missing Component Analysis in Printed Circuit Boards](https://arxiv.org/abs/2609.39427v1)** | 2026-09-30 | Preprint |
 | **[AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection](https://arxiv.org/abs/2609.35490v2)** | 2026-09-30 |  |
 | **[FORTE: Forecasting Occupancy for Spatiotemporal Risk-Aware Planning in Dynamic Environments](https://arxiv.org/abs/2609.39305v1)** | 2026-09-30 |  |
-| **[Hyperspectral Image Dataset for Benchmarking on Salient Object Detection](https://arxiv.org/abs/1806.11314v3)** | 2026-09-30 | <details><summary>3 pag...</summary><p>3 pages, 3 figures. 2 tables, appeared in the Proceedings of the 10th International Conference on Quality of Multimedia Experience (QoMEX 2018)</p></details> |
-| **[Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers](https://arxiv.org/abs/2609.39184v1)** | 2026-09-30 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table; Accepted at MICCAI 2026 Workshop CDMRI; Code: https://github.com/Marcus02W/Diffusion-DETR</p></details> |
-| **[Towards Formal Verification of Deep Neural Networks for Object Detection](https://arxiv.org/abs/2407.01295v6)** | 2026-09-30 | <details><summary>NASA ...</summary><p>NASA Formal Methods (NFM) 2026</p></details> |
-| **[Consensus-Aware Multi-Source Fusion for Reference-Guided Camouflaged Object Detection](https://arxiv.org/abs/2609.38747v1)** | 2026-09-30 | <details><summary>20 pa...</summary><p>20 pages, including 2 pages of appendix; 9 figures and 4 tables</p></details> |
-| **[Vmem-$\varphi$: Low-Compute Out-of-Distribution Detection in Spiking Neural Networks from Membrane-Potential Statistics](https://arxiv.org/abs/2610.00350v1)** | 2026-09-29 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation](https://arxiv.org/abs/2610.02946v1)** | 2026-10-02 | NeurIPS 2026 E&D |
 | **[DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation](https://arxiv.org/abs/2609.38811v1)** | 2026-09-30 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 8 tables. Accepted at the NeurIPS 2026 Workshop on On-Device Intelligence: Foundation Models under Real-World Constraints (ODI)</p></details> |
 | **[ActiveSAM: Fast and Accurate Open-Vocabulary Semantic Segmentation with Frozen SAM 3](https://arxiv.org/abs/2606.16996v2)** | 2026-09-29 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/VILA-Lab/ActiveSAM</p></details> |
 | **[SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation](https://arxiv.org/abs/2609.37283v1)** | 2026-09-29 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation](https://arxiv.org/abs/2609.21424v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted by ICME 2026, 6 pages, 3 figures. Corresponding authors: Anpeng Wang and Runmin Cong</p></details> |
 | **[Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy](https://arxiv.org/abs/2609.21038v1)** | 2026-09-17 | <details><summary>Peer-...</summary><p>Peer-reviewed and accepted at NeurIPS 2026 LXAI Workshop. Pending presentation/publication at JLXAIR</p></details> |
 | **[Sharpness-Aware Minimization (SAM) Improves Classification Accuracy of Bacterial Raman Spectral Data Enabling Portable Diagnostics](https://arxiv.org/abs/2609.19453v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the ICLR 2024 Workshop on Practical ML for Low Resource Settings (PML4LRS)</p></details> |
-| **[SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM](https://arxiv.org/abs/2609.18037v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 3 tables. Submitted to IEEE ICASSP 2027</p></details> |
 

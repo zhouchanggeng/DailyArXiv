@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v3)** | 2026-10-04 |  |
 | **[FaceLinkGen: A Re-evaluation of Identity Leakage in Privacy-Preserving Face Recognition and Face Anonymization Systems Using Simple Distillation](https://arxiv.org/abs/2602.02914v4)** | 2026-09-29 |  |
-| **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v2)** | 2026-09-27 |  |
 | **[Damnatio Memoriae: Adversarially and Selectively Forgetting Identities in the Embedding Space of Face Recognition Models](https://arxiv.org/abs/2609.27115v1)** | 2026-09-22 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables. This work might be submitted to the IEEE for possible publication</p></details> |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v4)** | 2026-09-22 |  |
 | **[Adversarial Attacks and Identity Leakage in De-Identification Systems: An Empirical Study](https://arxiv.org/abs/2609.27022v1)** | 2026-09-22 |  |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems](https://arxiv.org/abs/2610.06596v1)** | 2026-10-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos](https://arxiv.org/abs/2407.18137v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 22 pages, including supplementary material</p></details> |
+| **[Lightweight and Resource-Efficient Perception for Robotic Guide Dogs](https://arxiv.org/abs/2610.03187v2)** | 2026-10-05 | <details><summary>accep...</summary><p>accepted in ACCV 2026</p></details> |
+| **[AUTOPILOT An Advanced Perception, Localization and Path Planning Techniques for Autonomous Vehicles Using YOLOv7 and MiDaS](https://arxiv.org/abs/2610.06232v1)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published in the 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), IEEE</p></details> |
+| **[Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS](https://arxiv.org/abs/2610.06167v1)** | 2026-10-05 |  |
+| **[GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem](https://arxiv.org/abs/2606.29161v2)** | 2026-10-05 | NeurIPS 2026 |
+| **[De-occluding broadband metalens](https://arxiv.org/abs/2601.19403v2)** | 2026-10-04 |  |
+| **[MGPO: Manifold-Guided Diffusion Alignment for Task-Aware Dataset Distillation](https://arxiv.org/abs/2610.05252v1)** | 2026-10-04 | 32 pages |
+| **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Task-Sensitive Geometry of Representation Transfer for Object Detection under Image Degradation](https://arxiv.org/abs/2610.04627v1)** | 2026-10-03 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 1 table</p></details> |
+| **[Any-scale Object Detection using Arbitrary-scaled Images](https://arxiv.org/abs/2610.04346v1)** | 2026-10-03 | MVA2025. 6 pages |
+| **[MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models](https://arxiv.org/abs/2606.06696v2)** | 2026-10-02 | <details><summary>Expan...</summary><p>Expanded model results, revised evaluation description, and updated supplementary material</p></details> |
 | **[Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling](https://arxiv.org/abs/2609.32824v2)** | 2026-10-02 |  |
 | **[VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models](https://arxiv.org/abs/2610.03218v1)** | 2026-10-02 |  |
 | **[Open Vocabulary Word Recognition From Transcribed Bangla Texts](https://arxiv.org/abs/2610.01134v2)** | 2026-10-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. Accepted version of the paper published in the 2023 26th International Conference on Computer and Information Technology (ICCIT). Code: https://github.com/FaiasPromit/Open-Vocabulary-Word-Recognition-From-Transcribed-Bangla-Texts.git</p></details> |
-| **[OpenBox: Annotate Any Bounding Boxes in 3D](https://arxiv.org/abs/2512.01352v2)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[ZeBROD: Zero-Retraining Based Recognition and Object Detection Framework](https://arxiv.org/abs/2512.04888v4)** | 2026-10-01 | <details><summary>This ...</summary><p>This manuscript was first submitted to the Journal of Automation and Intelligence. The preprint version was posted to arXiv afterwards to facilitate open access and community feedback</p></details> |
-| **[A Biomimetic Myoelectric Tentacle Prosthesis with Sensorless Object Detection and Vibrotactile Feedback](https://arxiv.org/abs/2607.09807v4)** | 2026-10-01 |  |
-| **[ByteTraX: Enhancing the ByteTrack Architecture with Optimised Thresholding](https://arxiv.org/abs/2609.37801v2)** | 2026-10-01 |  |
-| **[Localisation-Aware Uncertainty for Pretrained Object Detection](https://arxiv.org/abs/2610.01409v1)** | 2026-10-01 |  |
-| **[Robust Evidential Learning Through Latent Consistency](https://arxiv.org/abs/2610.01384v1)** | 2026-10-01 |  |
-| **[Online Planning for Sparse Ground Target Search from a High-Altitude UAV under Partial Observability](https://arxiv.org/abs/2610.01067v1)** | 2026-10-01 |  |
-| **[Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data](https://arxiv.org/abs/2410.16089v3)** | 2026-09-30 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted and published version. \c{opyright} 2026 IEEE. Published in: 2026 International Symposium on Networks, Computers and Communications (ISNCC), Bristol, UK, 8-10 Sept. 2026. An extended 12-page version is available as v2 of this record</p></details> |
-| **[Introduction to Computer Vision](https://arxiv.org/abs/2609.39627v1)** | 2026-09-30 | <details><summary>217 p...</summary><p>217 pages. For online notes and code, see https://sbirchfield.github.io/cvintro</p></details> |
-| **[PCB-MC: Missing Component Analysis in Printed Circuit Boards](https://arxiv.org/abs/2609.39427v1)** | 2026-09-30 | Preprint |
-| **[AHMAD: Adaptive Hybrid Multi-task Vision Learning with Assisted Distillation for Keypoint Detection](https://arxiv.org/abs/2609.35490v2)** | 2026-09-30 |  |
-| **[FORTE: Forecasting Occupancy for Spatiotemporal Risk-Aware Planning in Dynamic Environments](https://arxiv.org/abs/2609.39305v1)** | 2026-09-30 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

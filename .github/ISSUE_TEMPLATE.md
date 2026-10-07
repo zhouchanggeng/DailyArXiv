@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Space-Agnostic Visual Game Analytics Tool with Adaptive Spatial Reconstruction for Mixed Reality Game Development](https://arxiv.org/abs/2610.08619v1)** | 2026-10-06 |  |
+| **[Sparse2comm: Towards Robust Cooperative 3D Object Detection](https://arxiv.org/abs/2610.08573v1)** | 2026-10-06 | <details><summary>15 pa...</summary><p>15 pages. Code: https://github.com/yanglei18/Sparse2comm</p></details> |
+| **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v2)** | 2026-10-06 |  |
+| **[Practical Feasibility of Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2508.19819v3)** | 2026-10-06 | <details><summary>v3: r...</summary><p>v3: revised manuscript; expanded experiments; added new feasibility probe;</p></details> |
+| **[Supermarket Product Detection and Recognition: Utilizing Deep Learning with Rectified Imagery](https://arxiv.org/abs/2610.08126v1)** | 2026-10-06 | <details><summary>10 Pa...</summary><p>10 Pages, 7 Figures, 5 Tables</p></details> |
+| **[Attention from Above: A Multimodal Model for Drone-Based Object Localization](https://arxiv.org/abs/2607.17669v2)** | 2026-10-06 | <details><summary>Publi...</summary><p>Published in the International Journal of Interactive Mobile Technologies</p></details> |
 | **[Analysis of SWIR Imaging Detection Performance Under Adverse Environmental Conditions for Autonomous Driving Systems](https://arxiv.org/abs/2610.06596v1)** | 2026-10-05 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
 | **[XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos](https://arxiv.org/abs/2407.18137v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 22 pages, including supplementary material</p></details> |
 | **[Lightweight and Resource-Efficient Perception for Robotic Guide Dogs](https://arxiv.org/abs/2610.03187v2)** | 2026-10-05 | <details><summary>accep...</summary><p>accepted in ACCV 2026</p></details> |
@@ -73,12 +79,6 @@ labels: documentation
 | **[De-occluding broadband metalens](https://arxiv.org/abs/2601.19403v2)** | 2026-10-04 |  |
 | **[MGPO: Manifold-Guided Diffusion Alignment for Task-Aware Dataset Distillation](https://arxiv.org/abs/2610.05252v1)** | 2026-10-04 | 32 pages |
 | **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Task-Sensitive Geometry of Representation Transfer for Object Detection under Image Degradation](https://arxiv.org/abs/2610.04627v1)** | 2026-10-03 | <details><summary>20 pa...</summary><p>20 pages, 5 figures, 1 table</p></details> |
-| **[Any-scale Object Detection using Arbitrary-scaled Images](https://arxiv.org/abs/2610.04346v1)** | 2026-10-03 | MVA2025. 6 pages |
-| **[MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models](https://arxiv.org/abs/2606.06696v2)** | 2026-10-02 | <details><summary>Expan...</summary><p>Expanded model results, revised evaluation description, and updated supplementary material</p></details> |
-| **[Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling](https://arxiv.org/abs/2609.32824v2)** | 2026-10-02 |  |
-| **[VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models](https://arxiv.org/abs/2610.03218v1)** | 2026-10-02 |  |
-| **[Open Vocabulary Word Recognition From Transcribed Bangla Texts](https://arxiv.org/abs/2610.01134v2)** | 2026-10-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 5 tables. Accepted version of the paper published in the 2023 26th International Conference on Computer and Information Technology (ICCIT). Code: https://github.com/FaiasPromit/Open-Vocabulary-Word-Recognition-From-Transcribed-Bangla-Texts.git</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hard, Yet Reducible: Controlled Forward Transfer for Synthetic Degradation Curation](https://arxiv.org/abs/2610.09849v1)** | 2026-10-07 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 9 tables</p></details> |
+| **[Concentration, Not Uncertainty: Why Targeted Synthetic Data Doesn't Help Camouflaged Object Detection](https://arxiv.org/abs/2610.09807v1)** | 2026-10-07 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 12 tables</p></details> |
+| **[LiG-DETR: Local-in-Global Reassembly in Latent Space for Aerial Object Detection](https://arxiv.org/abs/2610.09511v1)** | 2026-10-07 |  |
+| **[Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection](https://arxiv.org/abs/2603.13357v2)** | 2026-10-06 | <details><summary>10 pa...</summary><p>10 pages, 8 tables, 4 figures</p></details> |
+| **[mbariml: a curation pipeline for turning deep-sea imagery and video into object-detection training data](https://arxiv.org/abs/2609.25500v2)** | 2026-10-06 |  |
 | **[A Space-Agnostic Visual Game Analytics Tool with Adaptive Spatial Reconstruction for Mixed Reality Game Development](https://arxiv.org/abs/2610.08619v1)** | 2026-10-06 |  |
 | **[Sparse2comm: Towards Robust Cooperative 3D Object Detection](https://arxiv.org/abs/2610.08573v1)** | 2026-10-06 | <details><summary>15 pa...</summary><p>15 pages. Code: https://github.com/yanglei18/Sparse2comm</p></details> |
 | **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v2)** | 2026-10-06 |  |
@@ -74,11 +79,6 @@ labels: documentation
 | **[XS-VID: A Large-Scale Benchmark for Small Object Detection and Tracking in Videos](https://arxiv.org/abs/2407.18137v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 22 pages, including supplementary material</p></details> |
 | **[Lightweight and Resource-Efficient Perception for Robotic Guide Dogs](https://arxiv.org/abs/2610.03187v2)** | 2026-10-05 | <details><summary>accep...</summary><p>accepted in ACCV 2026</p></details> |
 | **[AUTOPILOT An Advanced Perception, Localization and Path Planning Techniques for Autonomous Vehicles Using YOLOv7 and MiDaS](https://arxiv.org/abs/2610.06232v1)** | 2026-10-05 | <details><summary>Publi...</summary><p>Published in the 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), IEEE</p></details> |
-| **[Bayesian Optimization in Sequence-to-Architecture Latent Space for Zero-Shot NAS](https://arxiv.org/abs/2610.06167v1)** | 2026-10-05 |  |
-| **[GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem](https://arxiv.org/abs/2606.29161v2)** | 2026-10-05 | NeurIPS 2026 |
-| **[De-occluding broadband metalens](https://arxiv.org/abs/2601.19403v2)** | 2026-10-04 |  |
-| **[MGPO: Manifold-Guided Diffusion Alignment for Task-Aware Dataset Distillation](https://arxiv.org/abs/2610.05252v1)** | 2026-10-04 | 32 pages |
-| **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

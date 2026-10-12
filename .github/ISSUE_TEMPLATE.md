@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,7 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware](https://arxiv.org/abs/2610.12182v1)** | 2026-10-08 | <details><summary>8 pag...</summary><p>8 pages. Accepted at the 10th On-Board Payload Data Compression Workshop (OBPDC 2026), Barcelona, Spain, 12-14 October 2026</p></details> |
+| **[Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection](https://arxiv.org/abs/2610.13891v1)** | 2026-10-09 | <details><summary>IROS ...</summary><p>IROS 2026, 8 pages, 8 figures</p></details> |
+| **[Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation](https://arxiv.org/abs/2610.13697v1)** | 2026-10-09 | <details><summary>21 pa...</summary><p>21 pages total, previously published at Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Volume 14046</p></details> |
+| **[Leveraging Motion Estimation for Efficient Bayer-Domain Video Convolutional Networks](https://arxiv.org/abs/2501.15119v3)** | 2026-10-09 |  |
+| **[AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware](https://arxiv.org/abs/2610.12182v2)** | 2026-10-09 | <details><summary>8 pag...</summary><p>8 pages. Accepted at the 10th On-Board Payload Data Compression Workshop (OBPDC 2026), Barcelona, Spain, 12-14 October 2026</p></details> |
+| **[Object Concepts Emerge from Motion](https://arxiv.org/abs/2609.04348v2)** | 2026-10-09 |  |
+| **[JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning](https://arxiv.org/abs/2610.12901v1)** | 2026-10-09 |  |
 | **[Reliability Characterization for N-version Object Detection](https://arxiv.org/abs/2610.12149v1)** | 2026-10-08 | <details><summary>12pag...</summary><p>12pages, 6 figures, accepted to ISSRE 2026</p></details> |
 | **[What Output-Only Review Cannot Verify: Study Contracts for Research Agents](https://arxiv.org/abs/2610.11754v1)** | 2026-10-08 | <details><summary>15 pa...</summary><p>15 pages, 4 tables. Preprint. Not peer reviewed. Companion manuscripts prepared in parallel</p></details> |
 | **[RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models](https://arxiv.org/abs/2510.25257v2)** | 2026-10-08 |  |
@@ -74,15 +79,11 @@ labels: documentation
 | **[Concentration, Not Uncertainty: Why Targeted Synthetic Data Doesn't Help Camouflaged Object Detection](https://arxiv.org/abs/2610.09807v1)** | 2026-10-07 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 12 tables</p></details> |
 | **[LiG-DETR: Local-in-Global Reassembly in Latent Space for Aerial Object Detection](https://arxiv.org/abs/2610.09511v1)** | 2026-10-07 |  |
 | **[Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection](https://arxiv.org/abs/2603.13357v2)** | 2026-10-06 | <details><summary>10 pa...</summary><p>10 pages, 8 tables, 4 figures</p></details> |
-| **[mbariml: a curation pipeline for turning deep-sea imagery and video into object-detection training data](https://arxiv.org/abs/2609.25500v2)** | 2026-10-06 |  |
-| **[A Space-Agnostic Visual Game Analytics Tool with Adaptive Spatial Reconstruction for Mixed Reality Game Development](https://arxiv.org/abs/2610.08619v1)** | 2026-10-06 |  |
-| **[Sparse2comm: Towards Robust Cooperative 3D Object Detection](https://arxiv.org/abs/2610.08573v1)** | 2026-10-06 | <details><summary>15 pa...</summary><p>15 pages. Code: https://github.com/yanglei18/Sparse2comm</p></details> |
-| **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v2)** | 2026-10-06 |  |
-| **[Practical Feasibility of Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2508.19819v3)** | 2026-10-06 | <details><summary>v3: r...</summary><p>v3: revised manuscript; expanded experiments; added new feasibility probe;</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction](https://arxiv.org/abs/2610.12786v1)** | 2026-10-08 |  |
 | **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604v2)** | 2026-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Oral. Project website: https://georgehux.com/SAM3D-Animal-project-page/</p></details> |
 | **[When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation](https://arxiv.org/abs/2610.02946v1)** | 2026-10-02 | NeurIPS 2026 E&D |
 | **[DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation](https://arxiv.org/abs/2609.38811v1)** | 2026-09-30 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 8 tables. Accepted at the NeurIPS 2026 Workshop on On-Device Intelligence: Foundation Models under Real-World Constraints (ODI)</p></details> |
@@ -97,5 +98,4 @@ labels: documentation
 | **[ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation](https://arxiv.org/abs/2607.27585v2)** | 2026-09-21 |  |
 | **[SRPR-Net: Semantic and Relational Prompt Refinement for Automated SAM-based Instance Segmentation](https://arxiv.org/abs/2609.24226v1)** | 2026-09-21 |  |
 | **[P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation](https://arxiv.org/abs/2609.21424v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted by ICME 2026, 6 pages, 3 figures. Corresponding authors: Anpeng Wang and Runmin Cong</p></details> |
-| **[Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy](https://arxiv.org/abs/2609.21038v1)** | 2026-09-17 | <details><summary>Peer-...</summary><p>Peer-reviewed and accepted at NeurIPS 2026 LXAI Workshop. Pending presentation/publication at JLXAIR</p></details> |
 

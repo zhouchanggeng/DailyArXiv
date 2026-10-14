@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection](https://arxiv.org/abs/2603.01498v3)** | 2026-10-11 |  |
 | **[Dino Forcing Flow Models: Do not denoise what you can predict](https://arxiv.org/abs/2610.11751v1)** | 2026-10-08 |  |
 | **[Dyna-DINO: Efficient ViT Distillation Via Adaptive Representation Anchoring](https://arxiv.org/abs/2606.19483v2)** | 2026-10-01 |  |
 | **[Two Global Crops Suffice: Locating Semantic Emergence in DINO-Style Self-Supervised Learning](https://arxiv.org/abs/2609.28187v1)** | 2026-09-23 |  |
@@ -21,14 +22,16 @@ labels: documentation
 | **[DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing](https://arxiv.org/abs/2607.20900v1)** | 2026-07-23 | accepted to IJCB2026 |
 | **[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/abs/2507.19474v2)** | 2026-07-16 |  |
 | **[AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow](https://arxiv.org/abs/2607.13250v1)** | 2026-07-14 |  |
-| **[Pseudo-Text-Conditioned 3D Grounding DINO for Organ Localization in Abdominal CT](https://arxiv.org/abs/2606.27084v1)** | 2026-06-25 | 24 pages, 17 figures |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v4)** | 2026-10-13 |  |
+| **[SSM-Attack: Learning Where to Perturb for Black-Box Face Privacy](https://arxiv.org/abs/2610.17323v1)** | 2026-10-12 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, 6 tables. Preprint submitted to Pattern Recognition</p></details> |
+| **[A Multi-Task Deep Learning Framework for Pose-Invariant Face Recognition and Facial Landmark Localization](https://arxiv.org/abs/2610.16849v1)** | 2026-10-12 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 table</p></details> |
+| **[Facial Recognition Leveraging Generative Adversarial Networks](https://arxiv.org/abs/2505.11884v3)** | 2026-10-11 |  |
 | **[Adaptive Adversarial Augmentation for Controllable Face Synthesis](https://arxiv.org/abs/2610.11356v1)** | 2026-10-08 |  |
 | **[Expression-Diverse References for Identity-Preserving Video Generation](https://arxiv.org/abs/2610.11023v1)** | 2026-10-08 | 9 pages, 8 figures |
-| **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v3)** | 2026-10-04 |  |
 | **[FaceLinkGen: A Re-evaluation of Identity Leakage in Privacy-Preserving Face Recognition and Face Anonymization Systems Using Simple Distillation](https://arxiv.org/abs/2602.02914v4)** | 2026-09-29 |  |
 | **[Damnatio Memoriae: Adversarially and Selectively Forgetting Identities in the Embedding Space of Face Recognition Models](https://arxiv.org/abs/2609.27115v1)** | 2026-09-22 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables. This work might be submitted to the IEEE for possible publication</p></details> |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v4)** | 2026-09-22 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation](https://arxiv.org/abs/2606.00380v3)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at WIPE-OUT 2026, the 2nd Workshop on Machine Unlearning and Privacy Preservation, co-located with ECML-PKDD 2026, Naples, Italy. Camera-ready version. 16 pages. Code available at https://github.com/pedroandreou/supreme-unlearning</p></details> |
 | **[Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition](https://arxiv.org/abs/2609.21879v1)** | 2026-09-18 | 11 pages |
 | **[A Comparative Transfer-Learning Study of CNN Backbones for Partial Face Recognition on the SoF Dataset](https://arxiv.org/abs/2609.31677v1)** | 2026-09-16 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 3 tables, accepted at The 6th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME 2026)</p></details> |
-| **[Learning Steadily: Accumulating Relative Point Margin Scores for Face Image Quality Assessment](https://arxiv.org/abs/2609.31662v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Biometrics, Behavior, and Identity Science</p></details> |
-| **[DenseFace: Bias Mitigation in Face Recognition via Density-Aware Probabilistic Matching](https://arxiv.org/abs/2609.16149v1)** | 2026-09-14 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Accepted at IEEE/IAPR International Joint Conference on Biometrics (IJCB) 2026</p></details> |
-| **[Online Video Agent Harness for Long Video Understanding](https://arxiv.org/abs/2609.12818v1)** | 2026-09-11 | <details><summary>35pag...</summary><p>35pages, 12 tables, 10 figures</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,27 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection](https://arxiv.org/abs/2610.13891v1)** | 2026-10-09 | <details><summary>IROS ...</summary><p>IROS 2026, 8 pages, 8 figures</p></details> |
-| **[Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation](https://arxiv.org/abs/2610.13697v1)** | 2026-10-09 | <details><summary>21 pa...</summary><p>21 pages total, previously published at Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, Volume 14046</p></details> |
-| **[Leveraging Motion Estimation for Efficient Bayer-Domain Video Convolutional Networks](https://arxiv.org/abs/2501.15119v3)** | 2026-10-09 |  |
-| **[AI-Based On-Board Maritime Object Detection for Earth Observation Payload Data Reduction on Versal Embedded Hardware](https://arxiv.org/abs/2610.12182v2)** | 2026-10-09 | <details><summary>8 pag...</summary><p>8 pages. Accepted at the 10th On-Board Payload Data Compression Workshop (OBPDC 2026), Barcelona, Spain, 12-14 October 2026</p></details> |
-| **[Object Concepts Emerge from Motion](https://arxiv.org/abs/2609.04348v2)** | 2026-10-09 |  |
-| **[JMT-YOLO: Multi-task Domain Adaptation via Segmentation-Guided Consistency Learning](https://arxiv.org/abs/2610.12901v1)** | 2026-10-09 |  |
-| **[Reliability Characterization for N-version Object Detection](https://arxiv.org/abs/2610.12149v1)** | 2026-10-08 | <details><summary>12pag...</summary><p>12pages, 6 figures, accepted to ISSRE 2026</p></details> |
-| **[What Output-Only Review Cannot Verify: Study Contracts for Research Agents](https://arxiv.org/abs/2610.11754v1)** | 2026-10-08 | <details><summary>15 pa...</summary><p>15 pages, 4 tables. Preprint. Not peer reviewed. Companion manuscripts prepared in parallel</p></details> |
-| **[RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models](https://arxiv.org/abs/2510.25257v2)** | 2026-10-08 |  |
-| **[RoboAug: One Annotation to Hundreds of Scenes via Region-Contrastive Data Augmentation for Robotic Manipulation](https://arxiv.org/abs/2602.14032v2)** | 2026-10-08 |  |
-| **[Comparing Object Detection Models for Electrical Substation Component Mapping](https://arxiv.org/abs/2512.22454v2)** | 2026-10-08 | 42 pages, 6 figures |
-| **[Hard, Yet Reducible: Controlled Forward Transfer for Synthetic Degradation Curation](https://arxiv.org/abs/2610.09849v1)** | 2026-10-07 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 9 tables</p></details> |
-| **[Concentration, Not Uncertainty: Why Targeted Synthetic Data Doesn't Help Camouflaged Object Detection](https://arxiv.org/abs/2610.09807v1)** | 2026-10-07 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 12 tables</p></details> |
-| **[LiG-DETR: Local-in-Global Reassembly in Latent Space for Aerial Object Detection](https://arxiv.org/abs/2610.09511v1)** | 2026-10-07 |  |
-| **[Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection](https://arxiv.org/abs/2603.13357v2)** | 2026-10-06 | <details><summary>10 pa...</summary><p>10 pages, 8 tables, 4 figures</p></details> |
+| **[Context-aware Bayesian Fusion for Multimodal Object Detection](https://arxiv.org/abs/2610.18741v1)** | 2026-10-13 |  |
+| **[CryoTracer: A Synthetic-to-Real System for Filament Instance Tracing in Cryo-EM](https://arxiv.org/abs/2610.18696v1)** | 2026-10-13 |  |
+| **[Prompt-Segmentation Meets ROI Encryption: Fine-Grained Video Protection Based on Diffusion Isolation](https://arxiv.org/abs/2610.18558v1)** | 2026-10-13 |  |
+| **[Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar](https://arxiv.org/abs/2610.18417v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at the 18th IEEE Symposium Sensor Data Fusion: Trends, Solutions and Applications (SDF 2026), Bonn, Germany</p></details> |
+| **[Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms](https://arxiv.org/abs/2610.17762v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at the 2026 Asia-Pacific Solar Research Conference (APSRC 2026), Canberra, Australia, 1-3 December 2026</p></details> |
+| **[InSight: A Mobile Assistant Helping Visually Impaired People Navigate Unfamiliar Environment](https://arxiv.org/abs/2610.17660v1)** | 2026-10-13 |  |
+| **[Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree](https://arxiv.org/abs/2610.16906v1)** | 2026-10-12 |  |
+| **[Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2506.11804v2)** | 2026-10-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Vehicular Technology</p></details> |
+| **[Hoeffding Concept Bottleneck Models with Applications to Overhead Images](https://arxiv.org/abs/2606.00082v2)** | 2026-10-12 |  |
+| **[Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2610.16012v1)** | 2026-10-12 | 25 pages |
+| **[Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation](https://arxiv.org/abs/2610.15763v1)** | 2026-10-11 |  |
+| **[Squeeze-Aware-YOLO: Early Channel Recalibration and Multi-Scale Fusion for Real-Time Traffic Sign Detection](https://arxiv.org/abs/2610.15604v1)** | 2026-10-11 | <details><summary>Accep...</summary><p>Accepted at DICTA 2026 (International Conference on Digital Image Computing: Techniques and Applications, Sydney, Australia). 8 pages, 7 figures, 6 tables</p></details> |
+| **[A text-guided vision model for enhanced recognition of small instances](https://arxiv.org/abs/2602.19503v2)** | 2026-10-11 | <details><summary>Publi...</summary><p>Published in the Applied Computer Science (ACS), 2026</p></details> |
+| **[VLCQ: Post-training quantization for deep neural networks using variable length coding](https://arxiv.org/abs/2610.15092v1)** | 2026-10-10 | <details><summary>Publi...</summary><p>Published in Future Generation Computer Systems, Volume 166 (2025), Article 107654</p></details> |
+| **[RingMoClaw: An Experience-Inspired Multi-Agent Framework for Self-Evolving Research in Remote Sensing](https://arxiv.org/abs/2609.00814v3)** | 2026-10-10 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](https://arxiv.org/abs/2507.11906v2)** | 2026-10-13 |  |
+| **[BaT-SAM: Introducing Inductive Bias into SAM via a Mixture of Convolutional Experts for Brain Tumor Segmentation](https://arxiv.org/abs/2610.15330v1)** | 2026-10-11 |  |
 | **[Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction](https://arxiv.org/abs/2610.12786v1)** | 2026-10-08 |  |
 | **[SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild](https://arxiv.org/abs/2605.07604v2)** | 2026-10-08 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Oral. Project website: https://georgehux.com/SAM3D-Animal-project-page/</p></details> |
 | **[When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation](https://arxiv.org/abs/2610.02946v1)** | 2026-10-02 | NeurIPS 2026 E&D |
@@ -96,6 +98,4 @@ labels: documentation
 | **[LiAM-SAM: Lifecycle-Aware Memory for Robust SAM2-Based MOT](https://arxiv.org/abs/2609.28078v1)** | 2026-09-23 |  |
 | **[SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation](https://arxiv.org/abs/2609.25490v1)** | 2026-09-21 |  |
 | **[ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation](https://arxiv.org/abs/2607.27585v2)** | 2026-09-21 |  |
-| **[SRPR-Net: Semantic and Relational Prompt Refinement for Automated SAM-based Instance Segmentation](https://arxiv.org/abs/2609.24226v1)** | 2026-09-21 |  |
-| **[P$^3$-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation](https://arxiv.org/abs/2609.21424v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted by ICME 2026, 6 pages, 3 figures. Corresponding authors: Anpeng Wang and Runmin Cong</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization](https://arxiv.org/abs/2610.21780v1)** | 2026-10-15 |  |
 | **[Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection](https://arxiv.org/abs/2603.01498v3)** | 2026-10-11 |  |
 | **[Dino Forcing Flow Models: Do not denoise what you can predict](https://arxiv.org/abs/2610.11751v1)** | 2026-10-08 |  |
 | **[Dyna-DINO: Efficient ViT Distillation Via Adaptive Representation Anchoring](https://arxiv.org/abs/2606.19483v2)** | 2026-10-01 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[DINO-3DRA: Leveraging 2D Foundation Model Semantics for 3D Cerebral Aneurysm Segmentation](https://arxiv.org/abs/2608.07767v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing](https://arxiv.org/abs/2607.20900v1)** | 2026-07-23 | accepted to IJCB2026 |
 | **[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/abs/2507.19474v2)** | 2026-07-16 |  |
-| **[AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow](https://arxiv.org/abs/2607.13250v1)** | 2026-07-14 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -45,9 +45,9 @@ labels: documentation
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v3)** | 2026-10-15 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
 | **[VideoPulse: Neonatal heart rate and peripheral capillary oxygen saturation (SpO2) estimation from contact free video](https://arxiv.org/abs/2602.23771v4)** | 2026-09-18 | <details><summary>Revis...</summary><p>Revised manuscript with updated methodology, figures, evaluation details, references, ethics and data availability statements. The manuscript has been aligned with the version being prepared for submission to an IEEE Journal</p></details> |
 | **[Anisotropic Green Coordinates](https://arxiv.org/abs/2512.20386v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH Asia 2026 Journal Track</p></details> |
-| **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v2)** | 2026-08-10 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
 | **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
 | **[BIDO: A Biometric Identity Online Authentication Framework](https://arxiv.org/abs/2605.16908v1)** | 2026-05-16 |  |
 | **[MVB-Grasp: Minimum-Volume-Box Filtering of Diffusion-based Grasps for Frontal Manipulation](https://arxiv.org/abs/2605.09672v1)** | 2026-05-10 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, accepted to IJCNN 2026</p></details> |
@@ -64,8 +64,14 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auditing Metrics for Synthetic Data Utility: A Cross-Domain Study of Appearance and Geometry](https://arxiv.org/abs/2605.22467v2)** | 2026-10-15 |  |
+| **[Where, How, and When: Query-Guided Grounding for Video Understanding](https://arxiv.org/abs/2610.21422v1)** | 2026-10-15 |  |
+| **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v2)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots](https://arxiv.org/abs/2610.21222v1)** | 2026-10-15 | 26 pages, 7 Figures |
+| **[The Re-Label Method For Data-Centric Machine Learning](https://arxiv.org/abs/2302.04391v11)** | 2026-10-15 |  |
 | **[ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality](https://arxiv.org/abs/2610.19998v1)** | 2026-10-14 |  |
 | **[Quantifying Annotation Agreement in Object Detection with Optimal Transport](https://arxiv.org/abs/2610.19912v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026</p></details> |
+| **[Out-of-Distribution Object Detection in Street Scenes via Synthetic Outlier Exposure and Transfer Learning](https://arxiv.org/abs/2603.16122v2)** | 2026-10-14 |  |
 | **[F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation](https://arxiv.org/abs/2610.19618v1)** | 2026-10-14 |  |
 | **[MonoMIP: Multi-Height Inverse Perspective Mapping for Monocular 3D Object Detection](https://arxiv.org/abs/2610.19071v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 18 pages main paper and 14 pages supplementary material</p></details> |
 | **[Context-aware Bayesian Fusion for Multimodal Object Detection](https://arxiv.org/abs/2610.18741v1)** | 2026-10-13 |  |
@@ -73,12 +79,6 @@ labels: documentation
 | **[Prompt-Segmentation Meets ROI Encryption: Fine-Grained Video Protection Based on Diffusion Isolation](https://arxiv.org/abs/2610.18558v1)** | 2026-10-13 |  |
 | **[Resource-Efficient 3D Shape and Orientation Estimation of Road Users using Roadside RGB Camera and 3D Radar](https://arxiv.org/abs/2610.18417v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at the 18th IEEE Symposium Sensor Data Fusion: Trends, Solutions and Applications (SDF 2026), Bonn, Germany</p></details> |
 | **[Autonomous 3D Visual-Thermal Inspection for Utility-Scale Solar Farms](https://arxiv.org/abs/2610.17762v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted at the 2026 Asia-Pacific Solar Research Conference (APSRC 2026), Canberra, Australia, 1-3 December 2026</p></details> |
-| **[InSight: A Mobile Assistant Helping Visually Impaired People Navigate Unfamiliar Environment](https://arxiv.org/abs/2610.17660v1)** | 2026-10-13 |  |
-| **[Mining Cross-Modal Perception Gaps in Autonomous Driving: When Camera and LiDAR Disagree](https://arxiv.org/abs/2610.16906v1)** | 2026-10-12 |  |
-| **[Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2506.11804v2)** | 2026-10-12 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Vehicular Technology</p></details> |
-| **[Hoeffding Concept Bottleneck Models with Applications to Overhead Images](https://arxiv.org/abs/2606.00082v2)** | 2026-10-12 |  |
-| **[Adversarial Robustness of Camera-Radar Sensor Fusion for Autonomous Driving](https://arxiv.org/abs/2610.16012v1)** | 2026-10-12 | 25 pages |
-| **[Competitive Task Allocation with Temporal Proposal Windows and Improved Artificial Potential Fields for Dual-Arm Industrial Manipulation](https://arxiv.org/abs/2610.15763v1)** | 2026-10-11 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

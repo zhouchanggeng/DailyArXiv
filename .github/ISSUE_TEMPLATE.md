@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2026
+title: Latest 15 Papers - October 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark](https://arxiv.org/abs/2610.24832v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
+| **[Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics](https://arxiv.org/abs/2610.24238v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV (Winter Conference on Applications for Computer Vision) 2027</p></details> |
 | **[A Deeper Dive into the Irreversibility of PolyProtect: Making Protected Face Templates Harder to Invert](https://arxiv.org/abs/2605.03857v2)** | 2026-10-16 | <details><summary>Re-su...</summary><p>Re-submitted to TIFS journal after major revisions, on 6 October 2026 (under review). Added Sections V.B - V.D</p></details> |
 | **[A Valid Watermark Is Not a Valid Identity: Spatial-Spectral Adversarial Face Evasion with Watermark Preservation](https://arxiv.org/abs/2610.20278v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB 2026)</p></details> |
 | **[Learning Late, Guiding Early: Timestep-Decoupled Semantic Guidance for Fair Face Generation](https://arxiv.org/abs/2608.25862v3)** | 2026-10-14 |  |
@@ -39,13 +41,11 @@ labels: documentation
 | **[Damnatio Memoriae: Adversarially and Selectively Forgetting Identities in the Embedding Space of Face Recognition Models](https://arxiv.org/abs/2609.27115v1)** | 2026-09-22 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables. This work might be submitted to the IEEE for possible publication</p></details> |
 | **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v4)** | 2026-09-22 |  |
 | **[Adversarial Attacks and Identity Leakage in De-Identification Systems: An Empirical Study](https://arxiv.org/abs/2609.27022v1)** | 2026-09-22 |  |
-| **[StyleAT: Defending Face Recognition Against Semantic Attacks](https://arxiv.org/abs/2609.23596v1)** | 2026-09-20 | <details><summary>Accep...</summary><p>Accepted at the 37th British Machine Vision Conference (BMVC 2026), Lancaster, UK. 14 pages main text plus 13 pages of appendices, 15 figures, 12 tables</p></details> |
-| **[Towards Robust Classroom Attendance: A Comprehensive Evaluation of Face Detection and Recognition Models](https://arxiv.org/abs/2609.22750v1)** | 2026-09-19 | <details><summary>6 pag...</summary><p>6 pages, 5 figures. Accepted at the International Conference on Converging Intelligence (CICON 2026), Track 1: Artificial Intelligence and Data Science</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v3)** | 2026-10-15 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
+| **[HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model](https://arxiv.org/abs/2505.18469v4)** | 2026-10-18 | <details><summary>Publi...</summary><p>Published at ACM MM 2026</p></details> |
 | **[VideoPulse: Neonatal heart rate and peripheral capillary oxygen saturation (SpO2) estimation from contact free video](https://arxiv.org/abs/2602.23771v4)** | 2026-09-18 | <details><summary>Revis...</summary><p>Revised manuscript with updated methodology, figures, evaluation details, references, ethics and data availability statements. The manuscript has been aligned with the version being prepared for submission to an IEEE Journal</p></details> |
 | **[Anisotropic Green Coordinates](https://arxiv.org/abs/2512.20386v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH Asia 2026 Journal Track</p></details> |
 | **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](https://arxiv.org/abs/2606.12378v1)** | 2026-06-10 | 8 pages, 4 figures |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-form Video-to-Text Summarization using Recursive Language Models](https://arxiv.org/abs/2610.26431v1)** | 2026-10-19 | <details><summary>Paper...</summary><p>Paper currently under review</p></details> |
+| **[Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection](https://arxiv.org/abs/2610.26170v1)** | 2026-10-19 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables. Presented at IEEE ISAIA 2026</p></details> |
+| **[RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion](https://arxiv.org/abs/2610.26090v1)** | 2026-10-19 |  |
+| **[SF-Mamba: Rethinking State Space Model for Vision](https://arxiv.org/abs/2603.16423v2)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to ICML2026. Code: https://github.com/sony/SF-Mamba</p></details> |
+| **[Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection](https://arxiv.org/abs/2610.25535v1)** | 2026-10-18 |  |
+| **[AsyncBEV: Cross-modal Flow Alignment in Asynchronous 3D Object Detection](https://arxiv.org/abs/2601.12994v2)** | 2026-10-18 | <details><summary>Camer...</summary><p>Camera-ready version, ICLR 2026. 17 pages, 7 figures. Project page: https://tudelft-iv.github.io/AsyncBEV/</p></details> |
+| **[SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection](https://arxiv.org/abs/2610.24814v1)** | 2026-10-17 |  |
+| **[MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection](https://arxiv.org/abs/2605.14781v2)** | 2026-10-17 |  |
+| **[Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weather Conditions--Extended Version](https://arxiv.org/abs/2610.24532v1)** | 2026-10-17 | <details><summary>20 pa...</summary><p>20 pages. An extended version of "Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weather Conditions" accepted at NeurIPS 2026</p></details> |
+| **[MLLM-Guided Autonomous Object Detection for Open-World Understanding](https://arxiv.org/abs/2507.10844v2)** | 2026-10-17 |  |
 | **[SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks](https://arxiv.org/abs/2610.23046v1)** | 2026-10-16 |  |
+| **[CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents](https://arxiv.org/abs/2610.24016v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
 | **[TriSAR-3D and PaintFusion: A Novel Trimodal LiDAR-RGB-Thermal Dataset and Method for 3D Person Detection in Search and Rescue](https://arxiv.org/abs/2610.22509v1)** | 2026-10-15 |  |
 | **[Auditing Metrics for Synthetic Data Utility: A Cross-Domain Study of Appearance and Geometry](https://arxiv.org/abs/2605.22467v2)** | 2026-10-15 |  |
 | **[Where, How, and When: Query-Guided Grounding for Video Understanding](https://arxiv.org/abs/2610.21422v1)** | 2026-10-15 |  |
-| **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v2)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Vision-Guided Closed-Loop Autonomous Navigation of Light-Driven Janus Microbots](https://arxiv.org/abs/2610.21222v1)** | 2026-10-15 | 26 pages, 7 Figures |
-| **[Material and Defocus Cues for Occluded Object Localization in Single Hyperspectral Images: An Exploratory Study](https://arxiv.org/abs/2610.23733v1)** | 2026-10-15 |  |
-| **[The Re-Label Method For Data-Centric Machine Learning](https://arxiv.org/abs/2302.04391v11)** | 2026-10-15 |  |
-| **[ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality](https://arxiv.org/abs/2610.19998v1)** | 2026-10-14 |  |
-| **[Quantifying Annotation Agreement in Object Detection with Optimal Transport](https://arxiv.org/abs/2610.19912v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026</p></details> |
-| **[Out-of-Distribution Object Detection in Street Scenes via Synthetic Outlier Exposure and Transfer Learning](https://arxiv.org/abs/2603.16122v2)** | 2026-10-14 |  |
-| **[F2A-ObjectNav: An Adaptive Agentic Architecture for Object-Goal Navigation](https://arxiv.org/abs/2610.19618v1)** | 2026-10-14 |  |
-| **[MonoMIP: Multi-Height Inverse Perspective Mapping for Monocular 3D Object Detection](https://arxiv.org/abs/2610.19071v1)** | 2026-10-13 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026. 18 pages main paper and 14 pages supplementary material</p></details> |
-| **[Context-aware Bayesian Fusion for Multimodal Object Detection](https://arxiv.org/abs/2610.18741v1)** | 2026-10-13 |  |
-| **[CryoTracer: A Synthetic-to-Real System for Filament Instance Tracing in Cryo-EM](https://arxiv.org/abs/2610.18696v1)** | 2026-10-13 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

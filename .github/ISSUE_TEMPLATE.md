@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Camouflage Image Generation towards a Training-Free Paradigm](https://arxiv.org/abs/2609.14377v2)** | 2026-10-20 | 21 pages, 17 figures |
+| **[SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection](https://arxiv.org/abs/2610.27883v1)** | 2026-10-20 | 13 pages |
+| **[S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection](https://arxiv.org/abs/2610.27882v1)** | 2026-10-20 | 12 pages |
+| **[Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection](https://arxiv.org/abs/2610.27757v1)** | 2026-10-20 |  |
+| **[Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving](https://arxiv.org/abs/2610.27617v1)** | 2026-10-20 |  |
+| **[FocusOVD: Geometric and Contextual Feature Refinement for Open-Vocabulary Small-Object Detection](https://arxiv.org/abs/2610.27479v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted as a full paper at ChineseCSCW 2026</p></details> |
 | **[Long-form Video-to-Text Summarization using Recursive Language Models](https://arxiv.org/abs/2610.26431v1)** | 2026-10-19 | <details><summary>Paper...</summary><p>Paper currently under review</p></details> |
 | **[Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection](https://arxiv.org/abs/2610.26170v1)** | 2026-10-19 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables. Presented at IEEE ISAIA 2026</p></details> |
 | **[RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion](https://arxiv.org/abs/2610.26090v1)** | 2026-10-19 |  |
@@ -72,13 +78,7 @@ labels: documentation
 | **[AsyncBEV: Cross-modal Flow Alignment in Asynchronous 3D Object Detection](https://arxiv.org/abs/2601.12994v2)** | 2026-10-18 | <details><summary>Camer...</summary><p>Camera-ready version, ICLR 2026. 17 pages, 7 figures. Project page: https://tudelft-iv.github.io/AsyncBEV/</p></details> |
 | **[SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection](https://arxiv.org/abs/2610.24814v1)** | 2026-10-17 |  |
 | **[MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection](https://arxiv.org/abs/2605.14781v2)** | 2026-10-17 |  |
-| **[Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weather Conditions--Extended Version](https://arxiv.org/abs/2610.24532v1)** | 2026-10-17 | <details><summary>20 pa...</summary><p>20 pages. An extended version of "Contrastive Hypergraph Source-free Domain Adaptive Object Detection in Adverse Weather Conditions" accepted at NeurIPS 2026</p></details> |
-| **[MLLM-Guided Autonomous Object Detection for Open-World Understanding](https://arxiv.org/abs/2507.10844v2)** | 2026-10-17 |  |
-| **[SpikeQ: Spike-Guided Post-Training Quantization for Spiking Neural Networks](https://arxiv.org/abs/2610.23046v1)** | 2026-10-16 |  |
-| **[CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents](https://arxiv.org/abs/2610.24016v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
-| **[TriSAR-3D and PaintFusion: A Novel Trimodal LiDAR-RGB-Thermal Dataset and Method for 3D Person Detection in Search and Rescue](https://arxiv.org/abs/2610.22509v1)** | 2026-10-15 |  |
-| **[Auditing Metrics for Synthetic Data Utility: A Cross-Domain Study of Appearance and Geometry](https://arxiv.org/abs/2605.22467v2)** | 2026-10-15 |  |
-| **[Where, How, and When: Query-Guided Grounding for Video Understanding](https://arxiv.org/abs/2610.21422v1)** | 2026-10-15 |  |
+| **[Controllable Multi-Object Insertion for Detection Data Augmentation](https://arxiv.org/abs/2610.26922v1)** | 2026-10-17 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

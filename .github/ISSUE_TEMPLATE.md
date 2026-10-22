@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GhostFaceMPC: Privacy-Preserving Face Recognition with Multi-Party Computation](https://arxiv.org/abs/2610.29987v1)** | 2026-10-21 |  |
+| **[Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition](https://arxiv.org/abs/2610.29495v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at CVIP 2026</p></details> |
+| **[Strong Men Create Good Memes: Far-Right Memes as Means of Authoritarian Legitimation in Russia](https://arxiv.org/abs/2601.14190v2)** | 2026-10-20 |  |
+| **[Different Defects, Different Effects: A Controlled Audit of Face Recognition Training Data](https://arxiv.org/abs/2610.28766v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at WACV 2027</p></details> |
 | **[VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark](https://arxiv.org/abs/2610.24832v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
 | **[Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics](https://arxiv.org/abs/2610.24238v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV (Winter Conference on Applications for Computer Vision) 2027</p></details> |
 | **[A Deeper Dive into the Irreversibility of PolyProtect: Making Protected Face Templates Harder to Invert](https://arxiv.org/abs/2605.03857v2)** | 2026-10-16 | <details><summary>Re-su...</summary><p>Re-submitted to TIFS journal after major revisions, on 6 October 2026 (under review). Added Sections V.B - V.D</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Facial Recognition Leveraging Generative Adversarial Networks](https://arxiv.org/abs/2505.11884v3)** | 2026-10-11 |  |
 | **[Adaptive Adversarial Augmentation for Controllable Face Synthesis](https://arxiv.org/abs/2610.11356v1)** | 2026-10-08 |  |
 | **[Expression-Diverse References for Identity-Preserving Video Generation](https://arxiv.org/abs/2610.11023v1)** | 2026-10-08 | 9 pages, 8 figures |
-| **[FaceLinkGen: A Re-evaluation of Identity Leakage in Privacy-Preserving Face Recognition and Face Anonymization Systems Using Simple Distillation](https://arxiv.org/abs/2602.02914v4)** | 2026-09-29 |  |
-| **[Damnatio Memoriae: Adversarially and Selectively Forgetting Identities in the Embedding Space of Face Recognition Models](https://arxiv.org/abs/2609.27115v1)** | 2026-09-22 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 5 tables. This work might be submitted to the IEEE for possible publication</p></details> |
-| **[Lightweight, Practical Encrypted Face Recognition with GPU Support](https://arxiv.org/abs/2604.00546v4)** | 2026-09-22 |  |
-| **[Adversarial Attacks and Identity Leakage in De-Identification Systems: An Empirical Study](https://arxiv.org/abs/2609.27022v1)** | 2026-09-22 |  |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,25 +64,26 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Vocabulary Models and Label Propagation for Uncertainty-aware Pseudo-Labeling of Object Detection Datasets](https://arxiv.org/abs/2610.29788v1)** | 2026-10-21 |  |
+| **[UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception](https://arxiv.org/abs/2610.29768v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Webpage: https://lif314.github.io/projects/unirap</p></details> |
+| **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by WACV 2027</p></details> |
+| **[FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather](https://arxiv.org/abs/2610.29618v1)** | 2026-10-21 | <details><summary>Publi...</summary><p>Published in Proceedings of the 39th Canadian Conference on Artificial Intelligence (Canadian AI 2026), PMLR 318:13-24. Available at https://proceedings.mlr.press/v318/abedi26a.html</p></details> |
+| **[No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](https://arxiv.org/abs/2610.29607v1)** | 2026-10-21 |  |
+| **[Guess and Send: World-Model-Guided Semantic Packet Transmission for Robust Video Perception](https://arxiv.org/abs/2610.29587v1)** | 2026-10-21 |  |
+| **[RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer](https://arxiv.org/abs/2610.29159v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 10 tables</p></details> |
+| **[AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](https://arxiv.org/abs/2506.02914v4)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Code and benchmark: https://github.com/cc50121/AutoExpert-3D-benchmark</p></details> |
+| **[Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks](https://arxiv.org/abs/2606.14504v2)** | 2026-10-20 | <details><summary>18 pa...</summary><p>18 pages. Accepted at NDSS 2027</p></details> |
+| **[HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics](https://arxiv.org/abs/2610.28829v1)** | 2026-10-20 |  |
 | **[Rethinking Camouflage Image Generation towards a Training-Free Paradigm](https://arxiv.org/abs/2609.14377v2)** | 2026-10-20 | 21 pages, 17 figures |
 | **[SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection](https://arxiv.org/abs/2610.27883v1)** | 2026-10-20 | 13 pages |
 | **[S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection](https://arxiv.org/abs/2610.27882v1)** | 2026-10-20 | 12 pages |
 | **[Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection](https://arxiv.org/abs/2610.27757v1)** | 2026-10-20 |  |
 | **[Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving](https://arxiv.org/abs/2610.27617v1)** | 2026-10-20 |  |
-| **[FocusOVD: Geometric and Contextual Feature Refinement for Open-Vocabulary Small-Object Detection](https://arxiv.org/abs/2610.27479v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted as a full paper at ChineseCSCW 2026</p></details> |
-| **[Long-form Video-to-Text Summarization using Recursive Language Models](https://arxiv.org/abs/2610.26431v1)** | 2026-10-19 | <details><summary>Paper...</summary><p>Paper currently under review</p></details> |
-| **[Data-Efficient Learning from Demonstration for Humanoid Robots via Feature-Level Perception and Prompt-Based Object Detection](https://arxiv.org/abs/2610.26170v1)** | 2026-10-19 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2 tables. Presented at IEEE ISAIA 2026</p></details> |
-| **[RGB--Event Object Detection Across Operating Frequencies via Reliability-Supervised Routing and Asymmetric-Resolution Fusion](https://arxiv.org/abs/2610.26090v1)** | 2026-10-19 |  |
-| **[SF-Mamba: Rethinking State Space Model for Vision](https://arxiv.org/abs/2603.16423v2)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted to ICML2026. Code: https://github.com/sony/SF-Mamba</p></details> |
-| **[Residential Construction Image Dataset Using CSI Divisions for Deep Learning-based Object Detection](https://arxiv.org/abs/2610.25535v1)** | 2026-10-18 |  |
-| **[AsyncBEV: Cross-modal Flow Alignment in Asynchronous 3D Object Detection](https://arxiv.org/abs/2601.12994v2)** | 2026-10-18 | <details><summary>Camer...</summary><p>Camera-ready version, ICLR 2026. 17 pages, 7 figures. Project page: https://tudelft-iv.github.io/AsyncBEV/</p></details> |
-| **[SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection](https://arxiv.org/abs/2610.24814v1)** | 2026-10-17 |  |
-| **[MonoPRIO: Adaptive Prior Conditioning for Unified Monocular 3D Object Detection](https://arxiv.org/abs/2605.14781v2)** | 2026-10-17 |  |
-| **[Controllable Multi-Object Insertion for Detection Data Augmentation](https://arxiv.org/abs/2610.26922v1)** | 2026-10-17 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAM-DCE: Decoupled Context Enhancement for Prompt-Free Medical Image Segmentation](https://arxiv.org/abs/2509.16886v3)** | 2026-10-21 |  |
 | **[SAMS: A Structured Graph Framework for Securing Additive Manufacturing Systems](https://arxiv.org/abs/2610.22741v1)** | 2026-10-15 |  |
 | **[One Size Does Not Fit All: Curvature-Aware Adaptive Perturbation for SAM](https://arxiv.org/abs/2610.20415v1)** | 2026-10-14 |  |
 | **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](https://arxiv.org/abs/2507.11906v2)** | 2026-10-13 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking](https://arxiv.org/abs/2609.34396v1)** | 2026-09-28 |  |
 | **[AD-SAM: Adapting the Segment Anything Model for Semantic Segmentation in Autonomous Driving](https://arxiv.org/abs/2510.27047v2)** | 2026-09-27 | <details><summary>v2: S...</summary><p>v2: Substantially revised. Results regenerated under a common training protocol with retrained baselines; architecture updated (single-scale deformable fusion, three-stage progressive decoder). Title and author order updated. Submitted to Image and Vision Computing (Special Issue: Visual Perception Enabling Autonomous Navigation)</p></details> |
 | **[ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation](https://arxiv.org/abs/2609.31160v1)** | 2026-09-25 |  |
-| **[LiAM-SAM: Lifecycle-Aware Memory for Robust SAM2-Based MOT](https://arxiv.org/abs/2609.28078v1)** | 2026-09-23 |  |
 

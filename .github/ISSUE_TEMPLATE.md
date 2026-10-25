@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2026
+title: Latest 15 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,12 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v5)** | 2026-10-22 | 2026 ICME Spotlight |
+| **[WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329v1)** | 2026-10-22 |  |
+| **[AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](https://arxiv.org/abs/2506.02914v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Code and benchmark: https://github.com/cc50121/AutoExpert-3D-benchmark</p></details> |
+| **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026. The Objects365 pre-training results have also been updated. Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter</p></details> |
+| **[SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection](https://arxiv.org/abs/2610.27883v2)** | 2026-10-22 | 13 pages |
+| **[S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection](https://arxiv.org/abs/2610.27882v2)** | 2026-10-22 | 12 pages |
 | **[Open-Vocabulary Models and Label Propagation for Uncertainty-aware Pseudo-Labeling of Object Detection Datasets](https://arxiv.org/abs/2610.29788v1)** | 2026-10-21 |  |
 | **[UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception](https://arxiv.org/abs/2610.29768v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Webpage: https://lif314.github.io/projects/unirap</p></details> |
 | **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by WACV 2027</p></details> |
@@ -71,14 +77,8 @@ labels: documentation
 | **[No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](https://arxiv.org/abs/2610.29607v1)** | 2026-10-21 |  |
 | **[Guess and Send: World-Model-Guided Semantic Packet Transmission for Robust Video Perception](https://arxiv.org/abs/2610.29587v1)** | 2026-10-21 |  |
 | **[RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer](https://arxiv.org/abs/2610.29159v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 10 tables</p></details> |
-| **[AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](https://arxiv.org/abs/2506.02914v4)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Code and benchmark: https://github.com/cc50121/AutoExpert-3D-benchmark</p></details> |
 | **[Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks](https://arxiv.org/abs/2606.14504v2)** | 2026-10-20 | <details><summary>18 pa...</summary><p>18 pages. Accepted at NDSS 2027</p></details> |
 | **[HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics](https://arxiv.org/abs/2610.28829v1)** | 2026-10-20 |  |
-| **[Rethinking Camouflage Image Generation towards a Training-Free Paradigm](https://arxiv.org/abs/2609.14377v2)** | 2026-10-20 | 21 pages, 17 figures |
-| **[SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection](https://arxiv.org/abs/2610.27883v1)** | 2026-10-20 | 13 pages |
-| **[S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection](https://arxiv.org/abs/2610.27882v1)** | 2026-10-20 | 12 pages |
-| **[Revealing Inter-Channel Modality Discriminability: Channel Selective Interaction Fusion Network for Optical-SAR Object Detection](https://arxiv.org/abs/2610.27757v1)** | 2026-10-20 |  |
-| **[Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving](https://arxiv.org/abs/2610.27617v1)** | 2026-10-20 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2026
+title: Latest 15 Papers - October 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Augmentation Strategy for DINO in Glaucoma Classification](https://arxiv.org/abs/2610.32511v1)** | 2026-10-23 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the 17th International Workshop on Machine Learning in Medical Imaging (MLMI 2026), held in conjunction with MICCAI 2026</p></details> |
+| **[Complementing DINO Features with Image Structure for Part Discovery](https://arxiv.org/abs/2610.32293v1)** | 2026-10-23 |  |
 | **[DINO Eats Geometry: Self-Supervised Sign Representations that Absorb Articulated Hand Geometry](https://arxiv.org/abs/2609.06296v2)** | 2026-10-15 | 22 pages, 7 figures |
 | **[DINO-FIL: Multi-Layer Transformer Fusion for Generative Inpainting Forgery Localization](https://arxiv.org/abs/2610.21780v1)** | 2026-10-15 |  |
 | **[Tri-path DINO: Feature Complementary Learning for Remote Sensing Multi-Class Change Detection](https://arxiv.org/abs/2603.01498v3)** | 2026-10-11 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Frozen DINO Localizes Image Edits Without a Localizer](https://arxiv.org/abs/2608.18968v1)** | 2026-08-19 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables</p></details> |
 | **[DINO-A: Adapting Self-Distillation Vision Transformers to General Audio Representation Learning](https://arxiv.org/abs/2608.10659v1)** | 2026-08-11 |  |
 | **[AdaDINO: Pair-Aware In-Backbone Adaptation of Frozen DINO for Efficient Remote Sensing Change Detection](https://arxiv.org/abs/2608.07982v1)** | 2026-08-08 |  |
-| **[DINO-3DRA: Leveraging 2D Foundation Model Semantics for 3D Cerebral Aneurysm Segmentation](https://arxiv.org/abs/2608.07767v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
-| **[DINO-VPT: Hierarchical Visual Prompt Tuning for Joint Physical-Digital Face Anti-Spoofing](https://arxiv.org/abs/2607.20900v1)** | 2026-07-23 | accepted to IJCB2026 |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v3)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v5)** | 2026-10-22 | 2026 ICME Spotlight |
 | **[WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329v1)** | 2026-10-22 |  |
 | **[AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](https://arxiv.org/abs/2506.02914v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Code and benchmark: https://github.com/cc50121/AutoExpert-3D-benchmark</p></details> |
@@ -78,11 +79,11 @@ labels: documentation
 | **[Guess and Send: World-Model-Guided Semantic Packet Transmission for Robust Video Perception](https://arxiv.org/abs/2610.29587v1)** | 2026-10-21 |  |
 | **[RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer](https://arxiv.org/abs/2610.29159v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 10 tables</p></details> |
 | **[Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks](https://arxiv.org/abs/2606.14504v2)** | 2026-10-20 | <details><summary>18 pa...</summary><p>18 pages. Accepted at NDSS 2027</p></details> |
-| **[HorizonComposer: Spatiotemporally Consistent Driving Video Editing with Enriched Traffic Semantics](https://arxiv.org/abs/2610.28829v1)** | 2026-10-20 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation](https://arxiv.org/abs/2610.32377v1)** | 2026-10-23 | <details><summary>5 pag...</summary><p>5 pages, accepted to IEEE International Symposium on Biomedical Imaging (ISBI) 2024</p></details> |
 | **[SAM-DCE: Decoupled Context Enhancement for Prompt-Free Medical Image Segmentation](https://arxiv.org/abs/2509.16886v3)** | 2026-10-21 |  |
 | **[SAMS: A Structured Graph Framework for Securing Additive Manufacturing Systems](https://arxiv.org/abs/2610.22741v1)** | 2026-10-15 |  |
 | **[One Size Does Not Fit All: Curvature-Aware Adaptive Perturbation for SAM](https://arxiv.org/abs/2610.20415v1)** | 2026-10-14 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SGP-SAM: Self-Gated Prompting for Transferring 3D Segment Anything Models to Lesion Segmentation](https://arxiv.org/abs/2604.22825v2)** | 2026-09-28 |  |
 | **[HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking](https://arxiv.org/abs/2609.34396v1)** | 2026-09-28 |  |
 | **[AD-SAM: Adapting the Segment Anything Model for Semantic Segmentation in Autonomous Driving](https://arxiv.org/abs/2510.27047v2)** | 2026-09-27 | <details><summary>v2: S...</summary><p>v2: Substantially revised. Results regenerated under a common training protocol with retrained baselines; architecture updated (single-scale deformable fusion, three-stage progressive decoder). Title and author order updated. Submitted to Image and Vision Computing (Special Issue: Visual Perception Enabling Autonomous Navigation)</p></details> |
-| **[ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation](https://arxiv.org/abs/2609.31160v1)** | 2026-09-25 |  |
 

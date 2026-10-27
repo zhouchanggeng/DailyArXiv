@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2026
+title: Latest 15 Papers - October 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveil the Mask: Jointly-Optimized Diffusion Masked Pretraining for Appearance-Agnostic Operator Verification](https://arxiv.org/abs/2610.35414v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026 Workshop on Who Is Behind the Avatar? (WBA)</p></details> |
+| **[Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching](https://arxiv.org/abs/2608.16791v2)** | 2026-10-25 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Internet of Things Journal. Updated to the author-accepted manuscript; 15 pages, 6 figures, including appendix</p></details> |
 | **[GhostFaceMPC: Privacy-Preserving Face Recognition with Multi-Party Computation](https://arxiv.org/abs/2610.29987v1)** | 2026-10-21 |  |
 | **[Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition](https://arxiv.org/abs/2610.29495v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at CVIP 2026</p></details> |
 | **[Strong Men Create Good Memes: Far-Right Memes as Means of Authoritarian Legitimation in Russia](https://arxiv.org/abs/2601.14190v2)** | 2026-10-20 |  |
 | **[Different Defects, Different Effects: A Controlled Audit of Face Recognition Training Data](https://arxiv.org/abs/2610.28766v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at WACV 2027</p></details> |
+| **[GMoE-FTI: A Universal Facial Template Inversion Method Adopting Genuine Mixture-of-Experts Mechanism](https://arxiv.org/abs/2610.33055v1)** | 2026-10-19 |  |
 | **[VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark](https://arxiv.org/abs/2610.24832v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
 | **[Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics](https://arxiv.org/abs/2610.24238v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV (Winter Conference on Applications for Computer Vision) 2027</p></details> |
+| **[Detection of false positives by human reviewers depends on the face recognition algorithm and its security configuration](https://arxiv.org/abs/2610.33045v1)** | 2026-10-16 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
 | **[A Deeper Dive into the Irreversibility of PolyProtect: Making Protected Face Templates Harder to Invert](https://arxiv.org/abs/2605.03857v2)** | 2026-10-16 | <details><summary>Re-su...</summary><p>Re-submitted to TIFS journal after major revisions, on 6 October 2026 (under review). Added Sections V.B - V.D</p></details> |
 | **[A Valid Watermark Is Not a Valid Identity: Spatial-Spectral Adversarial Face Evasion with Watermark Preservation](https://arxiv.org/abs/2610.20278v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB 2026)</p></details> |
 | **[Learning Late, Guiding Early: Timestep-Decoupled Semantic Guidance for Fair Face Generation](https://arxiv.org/abs/2608.25862v3)** | 2026-10-14 |  |
 | **[InsHuman: Towards Natural and Identity-Preserving Human Insertion](https://arxiv.org/abs/2605.07402v4)** | 2026-10-13 |  |
 | **[SSM-Attack: Learning Where to Perturb for Black-Box Face Privacy](https://arxiv.org/abs/2610.17323v1)** | 2026-10-12 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, 6 tables. Preprint submitted to Pattern Recognition</p></details> |
-| **[A Multi-Task Deep Learning Framework for Pose-Invariant Face Recognition and Facial Landmark Localization](https://arxiv.org/abs/2610.16849v1)** | 2026-10-12 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 1 table</p></details> |
-| **[Facial Recognition Leveraging Generative Adversarial Networks](https://arxiv.org/abs/2505.11884v3)** | 2026-10-11 |  |
-| **[Adaptive Adversarial Augmentation for Controllable Face Synthesis](https://arxiv.org/abs/2610.11356v1)** | 2026-10-08 |  |
-| **[Expression-Diverse References for Identity-Preserving Video Generation](https://arxiv.org/abs/2610.11023v1)** | 2026-10-08 | 9 pages, 8 figures |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,27 +64,28 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GIFT: Representation Geometry Matters for Single-Domain Generalized Object Detection](https://arxiv.org/abs/2610.35374v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 22 pages, 11 figures</p></details> |
+| **[Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection](https://arxiv.org/abs/2610.35092v1)** | 2026-10-26 | <details><summary>24 pa...</summary><p>24 pages, 6 figures. Extended version of the VEHITS 2026 conference paper (doi:10.5220/0014967200004030). Submitted for journal publication. Code and recorded results: https://doi.org/10.5281/zenodo.23495356</p></details> |
+| **[Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection](https://arxiv.org/abs/2610.34976v1)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted to IROS 2026. 8 pages, 6 figures</p></details> |
+| **[Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies](https://arxiv.org/abs/2503.02891v4)** | 2026-10-26 | <details><summary>Accep...</summary><p>Accepted in Neurocomputing (Elsevier), Vol. 643, 130417, 2025. Paper list: https://github.com/shaibal13/Vision-transformers-on-the-edge-A-comprehensive-survey</p></details> |
+| **[FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection](https://arxiv.org/abs/2509.23056v3)** | 2026-10-26 |  |
+| **[CLARO: Clutter Aware Robot Orchestrator for Open-Vocabulary Grasping using VLM Agents](https://arxiv.org/abs/2610.24016v2)** | 2026-10-25 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
+| **[WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329v2)** | 2026-10-24 |  |
+| **[GeoLift: Grounding Video Spatial Reasoning in Explicit 3D Maps](https://arxiv.org/abs/2610.33558v1)** | 2026-10-24 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 4 tables. Xinglin Li and TingTing Long contributed equally. Jin Xie is the corresponding author</p></details> |
+| **[Dynamic Query as Budgeting for Tiny Object Detection](https://arxiv.org/abs/2610.33430v1)** | 2026-10-24 |  |
+| **[The Re-Label Method For Data-Centric Machine Learning](https://arxiv.org/abs/2302.04391v12)** | 2026-10-24 |  |
 | **[Order Matters: Competition-Guided Query Ordering for RNN-Based Object Detection](https://arxiv.org/abs/2610.05191v3)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection](https://arxiv.org/abs/2603.28584v5)** | 2026-10-22 | 2026 ICME Spotlight |
-| **[WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329v1)** | 2026-10-22 |  |
 | **[AutoExpert: Automating 3D LiDAR Annotation from Expert-Crafted Guidelines](https://arxiv.org/abs/2506.02914v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Code and benchmark: https://github.com/cc50121/AutoExpert-3D-benchmark</p></details> |
 | **[EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation](https://arxiv.org/abs/2603.18739v5)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026. The Objects365 pre-training results have also been updated. Code is available at: https://intellindust-ai-lab.github.io/projects/EdgeCrafter</p></details> |
 | **[SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection](https://arxiv.org/abs/2610.27883v2)** | 2026-10-22 | 13 pages |
-| **[S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection](https://arxiv.org/abs/2610.27882v2)** | 2026-10-22 | 12 pages |
-| **[Open-Vocabulary Models and Label Propagation for Uncertainty-aware Pseudo-Labeling of Object Detection Datasets](https://arxiv.org/abs/2610.29788v1)** | 2026-10-21 |  |
-| **[UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception](https://arxiv.org/abs/2610.29768v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026. Webpage: https://lif314.github.io/projects/unirap</p></details> |
-| **[Efficient Real-World Dehazing via Physics-Inspired Global-Local Decoupling](https://arxiv.org/abs/2606.25732v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted by WACV 2027</p></details> |
-| **[FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather](https://arxiv.org/abs/2610.29618v1)** | 2026-10-21 | <details><summary>Publi...</summary><p>Published in Proceedings of the 39th Canadian Conference on Artificial Intelligence (Canadian AI 2026), PMLR 318:13-24. Available at https://proceedings.mlr.press/v318/abedi26a.html</p></details> |
-| **[No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](https://arxiv.org/abs/2610.29607v1)** | 2026-10-21 |  |
-| **[Guess and Send: World-Model-Guided Semantic Packet Transmission for Robust Video Perception](https://arxiv.org/abs/2610.29587v1)** | 2026-10-21 |  |
-| **[RiO-DETRv2: Geometry-Aware Uncertainty Modeling Meets Real-Time Oriented Object Detection Transformer](https://arxiv.org/abs/2610.29159v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, 10 tables</p></details> |
-| **[Scratched Lenses, Shifted Depth: Passive Camera-Side Optical Attacks](https://arxiv.org/abs/2606.14504v2)** | 2026-10-20 | <details><summary>18 pa...</summary><p>18 pages. Accepted at NDSS 2027</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation](https://arxiv.org/abs/2610.32377v1)** | 2026-10-23 | <details><summary>5 pag...</summary><p>5 pages, accepted to IEEE International Symposium on Biomedical Imaging (ISBI) 2024</p></details> |
 | **[SAM-DCE: Decoupled Context Enhancement for Prompt-Free Medical Image Segmentation](https://arxiv.org/abs/2509.16886v3)** | 2026-10-21 |  |
+| **[DRA-SAM: Disagreement-Driven Referential Active SAM for Low-Altitude Drone Referring Segmentation](https://arxiv.org/abs/2610.33057v1)** | 2026-10-19 | 10 pages, 5 figures |
 | **[SAMS: A Structured Graph Framework for Securing Additive Manufacturing Systems](https://arxiv.org/abs/2610.22741v1)** | 2026-10-15 |  |
 | **[One Size Does Not Fit All: Curvature-Aware Adaptive Perturbation for SAM](https://arxiv.org/abs/2610.20415v1)** | 2026-10-14 |  |
 | **[CoCre-Sam (Kokkuri-san): Modeling Ouija Board as Collective Langevin Dynamics Sampling from Fused Language Models](https://arxiv.org/abs/2507.11906v2)** | 2026-10-13 |  |
@@ -97,5 +98,4 @@ labels: documentation
 | **[SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation](https://arxiv.org/abs/2609.37283v1)** | 2026-09-29 |  |
 | **[SGP-SAM: Self-Gated Prompting for Transferring 3D Segment Anything Models to Lesion Segmentation](https://arxiv.org/abs/2604.22825v2)** | 2026-09-28 |  |
 | **[HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking](https://arxiv.org/abs/2609.34396v1)** | 2026-09-28 |  |
-| **[AD-SAM: Adapting the Segment Anything Model for Semantic Segmentation in Autonomous Driving](https://arxiv.org/abs/2510.27047v2)** | 2026-09-27 | <details><summary>v2: S...</summary><p>v2: Substantially revised. Results regenerated under a common training protocol with retrained baselines; architecture updated (single-scale deformable fusion, three-stage progressive decoder). Title and author order updated. Submitted to Image and Vision Computing (Special Issue: Visual Perception Enabling Autonomous Navigation)</p></details> |
 

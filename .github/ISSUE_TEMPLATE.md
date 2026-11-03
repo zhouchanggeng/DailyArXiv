@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2026
+title: Latest 15 Papers - November 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v2)** | 2026-11-02 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 Supplementary (27 pages, 16 figures, 8 tables, 5 supplementary notes)</p></details> |
+| **[Learning Steadily: Accumulating Relative Point Margin Scores for Face Image Quality Assessment](https://arxiv.org/abs/2609.31662v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Biometrics, Behavior, and Identity Science</p></details> |
 | **[Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition](https://arxiv.org/abs/2610.41789v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027)</p></details> |
 | **[Developing a Dynamic Multi-factor Authentication System for Securing Smart Organizations](https://arxiv.org/abs/2610.36926v1)** | 2026-10-27 |  |
 | **[CVBL-CCTV-Face Dataset for Real-World Face Enhancement and Recognition in Surveillance](https://arxiv.org/abs/2610.36781v1)** | 2026-10-27 | <details><summary>6 pag...</summary><p>6 pages, conference submission</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark](https://arxiv.org/abs/2610.24832v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
 | **[Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics](https://arxiv.org/abs/2610.24238v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV (Winter Conference on Applications for Computer Vision) 2027</p></details> |
 | **[Detection of false positives by human reviewers depends on the face recognition algorithm and its security configuration](https://arxiv.org/abs/2610.33045v1)** | 2026-10-16 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
-| **[A Deeper Dive into the Irreversibility of PolyProtect: Making Protected Face Templates Harder to Invert](https://arxiv.org/abs/2605.03857v2)** | 2026-10-16 | <details><summary>Re-su...</summary><p>Re-submitted to TIFS journal after major revisions, on 6 October 2026 (under review). Added Sections V.B - V.D</p></details> |
-| **[A Valid Watermark Is Not a Valid Identity: Spatial-Spectral Adversarial Face Evasion with Watermark Preservation](https://arxiv.org/abs/2610.20278v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at IEEE International Joint Conference on Biometrics (IJCB 2026)</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Smart Surveillance: Deep Learning and Hybrid Approaches for Dynamic Scene Analysis, Object Detection and Motion Tracking](https://arxiv.org/abs/2412.05331v5)** | 2026-11-02 | 15 Pages, 7 Figures |
+| **[Bg-Mix: On Using Image Backgrounds for Data Augmentation in Electron Microscopy Images](https://arxiv.org/abs/2611.03455v1)** | 2026-11-02 |  |
+| **[CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection](https://arxiv.org/abs/2611.03229v1)** | 2026-11-02 |  |
+| **[BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots](https://arxiv.org/abs/2610.39937v3)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 34 pages including supplementary material and the NeurIPS checklist. Code: https://github.com/Purecoo00/BiHashFormer</p></details> |
+| **[ILLRAW: Illumination-Aware RAW Object Detection](https://arxiv.org/abs/2611.02995v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026</p></details> |
+| **[Attention Residual U-Net for Enhanced Cross-Dataset Polyp Localization in Endoscopy](https://arxiv.org/abs/2611.02726v1)** | 2026-11-02 |  |
+| **[Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots](https://arxiv.org/abs/2509.19610v4)** | 2026-11-02 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, Accepted to T-RO</p></details> |
+| **[TERA: Task-Evidence Restoration for Underwater Object Detection under Bandwidth-Constrained Transmission](https://arxiv.org/abs/2611.02419v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
+| **[MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models](https://arxiv.org/abs/2611.02405v1)** | 2026-11-02 |  |
+| **[Detection Instead of Inversion: T1-T2 Microstructure Quantification With Detection Transformers](https://arxiv.org/abs/2611.01790v1)** | 2026-11-01 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 1 table; For submission to IEEE ISBI 2027; Code: https://github.com/SebastianEndtTHI/t1t2-detr</p></details> |
+| **[Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality](https://arxiv.org/abs/2607.10575v2)** | 2026-11-01 |  |
+| **[Joint Trajectory, Sensing, and Computation Co-Design for UAV-Assisted Federated Edge Vision](https://arxiv.org/abs/2611.00790v1)** | 2026-10-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 2 tables, submitted to IEEE International Conference on Communications (ICC)</p></details> |
+| **[Smooth bounding box for object detection](https://arxiv.org/abs/2611.00676v1)** | 2026-10-31 |  |
 | **[IGDA-ICMH: an Importance Guided Feature and Network Dual Adaptation Framework towards Image Compression for Machine and Human Vision](https://arxiv.org/abs/2610.41924v1)** | 2026-10-30 | <details><summary>Publi...</summary><p>Published in IEEE TCSVT</p></details> |
 | **[ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios](https://arxiv.org/abs/2610.41834v1)** | 2026-10-30 |  |
-| **[Open-Vocabulary Models and Label Propagation for Uncertainty-aware Pseudo-Labeling of Object Detection Datasets](https://arxiv.org/abs/2610.29788v2)** | 2026-10-30 |  |
-| **[SAFARI: Semantic- And Frontier-driven Autonomous Risk Inspection](https://arxiv.org/abs/2610.41456v1)** | 2026-10-30 | <details><summary>First...</summary><p>First two listed authors have equal contribution. Submitted to IEEE Transactions on Field Robotics</p></details> |
-| **[BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots](https://arxiv.org/abs/2610.39937v2)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 34 pages including supplementary material and the NeurIPS checklist. Code: https://github.com/Purecoo00/BiHashFormer</p></details> |
-| **[MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection](https://arxiv.org/abs/2510.24688v2)** | 2026-10-30 |  |
-| **[Guess and Send: World-Model-Guided Semantic Packet Transmission for Robust Video Perception](https://arxiv.org/abs/2610.29587v2)** | 2026-10-29 |  |
-| **[LiDAR-SHIELD: A Fully Dockerized Adversarial Robustness Assessment Framework for LiDAR-Based 3D Perception Models](https://arxiv.org/abs/2610.39848v1)** | 2026-10-29 |  |
-| **[YOLOF-MLD: A Multi-Level Distillation Framework for Efficient Object Detection](https://arxiv.org/abs/2610.39408v1)** | 2026-10-29 | 4 pages |
-| **[Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning](https://arxiv.org/abs/2605.29894v2)** | 2026-10-29 | <details><summary>This ...</summary><p>This work has been accepted to NeurIPS 2026</p></details> |
-| **[Agentic LinkDreamer: Adaptive Neuro-Fuzzy World-Model Decision Making for Intermittent V2X Cooperative Perception](https://arxiv.org/abs/2610.39258v1)** | 2026-10-29 | <details><summary>This ...</summary><p>This work has been submitted to Elsevier for possible publication. 38 pages, 5 figures, 3 tables</p></details> |
-| **[TRIM: Temporal Run-Time Monitoring of 3D Object Detection via Activation Statistics](https://arxiv.org/abs/2610.38613v1)** | 2026-10-28 | <details><summary>6 pag...</summary><p>6 pages. Accepted for publication at the 2026 IEEE 23rd International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET)</p></details> |
-| **[Detection of trade in products derived from threatened species using machine learning and a smartphone application](https://arxiv.org/abs/2509.06585v4)** | 2026-10-28 |  |
-| **[TreemapMix: Dirichlet-Controlled Multi-Image Augmentation for Probability and Ordinal Supervision](https://arxiv.org/abs/2610.38265v1)** | 2026-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 40 pages including references, appendices, and checklist. Ejafa Bassam and Konstantin Garbers contributed equally</p></details> |
-| **[Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection](https://arxiv.org/abs/2509.05512v2)** | 2026-10-27 | <details><summary>IROS ...</summary><p>IROS 2025 Oral, 8 pages, 5 figures</p></details> |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

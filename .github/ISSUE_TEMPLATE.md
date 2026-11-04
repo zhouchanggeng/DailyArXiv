@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2026
+title: Latest 15 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## DINO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging CLIP with DINO: Cross-Modal Information Maximization for Online Test-Time Adaptation](https://arxiv.org/abs/2611.04489v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
 | **[Augmentation Strategy for DINO in Glaucoma Classification](https://arxiv.org/abs/2610.32511v1)** | 2026-10-23 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the 17th International Workshop on Machine Learning in Medical Imaging (MLMI 2026), held in conjunction with MICCAI 2026</p></details> |
 | **[Complementing DINO Features with Image Structure for Part Discovery](https://arxiv.org/abs/2610.32293v1)** | 2026-10-23 |  |
 | **[DINO Eats Geometry: Self-Supervised Sign Representations that Absorb Articulated Hand Geometry](https://arxiv.org/abs/2609.06296v2)** | 2026-10-15 | 22 pages, 7 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving](https://arxiv.org/abs/2602.06159v3)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
 | **[Frozen DINO Localizes Image Edits Without a Localizer](https://arxiv.org/abs/2608.18968v1)** | 2026-08-19 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 2 tables</p></details> |
 | **[DINO-A: Adapting Self-Distillation Vision Transformers to General Audio Representation Learning](https://arxiv.org/abs/2608.10659v1)** | 2026-08-11 |  |
-| **[AdaDINO: Pair-Aware In-Backbone Adaptation of Frozen DINO for Efficient Remote Sensing Change Detection](https://arxiv.org/abs/2608.07982v1)** | 2026-08-08 |  |
 
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,11 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain](https://arxiv.org/abs/2604.22507v2)** | 2026-11-03 | <details><summary>17 pa...</summary><p>17 pages (8 main + references + 7 supplementary), 11 figures, 11 tables. Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
+| **[No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](https://arxiv.org/abs/2610.29607v2)** | 2026-11-03 |  |
+| **[Gradient-Guided Orientation Learning for Weakly Supervised Oriented Object Detection](https://arxiv.org/abs/2611.04616v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to WACV 2027. 10 pages, 4 figures, 7 tables</p></details> |
+| **[CLOCs-R: Radar-Assisted Camera-LiDAR Fusion for Long-Range Object Detection](https://arxiv.org/abs/2611.04300v1)** | 2026-11-03 |  |
+| **[LiSA: Linear Stochastic Attention for Long-Range Visual Modeling](https://arxiv.org/abs/2611.04216v1)** | 2026-11-03 |  |
 | **[Smart Surveillance: Deep Learning and Hybrid Approaches for Dynamic Scene Analysis, Object Detection and Motion Tracking](https://arxiv.org/abs/2412.05331v5)** | 2026-11-02 | 15 Pages, 7 Figures |
 | **[Bg-Mix: On Using Image Backgrounds for Data Augmentation in Electron Microscopy Images](https://arxiv.org/abs/2611.03455v1)** | 2026-11-02 |  |
 | **[CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection](https://arxiv.org/abs/2611.03229v1)** | 2026-11-02 |  |
@@ -73,12 +78,7 @@ labels: documentation
 | **[Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots](https://arxiv.org/abs/2509.19610v4)** | 2026-11-02 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, Accepted to T-RO</p></details> |
 | **[TERA: Task-Evidence Restoration for Underwater Object Detection under Bandwidth-Constrained Transmission](https://arxiv.org/abs/2611.02419v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
 | **[MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models](https://arxiv.org/abs/2611.02405v1)** | 2026-11-02 |  |
-| **[Detection Instead of Inversion: T1-T2 Microstructure Quantification With Detection Transformers](https://arxiv.org/abs/2611.01790v1)** | 2026-11-01 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 1 table; For submission to IEEE ISBI 2027; Code: https://github.com/SebastianEndtTHI/t1t2-detr</p></details> |
-| **[Why Domain Matters: Domain-Aware Benchmarking of Underwater Object Detection and Annotation Quality](https://arxiv.org/abs/2607.10575v2)** | 2026-11-01 |  |
-| **[Joint Trajectory, Sensing, and Computation Co-Design for UAV-Assisted Federated Edge Vision](https://arxiv.org/abs/2611.00790v1)** | 2026-10-31 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 2 tables, submitted to IEEE International Conference on Communications (ICC)</p></details> |
-| **[Smooth bounding box for object detection](https://arxiv.org/abs/2611.00676v1)** | 2026-10-31 |  |
-| **[IGDA-ICMH: an Importance Guided Feature and Network Dual Adaptation Framework towards Image Compression for Machine and Human Vision](https://arxiv.org/abs/2610.41924v1)** | 2026-10-30 | <details><summary>Publi...</summary><p>Published in IEEE TCSVT</p></details> |
-| **[ObjectGuidedMap: An Object-Aware Model for Robust Bird's Eye View Map Prediction in High-Occlusion Scenarios](https://arxiv.org/abs/2610.41834v1)** | 2026-10-30 |  |
+| **[Beyond Proposals: Region-Consistent Open-Set Object Detection](https://arxiv.org/abs/2611.03741v1)** | 2026-11-02 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |

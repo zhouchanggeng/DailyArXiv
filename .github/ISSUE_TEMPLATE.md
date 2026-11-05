@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2026
+title: Latest 15 Papers - November 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Face Recognition
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AEGIS: Preserving Privacy of 3D Facial Avatars with Adversarial Perturbations](https://arxiv.org/abs/2511.17747v2)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to WACV 2027. Source code at: https://github.com/Woleek/AEGIS</p></details> |
+| **[A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks](https://arxiv.org/abs/2611.06412v1)** | 2026-11-04 |  |
 | **[Non-frontal face recognition using GANs and memristor-based classifiers](https://arxiv.org/abs/2606.12074v2)** | 2026-11-02 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 1 Supplementary (27 pages, 16 figures, 8 tables, 5 supplementary notes)</p></details> |
 | **[Learning Steadily: Accumulating Relative Point Margin Scores for Face Image Quality Assessment](https://arxiv.org/abs/2609.31662v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Biometrics, Behavior, and Identity Science</p></details> |
 | **[Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition](https://arxiv.org/abs/2610.41789v1)** | 2026-10-30 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027)</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Different Defects, Different Effects: A Controlled Audit of Face Recognition Training Data](https://arxiv.org/abs/2610.28766v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at WACV 2027</p></details> |
 | **[GMoE-FTI: A Universal Facial Template Inversion Method Adopting Genuine Mixture-of-Experts Mechanism](https://arxiv.org/abs/2610.33055v1)** | 2026-10-19 |  |
 | **[VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark](https://arxiv.org/abs/2610.24832v1)** | 2026-10-17 | <details><summary>Accep...</summary><p>Accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
-| **[Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics](https://arxiv.org/abs/2610.24238v1)** | 2026-10-16 | <details><summary>Accep...</summary><p>Accepted to WACV (Winter Conference on Applications for Computer Vision) 2027</p></details> |
-| **[Detection of false positives by human reviewers depends on the face recognition algorithm and its security configuration](https://arxiv.org/abs/2610.33045v1)** | 2026-10-16 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, 4 tables</p></details> |
 
 ## Face Alignment
 | **Title** | **Date** | **Comment** |
@@ -64,21 +64,21 @@ labels: documentation
 ## Object Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty-Driven Efficient Communication for UAV-Based Collaborative Perception](https://arxiv.org/abs/2611.06635v1)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted to IEEE SMC 2026</p></details> |
+| **[ZeBROD: Zero-Retraining Based Recognition and Object Detection Framework](https://arxiv.org/abs/2512.04888v5)** | 2026-11-04 |  |
+| **[Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers](https://arxiv.org/abs/2107.12636v5)** | 2026-11-04 | <details><summary>Fix a...</summary><p>Fix a typo (TDA -> TFA)</p></details> |
+| **[CoDecide: Content-Adaptive Video Decoding for High-Throughput Video Analytics](https://arxiv.org/abs/2611.06455v1)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at WACV 2027. 12 pages including supplementary material</p></details> |
+| **[MonoLaDN: Language-Guided DeNoising for Monocular 3D Object Detection](https://arxiv.org/abs/2611.06282v1)** | 2026-11-04 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
+| **[Annotator-Free Object Detection via Foundation Model Collaboration](https://arxiv.org/abs/2611.06195v1)** | 2026-11-04 |  |
+| **[Bg-Mix: On Using Image Backgrounds for Data Augmentation in Electron Microscopy Images](https://arxiv.org/abs/2611.03455v2)** | 2026-11-04 |  |
+| **[Two-Stage Teacher-Student Reliable Prior Learning for Robust Underwater Image Enhancement](https://arxiv.org/abs/2608.00137v3)** | 2026-11-04 | 19 pages, 10 figures |
+| **[Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion](https://arxiv.org/abs/2611.05818v1)** | 2026-11-04 | 42 pages, 16 figures |
 | **[Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain](https://arxiv.org/abs/2604.22507v2)** | 2026-11-03 | <details><summary>17 pa...</summary><p>17 pages (8 main + references + 7 supplementary), 11 figures, 11 tables. Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
 | **[No Frames, Just Frequencies: Bandwidth-Efficient Deployment-Time Adaptation for Smart Glasses](https://arxiv.org/abs/2610.29607v2)** | 2026-11-03 |  |
 | **[Gradient-Guided Orientation Learning for Weakly Supervised Oriented Object Detection](https://arxiv.org/abs/2611.04616v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to WACV 2027. 10 pages, 4 figures, 7 tables</p></details> |
 | **[CLOCs-R: Radar-Assisted Camera-LiDAR Fusion for Long-Range Object Detection](https://arxiv.org/abs/2611.04300v1)** | 2026-11-03 |  |
 | **[LiSA: Linear Stochastic Attention for Long-Range Visual Modeling](https://arxiv.org/abs/2611.04216v1)** | 2026-11-03 |  |
 | **[Smart Surveillance: Deep Learning and Hybrid Approaches for Dynamic Scene Analysis, Object Detection and Motion Tracking](https://arxiv.org/abs/2412.05331v5)** | 2026-11-02 | 15 Pages, 7 Figures |
-| **[Bg-Mix: On Using Image Backgrounds for Data Augmentation in Electron Microscopy Images](https://arxiv.org/abs/2611.03455v1)** | 2026-11-02 |  |
-| **[CL3DOD: Understanding the Stability-Plasticity Dilemma in Outdoor Class-Incremental 3D Object Detection](https://arxiv.org/abs/2611.03229v1)** | 2026-11-02 |  |
-| **[BiHashFormer: Hash-Driven Dual-Branch Transformer for Efficient Object Detection in HRW Shots](https://arxiv.org/abs/2610.39937v3)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 34 pages including supplementary material and the NeurIPS checklist. Code: https://github.com/Purecoo00/BiHashFormer</p></details> |
-| **[ILLRAW: Illumination-Aware RAW Object Detection](https://arxiv.org/abs/2611.02995v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to ACCV 2026</p></details> |
-| **[Attention Residual U-Net for Enhanced Cross-Dataset Polyp Localization in Endoscopy](https://arxiv.org/abs/2611.02726v1)** | 2026-11-02 |  |
-| **[Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots](https://arxiv.org/abs/2509.19610v4)** | 2026-11-02 | <details><summary>20 pa...</summary><p>20 pages, 14 figures, Accepted to T-RO</p></details> |
-| **[TERA: Task-Evidence Restoration for Underwater Object Detection under Bandwidth-Constrained Transmission](https://arxiv.org/abs/2611.02419v1)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
-| **[MirrorComm: A Communication-Efficient Cooperative Perception Framework via Mirrored World Models](https://arxiv.org/abs/2611.02405v1)** | 2026-11-02 |  |
-| **[Beyond Proposals: Region-Consistent Open-Set Object Detection](https://arxiv.org/abs/2611.03741v1)** | 2026-11-02 |  |
 
 ## SAM
 | **Title** | **Date** | **Comment** |
